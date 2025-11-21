@@ -2280,7 +2280,7 @@
     "fee_index": 0
   },
   {
-    "Title": "North York - Learn to Play Pickleball",
+    "Title": "North York - Learn to Play Pickleball Level 1",
     "TotalPrice": "78.78",
     "Prorate": true,
     "StaticPriceText": null,
@@ -2304,7 +2304,7 @@
     "fee_index": 0
   },
   {
-    "Title": "North York - Learn to Play Pickleball",
+    "Title": "North York - Learn to Play Pickleball Level 2",
     "TotalPrice": "65.65",
     "Prorate": true,
     "StaticPriceText": null,
@@ -2328,7 +2328,7 @@
     "fee_index": 1
   },
   {
-    "Title": "North York - Learn to Play Pickleball",
+    "Title": "North York - Learn to Play Pickleball Level 1",
     "TotalPrice": "105.04",
     "Prorate": true,
     "StaticPriceText": null,
@@ -2352,7 +2352,7 @@
     "fee_index": 3
   },
   {
-    "Title": "North York - LEVEL 1: Beginners Pickleball League",
+    "Title": "North York - Beginners Pickleball League",
     "TotalPrice": "105.04",
     "Prorate": true,
     "StaticPriceText": null,
@@ -2376,7 +2376,7 @@
     "fee_index": 4
   },
   {
-    "Title": "North York - LEVEL 1: Beginners Pickleball League",
+    "Title": "North York - Beginners Pickleball League",
     "TotalPrice": "78.78",
     "Prorate": true,
     "StaticPriceText": null,
@@ -2400,7 +2400,7 @@
     "fee_index": null
   },
   {
-    "Title": "North York - LEVEL 2: Experienced Beginners Pickleball League",
+    "Title": "North York - Experienced Beginners Pickleball League",
     "TotalPrice": "78.78",
     "Prorate": true,
     "StaticPriceText": null,
