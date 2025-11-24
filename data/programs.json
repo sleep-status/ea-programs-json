@@ -5686,5 +5686,29 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null
+  },
+  {
+    "Title": "Georgina - Youth Basketball Training (8 - 10 yrs)",
+    "TotalPrice": 92,
+    "Prorate": false,
+    "StaticPriceText": "92.00",
+    "Day": "Thursdays",
+    "Time": "5:00 - 6:00 PM",
+    "Start Date": "2025-10-30T04:00:00.000Z",
+    "End Date": "2025-12-18T05:00:00.000Z",
+    "Exceptions": "2025-10-30T04:00:00.000Z",
+    "SessionDates": "2025-11-06,2025-11-13,2025-11-20,2025-11-27,2025-12-04,2025-12-11,2025-12-18",
+    "LocationName": "MURC",
+    "LocationLink": "https://maps.app.goo.gl/361sSdo3sB4SuwgH6",
+    "RegisterLink": "https://anc.ca.apm.activecommunities.com/georgina/activity/search/detail/70661?onlineSiteId=0&from_original_cui=true",
+    "URL": "https://elevationathletics.ca/keswick/",
+    "pageIdentifyer": "keswick",
+    "Category": "TS",
+    "sport": "bask",
+    "FormID": null,
+    "fee_url": null,
+    "updated_price": null,
+    "taxes": null,
+    "fee_index": null
   }
 ]
