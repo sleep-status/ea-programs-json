@@ -6001,9 +6001,9 @@
   },
   {
     "Title": "Georgina - Youth Basketball League (8 - 10 yrs)",
-    "TotalPrice": 0,
+    "TotalPrice": "75.00",
     "Prorate": false,
-    "StaticPriceText": "0",
+    "StaticPriceText": "75.00",
     "Day": "Thursdays",
     "Time": "5:00 - 6:00 PM",
     "Start Date": "2026-01-15T05:00:00.000Z",
