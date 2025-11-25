@@ -121,7 +121,7 @@
     "updated_price": "44.51",
     "taxes": null,
     "fee_index": 0,
-    "DL": null,
+    "DL": "Jeramy",
     "COACHES": null
   },
   {
@@ -146,7 +146,7 @@
     "updated_price": "103.86",
     "taxes": null,
     "fee_index": 0,
-    "DL": null,
+    "DL": "Jeramy",
     "COACHES": null
   },
   {
@@ -171,7 +171,7 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
-    "DL": null,
+    "DL": "Jeramy",
     "COACHES": null
   },
   {
@@ -196,7 +196,7 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
-    "DL": null,
+    "DL": "Jimmy",
     "COACHES": null
   },
   {
@@ -221,7 +221,7 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
-    "DL": null,
+    "DL": "Jimmy",
     "COACHES": null
   },
   {
@@ -246,7 +246,7 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
-    "DL": null,
+    "DL": "Jimmy",
     "COACHES": null
   },
   {
@@ -271,7 +271,7 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
-    "DL": null,
+    "DL": "Jimmy",
     "COACHES": null
   },
   {
@@ -296,7 +296,7 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
-    "DL": null,
+    "DL": "Jimmy",
     "COACHES": null
   },
   {
@@ -321,7 +321,7 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
-    "DL": null,
+    "DL": "Jimmy",
     "COACHES": null
   },
   {
@@ -346,7 +346,7 @@
     "updated_price": "89.02",
     "taxes": null,
     "fee_index": 0,
-    "DL": null,
+    "DL": "Jimmy",
     "COACHES": null
   },
   {
@@ -4671,7 +4671,7 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
-    "DL": null,
+    "DL": "Jeramy",
     "COACHES": null
   },
   {
@@ -6563,8 +6563,8 @@
     "LocationName": "Alexis Park Elementary School",
     "LocationLink": "https://maps.app.goo.gl/M3qXmjCcc5Zvgp2z5",
     "RegisterLink": "https://registration.teamsnap.com/form/42892",
-    "URL": "https://bc.eapickleball.com/vernon-pickleball/",
-    "pageIdentifyer": "vernon-pickleball",
+    "URL": "https://bc.eapickleball.com/vernon/",
+    "pageIdentifyer": "vernon",
     "Category": "EA",
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/42892/6",
@@ -6588,8 +6588,8 @@
     "LocationName": "Alexis Park Elementary School",
     "LocationLink": "https://maps.app.goo.gl/M3qXmjCcc5Zvgp2z5",
     "RegisterLink": "https://registration.teamsnap.com/form/42890",
-    "URL": "https://bc.eapickleball.com/vernon-pickleball/",
-    "pageIdentifyer": "vernon-pickleball",
+    "URL": "https://bc.eapickleball.com/vernon/",
+    "pageIdentifyer": "vernon",
     "Category": "EA",
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/42890/6",
@@ -6613,8 +6613,8 @@
     "LocationName": "Mission Hill Elementary School",
     "LocationLink": "https://maps.app.goo.gl/bAxKxCweSEBHqjQeA",
     "RegisterLink": "https://registration.teamsnap.com/form/42075",
-    "URL": "https://bc.eapickleball.com/vernon-pickleball/",
-    "pageIdentifyer": "vernon-pickleball",
+    "URL": "https://bc.eapickleball.com/vernon/",
+    "pageIdentifyer": "vernon",
     "Category": "EA",
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/42075/6",
@@ -6638,8 +6638,8 @@
     "LocationName": "Quadra Village Community Centre",
     "LocationLink": "https://maps.app.goo.gl/ySAveG4v42EwUnyL8",
     "RegisterLink": "https://registration.teamsnap.com/form/42939",
-    "URL": "https://bc.eapickleball.com/victoria-pickleball/",
-    "pageIdentifyer": "victoria-pickleball",
+    "URL": "https://bc.eapickleball.com/victoria/",
+    "pageIdentifyer": "victoria",
     "Category": "EA",
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/42939/6",
@@ -6663,8 +6663,8 @@
     "LocationName": "James Bay Community Centre",
     "LocationLink": "https://maps.app.goo.gl/wgc6zHjt1C8zRUhs8",
     "RegisterLink": "https://registration.teamsnap.com/form/42078",
-    "URL": "https://bc.eapickleball.com/victoria-pickleball/",
-    "pageIdentifyer": "victoria-pickleball",
+    "URL": "https://bc.eapickleball.com/victoria/",
+    "pageIdentifyer": "victoria",
     "Category": "EA",
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/42078/6",
