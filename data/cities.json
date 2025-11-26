@@ -1,1 +1,1097 @@
-
+[
+  {
+    "City": "Airdrie",
+    "Province": "AB",
+    "PageURL": "https://eapickleball.com/ab-airdrie/"
+  },
+  {
+    "City": "Calgary",
+    "Province": "AB",
+    "PageURL": "https://eapickleball.com/ab-calgary/"
+  },
+  {
+    "City": "Chestermere",
+    "Province": "AB",
+    "PageURL": "https://eapickleball.com/ab-chestermere/"
+  },
+  {
+    "City": "Cochrane",
+    "Province": "AB",
+    "PageURL": "https://eapickleball.com/ab-cochrane/"
+  },
+  {
+    "City": "Edmonton",
+    "Province": "AB",
+    "PageURL": "https://eapickleball.com/ab-edmonton/"
+  },
+  {
+    "City": "Grande Prairie",
+    "Province": "AB",
+    "PageURL": "https://eapickleball.com/ab-grande-prairie/"
+  },
+  {
+    "City": "Leduc",
+    "Province": "AB",
+    "PageURL": "https://eapickleball.com/ab-leduc/"
+  },
+  {
+    "City": "Lethbridge",
+    "Province": "AB",
+    "PageURL": "https://eapickleball.com/ab-lethbridge/"
+  },
+  {
+    "City": "Medicine Hat",
+    "Province": "AB",
+    "PageURL": "https://eapickleball.com/ab-medicine-hat/"
+  },
+  {
+    "City": "Okotoks",
+    "Province": "AB",
+    "PageURL": "https://eapickleball.com/ab-okotoks/"
+  },
+  {
+    "City": "Red Deer",
+    "Province": "AB",
+    "PageURL": "https://eapickleball.com/ab-red-deer/"
+  },
+  {
+    "City": "Spruce Grove",
+    "Province": "AB",
+    "PageURL": "https://eapickleball.com/ab-spruce-grove/"
+  },
+  {
+    "City": "St. Albert",
+    "Province": "AB",
+    "PageURL": "https://eapickleball.com/ab-st-albert/"
+  },
+  {
+    "City": "Strathcona County",
+    "Province": "AB",
+    "PageURL": "https://eapickleball.com/ab-strathcona-county/"
+  },
+  {
+    "City": "Wood Buffalo",
+    "Province": "AB",
+    "PageURL": "https://eapickleball.com/ab-wood-buffalo/"
+  },
+  {
+    "City": "Abbotsford",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/abbotsford/"
+  },
+  {
+    "City": "Chilliwack",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/chilliwack/"
+  },
+  {
+    "City": "Coquitlam",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/coquitlam/"
+  },
+  {
+    "City": "Kamloops",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/kamloops/"
+  },
+  {
+    "City": "Kelowna",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/kelowna/"
+  },
+  {
+    "City": "Kitimat",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/kitimat/"
+  },
+  {
+    "City": "Nanaimo",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/nanaimo/"
+  },
+  {
+    "City": "North Vancouver",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/north-vancouver/"
+  },
+  {
+    "City": "Prince George",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/prince-george/"
+  },
+  {
+    "City": "Squamish",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/squamish/"
+  },
+  {
+    "City": "Surrey",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/surrey/"
+  },
+  {
+    "City": "Terrace",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/terrace/"
+  },
+  {
+    "City": "Victoria",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/victoria/"
+  },
+  {
+    "City": "Vernon",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/vernon/"
+  },
+  {
+    "City": "Brandon",
+    "Province": "MB",
+    "PageURL": "https://eapickleball.com/brandon/"
+  },
+  {
+    "City": "Gimli",
+    "Province": "MB",
+    "PageURL": "https://eapickleball.com/gimli/"
+  },
+  {
+    "City": "Niverville",
+    "Province": "MB",
+    "PageURL": "https://eapickleball.com/niverville/"
+  },
+  {
+    "City": "Portage la Prairie",
+    "Province": "MB",
+    "PageURL": "https://eapickleball.com/portage-la-prairie/"
+  },
+  {
+    "City": "Selkirk",
+    "Province": "MB",
+    "PageURL": "https://eapickleball.com/selkirk/"
+  },
+  {
+    "City": "Springfield",
+    "Province": "MB",
+    "PageURL": "https://eapickleball.com/springfield/"
+  },
+  {
+    "City": "St. Andrews",
+    "Province": "MB",
+    "PageURL": "https://eapickleball.com/st-andrews/"
+  },
+  {
+    "City": "St.Clements",
+    "Province": "MB",
+    "PageURL": "https://eapickleball.com/st-clements/"
+  },
+  {
+    "City": "Steinbach",
+    "Province": "MB",
+    "PageURL": "https://eapickleball.com/steinbach/"
+  },
+  {
+    "City": "Swan River",
+    "Province": "MB",
+    "PageURL": "https://eapickleball.com/swan-river/"
+  },
+  {
+    "City": "Tache",
+    "Province": "MB",
+    "PageURL": "https://eapickleball.com/tache/"
+  },
+  {
+    "City": "Thompson",
+    "Province": "MB",
+    "PageURL": "https://eapickleball.com/thompson/"
+  },
+  {
+    "City": "Winkler",
+    "Province": "MB",
+    "PageURL": "https://eapickleball.com/winkler/"
+  },
+  {
+    "City": "Winnipeg",
+    "Province": "MB",
+    "PageURL": "https://eapickleball.com/winnipeg/"
+  },
+  {
+    "City": "Estevan",
+    "Province": "SK",
+    "PageURL": "https://eapickleball.com/sk-estevan"
+  },
+  {
+    "City": "Humboldt",
+    "Province": "SK",
+    "PageURL": "https://eapickleball.com/sk-humboldt"
+  },
+  {
+    "City": "La Ronge",
+    "Province": "SK",
+    "PageURL": "https://eapickleball.com/sk-la-ronge"
+  },
+  {
+    "City": "Lloydminster",
+    "Province": "SK",
+    "PageURL": "https://eapickleball.com/sk-lloydminster"
+  },
+  {
+    "City": "Medicine Hat",
+    "Province": "SK",
+    "PageURL": "https://eapickleball.com/sk-medicine-hat"
+  },
+  {
+    "City": "Melford",
+    "Province": "SK",
+    "PageURL": "https://eapickleball.com/sk-melford"
+  },
+  {
+    "City": "Moose Jaw",
+    "Province": "SK",
+    "PageURL": "https://eapickleball.com/sk-moose-jaw"
+  },
+  {
+    "City": "North Battleford",
+    "Province": "SK",
+    "PageURL": "https://eapickleball.com/sk-north-battleford"
+  },
+  {
+    "City": "Prince Albert",
+    "Province": "SK",
+    "PageURL": "https://eapickleball.com/sk-prince-albert"
+  },
+  {
+    "City": "Regina",
+    "Province": "SK",
+    "PageURL": "https://eapickleball.com/sk-regina"
+  },
+  {
+    "City": "Saskatoon",
+    "Province": "SK",
+    "PageURL": "https://eapickleball.com/sk-saskatoon"
+  },
+  {
+    "City": "Swift Current",
+    "Province": "SK",
+    "PageURL": "https://eapickleball.com/sk-swift-current"
+  },
+  {
+    "City": "Warman/Martensville",
+    "Province": "SK",
+    "PageURL": "https://eapickleball.com/sk-martensville-warman/"
+  },
+  {
+    "City": "Weyburn",
+    "Province": "SK",
+    "PageURL": "https://eapickleball.com/sk-weyburn"
+  },
+  {
+    "City": "Yorkton",
+    "Province": "SK",
+    "PageURL": "https://eapickleball.com/sk-yorkton"
+  },
+  {
+    "City": "Bathurst",
+    "Province": "NB",
+    "PageURL": "https://eapickleball.com/bathurst/"
+  },
+  {
+    "City": "Dieppe",
+    "Province": "NB",
+    "PageURL": "https://eapickleball.com/dieppe/"
+  },
+  {
+    "City": "Edmundston",
+    "Province": "NB",
+    "PageURL": "https://eapickleball.com/edmundston/"
+  },
+  {
+    "City": "Fredericton",
+    "Province": "NB",
+    "PageURL": "https://eapickleball.com/fredericton/"
+  },
+  {
+    "City": "Miramichi",
+    "Province": "NB",
+    "PageURL": "https://eapickleball.com/miramichi/"
+  },
+  {
+    "City": "Moncton",
+    "Province": "NB",
+    "PageURL": "https://eapickleball.com/moncton/"
+  },
+  {
+    "City": "Quispamsis",
+    "Province": "NB",
+    "PageURL": "https://eapickleball.com/quispamsis/"
+  },
+  {
+    "City": "Riverview",
+    "Province": "NB",
+    "PageURL": "https://eapickleball.com/riverview/"
+  },
+  {
+    "City": "Saint John",
+    "Province": "NB",
+    "PageURL": "https://eapickleball.com/saint-john/"
+  },
+  {
+    "City": "Tracadie",
+    "Province": "NB",
+    "PageURL": "https://eapickleball.com/tracadie/"
+  },
+  {
+    "City": "Conception Bay South",
+    "Province": "NF",
+    "PageURL": "https://eapickleball.com/nl-conception-bay-south/"
+  },
+  {
+    "City": "Corner Brook",
+    "Province": "NF",
+    "PageURL": "https://eapickleball.com/nl-corner-brook/"
+  },
+  {
+    "City": "Gander",
+    "Province": "NF",
+    "PageURL": "https://eapickleball.com/nl-gander/"
+  },
+  {
+    "City": "Grand Falls-Windsor",
+    "Province": "NF",
+    "PageURL": "https://eapickleball.com/nl-grand-falls-windsor/"
+  },
+  {
+    "City": "Happy Valley-Goose Bay",
+    "Province": "NF",
+    "PageURL": "https://eapickleball.com/nl-happy-valley-goose-bay/"
+  },
+  {
+    "City": "Mount Pearl",
+    "Province": "NF",
+    "PageURL": "https://eapickleball.com/nl-mount-pearl/"
+  },
+  {
+    "City": "Paradise",
+    "Province": "NF",
+    "PageURL": "https://eapickleball.com/nl-paradise/"
+  },
+  {
+    "City": "Portugal Cove-St. Philip?s",
+    "Province": "NF",
+    "PageURL": "https://eapickleball.com/nl-portugal-cove-st-philips/"
+  },
+  {
+    "City": "St. John?s",
+    "Province": "NF",
+    "PageURL": "https://eapickleball.com/nl-st-johns/"
+  },
+  {
+    "City": "Torbay",
+    "Province": "NF",
+    "PageURL": "https://eapickleball.com/nl-torbay/"
+  },
+  {
+    "City": "Bedford",
+    "Province": "NS",
+    "PageURL": "https://eapickleball.com/bedford/"
+  },
+  {
+    "City": "Bridgewater/Lunenburg",
+    "Province": "NS",
+    "PageURL": "https://eapickleball.com/bridgewater/"
+  },
+  {
+    "City": "Brookside",
+    "Province": "NS",
+    "PageURL": "https://eapickleball.com/brookside/"
+  },
+  {
+    "City": "Chester",
+    "Province": "NS",
+    "PageURL": "https://eapickleball.com/chester/"
+  },
+  {
+    "City": "Cole Harbour",
+    "Province": "NS",
+    "PageURL": "https://eapickleball.com/cole-harbour/"
+  },
+  {
+    "City": "Dartmouth",
+    "Province": "NS",
+    "PageURL": "https://eapickleball.com/dartmouth/"
+  },
+  {
+    "City": "Halifax",
+    "Province": "NS",
+    "PageURL": "https://eapickleball.com/halifax/"
+  },
+  {
+    "City": "Kentville",
+    "Province": "NS",
+    "PageURL": "https://eapickleball.com/kentville/"
+  },
+  {
+    "City": "Lawrencetown",
+    "Province": "NS",
+    "PageURL": "https://eapickleball.com/lawrencetown/"
+  },
+  {
+    "City": "New Glasgow",
+    "Province": "NS",
+    "PageURL": "https://eapickleball.com/new-glasgow/"
+  },
+  {
+    "City": "New Waterford",
+    "Province": "NS",
+    "PageURL": "https://eapickleball.com/new-waterford/"
+  },
+  {
+    "City": "Sackville",
+    "Province": "NS",
+    "PageURL": "https://eapickleball.com/sackville/"
+  },
+  {
+    "City": "Spryfield",
+    "Province": "NS",
+    "PageURL": "https://eapickleball.com/spryfield/"
+  },
+  {
+    "City": "Truro",
+    "Province": "NS",
+    "PageURL": "https://eapickleball.com/truro/"
+  },
+  {
+    "City": "Windsor",
+    "Province": "NS",
+    "PageURL": "https://eapickleball.com/windsor-ns/"
+  },
+  {
+    "City": "West Northfield",
+    "Province": "NS",
+    "PageURL": "https://eapickleball.com/west-northfield/"
+  },
+  {
+    "City": "Wolfville",
+    "Province": "NS",
+    "PageURL": "https://eapickleball.com/wolfville/"
+  },
+  {
+    "City": "Alliston",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/alliston-pickleball/"
+  },
+  {
+    "City": "Almonte",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/lanark-county/"
+  },
+  {
+    "City": "Ancaster",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/ancaster/"
+  },
+  {
+    "City": "Arnprior",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/arnprior-pickleball/"
+  },
+  {
+    "City": "Aurora",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/aurora/"
+  },
+  {
+    "City": "Barrie",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/barrie-pickleball-2/"
+  },
+  {
+    "City": "Belleville",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/belleville/"
+  },
+  {
+    "City": "Beckwith",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/lanark-county/"
+  },
+  {
+    "City": "Bolton",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/bolton-pickleball/"
+  },
+  {
+    "City": "Bowmanville",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/bowmanville-pickleball/"
+  },
+  {
+    "City": "Bradford",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/bradford-pickleball-league/"
+  },
+  {
+    "City": "Bracebridge",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/bracebridge-pickleball/"
+  },
+  {
+    "City": "Brampton",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/brampton-pickleball/"
+  },
+  {
+    "City": "Burlington",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/burlington/"
+  },
+  {
+    "City": "Caledon",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/caledon-pickleball-league/"
+  },
+  {
+    "City": "Carleton Place",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/lanark-county/"
+  },
+  {
+    "City": "Cambridge",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/cambridgepickleball/"
+  },
+  {
+    "City": "Cannington",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/cannington-pickleball/"
+  },
+  {
+    "City": "Clinton",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/clinton/"
+  },
+  {
+    "City": "Cobourg",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/cobourg/"
+  },
+  {
+    "City": "Courtice",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/courtice-pickleball/"
+  },
+  {
+    "City": "Clarington",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/durham-clarington-pickleball/"
+  },
+  {
+    "City": "Cornwall",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/cornwall/"
+  },
+  {
+    "City": "Dundas",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/dundas/"
+  },
+  {
+    "City": "Durham",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/durham-pickleball/"
+  },
+  {
+    "City": "East Gwillimbury",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/east-gwillimbury-ea-pickleball"
+  },
+  {
+    "City": "Emsdale",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/emsdale/"
+  },
+  {
+    "City": "Fonthill",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/fonthill/"
+  },
+  {
+    "City": "Gravenhurst",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/gravenhurst/"
+  },
+  {
+    "City": "Grimsby",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/grimsby/"
+  },
+  {
+    "City": "Guelph",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/guelph-pickleball/"
+  },
+  {
+    "City": "Hamilton",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/hamilton/"
+  },
+  {
+    "City": "Hanover",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/hanover/"
+  },
+  {
+    "City": "Huntsville",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/huntsville/"
+  },
+  {
+    "City": "Innisfil",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/innisfil-pickleball/"
+  },
+  {
+    "City": "Keswick",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/keswick-pickleball/"
+  },
+  {
+    "City": "Kincardine",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/kincardine-pickleball/"
+  },
+  {
+    "City": "King City/Nobleton",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/king-city-pickleball/"
+  },
+  {
+    "City": "Kitchener",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/kitchener-pickleball/"
+  },
+  {
+    "City": "Lanark",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/lanark-county/"
+  },
+  {
+    "City": "Lanark County",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/lanark-county/"
+  },
+  {
+    "City": "Lakefield",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/lakefield-pickleball/"
+  },
+  {
+    "City": "Lindsay",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/lindsay-pickleball/"
+  },
+  {
+    "City": "London",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/london/"
+  },
+  {
+    "City": "Markdale",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/markdale/"
+  },
+  {
+    "City": "Midland",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/midland-pickleball/"
+  },
+  {
+    "City": "Milton",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/milton/"
+  },
+  {
+    "City": "Newcaslte",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/newcastle-pickleball/"
+  },
+  {
+    "City": "Newmarket",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/newmarket-ea-pickleball/"
+  },
+  {
+    "City": "Niagara",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/niagara-pickleball/"
+  },
+  {
+    "City": "North Bay",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/north-bay/"
+  },
+  {
+    "City": "North Perth",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/north-perth/"
+  },
+  {
+    "City": "North York",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/north-york-pickleball/"
+  },
+  {
+    "City": "Norwood",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/norwood-pickleball/"
+  },
+  {
+    "City": "Oshawa",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/oshawa-pickleball/"
+  },
+  {
+    "City": "Oro-Medonte",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/oro-pickleball/"
+  },
+  {
+    "City": "Orangeville",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/orangeville-2/"
+  },
+  {
+    "City": "Owen Sound",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/owensound-pickleball/"
+  },
+  {
+    "City": "Ottawa",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/ottawa-pickleball/"
+  },
+  {
+    "City": "Pakenham",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/lanark-county/"
+  },
+  {
+    "City": "Parry Sound",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/parry-sound/"
+  },
+  {
+    "City": "Peterborough",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/peterborough-pickleball/"
+  },
+  {
+    "City": "Perth",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/lanark-county/"
+  },
+  {
+    "City": "Pickering",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/pickering-pickleball/"
+  },
+  {
+    "City": "Picton",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/picton/"
+  },
+  {
+    "City": "Port Colborne",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/port-colborne-pickleball/"
+  },
+  {
+    "City": "Port Dover",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/port-dover/"
+  },
+  {
+    "City": "Port Elgin",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/port-elgin-pickleball"
+  },
+  {
+    "City": "Port Hope",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/port-hope/"
+  },
+  {
+    "City": "Port Perry",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/port-perry-pickleball/"
+  },
+  {
+    "City": "Richmond Hill",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/richmond-hill-pickleball-league/"
+  },
+  {
+    "City": "Ridgeway",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/ridgeway"
+  },
+  {
+    "City": "Renfrew",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/renfrew-pickleball/"
+  },
+  {
+    "City": "Severn/Cumberland Beach",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/severn-pickleball/"
+  },
+  {
+    "City": "Smiths Falls",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/lanark-county/"
+  },
+  {
+    "City": "South River",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/south-river/"
+  },
+  {
+    "City": "Springwater/Minesing",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/springwater-pickleball-2/"
+  },
+  {
+    "City": "Stayner",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/stayner/"
+  },
+  {
+    "City": "Stoney Creek",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/stoney-creek/"
+  },
+  {
+    "City": "Stouffville",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/stouffvillepickleball/"
+  },
+  {
+    "City": "Stratford",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/stratford/"
+  },
+  {
+    "City": "St Catharines",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/st-catharines/"
+  },
+  {
+    "City": "St Thomas",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/st-thomas/"
+  },
+  {
+    "City": "Stirling",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/stirling/"
+  },
+  {
+    "City": "Sudbury",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/sudbury/"
+  },
+  {
+    "City": "Sutton",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/sutton-pickleball-2/"
+  },
+  {
+    "City": "Thornhill",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/thornhill/"
+  },
+  {
+    "City": "Tillsonburg",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/tillsonburg/"
+  },
+  {
+    "City": "Tottenham",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/tottenham-pickleball/"
+  },
+  {
+    "City": "Trenton",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/trenton/"
+  },
+  {
+    "City": "Uxbridge",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/uxbridge-pickleball/"
+  },
+  {
+    "City": "Vaughan",
+    "Province": "ON",
+    "PageURL": "http://eapickleball.com/vaughan/"
+  },
+  {
+    "City": "Wasaga Beach",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/wasaga-beach/"
+  },
+  {
+    "City": "Waterloo",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/waterloo-pickleball/"
+  },
+  {
+    "City": "West Grey",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/west-grey/"
+  },
+  {
+    "City": "Whitby",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/whitby-pickleball/"
+  },
+  {
+    "City": "Windsor",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/windsor/"
+  },
+  {
+    "City": "Woodstock",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/woodstock/"
+  },
+  {
+    "City": "Alma",
+    "Province": "QC",
+    "PageURL": "https://eapickleball.com/alma/"
+  },
+  {
+    "City": "Amos",
+    "Province": "QC",
+    "PageURL": "https://eapickleball.com/amos/"
+  },
+  {
+    "City": "Beloeil",
+    "Province": "QC",
+    "PageURL": "https://eapickleball.com/beloeil"
+  },
+  {
+    "City": "Chambly",
+    "Province": "QC",
+    "PageURL": "https://eapickleball.com/chambly"
+  },
+  {
+    "City": "Dollard-Des-Ormeaux",
+    "Province": "QC",
+    "PageURL": "https://eapickleball.com/dollard-des-ormeaux"
+  },
+  {
+    "City": "Gatineau-Chelsea",
+    "Province": "QC",
+    "PageURL": "https://eapickleball.com/gatineau-chelsea"
+  },
+  {
+    "City": "Joliette",
+    "Province": "QC",
+    "PageURL": "https://eapickleball.com/joliette"
+  },
+  {
+    "City": "Laval",
+    "Province": "QC",
+    "PageURL": "https://eapickleball.com/laval"
+  },
+  {
+    "City": "L?vis",
+    "Province": "QC",
+    "PageURL": "https://eapickleball.com/levis"
+  },
+  {
+    "City": "Longueuil",
+    "Province": "QC",
+    "PageURL": "https://eapickleball.com/longueuil"
+  },
+  {
+    "City": "Montmagny",
+    "Province": "QC",
+    "PageURL": "https://eapickleball.com/montmagny"
+  },
+  {
+    "City": "Montr?al",
+    "Province": "QC",
+    "PageURL": "https://eapickleball.com/montreal"
+  },
+  {
+    "City": "Rimouski",
+    "Province": "QC",
+    "PageURL": "https://eapickleball.com/rimouski"
+  },
+  {
+    "City": "Rivi?re-du-loup",
+    "Province": "QC",
+    "PageURL": "https://eapickleball.com/riviere-du-loup"
+  },
+  {
+    "City": "Rouyn-Noranda",
+    "Province": "QC",
+    "PageURL": "https://eapickleball.com/rouyn-noranda"
+  },
+  {
+    "City": "Saguenay",
+    "Province": "QC",
+    "PageURL": "https://eapickleball.com/saguenay"
+  },
+  {
+    "City": "Sept-Iles",
+    "Province": "QC",
+    "PageURL": "https://eapickleball.com/sept-iles"
+  },
+  {
+    "City": "Sherbrook",
+    "Province": "QC",
+    "PageURL": "https://eapickleball.com/sherbrooke"
+  },
+  {
+    "City": "Sorel-Tracy",
+    "Province": "QC",
+    "PageURL": "https://eapickleball.com/sorel-tracy"
+  },
+  {
+    "City": "St-Jean-sur-Richelieu",
+    "Province": "QC",
+    "PageURL": "https://eapickleball.com/st-jean-sur-richelieu"
+  },
+  {
+    "City": "St-J?rome",
+    "Province": "QC",
+    "PageURL": "https://eapickleball.com/st-jerome"
+  },
+  {
+    "City": "Terrebonne",
+    "Province": "QC",
+    "PageURL": "https://eapickleball.com/terrebonne"
+  },
+  {
+    "City": "Trois-rivi?res",
+    "Province": "QC",
+    "PageURL": "https://eapickleball.com/trois-rivieres"
+  },
+  {
+    "City": "Val d?or",
+    "Province": "QC",
+    "PageURL": "https://eapickleball.com/val-dor"
+  },
+  {
+    "City": "Vaudreuil-Dorion",
+    "Province": "QC",
+    "PageURL": "https://eapickleball.com/vaudreuil-dorion"
+  },
+  {
+    "City": "Victoriaville",
+    "Province": "QC",
+    "PageURL": "https://eapickleball.com/victoriaville"
+  }
+]
