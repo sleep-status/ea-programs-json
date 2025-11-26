@@ -21,9 +21,10 @@
     "updated_price": "29.67",
     "taxes": 1.13,
     "fee_index": 0,
+    "City": "Alliston",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Alliston - LEVEL 1: Beginners Pickleball League",
@@ -47,9 +48,10 @@
     "updated_price": "103.86",
     "taxes": 1.14,
     "fee_index": 0,
+    "City": "Alliston",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Alliston - LEVEL 2:  Experienced Beginners Pickleball League",
@@ -73,9 +75,10 @@
     "updated_price": "29.67",
     "taxes": 1.05,
     "fee_index": 1,
+    "City": "Alliston",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Alliston - LEVEL 2: Experienced Beginners Pickleball League",
@@ -99,9 +102,10 @@
     "updated_price": "103.86",
     "taxes": null,
     "fee_index": 1,
+    "City": "Alliston",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Almonte - LEVEL 1: Beginners Pickleball League",
@@ -125,9 +129,10 @@
     "updated_price": "44.51",
     "taxes": null,
     "fee_index": 0,
+    "City": "Almonte",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Almonte - LEVEL 1: Beginners Pickleball League",
@@ -151,9 +156,10 @@
     "updated_price": "103.86",
     "taxes": null,
     "fee_index": 0,
+    "City": "Almonte",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Almonte - LEVEL 1: Beginners Pickleball League",
@@ -177,9 +183,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Almonte",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Aurora - Beginners Pickleball League (18+ yrs)",
@@ -203,9 +210,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Aurora",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Aurora - Beginners Pickleball League (18+ yrs)",
@@ -229,9 +237,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Aurora",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Aurora - Beginners Pickleball League (18+ yrs)",
@@ -255,9 +264,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Aurora",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Aurora - Beginners Pickleball League (18+ yrs)",
@@ -281,9 +291,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Aurora",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Aurora - Intermediate Pickleball League (18+ yrs)",
@@ -307,9 +318,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Aurora",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Aurora - Intermediate Pickleball League (18+ yrs)",
@@ -333,9 +345,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Aurora",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Aurora - LEVEL 2: Experienced Beginners Pickleball League",
@@ -359,9 +372,10 @@
     "updated_price": "89.02",
     "taxes": null,
     "fee_index": 0,
+    "City": "Aurora",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Belleville - LEVEL 1: Beginners Pickleball League",
@@ -385,9 +399,10 @@
     "updated_price": "133.53",
     "taxes": null,
     "fee_index": 0,
+    "City": "Belleville",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Belleville - LEVEL 1: Beginners Pickleball League",
@@ -411,9 +426,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Belleville",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Bolton - LEVEL 1:  Beginners Pickleball League",
@@ -437,9 +453,10 @@
     "updated_price": "59.35",
     "taxes": null,
     "fee_index": 0,
+    "City": "Bolton",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Bolton - LEVEL 1:  Beginners Pickleball League",
@@ -463,9 +480,10 @@
     "updated_price": "14.84",
     "taxes": null,
     "fee_index": 1,
+    "City": "Bolton",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Bolton - LEVEL 1: Beginners Pickleball League",
@@ -489,9 +507,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Bolton",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Bolton - LEVEL 2: Experienced Beginners Pickleball League",
@@ -515,9 +534,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Bolton",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Bowmanville - LEVEL 3: Intermediate Pickleball League",
@@ -541,9 +561,10 @@
     "updated_price": "59.35",
     "taxes": null,
     "fee_index": 0,
+    "City": "Bowmanville",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Bracebridge - LEVEL 2: Experienced Beginners Pickleball League",
@@ -567,9 +588,10 @@
     "updated_price": "14.84",
     "taxes": null,
     "fee_index": 0,
+    "City": "Bracebridge",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Bracebridge - Youth Pickleball Club",
@@ -593,9 +615,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Bracebridge",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Bradford - Learn to Play Pickleball (Adult)",
@@ -619,9 +642,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Bradford",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Bradford - Learn to Play Pickleball (Youth)",
@@ -645,9 +669,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Bradford",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Bradford - Pickleball League",
@@ -671,9 +696,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Bradford",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Brampton - LEVEL 2: Experienced Beginners Pickleball League",
@@ -697,9 +723,10 @@
     "updated_price": "103.86",
     "taxes": null,
     "fee_index": 1,
+    "City": "Brampton",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Brampton - LEVEL 2: Experienced Beginners Pickleball League",
@@ -723,9 +750,10 @@
     "updated_price": "103.86",
     "taxes": null,
     "fee_index": 0,
+    "City": "Brampton",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Brampton - LEVEL 2: Experienced Beginners Pickleball League",
@@ -749,9 +777,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 2,
+    "City": "Brampton",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Brampton - LEVEL 3: Intermediate Pickleball League",
@@ -775,9 +804,10 @@
     "updated_price": "103.86",
     "taxes": null,
     "fee_index": 4,
+    "City": "Brampton",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Brampton - LEVEL 3: Intermediate Pickleball League",
@@ -801,9 +831,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 3,
+    "City": "Brampton",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Bridgewater - LEVEL 1:  Beginners Pickleball League",
@@ -827,9 +858,10 @@
     "updated_price": "54.72",
     "taxes": null,
     "fee_index": 0,
+    "City": "Bridgewater",
+    "Province": "NS",
     "DL": null,
-    "COACHES": null,
-    "Province": "NS"
+    "COACHES": null
   },
   {
     "Title": "Bridgewater - LEVEL 1:  Beginners Pickleball League",
@@ -853,9 +885,10 @@
     "updated_price": "82.08",
     "taxes": null,
     "fee_index": 0,
+    "City": "Bridgewater",
+    "Province": "NS",
     "DL": null,
-    "COACHES": null,
-    "Province": "NS"
+    "COACHES": null
   },
   {
     "Title": "Bridgewater - LEVEL 2: Experienced Beginners Pickleball League",
@@ -879,9 +912,10 @@
     "updated_price": "41.04",
     "taxes": null,
     "fee_index": 1,
+    "City": "Bridgewater",
+    "Province": "NS",
     "DL": null,
-    "COACHES": null,
-    "Province": "NS"
+    "COACHES": null
   },
   {
     "Title": "Bridgewater - LEVEL 2: Advanced Beginners Pickleball League",
@@ -905,9 +939,10 @@
     "updated_price": "82.08",
     "taxes": null,
     "fee_index": 0,
+    "City": "Bridgewater",
+    "Province": "NS",
     "DL": null,
-    "COACHES": null,
-    "Province": "NS"
+    "COACHES": null
   },
   {
     "Title": "Bridgewater - LEVEL 3:  Intermediate Pickleball League",
@@ -931,9 +966,10 @@
     "updated_price": "41.04",
     "taxes": null,
     "fee_index": 2,
+    "City": "Bridgewater",
+    "Province": "NS",
     "DL": null,
-    "COACHES": null,
-    "Province": "NS"
+    "COACHES": null
   },
   {
     "Title": "Bridgewater - LEVEL 3:  Intermediate Pickleball League",
@@ -957,9 +993,10 @@
     "updated_price": "82.08",
     "taxes": null,
     "fee_index": 0,
+    "City": "Bridgewater",
+    "Province": "NS",
     "DL": null,
-    "COACHES": null,
-    "Province": "NS"
+    "COACHES": null
   },
   {
     "Title": "Caledon - Learn to Play Pickleball (12+ yrs)",
@@ -983,9 +1020,10 @@
     "updated_price": "103.86",
     "taxes": null,
     "fee_index": 3,
+    "City": "Caledon",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Caledon - LEVEL 1: Beginners Pickleball League",
@@ -1009,9 +1047,10 @@
     "updated_price": "103.86",
     "taxes": null,
     "fee_index": 0,
+    "City": "Caledon",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Caledon - LEVEL 2: Experienced Beginners Pickleball League",
@@ -1035,9 +1074,10 @@
     "updated_price": "103.86",
     "taxes": null,
     "fee_index": 1,
+    "City": "Caledon",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Caledon - LEVEL 3: Intermediate Pickleball League",
@@ -1061,9 +1101,10 @@
     "updated_price": "103.86",
     "taxes": null,
     "fee_index": 2,
+    "City": "Caledon",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Cambridge - LEVEL 1: Beginners Pickleball League",
@@ -1087,9 +1128,10 @@
     "updated_price": "89.02",
     "taxes": null,
     "fee_index": 0,
+    "City": "Cambridge",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Cambridge - LEVEL 2: Experienced Beginners Pickleball League",
@@ -1113,9 +1155,10 @@
     "updated_price": "89.02",
     "taxes": null,
     "fee_index": 1,
+    "City": "Cambridge",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Chester - LEVEL 1: Beginners Pickleball League",
@@ -1139,9 +1182,10 @@
     "updated_price": "40.68",
     "taxes": null,
     "fee_index": 0,
+    "City": "Chester",
+    "Province": "NS",
     "DL": null,
-    "COACHES": null,
-    "Province": "NS"
+    "COACHES": null
   },
   {
     "Title": "Chester - LEVEL 2: Advanced Beginners Pickleball League",
@@ -1165,9 +1209,10 @@
     "updated_price": "109.44",
     "taxes": null,
     "fee_index": 0,
+    "City": "Chester",
+    "Province": "NS",
     "DL": null,
-    "COACHES": null,
-    "Province": "NS"
+    "COACHES": null
   },
   {
     "Title": "Chilliwack - LEVEL 1: Beginners Pickleball League",
@@ -1191,9 +1236,10 @@
     "updated_price": "119.68",
     "taxes": null,
     "fee_index": 0,
+    "City": "Chilliwack",
+    "Province": "BC",
     "DL": null,
-    "COACHES": null,
-    "Province": "BC"
+    "COACHES": null
   },
   {
     "Title": "Cobourg - LEVEL 1: Beginners Pickleball League",
@@ -1217,9 +1263,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Cobourg",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Coquitlam - Beginners/Intermediate Pickleball League",
@@ -1243,9 +1290,10 @@
     "updated_price": "59.26",
     "taxes": null,
     "fee_index": 0,
+    "City": "Coquitlam",
+    "Province": "BC",
     "DL": null,
-    "COACHES": null,
-    "Province": "BC"
+    "COACHES": null
   },
   {
     "Title": "Coquitlam - LEVEL 1: Beginners Pickleball League",
@@ -1269,9 +1317,10 @@
     "updated_price": "151.53",
     "taxes": null,
     "fee_index": 0,
+    "City": "Coquitlam",
+    "Province": "BC",
     "DL": null,
-    "COACHES": null,
-    "Province": "BC"
+    "COACHES": null
   },
   {
     "Title": "Coquitlam - LEVEL 1: Beginners Pickleball League",
@@ -1295,9 +1344,10 @@
     "updated_price": "170.47",
     "taxes": null,
     "fee_index": 0,
+    "City": "Coquitlam",
+    "Province": "BC",
     "DL": null,
-    "COACHES": null,
-    "Province": "BC"
+    "COACHES": null
   },
   {
     "Title": "Courtice - LEVEL 2: Experienced Beginners Pickleball League",
@@ -1321,9 +1371,10 @@
     "updated_price": "29.67",
     "taxes": null,
     "fee_index": 2,
+    "City": "Courtice",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Courtice - LEVEL 2: Experienced Beginners Pickleball League",
@@ -1347,9 +1398,10 @@
     "updated_price": "103.86",
     "taxes": null,
     "fee_index": 0,
+    "City": "Courtice",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Courtice - LEVEL 2: Experienced Beginners Pickleball League",
@@ -1373,9 +1425,10 @@
     "updated_price": "59.35",
     "taxes": null,
     "fee_index": 0,
+    "City": "Courtice",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Durham - LEVEL 1: Beginners Pickleball League",
@@ -1399,9 +1452,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Durham",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "East Gwillimbury - Adult Learn to Play Pickleball",
@@ -1425,9 +1479,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "East Gwillimbury",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "East Gwillimbury - Beginners Pickleball League",
@@ -1451,9 +1506,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "East Gwillimbury",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "East Gwillimbury - Beginners Pickleball League",
@@ -1477,9 +1533,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "East Gwillimbury",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "East Gwillimbury - Intermediate Pickleball League",
@@ -1503,9 +1560,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "East Gwillimbury",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Emsdale - LEVEL 1: Beginners Pickleball League",
@@ -1529,9 +1587,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Emsdale",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Essa - Basketball Skills (5 - 8 yrs)",
@@ -1555,9 +1614,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Essa",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Essa - Basketball Skills (9 - 12 yrs)",
@@ -1581,9 +1641,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Essa",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Flesherton - LEVEL 1: Beginners Pickleball League",
@@ -1607,9 +1668,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Flesherton",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Flesherton - LEVEL 2: Experienced Beginners Pickleball League",
@@ -1633,9 +1695,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Flesherton",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Georgina - Skills & Drills Jr. Basketball Training (8 - 10 yrs)",
@@ -1659,9 +1722,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Georgina",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Georgina - Skills & Drills Jr. Basketball Training (8 - 10 yrs)",
@@ -1685,9 +1749,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Georgina",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Georgina - Skills & Drills Jr. Basketball Training (8 - 10 yrs)",
@@ -1711,9 +1776,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Georgina",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Georgina - Youth Basketball League (8 - 10 yrs)",
@@ -1737,9 +1803,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Georgina",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Georgina - Youth Basketball League (8 - 10 yrs)",
@@ -1763,9 +1830,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Georgina",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Georgina - Youth Basketball League (8 - 10 yrs)",
@@ -1789,9 +1857,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Georgina",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Georgina - Youth Basketball Training (5 - 7 yrs)",
@@ -1815,9 +1884,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Georgina",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Georgina - Youth Basketball Training (5 - 7 yrs)",
@@ -1841,9 +1911,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Georgina",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Georgina - Youth Basketball Training (5 - 7 yrs)",
@@ -1867,9 +1938,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Georgina",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Georgina - Youth Basketball Training (5 - 7 yrs)",
@@ -1893,9 +1965,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Georgina",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Georgina - Youth Basketball Training (5 - 7 yrs)",
@@ -1919,9 +1992,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Georgina",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Georgina - Youth Basketball Training (5 - 7 yrs)",
@@ -1945,9 +2019,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Georgina",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Georgina - Youth Basketball Training (5 - 7 yrs)",
@@ -1971,9 +2046,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Georgina",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Georgina - Youth Basketball Training (5 - 7 yrs)",
@@ -1997,9 +2073,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Georgina",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Georgina - Youth Basketball Training (5 - 7 yrs)",
@@ -2023,9 +2100,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Georgina",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Georgina - Youth Basketball Training (8 - 11 yrs)",
@@ -2049,9 +2127,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Georgina",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Georgina - Youth Basketball Training (8 - 11 yrs)",
@@ -2075,9 +2154,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Georgina",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Georgina - Youth Basketball Training (8 - 11 yrs)",
@@ -2101,9 +2181,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Georgina",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Georgina - Youth Basketball Training (8 - 11 yrs)",
@@ -2127,9 +2208,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Georgina",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Georgina - Youth Basketball Training (8 - 11 yrs)",
@@ -2153,9 +2235,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Georgina",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Georgina - Youth Basketball Training (8 - 11 yrs)",
@@ -2179,9 +2262,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Georgina",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Georgina - Youth Basketball Training (8 - 11 yrs)",
@@ -2205,9 +2289,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Georgina",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Georgina - Youth Basketball Training (8 - 11 yrs)",
@@ -2231,9 +2316,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Georgina",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Georgina - Youth Basketball Training (8 - 11 yrs)",
@@ -2257,9 +2343,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Georgina",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Gravenhurst - LEVEL 1: Beginners Pickleball League",
@@ -2283,9 +2370,10 @@
     "updated_price": "14.84",
     "taxes": null,
     "fee_index": 0,
+    "City": "Gravenhurst",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Guelph - LEVEL 1: Beginners Pickleball League",
@@ -2309,9 +2397,10 @@
     "updated_price": "59.35",
     "taxes": null,
     "fee_index": 0,
+    "City": "Guelph",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Guelph - LEVEL 1: Beginners Pickleball League",
@@ -2335,9 +2424,10 @@
     "updated_price": "103.86",
     "taxes": null,
     "fee_index": 0,
+    "City": "Guelph",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Halifax - LEVEL 1: Beginners Pickleball League",
@@ -2361,9 +2451,10 @@
     "updated_price": "82.08",
     "taxes": null,
     "fee_index": 0,
+    "City": "Halifax",
+    "Province": "NS",
     "DL": null,
-    "COACHES": null,
-    "Province": "NS"
+    "COACHES": null
   },
   {
     "Title": "Hanover - LEVEL 1: Beginners Pickleball League",
@@ -2387,9 +2478,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Hanover",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Huntsville - LEVEL 1: Beginners Pickleball League",
@@ -2413,9 +2505,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Huntsville",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Innisfil - Jr. Basketball Ages 11- 13",
@@ -2439,9 +2532,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Innisfil",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Innisfil - Jr. Basketball Ages 5 - 7",
@@ -2465,9 +2559,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Innisfil",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Innisfil - Jr. Basketball Ages 8 - 10",
@@ -2491,9 +2586,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Innisfil",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Keswick - Learn to Play Pickleball",
@@ -2517,9 +2613,10 @@
     "updated_price": "29.67",
     "taxes": null,
     "fee_index": 2,
+    "City": "Keswick",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Keswick - LEVEL 1: Beginners Pickleball League",
@@ -2543,9 +2640,10 @@
     "updated_price": "103.86",
     "taxes": null,
     "fee_index": 0,
+    "City": "Keswick",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Keswick - LEVEL 1: Beginners Pickleball League",
@@ -2569,9 +2667,10 @@
     "updated_price": "44.51",
     "taxes": null,
     "fee_index": 0,
+    "City": "Keswick",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Keswick - LEVEL 1: Beginners Pickleball League",
@@ -2595,9 +2694,10 @@
     "updated_price": "74.18",
     "taxes": null,
     "fee_index": 0,
+    "City": "Keswick",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Keswick - LEVEL 2: Experienced Beginners Pickleball League",
@@ -2621,9 +2721,10 @@
     "updated_price": "74.18",
     "taxes": null,
     "fee_index": 1,
+    "City": "Keswick",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Keswick - LEVEL 3: Intermediate Pickleball League",
@@ -2647,9 +2748,10 @@
     "updated_price": "44.51",
     "taxes": null,
     "fee_index": 0,
+    "City": "Keswick",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Keswick - LEVEL 3: Intermediate Pickleball League",
@@ -2673,9 +2775,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Keswick",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "King City - Beginners Pickleball League (18+ yrs)",
@@ -2699,9 +2802,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "King City",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "King City - Beginners Pickleball League (18+ yrs)",
@@ -2725,9 +2829,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "King City",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "King City - Beginners Pickleball League (18+ yrs)",
@@ -2751,9 +2856,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "King City",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "King City - Learn to Play Pickleball (18+ yrs)",
@@ -2777,9 +2883,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "King City",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "King City - Learn to Play Pickleball (18+ yrs)",
@@ -2803,9 +2910,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "King City",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "King City - Learn to Play Pickleball (18+ yrs)",
@@ -2829,9 +2937,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "King City",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "King City - Learn to Play Pickleball (18+ yrs)",
@@ -2855,9 +2964,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "King City",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Kitimat - LEVEL 1:  Beginners Pickleball League",
@@ -2881,9 +2991,10 @@
     "updated_price": "108.21",
     "taxes": null,
     "fee_index": 0,
+    "City": "Kitimat",
+    "Province": "BC",
     "DL": null,
-    "COACHES": null,
-    "Province": "BC"
+    "COACHES": null
   },
   {
     "Title": "Lion's Head - LEVEL 2: Experienced Beginners Pickleball League",
@@ -2907,9 +3018,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Lion's Head",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "New Waterford - LEVEL 1: Beginners Pickleball League",
@@ -2933,9 +3045,10 @@
     "updated_price": "82.08",
     "taxes": null,
     "fee_index": 0,
+    "City": "New Waterford",
+    "Province": "NS",
     "DL": null,
-    "COACHES": null,
-    "Province": "NS"
+    "COACHES": null
   },
   {
     "Title": "Newcastle - LEVEL 2: Experienced Beginners Pickleball League",
@@ -2959,9 +3072,10 @@
     "updated_price": "89.02",
     "taxes": null,
     "fee_index": 0,
+    "City": "Newcastle",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Newcastle - LEVEL 3: Intermediate Pickleball League",
@@ -2985,9 +3099,10 @@
     "updated_price": "103.86",
     "taxes": null,
     "fee_index": 0,
+    "City": "Newcastle",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Newmarket - Beginners Pickleball League (16+ yrs)",
@@ -3011,9 +3126,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Newmarket",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Newmarket - Beginners Pickleball League (16+ yrs)",
@@ -3037,9 +3153,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Newmarket",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Newmarket - Beginners Pickleball League (16+ yrs)",
@@ -3063,9 +3180,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Newmarket",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Newmarket - Beginners Pickleball League (16+ yrs)",
@@ -3089,9 +3207,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Newmarket",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Newmarket - Beginners Youth Pickleball League (Gr. 9 - 12)",
@@ -3115,9 +3234,10 @@
     "updated_price": "74.18",
     "taxes": null,
     "fee_index": 0,
+    "City": "Newmarket",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Newmarket - Beginners Youth Pickleball League (Gr. 9 - 12)",
@@ -3141,9 +3261,10 @@
     "updated_price": "103.86",
     "taxes": null,
     "fee_index": 0,
+    "City": "Newmarket",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Newmarket - Experienced Beginners Pickleball League (16+ yrs)",
@@ -3167,9 +3288,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Newmarket",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Newmarket - Experienced Beginners Pickleball League (16+ yrs)",
@@ -3193,9 +3315,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Newmarket",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Newmarket - Intermediate Pickleball League (16+ yrs)",
@@ -3219,9 +3342,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Newmarket",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Newmarket - Intermediate Pickleball League (16+ yrs)",
@@ -3245,9 +3369,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Newmarket",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Newmarket - Learn to Play Pickleball (16+ yrs)",
@@ -3271,9 +3396,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Newmarket",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Newmarket - Learn to Play Pickleball (16+ yrs)",
@@ -3297,9 +3423,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Newmarket",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Newmarket - Learn to Play Pickleball (16+ yrs)",
@@ -3323,9 +3450,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Newmarket",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Newmarket - Learn to Play Pickleball (16+ yrs)",
@@ -3349,9 +3477,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Newmarket",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Newmarket - Learn to Play Pickleball (16+ yrs)",
@@ -3375,9 +3504,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Newmarket",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Newmarket - Learn to Play Pickleball (16+ yrs)",
@@ -3401,9 +3531,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Newmarket",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Newmarket - Learn to Play Pickleball (8 - 15 yrs)",
@@ -3427,9 +3558,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Newmarket",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Newmarket - Learn to Play Pickleball (8 - 15 yrs)",
@@ -3453,9 +3585,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Newmarket",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Newmarket - Learn to Play Pickleball (8 - 15 yrs)",
@@ -3479,9 +3612,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Newmarket",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Newmarket - LEVEL 1: Beginners Pickleball League",
@@ -3505,9 +3639,10 @@
     "updated_price": "74.18",
     "taxes": null,
     "fee_index": 0,
+    "City": "Newmarket",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Newmarket - LEVEL 2: Experienced Beginners Pickleball League",
@@ -3531,9 +3666,10 @@
     "updated_price": "44.51",
     "taxes": null,
     "fee_index": 0,
+    "City": "Newmarket",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Newmarket - LEVEL 2: Experienced Beginners Pickleball League",
@@ -3557,9 +3693,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 1,
+    "City": "Newmarket",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Newmarket - LEVEL 2: Experienced Beginners Pickleball League",
@@ -3583,9 +3720,10 @@
     "updated_price": "103.86",
     "taxes": null,
     "fee_index": 0,
+    "City": "Newmarket",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Newmarket - LEVEL 3: Intermediate Pickleball League",
@@ -3609,9 +3747,10 @@
     "updated_price": "74.18",
     "taxes": null,
     "fee_index": 2,
+    "City": "Newmarket",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 3 - 4)",
@@ -3635,9 +3774,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Newmarket/Aurora",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 3 - 4)",
@@ -3661,9 +3801,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Newmarket/Aurora",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 3 - 4)",
@@ -3687,9 +3828,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Newmarket/Aurora",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 3 - 4)",
@@ -3713,9 +3855,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Newmarket/Aurora",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 3 - 4)",
@@ -3739,9 +3882,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Newmarket/Aurora",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 5 - 10 GIRLS)",
@@ -3765,9 +3909,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Newmarket/Aurora",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 5 - 6)",
@@ -3791,9 +3936,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Newmarket/Aurora",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 5 - 6)",
@@ -3817,9 +3963,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Newmarket/Aurora",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 5 - 6)",
@@ -3843,9 +3990,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Newmarket/Aurora",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 5 - 6)",
@@ -3869,9 +4017,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Newmarket/Aurora",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 5 - 6)",
@@ -3895,9 +4044,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Newmarket/Aurora",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 7 - 9)",
@@ -3921,9 +4071,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Newmarket/Aurora",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 7 - 9)",
@@ -3947,9 +4098,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Newmarket/Aurora",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (SK - GR 2)",
@@ -3973,9 +4125,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Newmarket/Aurora",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (SK - GR 2)",
@@ -3999,9 +4152,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Newmarket/Aurora",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (SK - GR 2)",
@@ -4025,9 +4179,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Newmarket/Aurora",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "North Vancouver - LEVEL 1: Beginners Pickleball League",
@@ -4051,9 +4206,10 @@
     "updated_price": "38.96",
     "taxes": null,
     "fee_index": 0,
+    "City": "North Vancouver",
+    "Province": "BC",
     "DL": null,
-    "COACHES": null,
-    "Province": "BC"
+    "COACHES": null
   },
   {
     "Title": "North Vancouver - LEVEL 1: Beginners Pickleball League",
@@ -4077,9 +4233,10 @@
     "updated_price": "38.96",
     "taxes": null,
     "fee_index": 0,
+    "City": "North Vancouver",
+    "Province": "BC",
     "DL": null,
-    "COACHES": null,
-    "Province": "BC"
+    "COACHES": null
   },
   {
     "Title": "North Vancouver - Pickleball Group Coaching",
@@ -4103,9 +4260,10 @@
     "updated_price": "0.00",
     "taxes": null,
     "fee_index": 0,
+    "City": "North Vancouver",
+    "Province": "BC",
     "DL": null,
-    "COACHES": null,
-    "Province": "BC"
+    "COACHES": null
   },
   {
     "Title": "North Vancouver - Pickleball Group Coaching",
@@ -4129,9 +4287,10 @@
     "updated_price": "176.40",
     "taxes": null,
     "fee_index": 0,
+    "City": "North Vancouver",
+    "Province": "BC",
     "DL": null,
-    "COACHES": null,
-    "Province": "BC"
+    "COACHES": null
   },
   {
     "Title": "North York - Beginners Pickleball League",
@@ -4155,9 +4314,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 4,
+    "City": "North York",
+    "Province": "BC",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "North York - Beginners Pickleball League",
@@ -4181,9 +4341,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "North York",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "North York - Experienced Beginners Pickleball League",
@@ -4207,9 +4368,10 @@
     "updated_price": "29.67",
     "taxes": null,
     "fee_index": 2,
+    "City": "North York",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "North York - Learn to Play Pickleball Level 1",
@@ -4233,9 +4395,10 @@
     "updated_price": "29.67",
     "taxes": null,
     "fee_index": 0,
+    "City": "North York",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "North York - Learn to Play Pickleball Level 1",
@@ -4259,9 +4422,10 @@
     "updated_price": "44.51",
     "taxes": null,
     "fee_index": 1,
+    "City": "North York",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "North York - Learn to Play Pickleball Level 2",
@@ -4285,9 +4449,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 3,
+    "City": "North York",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Norwood - Pickleball Membership",
@@ -4311,9 +4476,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Norwood",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Orleans - LEVEL 1: Beginners Pickleball League",
@@ -4337,9 +4503,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Orleans",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Orleans - LEVEL 1: Beginners Pickleball League",
@@ -4363,9 +4530,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Orleans",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Orleans - LEVEL 2: Experienced Beginners Pickleball League",
@@ -4389,9 +4557,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Orleans",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Orleans - Youth Pickleball Club",
@@ -4415,9 +4584,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Orleans",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Oro-Medonte - Beginners Pickleball League",
@@ -4441,9 +4611,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Oro-Medonte",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Oro-Medonte - Beginners Pickleball Lessons",
@@ -4467,9 +4638,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Oro-Medonte",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Oro-Medonte - Beginners Pickleball Lessons",
@@ -4493,9 +4665,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Oro-Medonte",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Oro-Medonte - Beginners Pickleball Lessons",
@@ -4519,9 +4692,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Oro-Medonte",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Oro-Medonte - Beginners Pickleball Lessons",
@@ -4545,9 +4719,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Oro-Medonte",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Oro-Medonte - Intermediate Pickleball League",
@@ -4571,9 +4746,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Oro-Medonte",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Oro-Medonte - Jr Basketball (11 - 13)",
@@ -4597,9 +4773,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Oro-Medonte",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Oro-Medonte - Jr Basketball (5 - 7)",
@@ -4623,9 +4800,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Oro-Medonte",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Oro-Medonte - Jr Basketball (8 - 10)",
@@ -4649,9 +4827,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Oro-Medonte",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Oshawa - LEVEL 1: Beginners Pickleball League",
@@ -4675,9 +4854,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Oshawa",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Oshawa - LEVEL 2: Experienced Beginners Pickleball League",
@@ -4701,9 +4881,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Oshawa",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Ottawa - LEVEL 1: Beginners Pickleball League",
@@ -4727,9 +4908,10 @@
     "updated_price": "14.84",
     "taxes": null,
     "fee_index": 0,
+    "City": "Ottawa",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Ottawa - LEVEL 1: Beginners Pickleball League",
@@ -4753,9 +4935,10 @@
     "updated_price": "103.86",
     "taxes": null,
     "fee_index": 0,
+    "City": "Ottawa",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Ottawa - LEVEL 2: Experienced Beginners Pickleball League",
@@ -4779,9 +4962,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Ottawa",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Owen Sound - LEVEL 1: Beginners Pickleball League",
@@ -4805,9 +4989,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Owen Sound",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Owen Sound - LEVEL 2: Experienced Beginners Pickleball League",
@@ -4831,9 +5016,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Owen Sound",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Perth - LEVEL 2: Experienced Beginners Pickleball League",
@@ -4857,9 +5043,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Perth",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Picton - LEVEL 1: Beginners Pickleball League",
@@ -4883,9 +5070,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Picton",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Port Colborne - LEVEL 1: Beginners Pickleball League",
@@ -4909,9 +5097,10 @@
     "updated_price": "29.67",
     "taxes": null,
     "fee_index": 1,
+    "City": "Port Colborne",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Port Colborne - LEVEL 2: Experienced Beginners Pickleball League",
@@ -4935,9 +5124,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Port Colborne",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Port Hope - LEVEL 1: Beginners Pickleball League",
@@ -4961,9 +5151,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Port Hope",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Port Perry - LEVEL 1: Beginners Pickleball League (ROUND ROBIN)",
@@ -4987,9 +5178,10 @@
     "updated_price": "29.67",
     "taxes": null,
     "fee_index": 0,
+    "City": "Port Perry",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Prince George - LEVEL 1:  Beginners Pickleball League",
@@ -5013,9 +5205,10 @@
     "updated_price": "122.82",
     "taxes": null,
     "fee_index": 0,
+    "City": "Prince George",
+    "Province": "BC",
     "DL": null,
-    "COACHES": null,
-    "Province": "BC"
+    "COACHES": null
   },
   {
     "Title": "Prince George - LEVEL 1:  Beginners Pickleball League",
@@ -5039,9 +5232,10 @@
     "updated_price": "100.95",
     "taxes": null,
     "fee_index": 0,
+    "City": "Prince George",
+    "Province": "BC",
     "DL": null,
-    "COACHES": null,
-    "Province": "BC"
+    "COACHES": null
   },
   {
     "Title": "Richmond Hill - Jr Badminton (10 - 13)",
@@ -5065,9 +5259,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Richmond Hill",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Richmond Hill - Jr Badminton (11 - 13)",
@@ -5091,9 +5286,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Richmond Hill",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Richmond Hill - Jr Badminton (11 - 13)",
@@ -5117,9 +5313,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Richmond Hill",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Richmond Hill - Jr Badminton (14 - 16)",
@@ -5143,9 +5340,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Richmond Hill",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Richmond Hill - Jr Badminton (14 - 16)",
@@ -5169,9 +5367,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Richmond Hill",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Richmond Hill - Jr Badminton (8 - 10)",
@@ -5195,9 +5394,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Richmond Hill",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Richmond Hill - Jr Badminton (8 - 10)",
@@ -5221,9 +5421,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Richmond Hill",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Richmond Hill - Jr Basketabll (8 - 10)",
@@ -5247,9 +5448,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Richmond Hill",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Richmond Hill - Jr Basketabll (8 - 10)",
@@ -5273,9 +5475,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Richmond Hill",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Richmond Hill - Jr Basketabll (8 - 10)",
@@ -5299,9 +5502,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Richmond Hill",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Richmond HIll - Jr Basketball (11 - 13)",
@@ -5325,9 +5529,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Richmond HIll",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (11 - 13)",
@@ -5351,9 +5556,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Richmond Hill",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (11 - 13)",
@@ -5377,9 +5583,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Richmond Hill",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (11 - 13)",
@@ -5403,9 +5610,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Richmond Hill",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (11 - 13) Mini",
@@ -5429,9 +5637,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Richmond Hill",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (5 - 7)",
@@ -5455,9 +5664,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Richmond Hill",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (5 - 7)",
@@ -5481,9 +5691,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Richmond Hill",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (5 - 7)",
@@ -5507,9 +5718,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Richmond Hill",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (5 - 7)",
@@ -5533,9 +5745,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Richmond Hill",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (5 - 7)",
@@ -5559,9 +5772,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Richmond Hill",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (5 - 7) Mini",
@@ -5585,9 +5799,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Richmond Hill",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (5 - 7) Mini",
@@ -5611,9 +5826,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Richmond Hill",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (8 - 10)",
@@ -5637,9 +5853,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Richmond Hill",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (8 - 10) Mini",
@@ -5663,9 +5880,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Richmond Hill",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (8 - 10) Mini",
@@ -5689,9 +5907,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Richmond Hill",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (Girls) Mini",
@@ -5715,9 +5934,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Richmond Hill",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Richmond Hill - LEVEL 2: Experienced Beginners Pickleball League",
@@ -5741,9 +5961,10 @@
     "updated_price": "74.18",
     "taxes": null,
     "fee_index": 0,
+    "City": "Richmond Hill",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Richmond Hill Jr Basketball (8 - 10)",
@@ -5767,9 +5988,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Richmond Hill Jr Basketball (8",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Richmond Hill Jr Basketball (8 - 10)",
@@ -5793,9 +6015,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Richmond Hill Jr Basketball (8",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Richmond Hill Jr Basketball (Girls)",
@@ -5819,9 +6042,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "#VALUE!",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Richmond Hill Jr Basketball (Girls)",
@@ -5845,9 +6069,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "#VALUE!",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Severn - LEVEL 1: Beginners Pickleball League",
@@ -5871,9 +6096,10 @@
     "updated_price": "14.84",
     "taxes": null,
     "fee_index": 0,
+    "City": "Severn",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Severn - LEVEL 1: Beginners Pickleball League",
@@ -5897,9 +6123,10 @@
     "updated_price": "103.86",
     "taxes": null,
     "fee_index": 0,
+    "City": "Severn",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Severn - LEVEL 3: Intermediate Pickleball League",
@@ -5923,9 +6150,10 @@
     "updated_price": "14.84",
     "taxes": null,
     "fee_index": 1,
+    "City": "Severn",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Severn - LEVEL 3: Intermediate Pickleball League",
@@ -5949,9 +6177,10 @@
     "updated_price": "103.86",
     "taxes": null,
     "fee_index": 1,
+    "City": "Severn",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "South Bruce - LEVEL 1: Beginners Pickleball League",
@@ -5975,9 +6204,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "South Bruce",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "South River - LEVEL 1: Beginners Pickleball League",
@@ -6001,9 +6231,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "South River",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Squamish - LEVEL 1:  Beginners Pickleball League",
@@ -6027,9 +6258,10 @@
     "updated_price": "98.53",
     "taxes": null,
     "fee_index": 0,
+    "City": "Squamish",
+    "Province": "BC",
     "DL": null,
-    "COACHES": null,
-    "Province": "BC"
+    "COACHES": null
   },
   {
     "Title": "Squamish - LEVEL 1: Beginners Pickleball League",
@@ -6053,9 +6285,10 @@
     "updated_price": "98.53",
     "taxes": null,
     "fee_index": 0,
+    "City": "Squamish",
+    "Province": "BC",
     "DL": null,
-    "COACHES": null,
-    "Province": "BC"
+    "COACHES": null
   },
   {
     "Title": "St. Catharines - LEVEL 1: Beginners Pickleball League",
@@ -6079,9 +6312,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "St. Catharines",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Stirling - LEVEL 1: Beginners Pickleball League",
@@ -6105,9 +6339,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Stirling",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Stouffville - LEVEL 2: Experienced Beginners Pickleball League",
@@ -6131,9 +6366,10 @@
     "updated_price": "103.86",
     "taxes": null,
     "fee_index": 0,
+    "City": "Stouffville",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Stouffville - LEVEL 3: Intermediate Pickleball League",
@@ -6157,9 +6393,10 @@
     "updated_price": "29.67",
     "taxes": null,
     "fee_index": 0,
+    "City": "Stouffville",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Sudbury - LEVEL 1: Beginners Pickleball League",
@@ -6183,9 +6420,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Sudbury",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Sudbury - LEVEL 2: Experienced Beginners Pickleball League",
@@ -6209,9 +6447,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Sudbury",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Surrey - LEVEL 1: Beginners Pickleball League",
@@ -6235,9 +6474,10 @@
     "updated_price": "108.08",
     "taxes": null,
     "fee_index": 0,
+    "City": "Surrey",
+    "Province": "BC",
     "DL": null,
-    "COACHES": null,
-    "Province": "BC"
+    "COACHES": null
   },
   {
     "Title": "Surrey - LEVEL 1: Beginners Pickleball League",
@@ -6261,9 +6501,10 @@
     "updated_price": "71.67",
     "taxes": null,
     "fee_index": 0,
+    "City": "Surrey",
+    "Province": "BC",
     "DL": null,
-    "COACHES": null,
-    "Province": "BC"
+    "COACHES": null
   },
   {
     "Title": "Sutton - LEVEL 2: Experienced Beginners Pickleball League",
@@ -6287,9 +6528,10 @@
     "updated_price": "44.51",
     "taxes": null,
     "fee_index": 0,
+    "City": "Sutton",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Sutton - LEVEL 2: Experienced Beginners Pickleball League",
@@ -6313,9 +6555,10 @@
     "updated_price": "103.86",
     "taxes": null,
     "fee_index": 0,
+    "City": "Sutton",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Terrace - Beginners/Intermediate Pickleball League",
@@ -6339,9 +6582,10 @@
     "updated_price": "124.25",
     "taxes": null,
     "fee_index": 0,
+    "City": "Terrace",
+    "Province": "BC",
     "DL": null,
-    "COACHES": null,
-    "Province": "BC"
+    "COACHES": null
   },
   {
     "Title": "Terrace - LEVEL 1: Beginners Pickleball League",
@@ -6365,9 +6609,10 @@
     "updated_price": "124.25",
     "taxes": null,
     "fee_index": 0,
+    "City": "Terrace",
+    "Province": "BC",
     "DL": null,
-    "COACHES": null,
-    "Province": "BC"
+    "COACHES": null
   },
   {
     "Title": "Terrace - LEVEL 1: Beginners Pickleball League",
@@ -6391,9 +6636,10 @@
     "updated_price": "108.72",
     "taxes": null,
     "fee_index": 0,
+    "City": "Terrace",
+    "Province": "BC",
     "DL": null,
-    "COACHES": null,
-    "Province": "BC"
+    "COACHES": null
   },
   {
     "Title": "Tiny Township - Jr Basketball (11 - 13 yrs)",
@@ -6417,9 +6663,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Tiny Township",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Tiny Township - Jr Basketball (5 - 7 yrs)",
@@ -6443,9 +6690,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Tiny Township",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Tiny Township - Jr Basketball (8 - 10 yrs)",
@@ -6469,9 +6717,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Tiny Township",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Trenton - LEVEL 1: Beginners Pickleball League",
@@ -6495,9 +6744,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Trenton",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Truro - LEVEL 1: Beginners Pickleball League",
@@ -6521,9 +6771,10 @@
     "updated_price": "54.72",
     "taxes": null,
     "fee_index": 0,
+    "City": "Truro",
+    "Province": "NS",
     "DL": null,
-    "COACHES": null,
-    "Province": "NS"
+    "COACHES": null
   },
   {
     "Title": "Truro - LEVEL 1: Beginners Pickleball League",
@@ -6547,9 +6798,10 @@
     "updated_price": "82.08",
     "taxes": null,
     "fee_index": 0,
+    "City": "Truro",
+    "Province": "NS",
     "DL": null,
-    "COACHES": null,
-    "Province": "NS"
+    "COACHES": null
   },
   {
     "Title": "Vaughan - Pickleball Clinic Intro: LEVEL 1",
@@ -6573,9 +6825,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Vaughan",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Vaughan - Pickleball Clinic Intro: LEVEL 1",
@@ -6599,9 +6852,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Vaughan",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Vaughan - Pickleball Clinic Intro: LEVEL 1",
@@ -6625,9 +6879,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Vaughan",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Vaughan - Pickleball Clinic Intro: LEVEL 1",
@@ -6651,9 +6906,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Vaughan",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Vaughan - Pickleball Clinic Intro: LEVEL 1",
@@ -6677,9 +6933,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Vaughan",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Vaughan - Pickleball Clinic: LEVEL 2",
@@ -6703,9 +6960,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Vaughan",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Vaughan - Pickleball Clinic: LEVEL 2",
@@ -6729,9 +6987,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Vaughan",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Vaughan - Pickleball Clinic: LEVEL 2",
@@ -6755,9 +7014,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Vaughan",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Vaughan - Pickleball Clinic: LEVEL 2",
@@ -6781,9 +7041,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Vaughan",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Vaughan - Pickleball Clinic: LEVEL 2",
@@ -6807,9 +7068,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
+    "City": "Vaughan",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Vernon - LEVEL 1: Beginners Pickleball League",
@@ -6833,9 +7095,10 @@
     "updated_price": "115.34",
     "taxes": null,
     "fee_index": 0,
+    "City": "Vernon",
+    "Province": "BC",
     "DL": null,
-    "COACHES": null,
-    "Province": "BC"
+    "COACHES": null
   },
   {
     "Title": "Vernon - LEVEL 1: Beginners Pickleball League",
@@ -6859,9 +7122,10 @@
     "updated_price": "131.82",
     "taxes": null,
     "fee_index": 0,
+    "City": "Vernon",
+    "Province": "BC",
     "DL": null,
-    "COACHES": null,
-    "Province": "BC"
+    "COACHES": null
   },
   {
     "Title": "Vernon - LEVEL 1: Beginners Pickleball League",
@@ -6885,9 +7149,10 @@
     "updated_price": "131.82",
     "taxes": null,
     "fee_index": 0,
+    "City": "Vernon",
+    "Province": "BC",
     "DL": null,
-    "COACHES": null,
-    "Province": "BC"
+    "COACHES": null
   },
   {
     "Title": "Victoria - Intermediate/Beginners Hybrid Pickleball League",
@@ -6911,9 +7176,10 @@
     "updated_price": "58.50",
     "taxes": null,
     "fee_index": 0,
+    "City": "Victoria",
+    "Province": "BC",
     "DL": null,
-    "COACHES": null,
-    "Province": "BC"
+    "COACHES": null
   },
   {
     "Title": "Victoria - LEVEL 1: Beginners Pickleball League",
@@ -6937,9 +7203,10 @@
     "updated_price": "55.65",
     "taxes": null,
     "fee_index": 0,
+    "City": "Victoria",
+    "Province": "BC",
     "DL": null,
-    "COACHES": null,
-    "Province": "BC"
+    "COACHES": null
   },
   {
     "Title": "Wasaga Beach - LEVEL 1: Beginners Pickleball League",
@@ -6963,9 +7230,10 @@
     "updated_price": "44.51",
     "taxes": null,
     "fee_index": 1,
+    "City": "Wasaga Beach",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Wasaga Beach - LEVEL 1: Beginners Pickleball League",
@@ -6989,9 +7257,10 @@
     "updated_price": "29.67",
     "taxes": null,
     "fee_index": 0,
+    "City": "Wasaga Beach",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Wasaga Beach - LEVEL 1: Beginners Pickleball League",
@@ -7015,9 +7284,10 @@
     "updated_price": "103.86",
     "taxes": null,
     "fee_index": 0,
+    "City": "Wasaga Beach",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Wasaga Beach - LEVEL 2: Experienced Beginners Pickleball League",
@@ -7041,9 +7311,10 @@
     "updated_price": "44.51",
     "taxes": null,
     "fee_index": 2,
+    "City": "Wasaga Beach",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Wasaga Beach - LEVEL 2: Experienced Beginners Pickleball League",
@@ -7067,9 +7338,10 @@
     "updated_price": "29.67",
     "taxes": null,
     "fee_index": 3,
+    "City": "Wasaga Beach",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Wasaga Beach - LEVEL 2: Experienced Beginners Pickleball League",
@@ -7093,9 +7365,10 @@
     "updated_price": "103.86",
     "taxes": null,
     "fee_index": 0,
+    "City": "Wasaga Beach",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Waterloo - LEVEL 1: Beginners Pickleball League",
@@ -7119,9 +7392,10 @@
     "updated_price": "74.18",
     "taxes": null,
     "fee_index": 0,
+    "City": "Waterloo",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "West Northfield - Parent + Youth Pickleball (12 - 18 yrs)",
@@ -7145,9 +7419,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": 0,
+    "City": "West Northfield",
+    "Province": "NS",
     "DL": null,
-    "COACHES": null,
-    "Province": "NS"
+    "COACHES": null
   },
   {
     "Title": "West Northfield - Parent + Youth Pickleball (9 - 12 yrs)",
@@ -7171,9 +7446,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": 0,
+    "City": "West Northfield",
+    "Province": "NS",
     "DL": null,
-    "COACHES": null,
-    "Province": "NS"
+    "COACHES": null
   },
   {
     "Title": "Whitby - LEVEL 1: Beginners Pickleball League",
@@ -7197,9 +7473,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Whitby",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Whitby - LEVEL 2: Experienced Beginners Pickleball League",
@@ -7223,9 +7500,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Whitby",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Windsor, NS - LEVEL 1: Beginners Pickleball League",
@@ -7249,9 +7527,10 @@
     "updated_price": "54.72",
     "taxes": null,
     "fee_index": 0,
+    "City": "Windsor, NS",
+    "Province": "NS",
     "DL": null,
-    "COACHES": null,
-    "Province": "NS"
+    "COACHES": null
   },
   {
     "Title": "Windsor, NS - LEVEL 1: Beginners Pickleball League",
@@ -7275,9 +7554,10 @@
     "updated_price": "109.44",
     "taxes": null,
     "fee_index": 0,
+    "City": "Windsor, NS",
+    "Province": "NS",
     "DL": null,
-    "COACHES": null,
-    "Province": "NS"
+    "COACHES": null
   },
   {
     "Title": "Stoney Creek - LEVEL 1: Beginners Pickleball League",
@@ -7301,9 +7581,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Stoney Creek",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Stoney Creek  - LEVEL 2: Experienced Beginners Pickleball League",
@@ -7327,9 +7608,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Stoney Creek",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Hamilton - LEVEL 1: Beginners Pickleball League",
@@ -7353,9 +7635,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Hamilton",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Dundas - LEVEL 1: Beginners Pickleball League",
@@ -7379,9 +7662,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Dundas",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Dundas - LEVEL 2: Experienced Beginners Pickleball League",
@@ -7405,9 +7689,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Dundas",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Kitchener - LEVEL 1: Beginners Pickleball League",
@@ -7431,9 +7716,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Kitchener",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Hamilton - LEVEL 1: Beginners Pickleball League",
@@ -7457,9 +7743,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Hamilton",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Hamilton - LEVEL 2: Experienced Beginners Pickleball League",
@@ -7483,9 +7770,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Hamilton",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Cornwall - LEVEL 1: Beginners Pickleball League",
@@ -7509,9 +7797,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Cornwall",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Stayner - LEVEL 2: Advanced Beginners Pickleball League",
@@ -7535,9 +7824,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Stayner",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Keswick - LEVEL 1: Beginners Pickleball League",
@@ -7561,9 +7851,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Keswick",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "West Grey - LEVEL 1: Beginners Pickleball League",
@@ -7587,9 +7878,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "West Grey",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Markdale - LEVEL 1: Beginners Pickleball League",
@@ -7613,9 +7905,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Markdale",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Kincardine - LEVEL 1: Beginners Pickleball League",
@@ -7639,9 +7932,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Kincardine",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Bracebridge - LEVEL 2: Experienced Beginners Pickleball League",
@@ -7665,9 +7959,10 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Bracebridge",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   },
   {
     "Title": "Bracebridge - LEVEL 1: Beginners Pickleball League",
@@ -7691,8 +7986,9 @@
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
+    "City": "Bracebridge",
+    "Province": "ON",
     "DL": null,
-    "COACHES": null,
-    "Province": "ON"
+    "COACHES": null
   }
 ]
