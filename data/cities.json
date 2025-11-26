@@ -24,6 +24,12 @@
     "Active": 7
   },
   {
+    "City": "King City",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/king-city-pickleball/",
+    "Active": 7
+  },
+  {
     "City": "Oro-Medonte",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/oro-pickleball/",
@@ -810,13 +816,13 @@
     "Active": 0
   },
   {
-    "City": "Portugal Cove-St. Philip?s",
+    "City": "Portugal Cove-St. Philips",
     "Province": "NF",
     "PageURL": "https://eapickleball.com/nl-portugal-cove-st-philips/",
     "Active": 0
   },
   {
-    "City": "St. John?s",
+    "City": "St. Johns",
     "Province": "NF",
     "PageURL": "https://eapickleball.com/nl-st-johns/",
     "Active": 0
@@ -957,12 +963,6 @@
     "City": "Innisfil",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/innisfil-pickleball/",
-    "Active": 0
-  },
-  {
-    "City": "King City/Nobleton",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/king-city-pickleball/",
     "Active": 0
   },
   {
