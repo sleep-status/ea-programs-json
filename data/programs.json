@@ -5535,7 +5535,7 @@
     "COACHES": null
   },
   {
-    "Title": "Richmond Hill Jr Basketball (8 - 10)",
+    "Title": "Richmond Hill - Jr Basketball (8 - 10)",
     "TotalPrice": 136,
     "Prorate": false,
     "StaticPriceText": "136",
@@ -5556,13 +5556,13 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
-    "City": "Richmond Hill Jr Basketball (8",
+    "City": "Richmond Hill",
     "Province": "ON",
     "DL": null,
     "COACHES": null
   },
   {
-    "Title": "Richmond Hill Jr Basketball (8 - 10)",
+    "Title": "Richmond Hill - Jr Basketball (8 - 10)",
     "TotalPrice": 136,
     "Prorate": false,
     "StaticPriceText": "136",
@@ -5583,13 +5583,13 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
-    "City": "Richmond Hill Jr Basketball (8",
+    "City": "Richmond Hill",
     "Province": "ON",
     "DL": null,
     "COACHES": null
   },
   {
-    "Title": "Richmond Hill Jr Basketball (Girls)",
+    "Title": "Richmond Hill - Jr Basketball (Girls)",
     "TotalPrice": 136,
     "Prorate": false,
     "StaticPriceText": "136",
@@ -5610,13 +5610,13 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
-    "City": "#VALUE!",
+    "City": "Richmond Hill",
     "Province": "ON",
     "DL": null,
     "COACHES": null
   },
   {
-    "Title": "Richmond Hill Jr Basketball (Girls)",
+    "Title": "Richmond Hill - Jr Basketball (Girls)",
     "TotalPrice": 136,
     "Prorate": false,
     "StaticPriceText": "136",
@@ -5637,7 +5637,7 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
-    "City": "#VALUE!",
+    "City": "Richmond Hill",
     "Province": "ON",
     "DL": null,
     "COACHES": null
