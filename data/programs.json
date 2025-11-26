@@ -113,15 +113,15 @@
     "LocationName": "Naismith Memorial Public School",
     "LocationLink": "https://maps.app.goo.gl/8LB1PRDV1YhN8zh39",
     "RegisterLink": "https://registration.teamsnap.com/form/40053",
-    "URL": "https://eapickleball.com/almonte-pickleball/",
-    "pageIdentifyer": "almonte-pickleball",
+    "URL": "https://eapickleball.com/lanark-county/",
+    "pageIdentifyer": "lanark-county",
     "Category": "EA",
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/40053/6",
     "updated_price": "44.51",
     "taxes": null,
     "fee_index": 0,
-    "DL": "Jeramy",
+    "DL": null,
     "COACHES": null
   },
   {
@@ -138,15 +138,15 @@
     "LocationName": "Naismith Memorial Public School",
     "LocationLink": "https://maps.app.goo.gl/8LB1PRDV1YhN8zh39",
     "RegisterLink": "https://registration.teamsnap.com/form/44566",
-    "URL": "https://eapickleball.com/almonte-pickleball/",
-    "pageIdentifyer": "almonte-pickleball",
+    "URL": "https://eapickleball.com/lanark-county/",
+    "pageIdentifyer": "lanark-county",
     "Category": "EA",
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/44566/6",
     "updated_price": "103.86",
     "taxes": null,
     "fee_index": 0,
-    "DL": "Jeramy",
+    "DL": null,
     "COACHES": null
   },
   {
@@ -163,15 +163,15 @@
     "LocationName": "Almonte District High School",
     "LocationLink": "https://maps.app.goo.gl/JptVsDKUg1DVE5fZ8",
     "RegisterLink": "https://registration.teamsnap.com/form/45516",
-    "URL": "https://eapickleball.com/almonte-pickleball/",
-    "pageIdentifyer": "almonte-pickleball",
+    "URL": "https://eapickleball.com/lanark-county/",
+    "pageIdentifyer": "lanark-county",
     "Category": "EA",
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45516/6",
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
-    "DL": "Jeramy",
+    "DL": null,
     "COACHES": null
   },
   {
@@ -196,7 +196,7 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
-    "DL": "Jimmy",
+    "DL": null,
     "COACHES": null
   },
   {
@@ -221,7 +221,7 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
-    "DL": "Jimmy",
+    "DL": null,
     "COACHES": null
   },
   {
@@ -246,7 +246,7 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
-    "DL": "Jimmy",
+    "DL": null,
     "COACHES": null
   },
   {
@@ -271,7 +271,7 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
-    "DL": "Jimmy",
+    "DL": null,
     "COACHES": null
   },
   {
@@ -296,7 +296,7 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
-    "DL": "Jimmy",
+    "DL": null,
     "COACHES": null
   },
   {
@@ -321,7 +321,7 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
-    "DL": "Jimmy",
+    "DL": null,
     "COACHES": null
   },
   {
@@ -346,7 +346,7 @@
     "updated_price": "89.02",
     "taxes": null,
     "fee_index": 0,
-    "DL": "Jimmy",
+    "DL": null,
     "COACHES": null
   },
   {
@@ -4663,15 +4663,15 @@
     "LocationName": "Queen Elizabeth ES",
     "LocationLink": "https://maps.app.goo.gl/sFDAwCA8RdzMD2R47",
     "RegisterLink": "https://registration.teamsnap.com/form/45534",
-    "URL": "https://eapickleball.com/perth-pickleball/",
-    "pageIdentifyer": "perth-pickleball",
+    "URL": "https://eapickleball.com/lanark-county/",
+    "pageIdentifyer": "lanark-county",
     "Category": "EA",
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45534/6",
     "updated_price": "118.70",
     "taxes": null,
     "fee_index": 0,
-    "DL": "Jeramy",
+    "DL": null,
     "COACHES": null
   },
   {
