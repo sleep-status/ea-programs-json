@@ -36,6 +36,12 @@
     "Active": 6
   },
   {
+    "City": "Bridgewater",
+    "Province": "NS",
+    "PageURL": "https://eapickleball.com/bridgewater/",
+    "Active": 6
+  },
+  {
     "City": "Brampton",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/brampton-pickleball/",
@@ -825,12 +831,6 @@
     "City": "Bedford",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/bedford/",
-    "Active": 0
-  },
-  {
-    "City": "Bridgewater/Lunenburg",
-    "Province": "NS",
-    "PageURL": "https://eapickleball.com/bridgewater/",
     "Active": 0
   },
   {
