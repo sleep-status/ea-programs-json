@@ -96,6 +96,12 @@
     "Active": 4
   },
   {
+    "City": "Lanark County",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/lanark-county/",
+    "Active": 4
+  },
+  {
     "City": "Coquitlam",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/coquitlam/",
@@ -967,12 +973,6 @@
   },
   {
     "City": "Lanark",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/lanark-county/",
-    "Active": 0
-  },
-  {
-    "City": "Lanark County",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/lanark-county/",
     "Active": 0
