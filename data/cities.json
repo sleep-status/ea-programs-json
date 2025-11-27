@@ -18,6 +18,12 @@
     "Active": 8
   },
   {
+    "City": "North York",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/north-york-pickleball/",
+    "Active": 8
+  },
+  {
     "City": "Aurora",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/aurora/",
@@ -54,18 +60,6 @@
     "Active": 5
   },
   {
-    "City": "North York",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/north-york-pickleball/",
-    "Active": 5
-  },
-  {
-    "City": "North Vancouver",
-    "Province": "BC",
-    "PageURL": "https://bc.eapickleball.com/north-vancouver/",
-    "Active": 3
-  },
-  {
     "City": "Alliston",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/alliston-pickleball/",
@@ -96,10 +90,10 @@
     "Active": 4
   },
   {
-    "City": "Lanark County",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/lanark-county/",
-    "Active": 0
+    "City": "North Vancouver",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/north-vancouver/",
+    "Active": 3
   },
   {
     "City": "Coquitlam",
@@ -430,6 +424,12 @@
     "Province": "ON",
     "PageURL": "https://eapickleball.com/west-grey/",
     "Active": 1
+  },
+  {
+    "City": "Lanark County",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/lanark-county/",
+    "Active": 0
   },
   {
     "City": "Airdrie",
