@@ -63,7 +63,7 @@
     "City": "North Vancouver",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/north-vancouver/",
-    "Active": 4
+    "Active": 3
   },
   {
     "City": "Alliston",
@@ -99,7 +99,7 @@
     "City": "Lanark County",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/lanark-county/",
-    "Active": 4
+    "Active": 0
   },
   {
     "City": "Coquitlam",
@@ -273,7 +273,7 @@
     "City": "Chilliwack",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/chilliwack/",
-    "Active": 1
+    "Active": 2
   },
   {
     "City": "Kitimat",
