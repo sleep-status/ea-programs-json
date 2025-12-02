@@ -3,12 +3,18 @@
     "City": "Newmarket",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/newmarket-ea-pickleball/",
-    "Active": 29
+    "Active": 28
   },
   {
     "City": "Vaughan",
     "Province": "ON",
     "PageURL": "http://eapickleball.com/vaughan/",
+    "Active": 8
+  },
+  {
+    "City": "East Gwillimbury",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/east-gwillimbury-ea-pickleball",
     "Active": 9
   },
   {
@@ -69,12 +75,6 @@
     "City": "Caledon",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/caledon-pickleball-league/",
-    "Active": 4
-  },
-  {
-    "City": "East Gwillimbury",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/east-gwillimbury-ea-pickleball",
     "Active": 4
   },
   {
@@ -255,7 +255,7 @@
     "City": "Whitby",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/whitby-pickleball/",
-    "Active": 2
+    "Active": 0
   },
   {
     "City": "Chilliwack",
@@ -1311,6 +1311,12 @@
     "City": "Victoriaville",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/victoriaville",
+    "Active": 0
+  },
+  {
+    "City": "Fairgrounds",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/fairgrounds",
     "Active": 0
   }
 ]
