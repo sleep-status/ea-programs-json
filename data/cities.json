@@ -6,16 +6,16 @@
     "Active": 28
   },
   {
-    "City": "Vaughan",
-    "Province": "ON",
-    "PageURL": "http://eapickleball.com/vaughan/",
-    "Active": 8
-  },
-  {
     "City": "East Gwillimbury",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/east-gwillimbury-ea-pickleball",
     "Active": 9
+  },
+  {
+    "City": "Vaughan",
+    "Province": "ON",
+    "PageURL": "http://eapickleball.com/vaughan/",
+    "Active": 8
   },
   {
     "City": "Keswick",
@@ -87,6 +87,18 @@
     "City": "Cambridge",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/cambridgepickleball/",
+    "Active": 4
+  },
+  {
+    "City": "Fairgrounds",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/fairgrounds/",
+    "Active": 4
+  },
+  {
+    "City": "Lanark County",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/lanark-county/",
     "Active": 4
   },
   {
@@ -250,12 +262,6 @@
     "Province": "ON",
     "PageURL": "https://eapickleball.com/sutton-pickleball-2/",
     "Active": 2
-  },
-  {
-    "City": "Whitby",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/whitby-pickleball/",
-    "Active": 0
   },
   {
     "City": "Chilliwack",
@@ -432,15 +438,15 @@
     "Active": 1
   },
   {
-    "City": "Gravenhurst",
+    "City": "Whitby",
     "Province": "ON",
-    "PageURL": "https://eapickleball.com/gravenhurst/",
+    "PageURL": "https://eapickleball.com/whitby-pickleball/",
     "Active": 0
   },
   {
-    "City": "Lanark County",
+    "City": "Gravenhurst",
     "Province": "ON",
-    "PageURL": "https://eapickleball.com/lanark-county/",
+    "PageURL": "https://eapickleball.com/gravenhurst/",
     "Active": 0
   },
   {
@@ -1312,11 +1318,5 @@
     "Province": "QC",
     "PageURL": "https://eapickleball.com/victoriaville",
     "Active": 0
-  },
-  {
-    "City": "Fairgrounds",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/fairgrounds",
-    "Active": 4
   }
 ]
