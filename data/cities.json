@@ -66,6 +66,12 @@
     "Active": 5
   },
   {
+    "City": "Uxbridge",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/uxbridge-pickleball/",
+    "Active": 5
+  },
+  {
     "City": "Alliston",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/alliston-pickleball/",
@@ -100,12 +106,6 @@
     "Province": "ON",
     "PageURL": "https://eapickleball.com/lanark-county/",
     "Active": 4
-  },
-  {
-    "City": "Bolton",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/bolton-pickleball/",
-    "Active": 3
   },
   {
     "City": "Bracebridge",
@@ -160,6 +160,18 @@
     "Province": "ON",
     "PageURL": "https://eapickleball.com/ottawa-pickleball/",
     "Active": 3
+  },
+  {
+    "City": "Newcastle",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/newcastle-pickleball/",
+    "Active": 3
+  },
+  {
+    "City": "Bolton",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/bolton-pickleball/",
+    "Active": 2
   },
   {
     "City": "Prince George",
@@ -279,6 +291,12 @@
     "City": "Milton",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/milton/",
+    "Active": 2
+  },
+  {
+    "City": "Nanaimo",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/nanaimo/",
     "Active": 2
   },
   {
@@ -555,12 +573,6 @@
     "City": "Kelowna",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/kelowna/",
-    "Active": 0
-  },
-  {
-    "City": "Nanaimo",
-    "Province": "BC",
-    "PageURL": "https://bc.eapickleball.com/nanaimo/",
     "Active": 0
   },
   {
@@ -1014,12 +1026,6 @@
     "Active": 0
   },
   {
-    "City": "Newcaslte",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/newcastle-pickleball/",
-    "Active": 0
-  },
-  {
     "City": "Niagara",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/niagara-pickleball/",
@@ -1143,12 +1149,6 @@
     "City": "Tottenham",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/tottenham-pickleball/",
-    "Active": 0
-  },
-  {
-    "City": "Uxbridge",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/uxbridge-pickleball/",
     "Active": 0
   },
   {
