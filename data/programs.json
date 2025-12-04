@@ -8499,10 +8499,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
-    "City": null,
-    "Province": null,
-    "DL": null,
-    "Coaches": null
+    "City": "Georgina",
+    "Province": "ON",
+    "DL": "?",
+    "Coaches": "?"
   },
   {
     "Title": "King City - Jr Badminton (14 - 16 yrs)",
@@ -8526,10 +8526,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
-    "City": null,
-    "Province": null,
-    "DL": null,
-    "Coaches": null
+    "City": "King City",
+    "Province": "ON",
+    "DL": "?",
+    "Coaches": "?"
   },
   {
     "Title": "King City - Jr Badminton (11 - 13 yrs)",
@@ -8553,10 +8553,10 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
-    "City": null,
-    "Province": null,
-    "DL": null,
-    "Coaches": null
+    "City": "King City",
+    "Province": "ON",
+    "DL": "?",
+    "Coaches": "?"
   },
   {
     "Title": "King City - Jr Badminton (8 - 10 yrs)",
@@ -8580,9 +8580,9 @@
     "updated_price": null,
     "taxes": null,
     "fee_index": null,
-    "City": null,
-    "Province": null,
-    "DL": null,
-    "Coaches": null
+    "City": "King City",
+    "Province": "ON",
+    "DL": "?",
+    "Coaches": "?"
   }
 ]
