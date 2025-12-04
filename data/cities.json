@@ -300,6 +300,12 @@
     "Active": 2
   },
   {
+    "City": "Severn/Cumberland Beach",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/severn-pickleball/",
+    "Active": 2
+  },
+  {
     "City": "Oshawa",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/oshawa-pickleball/",
@@ -333,12 +339,6 @@
     "City": "Cobourg",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/cobourg/",
-    "Active": 1
-  },
-  {
-    "City": "Cornwall",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/cornwall/",
     "Active": 1
   },
   {
@@ -454,6 +454,12 @@
     "Province": "ON",
     "PageURL": "https://eapickleball.com/burlington/",
     "Active": 1
+  },
+  {
+    "City": "Cornwall",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/cornwall/",
+    "Active": 0
   },
   {
     "City": "Whitby",
@@ -1095,12 +1101,6 @@
     "City": "Renfrew",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/renfrew-pickleball/",
-    "Active": 0
-  },
-  {
-    "City": "Severn/Cumberland Beach",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/severn-pickleball/",
     "Active": 0
   },
   {
