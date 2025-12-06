@@ -108,6 +108,12 @@
     "Active": 4
   },
   {
+    "City": "Burlington",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/burlington/",
+    "Active": 4
+  },
+  {
     "City": "Bracebridge",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/bracebridge-pickleball/",
@@ -450,9 +456,15 @@
     "Active": 1
   },
   {
-    "City": "Burlington",
+    "City": "Oakville",
     "Province": "ON",
-    "PageURL": "https://eapickleball.com/burlington/",
+    "PageURL": "https://eapickleball.com/oakville",
+    "Active": 1
+  },
+  {
+    "City": "Campbellville",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/campbellville",
     "Active": 1
   },
   {
