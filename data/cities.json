@@ -6,6 +6,12 @@
     "Active": 28
   },
   {
+    "City": "Aurora",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/aurora/",
+    "Active": 20
+  },
+  {
     "City": "East Gwillimbury",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/east-gwillimbury-ea-pickleball",
@@ -18,15 +24,15 @@
     "Active": 8
   },
   {
-    "City": "Aurora",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/aurora/",
-    "Active": 8
-  },
-  {
     "City": "King City",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/king-city-pickleball/",
+    "Active": 7
+  },
+  {
+    "City": "Oshawa",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/oshawa-pickleball/",
     "Active": 7
   },
   {
@@ -52,12 +58,6 @@
     "Province": "NS",
     "PageURL": "https://eapickleball.com/bridgewater/",
     "Active": 6
-  },
-  {
-    "City": "Uxbridge",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/uxbridge-pickleball/",
-    "Active": 5
   },
   {
     "City": "Brampton",
@@ -93,12 +93,6 @@
     "City": "Fairgrounds",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/fairgrounds/",
-    "Active": 4
-  },
-  {
-    "City": "Lanark County",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/lanark-county/",
     "Active": 4
   },
   {
@@ -312,12 +306,6 @@
     "Active": 1
   },
   {
-    "City": "Oshawa",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/oshawa-pickleball/",
-    "Active": 1
-  },
-  {
     "City": "Kitimat",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/kitimat/",
@@ -466,6 +454,18 @@
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/kamloops/",
     "Active": 1
+  },
+  {
+    "City": "Uxbridge",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/uxbridge-pickleball/",
+    "Active": 0
+  },
+  {
+    "City": "Lanark County",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/lanark-county/",
+    "Active": 0
   },
   {
     "City": "Port Perry",
