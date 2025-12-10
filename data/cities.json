@@ -123,7 +123,7 @@
     "City": "Wasaga Beach",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/wasaga-beach/",
-    "Active": 3
+    "Active": 4
   },
   {
     "City": "Burlington",
@@ -186,6 +186,12 @@
     "Active": 3
   },
   {
+    "City": "Bolton",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/bolton-pickleball/",
+    "Active": 3
+  },
+  {
     "City": "Ottawa",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/ottawa-pickleball/",
@@ -195,12 +201,6 @@
     "City": "Alliston",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/alliston-pickleball/",
-    "Active": 2
-  },
-  {
-    "City": "Bolton",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/bolton-pickleball/",
     "Active": 2
   },
   {
