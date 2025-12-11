@@ -102,12 +102,6 @@
     "Active": 4
   },
   {
-    "City": "Victoria",
-    "Province": "BC",
-    "PageURL": "https://bc.eapickleball.com/victoria/",
-    "Active": 4
-  },
-  {
     "City": "Perth",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/lanark-county/",
@@ -124,6 +118,12 @@
     "Province": "ON",
     "PageURL": "https://eapickleball.com/wasaga-beach/",
     "Active": 4
+  },
+  {
+    "City": "Victoria",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/victoria/",
+    "Active": 3
   },
   {
     "City": "Burlington",
