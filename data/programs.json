@@ -8317,7 +8317,7 @@
   },
   {
     "Title": "Victoria - Learn to Play Pickleball",
-    "TotalPrice": 160,
+    "TotalPrice": 120,
     "Prorate": true,
     "StaticPriceText": null,
     "Day": "Fridays",
@@ -8334,7 +8334,7 @@
     "Category": "EA",
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46519/6",
-    "updated_price": "168.00",
+    "updated_price": "126.00",
     "taxes": null,
     "fee_index": 0,
     "City": "Victoria",
