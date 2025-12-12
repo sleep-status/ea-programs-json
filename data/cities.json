@@ -66,6 +66,12 @@
     "Active": 6
   },
   {
+    "City": "Caledon",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/caledon-pickleball-league/",
+    "Active": 6
+  },
+  {
     "City": "Brampton",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/brampton-pickleball/",
@@ -75,12 +81,6 @@
     "City": "North Vancouver",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/north-vancouver/",
-    "Active": 4
-  },
-  {
-    "City": "Caledon",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/caledon-pickleball-league/",
     "Active": 4
   },
   {
@@ -372,9 +372,9 @@
     "Active": 1
   },
   {
-    "City": "Huntsville",
+    "City": "Powassan",
     "Province": "ON",
-    "PageURL": "https://eapickleball.com/huntsville/",
+    "PageURL": "https://eapickleball.com/powassan/",
     "Active": 1
   },
   {
