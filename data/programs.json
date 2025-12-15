@@ -19,12 +19,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/40987/6",
     "updated_price": "118.70",
-    "taxes": 1.14,
     "fee_index": 0,
     "City": "Alliston",
     "Province": "ON",
     "DL": "Sheila",
-    "Coaches": "Sheri"
+    "Coaches": "Sheri",
+    "taxes": 1.14
   },
   {
     "Title": "Alliston - LEVEL 2: Experienced Beginners Pickleball League",
@@ -46,12 +46,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/40987/6",
     "updated_price": "118.70",
-    "taxes": 1.13,
     "fee_index": 1,
     "City": "Alliston",
     "Province": "ON",
     "DL": "Sheila",
-    "Coaches": "Sheri"
+    "Coaches": "Sheri",
+    "taxes": 1.13
   },
   {
     "Title": "Almonte - LEVEL 1: Beginners Pickleball League",
@@ -73,12 +73,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/40053/6",
     "updated_price": "14.84",
-    "taxes": 1.05,
     "fee_index": 0,
     "City": "Almonte",
     "Province": "ON",
     "DL": "Sheila",
-    "Coaches": "Paul O'Leary"
+    "Coaches": "Paul O'Leary",
+    "taxes": 1.05
   },
   {
     "Title": "Almonte - LEVEL 1: Beginners Pickleball League",
@@ -100,12 +100,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/44566/6",
     "updated_price": "103.86",
-    "taxes": 1,
     "fee_index": 0,
     "City": "Almonte",
     "Province": "ON",
     "DL": "Sheila",
-    "Coaches": "Paul O'Leary"
+    "Coaches": "Paul O'Leary",
+    "taxes": 1
   },
   {
     "Title": "Almonte - LEVEL 1: Beginners Pickleball League",
@@ -127,12 +127,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45516/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Almonte",
     "Province": "ON",
     "DL": "Sheila",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Aurora - Advanced Badminton Lessons (Jan - Feb)",
@@ -154,12 +154,12 @@
     "sport": "bad",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46250/6",
     "updated_price": "200.00",
-    "taxes": null,
     "fee_index": 0,
     "City": "Aurora",
     "Province": "ON",
     "DL": "?",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Aurora - Advanced Badminton Lessons (Mar - Apr)",
@@ -181,12 +181,12 @@
     "sport": "bad",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46252/6",
     "updated_price": "200.00",
-    "taxes": null,
     "fee_index": 0,
     "City": "Aurora",
     "Province": "ON",
     "DL": "?",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Aurora - Advanced Badminton Lessons (May - Jun)",
@@ -208,12 +208,12 @@
     "sport": "bad",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46254/6",
     "updated_price": "175.00",
-    "taxes": null,
     "fee_index": 0,
     "City": "Aurora",
     "Province": "ON",
     "DL": "?",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Aurora - Advanced Badminton Lessons (Nov - Dec)",
@@ -234,13 +234,13 @@
     "Category": "EA",
     "sport": "bad",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46248/6",
-    "updated_price": "50.00",
-    "taxes": null,
+    "updated_price": "25.00",
     "fee_index": 0,
     "City": "Aurora",
     "Province": "ON",
     "DL": "?",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Aurora - Beginner/Intermediate Badminton Lessons (Jan - Feb)",
@@ -262,12 +262,12 @@
     "sport": "bad",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46249/6",
     "updated_price": "200.00",
-    "taxes": null,
     "fee_index": 0,
     "City": "Aurora",
     "Province": "ON",
     "DL": "?",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Aurora - Beginner/Intermediate Badminton Lessons (Mar - Apr)",
@@ -289,12 +289,12 @@
     "sport": "bad",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46251/6",
     "updated_price": "200.00",
-    "taxes": null,
     "fee_index": 0,
     "City": "Aurora",
     "Province": "ON",
     "DL": "?",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Aurora - Beginner/Intermediate Badminton Lessons (May - Jun)",
@@ -316,12 +316,12 @@
     "sport": "bad",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46253/6",
     "updated_price": "175.00",
-    "taxes": null,
     "fee_index": 0,
     "City": "Aurora",
     "Province": "ON",
     "DL": "?",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Aurora - Beginner/Intermediate Badminton Lessons (Nov - Dec)",
@@ -342,13 +342,13 @@
     "Category": "EA",
     "sport": "bad",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46247/6",
-    "updated_price": "50.00",
-    "taxes": null,
+    "updated_price": "25.00",
     "fee_index": 0,
     "City": "Aurora",
     "Province": "ON",
     "DL": "?",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Aurora - Beginners Pickleball League (18+ yrs)",
@@ -370,12 +370,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Aurora",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Jimmy + Sarah"
+    "Coaches": "Jimmy + Sarah",
+    "taxes": null
   },
   {
     "Title": "Aurora - Beginners Pickleball League (18+ yrs)",
@@ -397,12 +397,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Aurora",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Nicholas"
+    "Coaches": "Nicholas",
+    "taxes": null
   },
   {
     "Title": "Aurora - Beginners Pickleball League (18+ yrs)",
@@ -424,12 +424,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Aurora",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Jimmy + Sarah"
+    "Coaches": "Jimmy + Sarah",
+    "taxes": null
   },
   {
     "Title": "Aurora - Beginners Pickleball League (18+ yrs)",
@@ -451,12 +451,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Aurora",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Jimmy + Sarah"
+    "Coaches": "Jimmy + Sarah",
+    "taxes": null
   },
   {
     "Title": "Aurora - Intermediate Pickleball League (18+ yrs)",
@@ -478,12 +478,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Aurora",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Jimmy + Sarah"
+    "Coaches": "Jimmy + Sarah",
+    "taxes": null
   },
   {
     "Title": "Aurora - Intermediate Pickleball League (18+ yrs)",
@@ -505,12 +505,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Aurora",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Jimmy + Sarah"
+    "Coaches": "Jimmy + Sarah",
+    "taxes": null
   },
   {
     "Title": "Aurora - LEVEL 2: Experienced Beginners Pickleball League",
@@ -532,12 +532,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45827/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Aurora",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Aurora - LEVEL 2: Experienced Beginners Pickleball League",
@@ -559,12 +559,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/44567/6",
     "updated_price": "59.35",
-    "taxes": null,
     "fee_index": 0,
     "City": "Aurora",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Billy"
+    "Coaches": "Billy",
+    "taxes": null
   },
   {
     "Title": "Belleville - LEVEL 1: Beginners Pickleball League",
@@ -586,12 +586,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45541/6",
     "updated_price": "133.53",
-    "taxes": null,
     "fee_index": 0,
     "City": "Belleville",
     "Province": "ON",
     "DL": "Karan",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Belleville - LEVEL 1: Beginners Pickleball League",
@@ -613,12 +613,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45543/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Belleville",
     "Province": "ON",
     "DL": "Karan",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Bolton - LEVEL 3: Intermeidate Pickleball League",
@@ -640,12 +640,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46730/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Bolton",
     "Province": "ON",
     "DL": "Karan",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Bolton - LEVEL 2: Experienced Beginners Pickleball League",
@@ -667,12 +667,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46731/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Bolton",
     "Province": "ON",
     "DL": "Karan",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Bolton - LEVEL 1:  Beginners Pickleball League",
@@ -694,12 +694,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/44330/6",
     "updated_price": "14.84",
-    "taxes": null,
     "fee_index": 0,
     "City": "Bolton",
     "Province": "ON",
     "DL": "Karan",
-    "Coaches": "Volunteer"
+    "Coaches": "Volunteer",
+    "taxes": null
   },
   {
     "Title": "Bowmanville - LEVEL 3: Intermediate Pickleball League",
@@ -721,12 +721,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/30828/6",
     "updated_price": "14.84",
-    "taxes": null,
     "fee_index": 0,
     "City": "Bowmanville",
     "Province": "ON",
     "DL": "Zubair",
-    "Coaches": "Steve S."
+    "Coaches": "Steve S.",
+    "taxes": null
   },
   {
     "Title": "Bracebridge - LEVEL 1: Beginners Pickleball League",
@@ -748,12 +748,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45634/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Bracebridge",
     "Province": "ON",
     "DL": "Sheila",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Bracebridge - LEVEL 2: Experienced Beginners Pickleball League",
@@ -775,12 +775,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45633/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Bracebridge",
     "Province": "ON",
     "DL": "Sheila",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Bracebridge - Youth Pickleball Club",
@@ -802,12 +802,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/44607/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Bracebridge",
     "Province": "ON",
     "DL": "Sheila",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Bradford - Learn to Play Pickleball (Adult)",
@@ -829,12 +829,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Bradford",
     "Province": "ON",
     "DL": "Sheila",
-    "Coaches": "Kamran?"
+    "Coaches": "Kamran?",
+    "taxes": null
   },
   {
     "Title": "Bradford - Learn to Play Pickleball (Youth)",
@@ -856,12 +856,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Bradford",
     "Province": "ON",
     "DL": "Sheila",
-    "Coaches": "Kamran?"
+    "Coaches": "Kamran?",
+    "taxes": null
   },
   {
     "Title": "Bradford - Pickleball League",
@@ -883,12 +883,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Bradford",
     "Province": "ON",
     "DL": "Sheila",
-    "Coaches": "Kamran?"
+    "Coaches": "Kamran?",
+    "taxes": null
   },
   {
     "Title": "Brampton - LEVEL 2: Experienced Beginners Pickleball League",
@@ -910,12 +910,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/40981/6",
     "updated_price": "74.18",
-    "taxes": null,
     "fee_index": 1,
     "City": "Brampton",
     "Province": "ON",
     "DL": "Karan",
-    "Coaches": "Masi"
+    "Coaches": "Masi",
+    "taxes": null
   },
   {
     "Title": "Brampton - LEVEL 2: Experienced Beginners Pickleball League",
@@ -937,12 +937,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/40981/6",
     "updated_price": "74.18",
-    "taxes": null,
     "fee_index": 0,
     "City": "Brampton",
     "Province": "ON",
     "DL": "Karan",
-    "Coaches": "Masi"
+    "Coaches": "Masi",
+    "taxes": null
   },
   {
     "Title": "Brampton - LEVEL 2: Experienced Beginners Pickleball League",
@@ -964,12 +964,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/40981/6",
     "updated_price": "74.18",
-    "taxes": null,
     "fee_index": 2,
     "City": "Brampton",
     "Province": "ON",
     "DL": "Karan",
-    "Coaches": "Mike"
+    "Coaches": "Mike",
+    "taxes": null
   },
   {
     "Title": "Brampton - LEVEL 3: Intermediate Pickleball League",
@@ -991,12 +991,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/40981/6",
     "updated_price": "74.18",
-    "taxes": null,
-    "fee_index": 4,
+    "fee_index": 3,
     "City": "Brampton",
     "Province": "ON",
     "DL": "Karan",
-    "Coaches": "Masi"
+    "Coaches": "Masi",
+    "taxes": null
   },
   {
     "Title": "Bridgewater - LEVEL 1:  Beginners Pickleball League",
@@ -1018,12 +1018,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/41363/6",
     "updated_price": "13.68",
-    "taxes": null,
     "fee_index": 0,
     "City": "Bridgewater",
     "Province": "NS",
     "DL": "Dylan",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Bridgewater - LEVEL 1:  Beginners Pickleball League",
@@ -1045,12 +1045,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45123/6",
     "updated_price": "82.08",
-    "taxes": null,
     "fee_index": 0,
     "City": "Bridgewater",
     "Province": "NS",
     "DL": "Dylan",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Bridgewater - LEVEL 2: Advanced Beginners Pickleball League",
@@ -1072,12 +1072,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45124/6",
     "updated_price": "82.08",
-    "taxes": null,
     "fee_index": 0,
     "City": "Bridgewater",
     "Province": "NS",
     "DL": "Dylan",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Bridgewater - LEVEL 2: Experienced Beginners Pickleball League",
@@ -1099,12 +1099,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/41363/6",
     "updated_price": "13.68",
-    "taxes": null,
     "fee_index": 1,
     "City": "Bridgewater",
     "Province": "NS",
     "DL": "Dylan",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Bridgewater - LEVEL 3:  Intermediate Pickleball League",
@@ -1126,12 +1126,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/41363/6",
     "updated_price": "13.68",
-    "taxes": null,
     "fee_index": 2,
     "City": "Bridgewater",
     "Province": "NS",
     "DL": "Dylan",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Bridgewater - LEVEL 3:  Intermediate Pickleball League",
@@ -1153,12 +1153,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45120/6",
     "updated_price": "82.08",
-    "taxes": null,
     "fee_index": 0,
     "City": "Bridgewater",
     "Province": "NS",
     "DL": "Dylan",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Burlington - LEVEL 1: Beginners Pickleball League",
@@ -1180,12 +1180,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45830/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Burlington",
     "Province": "ON",
     "DL": "Karan",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Burlington - LEVEL 1: Beginners Pickleball League",
@@ -1207,12 +1207,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46441/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Burlington",
     "Province": "ON",
     "DL": "?",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Burlington - LEVEL 2: Experienced Pickleball League",
@@ -1234,12 +1234,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46442/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Burlington",
     "Province": "ON",
     "DL": "?",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Burlington - LEVEL 1: Beginners Pickleball League",
@@ -1261,12 +1261,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46443/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Burlington",
     "Province": "ON",
     "DL": "?",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Caledon - Learn to Play Pickleball (12+ yrs)",
@@ -1288,12 +1288,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46949/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Caledon",
     "Province": "ON",
     "DL": "Karan",
-    "Coaches": "Parson"
+    "Coaches": "Parson",
+    "taxes": null
   },
   {
     "Title": "Caledon - Beginners Pickleball League",
@@ -1315,12 +1315,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46951/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Caledon",
     "Province": "ON",
     "DL": "Karan",
-    "Coaches": "Parson"
+    "Coaches": "Parson",
+    "taxes": null
   },
   {
     "Title": "Caledon - Learn to Play Pickleball (12+ yrs)",
@@ -1342,12 +1342,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/40980/6",
     "updated_price": "74.18",
-    "taxes": null,
     "fee_index": 3,
     "City": "Caledon",
     "Province": "ON",
     "DL": "Karan",
-    "Coaches": "Parson"
+    "Coaches": "Parson",
+    "taxes": null
   },
   {
     "Title": "Caledon - LEVEL 1: Beginners Pickleball League",
@@ -1369,12 +1369,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/40980/6",
     "updated_price": "74.18",
-    "taxes": null,
     "fee_index": 0,
     "City": "Caledon",
     "Province": "ON",
     "DL": "Karan",
-    "Coaches": "Parson"
+    "Coaches": "Parson",
+    "taxes": null
   },
   {
     "Title": "Caledon - LEVEL 2: Experienced Beginners Pickleball League",
@@ -1396,12 +1396,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/40980/6",
     "updated_price": "74.18",
-    "taxes": null,
     "fee_index": 1,
     "City": "Caledon",
     "Province": "ON",
     "DL": "Karan",
-    "Coaches": "Parson"
+    "Coaches": "Parson",
+    "taxes": null
   },
   {
     "Title": "Caledon - LEVEL 3: Intermediate Pickleball League",
@@ -1423,12 +1423,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/40980/6",
     "updated_price": "74.18",
-    "taxes": null,
     "fee_index": 2,
     "City": "Caledon",
     "Province": "ON",
     "DL": "Karan",
-    "Coaches": "Parson"
+    "Coaches": "Parson",
+    "taxes": null
   },
   {
     "Title": "Cambridge - LEVEL 1: Beginners Pickleball League",
@@ -1450,12 +1450,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/36725/6",
     "updated_price": "44.51",
-    "taxes": null,
     "fee_index": 0,
     "City": "Cambridge",
     "Province": "ON",
     "DL": "Sadie",
-    "Coaches": "Sadie"
+    "Coaches": "Sadie",
+    "taxes": null
   },
   {
     "Title": "Cambridge - LEVEL 1: Beginners Pickleball League",
@@ -1477,12 +1477,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45831/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Cambridge",
     "Province": "ON",
     "DL": "Sadie",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Cambridge - LEVEL 2: Experienced Beginners Pickleball League",
@@ -1504,12 +1504,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/36725/6",
     "updated_price": "44.51",
-    "taxes": null,
     "fee_index": 1,
     "City": "Cambridge",
     "Province": "ON",
     "DL": "Sadie",
-    "Coaches": "Sadie"
+    "Coaches": "Sadie",
+    "taxes": null
   },
   {
     "Title": "Cambridge - LEVEL 2: Experienced Beginners Pickleball League",
@@ -1531,12 +1531,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45832/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Cambridge",
     "Province": "ON",
     "DL": "Sadie",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Campbellville - LEVEL 1: Beginners Pickleball League",
@@ -1558,12 +1558,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46445/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Campbellville",
     "Province": "ON",
     "DL": "?",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Chester - LEVEL 2: Advanced Beginners Pickleball League",
@@ -1585,12 +1585,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45125/6",
     "updated_price": "109.44",
-    "taxes": null,
     "fee_index": 0,
     "City": "Chester",
     "Province": "NS",
     "DL": "Dylan",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Chilliwack - LEVEL 1: Beginners Pickleball League",
@@ -1612,12 +1612,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/41284/6",
     "updated_price": "89.76",
-    "taxes": null,
     "fee_index": 0,
     "City": "Chilliwack",
     "Province": "BC",
     "DL": "Sunny + Jarred",
-    "Coaches": "Jonathan Kohan"
+    "Coaches": "Jonathan Kohan",
+    "taxes": null
   },
   {
     "Title": "Chilliwack - LEVEL 1: Beginners Pickleball League",
@@ -1639,12 +1639,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45731/6",
     "updated_price": "119.68",
-    "taxes": null,
     "fee_index": 0,
     "City": "Chilliwack",
     "Province": "BC",
     "DL": "Sunny + Jarred",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Cobourg - LEVEL 1: Beginners Pickleball League",
@@ -1666,12 +1666,39 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/44569/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Cobourg",
     "Province": "ON",
     "DL": "Zubair",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
+  },
+  {
+    "Title": "Coquitlam - LEVEL 1: Beginners Pickleball League",
+    "TotalPrice": 132.59,
+    "Prorate": true,
+    "StaticPriceText": null,
+    "Day": "Wednesdays",
+    "Time": "5:00 - 6:45 PM",
+    "Start Date": "2026-01-07",
+    "End Date": "2026-03-11",
+    "Exceptions": "1/28/2026,2/4/2026,2/11/2026",
+    "SessionDates": "2026-01-07,2026-01-14,2026-01-21,2026-02-18,2026-02-25,2026-03-04,2026-03-11",
+    "LocationName": "RC MacDonald Elementary",
+    "LocationLink": "https://maps.app.goo.gl/wxVexBqWYeZYoZ5K7",
+    "RegisterLink": "https://registration.teamsnap.com/form/46343",
+    "URL": "https://bc.eapickleball.com/coquitlam/",
+    "pageIdentifyer": "coquitlam",
+    "Category": "EA",
+    "sport": "pb",
+    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46343/6",
+    "updated_price": "139.22",
+    "fee_index": 0,
+    "City": "Coquitlam",
+    "Province": "BC",
+    "DL": "Sunny + Jarred",
+    "Coaches": "Tommy McLeod",
+    "taxes": null
   },
   {
     "Title": "Coquitlam - Beginners/Intermediate Pickleball League",
@@ -1693,12 +1720,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/41285/6",
     "updated_price": "19.75",
-    "taxes": null,
     "fee_index": 0,
     "City": "Coquitlam",
     "Province": "BC",
     "DL": "Sunny + Jarred",
-    "Coaches": "Tommy McLeod"
+    "Coaches": "Tommy McLeod",
+    "taxes": null
   },
   {
     "Title": "Coquitlam - LEVEL 1: Beginners Pickleball League",
@@ -1720,12 +1747,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45454/6",
     "updated_price": "132.58",
-    "taxes": null,
     "fee_index": 0,
     "City": "Coquitlam",
     "Province": "BC",
     "DL": "Sunny + Jarred",
-    "Coaches": "Tommy McLeod"
+    "Coaches": "Tommy McLeod",
+    "taxes": null
   },
   {
     "Title": "Coquitlam - LEVEL 1: Beginners Pickleball League",
@@ -1747,12 +1774,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/43966/6",
     "updated_price": "113.65",
-    "taxes": null,
     "fee_index": 0,
     "City": "Coquitlam",
     "Province": "BC",
     "DL": "Sunny + Jarred",
-    "Coaches": "Tommy McLeod"
+    "Coaches": "Tommy McLeod",
+    "taxes": null
   },
   {
     "Title": "Courtice - LEVEL 1: Beginners Pickleball League",
@@ -1774,12 +1801,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45834/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Courtice",
     "Province": "ON",
     "DL": "Zubair",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Courtice - LEVEL 2: Experienced Beginners Pickleball League",
@@ -1801,12 +1828,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/39844/6",
     "updated_price": "14.84",
-    "taxes": null,
     "fee_index": 2,
     "City": "Courtice",
     "Province": "ON",
     "DL": "Zubair",
-    "Coaches": "Zubair"
+    "Coaches": "Zubair",
+    "taxes": null
   },
   {
     "Title": "Courtice - LEVEL 2: Experienced Beginners Pickleball League",
@@ -1828,12 +1855,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/41142/6",
     "updated_price": "103.86",
-    "taxes": null,
     "fee_index": 0,
     "City": "Courtice",
     "Province": "ON",
     "DL": "Zubair",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Courtice - LEVEL 2: Experienced Beginners Pickleball League",
@@ -1855,12 +1882,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/39844/6",
     "updated_price": "14.84",
-    "taxes": null,
     "fee_index": 0,
     "City": "Courtice",
     "Province": "ON",
     "DL": "Zubair",
-    "Coaches": "Zubair"
+    "Coaches": "Zubair",
+    "taxes": null
   },
   {
     "Title": "Dundas - LEVEL 1: Beginners Pickleball League",
@@ -1882,12 +1909,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45622/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Dundas",
     "Province": "ON",
     "DL": "Karan",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Dundas - LEVEL 2: Experienced Beginners Pickleball League",
@@ -1909,12 +1936,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45623/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Dundas",
     "Province": "ON",
     "DL": "Karan",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Durham - LEVEL 1: Beginners Pickleball League",
@@ -1936,12 +1963,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/44597/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Durham",
     "Province": "ON",
     "DL": "Karan",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "East Gwillimbury - Adult Learn to Play Pickleball",
@@ -1963,12 +1990,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "East Gwillimbury",
     "Province": "ON",
     "DL": "Adele",
-    "Coaches": "Matteo"
+    "Coaches": "Matteo",
+    "taxes": null
   },
   {
     "Title": "East Gwillimbury - Beginners Pickleball League",
@@ -1990,12 +2017,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "East Gwillimbury",
     "Province": "ON",
     "DL": "Adele",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "East Gwillimbury - Beginners Pickleball League",
@@ -2017,12 +2044,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "East Gwillimbury",
     "Province": "ON",
     "DL": "Adele",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "East Gwillimbury - Intermediate Pickleball League",
@@ -2044,12 +2071,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "East Gwillimbury",
     "Province": "ON",
     "DL": "Adele",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "East Gwillimbury - LTP Pickleball (Adult)",
@@ -2071,12 +2098,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "East Gwillimbury",
     "Province": "ON",
     "DL": "Adele",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "East Gwillimbury - LTP Pickleball (Adult)",
@@ -2098,12 +2125,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "East Gwillimbury",
     "Province": "ON",
     "DL": "Adele",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Emsdale - LEVEL 1: Beginners Pickleball League",
@@ -2125,12 +2152,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45539/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Emsdale",
     "Province": "ON",
     "DL": "Sheila",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Essa - Basketball Skills (5 - 8 yrs)",
@@ -2152,12 +2179,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Essa",
     "Province": "ON",
     "DL": "Sheila",
-    "Coaches": "Nathan + Keagan?"
+    "Coaches": "Nathan + Keagan?",
+    "taxes": null
   },
   {
     "Title": "Essa - Basketball Skills (9 - 12 yrs)",
@@ -2179,12 +2206,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Essa",
     "Province": "ON",
     "DL": "Sheila",
-    "Coaches": "Nathan + Keagan?"
+    "Coaches": "Nathan + Keagan?",
+    "taxes": null
   },
   {
     "Title": "Fairgrounds - LEVEL 1: Beginners Pickleball League",
@@ -2206,12 +2233,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46038/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Fairgrounds",
     "Province": "ON",
     "DL": "Andrew",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Fairgrounds - LEVEL 2: Experienced Beginners Pickleball League",
@@ -2233,12 +2260,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46036/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Fairgrounds",
     "Province": "ON",
     "DL": "Andrew",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Fairgrounds - LEVEL 2: Experienced Beginners Pickleball League",
@@ -2260,12 +2287,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46039/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Fairgrounds",
     "Province": "ON",
     "DL": "Andrew",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Fairgrounds - LEVEL 3: Intermediate Pickleball League",
@@ -2287,12 +2314,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46037/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Fairgrounds",
     "Province": "ON",
     "DL": "Andrew",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Flesherton - LEVEL 1: Beginners Pickleball League",
@@ -2314,12 +2341,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/44604/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Flesherton",
     "Province": "ON",
     "DL": "Karan",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Flesherton - LEVEL 2: Experienced Beginners Pickleball League",
@@ -2341,12 +2368,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/44605/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Flesherton",
     "Province": "ON",
     "DL": "Karan",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Georgina - Jr Badminton (9 - 17 yrs)",
@@ -2368,12 +2395,12 @@
     "sport": "bad",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Georgina",
     "Province": "ON",
     "DL": "?",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Georgina - Skills & Drills Jr. Basketball Training (8 - 10 yrs)",
@@ -2395,12 +2422,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Georgina",
     "Province": "ON",
     "DL": "Adele",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Georgina - Youth Basketball League (8 - 10 yrs)",
@@ -2422,12 +2449,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Georgina",
     "Province": "ON",
     "DL": "Adele",
-    "Coaches": "Billy + Justice?"
+    "Coaches": "Billy + Justice?",
+    "taxes": null
   },
   {
     "Title": "Georgina - Youth Basketball Training (5 - 7 yrs)",
@@ -2449,12 +2476,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Georgina",
     "Province": "ON",
     "DL": "Adele",
-    "Coaches": "Billy + Justice?"
+    "Coaches": "Billy + Justice?",
+    "taxes": null
   },
   {
     "Title": "Georgina - Youth Basketball Training (5 - 7 yrs)",
@@ -2476,12 +2503,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Georgina",
     "Province": "ON",
     "DL": "Adele",
-    "Coaches": "Billy + Justice?"
+    "Coaches": "Billy + Justice?",
+    "taxes": null
   },
   {
     "Title": "Georgina - Youth Basketball Training (5 - 7 yrs)",
@@ -2503,12 +2530,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Georgina",
     "Province": "ON",
     "DL": "Adele",
-    "Coaches": "Billy + Justice?"
+    "Coaches": "Billy + Justice?",
+    "taxes": null
   },
   {
     "Title": "Georgina - Youth Basketball Training (8 - 11 yrs)",
@@ -2530,12 +2557,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Georgina",
     "Province": "ON",
     "DL": "Adele",
-    "Coaches": "Billy + Justice?"
+    "Coaches": "Billy + Justice?",
+    "taxes": null
   },
   {
     "Title": "Georgina - Youth Basketball Training (8 - 11 yrs)",
@@ -2557,12 +2584,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Georgina",
     "Province": "ON",
     "DL": "Adele",
-    "Coaches": "Billy + Justice?"
+    "Coaches": "Billy + Justice?",
+    "taxes": null
   },
   {
     "Title": "Georgina - Youth Basketball Training (8 - 11 yrs)",
@@ -2584,12 +2611,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Georgina",
     "Province": "ON",
     "DL": "Adele",
-    "Coaches": "Billy + Justice?"
+    "Coaches": "Billy + Justice?",
+    "taxes": null
   },
   {
     "Title": "Guelph - LEVEL 1: Beginners Pickleball League",
@@ -2611,12 +2638,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/39847/6",
     "updated_price": "14.84",
-    "taxes": null,
     "fee_index": 0,
     "City": "Guelph",
     "Province": "ON",
     "DL": "Sadie",
-    "Coaches": "Mark W."
+    "Coaches": "Mark W.",
+    "taxes": null
   },
   {
     "Title": "Guelph - LEVEL 1: Beginners Pickleball League",
@@ -2638,12 +2665,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/41046/6",
     "updated_price": "103.86",
-    "taxes": null,
     "fee_index": 0,
     "City": "Guelph",
     "Province": "ON",
     "DL": "Sadie",
-    "Coaches": "Mark W."
+    "Coaches": "Mark W.",
+    "taxes": null
   },
   {
     "Title": "Halifax - LEVEL 1: Beginners Pickleball League",
@@ -2665,12 +2692,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45122/6",
     "updated_price": "82.08",
-    "taxes": null,
     "fee_index": 0,
     "City": "Halifax",
     "Province": "NS",
     "DL": "Dylan",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Hamilton - LEVEL 1: Beginners Pickleball League",
@@ -2692,12 +2719,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45621/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Hamilton",
     "Province": "ON",
     "DL": "Karan",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Hamilton - LEVEL 1: Beginners Pickleball League",
@@ -2719,12 +2746,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45625/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Hamilton",
     "Province": "ON",
     "DL": "Karan",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Hamilton - LEVEL 2: Experienced Beginners Pickleball League",
@@ -2746,12 +2773,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45626/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Hamilton",
     "Province": "ON",
     "DL": "Karan",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Hanover - LEVEL 1: Beginners Pickleball League",
@@ -2773,12 +2800,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45540/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Hanover",
     "Province": "ON",
     "DL": "Karan",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Powassan - LEVEL 1: Beginners Pickleball League",
@@ -2800,12 +2827,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45535/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Powassan",
     "Province": "ON",
     "DL": "Sheila",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Innisfil - Jr. Basketball Ages 11- 13",
@@ -2827,12 +2854,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Innisfil",
     "Province": "ON",
     "DL": "Sheila",
-    "Coaches": "Ralph + Justice K?"
+    "Coaches": "Ralph + Justice K?",
+    "taxes": null
   },
   {
     "Title": "Innisfil - Jr. Basketball Ages 5 - 7",
@@ -2854,12 +2881,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Innisfil",
     "Province": "ON",
     "DL": "Sheila",
-    "Coaches": "Ralph + Justice K?"
+    "Coaches": "Ralph + Justice K?",
+    "taxes": null
   },
   {
     "Title": "Innisfil - Jr. Basketball Ages 8 - 10",
@@ -2881,12 +2908,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Innisfil",
     "Province": "ON",
     "DL": "Sheila",
-    "Coaches": "Ralph + Justice K?"
+    "Coaches": "Ralph + Justice K?",
+    "taxes": null
   },
   {
     "Title": "Keswick - Learn to Play Pickleball",
@@ -2908,12 +2935,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/40979/6",
     "updated_price": "14.84",
-    "taxes": null,
     "fee_index": 2,
     "City": "Keswick",
     "Province": "ON",
     "DL": "Adele",
-    "Coaches": "Billy"
+    "Coaches": "Billy",
+    "taxes": null
   },
   {
     "Title": "Keswick - LEVEL 1: Beginners Pickleball League",
@@ -2935,12 +2962,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/44320/6",
     "updated_price": "103.86",
-    "taxes": null,
     "fee_index": 0,
     "City": "Keswick",
     "Province": "ON",
     "DL": "Adele",
-    "Coaches": "Billy"
+    "Coaches": "Billy",
+    "taxes": null
   },
   {
     "Title": "Keswick - LEVEL 1: Beginners Pickleball League",
@@ -2962,12 +2989,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/29465/6",
     "updated_price": "14.84",
-    "taxes": null,
     "fee_index": 0,
     "City": "Keswick",
     "Province": "ON",
     "DL": "Adele",
-    "Coaches": "Billy"
+    "Coaches": "Billy",
+    "taxes": null
   },
   {
     "Title": "Keswick - LEVEL 1: Beginners Pickleball League",
@@ -2989,12 +3016,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/40979/6",
     "updated_price": "44.51",
-    "taxes": null,
     "fee_index": 0,
     "City": "Keswick",
     "Province": "ON",
     "DL": "Adele",
-    "Coaches": "Jaheim"
+    "Coaches": "Jaheim",
+    "taxes": null
   },
   {
     "Title": "Keswick - LEVEL 1: Beginners Pickleball League",
@@ -3016,12 +3043,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45629/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Keswick",
     "Province": "ON",
     "DL": "Adele",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Keswick - LEVEL 2: Experienced Beginners Pickleball League",
@@ -3043,39 +3070,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/40979/6",
     "updated_price": "44.51",
-    "taxes": null,
     "fee_index": 1,
     "City": "Keswick",
     "Province": "ON",
     "DL": "Adele",
-    "Coaches": "Jaheim"
-  },
-  {
-    "Title": "Keswick - LEVEL 3: Intermediate Pickleball League",
-    "TotalPrice": "144.43",
-    "Prorate": true,
-    "StaticPriceText": null,
-    "Day": "Fridays",
-    "Time": "6:00 - 8:00 PM",
-    "Start Date": "2025-09-19",
-    "End Date": "2025-12-12",
-    "Exceptions": "10/24/2025,11/21/2025",
-    "SessionDates": "2025-09-19,2025-09-26,2025-10-03,2025-10-10,2025-10-17,2025-10-31,2025-11-07,2025-11-14,2025-11-28,2025-12-05,2025-12-12",
-    "LocationName": "St. Thomas Aquinas",
-    "LocationLink": "https://maps.app.goo.gl/EaafextPTaJKi6AC7",
-    "RegisterLink": "https://registration.teamsnap.com/form/37141/selectGroup",
-    "URL": "https://eapickleball.com/keswick-pickleball/",
-    "pageIdentifyer": "keswick-pickleball",
-    "Category": "EA",
-    "sport": "pb",
-    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/37141/6",
-    "updated_price": "14.84",
-    "taxes": null,
-    "fee_index": 0,
-    "City": "Keswick",
-    "Province": "ON",
-    "DL": "Adele",
-    "Coaches": "Adele"
+    "Coaches": "Jaheim",
+    "taxes": null
   },
   {
     "Title": "Keswick - LEVEL 3: Intermediate Pickleball League",
@@ -3097,12 +3097,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/44570/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Keswick",
     "Province": "ON",
     "DL": "Adele",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Kincardine - LEVEL 1: Beginners Pickleball League",
@@ -3124,12 +3124,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45632/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Kincardine",
     "Province": "ON",
     "DL": "Karan",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "King City - Beginners Pickleball League (18+ yrs)",
@@ -3151,12 +3151,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "King City",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Kamran + Clare?"
+    "Coaches": "Kamran + Clare?",
+    "taxes": null
   },
   {
     "Title": "King City - Beginners Pickleball League (18+ yrs)",
@@ -3178,12 +3178,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "King City",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Kamran + Clare?"
+    "Coaches": "Kamran + Clare?",
+    "taxes": null
   },
   {
     "Title": "King City - Beginners Pickleball League (18+ yrs)",
@@ -3205,12 +3205,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "King City",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Kamran + Clare?"
+    "Coaches": "Kamran + Clare?",
+    "taxes": null
   },
   {
     "Title": "King City - Jr Badminton (11 - 13 yrs)",
@@ -3232,12 +3232,12 @@
     "sport": "bad",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "King City",
     "Province": "ON",
     "DL": "?",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "King City - Jr Badminton (14 - 16 yrs)",
@@ -3259,12 +3259,12 @@
     "sport": "bad",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "King City",
     "Province": "ON",
     "DL": "?",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "King City - Jr Badminton (8 - 10 yrs)",
@@ -3286,12 +3286,12 @@
     "sport": "bad",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "King City",
     "Province": "ON",
     "DL": "?",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "King City - Learn to Play Pickleball (18+ yrs)",
@@ -3313,12 +3313,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "King City",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Kamran + Clare?"
+    "Coaches": "Kamran + Clare?",
+    "taxes": null
   },
   {
     "Title": "King City - Learn to Play Pickleball (18+ yrs)",
@@ -3340,12 +3340,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "King City",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Kamran + Clare?"
+    "Coaches": "Kamran + Clare?",
+    "taxes": null
   },
   {
     "Title": "King City - Learn to Play Pickleball (18+ yrs)",
@@ -3367,12 +3367,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "King City",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Kamran + Clare?"
+    "Coaches": "Kamran + Clare?",
+    "taxes": null
   },
   {
     "Title": "King City - Learn to Play Pickleball (18+ yrs)",
@@ -3394,12 +3394,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "King City",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Kamran + Clare?"
+    "Coaches": "Kamran + Clare?",
+    "taxes": null
   },
   {
     "Title": "Kitchener - LEVEL 1: Beginners Pickleball League",
@@ -3421,12 +3421,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45624/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Kitchener",
     "Province": "ON",
     "DL": "Sadie",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Kitimat - LEVEL 1:  Beginners Pickleball League",
@@ -3448,12 +3448,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/31957/6",
     "updated_price": "61.83",
-    "taxes": null,
     "fee_index": 0,
     "City": "Kitimat",
     "Province": "BC",
     "DL": "Sunny + Jarred",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Lion's Head - LEVEL 2: Experienced Beginners Pickleball League",
@@ -3475,12 +3475,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/44572/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Lion's Head",
     "Province": "ON",
     "DL": "Karan",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Markdale - LEVEL 1: Beginners Pickleball League",
@@ -3502,12 +3502,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45631/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Markdale",
     "Province": "ON",
     "DL": "Karan",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Milton - LEVEL 1: Beginners Pickleball League",
@@ -3529,12 +3529,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45828/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Milton",
     "Province": "ON",
     "DL": "Karan",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Milton - LEVEL 2: Experienced Beginners Pickleball League",
@@ -3556,12 +3556,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45829/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Milton",
     "Province": "ON",
     "DL": "Karan",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Nanaimo - LEVEL 1: Beginners Pickleball League",
@@ -3583,12 +3583,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46195/6",
     "updated_price": "94.89",
-    "taxes": null,
     "fee_index": 0,
     "City": "Nanaimo",
     "Province": "BC",
     "DL": "Sunny + Jarred",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Nanaimo - LEVEL 1: Beginners Pickleball League",
@@ -3610,12 +3610,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46196/6",
     "updated_price": "132.86",
-    "taxes": null,
     "fee_index": 0,
     "City": "Nanaimo",
     "Province": "BC",
     "DL": "Sunny + Jarred",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "New Waterford - LEVEL 1: Beginners Pickleball League",
@@ -3637,12 +3637,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45127/6",
     "updated_price": "82.08",
-    "taxes": null,
     "fee_index": 0,
     "City": "New Waterford",
     "Province": "NS",
     "DL": "Dylan",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Newcastle - LEVEL 1: Beginners Pickleball League",
@@ -3664,12 +3664,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45833/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Newcastle",
     "Province": "ON",
     "DL": "Zubair",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Newcastle - LEVEL 2: Experienced Beginners Pickleball League",
@@ -3691,12 +3691,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/41053/6",
     "updated_price": "44.51",
-    "taxes": null,
     "fee_index": 0,
     "City": "Newcastle",
     "Province": "ON",
     "DL": "Zubair",
-    "Coaches": "Scott"
+    "Coaches": "Scott",
+    "taxes": null
   },
   {
     "Title": "Newcastle - LEVEL 3: Intermediate Pickleball League",
@@ -3718,12 +3718,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/41144/6",
     "updated_price": "103.86",
-    "taxes": null,
     "fee_index": 0,
     "City": "Newcastle",
     "Province": "ON",
     "DL": "Zubair",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Newmarket - Advanced Badminton League (Feb - Jun)",
@@ -3745,12 +3745,12 @@
     "sport": "bad",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46258/6",
     "updated_price": "252.00",
-    "taxes": null,
     "fee_index": 0,
     "City": "Newmarket",
     "Province": "ON",
     "DL": "?",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Newmarket - Advanced Badminton League (Sept - Jan)",
@@ -3772,12 +3772,12 @@
     "sport": "bad",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46256/6",
     "updated_price": "70.00",
-    "taxes": null,
     "fee_index": 0,
     "City": "Newmarket",
     "Province": "ON",
     "DL": "?",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Newmarket - Beginner/Intermediate Badminton League (Feb - Jun)",
@@ -3799,12 +3799,12 @@
     "sport": "bad",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46257/6",
     "updated_price": "252.00",
-    "taxes": null,
     "fee_index": 0,
     "City": "Newmarket",
     "Province": "ON",
     "DL": "?",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Newmarket - Beginner/Intermediate Badminton League (Sept - Jan)",
@@ -3826,39 +3826,12 @@
     "sport": "bad",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46255/6",
     "updated_price": "70.00",
-    "taxes": null,
     "fee_index": 0,
     "City": "Newmarket",
     "Province": "ON",
     "DL": "?",
-    "Coaches": "?"
-  },
-  {
-    "Title": "Newmarket - Beginners Pickleball League (16+ yrs)",
-    "TotalPrice": 169.52,
-    "Prorate": false,
-    "StaticPriceText": "169.52",
-    "Day": "Fridays",
-    "Time": "6:00 - 7:30 PM",
-    "Start Date": "2025-09-26",
-    "End Date": "2025-12-12",
-    "Exceptions": "N/A",
-    "SessionDates": "2025-09-26,2025-10-03,2025-10-10,2025-10-17,2025-10-24,2025-10-31,2025-11-07,2025-11-14,2025-11-21,2025-11-28,2025-12-05,2025-12-12",
-    "LocationName": "Armitage Public School",
-    "LocationLink": "https://maps.app.goo.gl/kWcDk3KQXVzxKmE89",
-    "RegisterLink": "https://newmarket.perfectmind.com/Clients/BookMe4LandingPages/CoursesLandingPage?widgetId=15f6af07-39c5-473e-b053-96653f77a406&redirectedFromEmbededMode=False&courseId=5117e317-4aba-4528-b43d-76ea3cb0286c",
-    "URL": "https://eapickleball.com/newmarket-ea-pickleball/",
-    "pageIdentifyer": "newmarket-ea-pickleball",
-    "Category": "TS",
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "taxes": null,
-    "fee_index": null,
-    "City": "Newmarket",
-    "Province": "ON",
-    "DL": "Jimmy",
-    "Coaches": "Karan"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Newmarket - Beginners Pickleball League (16+ yrs)",
@@ -3880,12 +3853,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Newmarket",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Karan"
+    "Coaches": "Karan",
+    "taxes": null
   },
   {
     "Title": "Newmarket - Beginners Pickleball League (16+ yrs)",
@@ -3907,12 +3880,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Newmarket",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Clare + Sandy"
+    "Coaches": "Clare + Sandy",
+    "taxes": null
   },
   {
     "Title": "Newmarket - Beginners Youth Pickleball League (Gr. 9 - 12)",
@@ -3934,12 +3907,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/43993/6",
     "updated_price": "29.67",
-    "taxes": null,
     "fee_index": 0,
     "City": "Newmarket",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Newmarket - Beginners Youth Pickleball League (Gr. 9 - 12)",
@@ -3961,39 +3934,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/43994/6",
     "updated_price": "103.86",
-    "taxes": null,
     "fee_index": 0,
     "City": "Newmarket",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Need to hire"
-  },
-  {
-    "Title": "Newmarket - Experienced Beginners Pickleball League (16+ yrs)",
-    "TotalPrice": 169.52,
-    "Prorate": false,
-    "StaticPriceText": "169.52",
-    "Day": "Fridays",
-    "Time": "7:30 - 9:00 PM",
-    "Start Date": "2025-09-26",
-    "End Date": "2025-12-12",
-    "Exceptions": "N/A",
-    "SessionDates": "2025-09-26,2025-10-03,2025-10-10,2025-10-17,2025-10-24,2025-10-31,2025-11-07,2025-11-14,2025-11-21,2025-11-28,2025-12-05,2025-12-12",
-    "LocationName": "Armitage Public School",
-    "LocationLink": "https://maps.app.goo.gl/kWcDk3KQXVzxKmE89",
-    "RegisterLink": "https://newmarket.perfectmind.com/Clients/BookMe4LandingPages/CoursesLandingPage?widgetId=15f6af07-39c5-473e-b053-96653f77a406&redirectedFromEmbededMode=False&courseId=da51d911-2702-4445-a18a-88d67ad48094",
-    "URL": "https://eapickleball.com/newmarket-ea-pickleball/",
-    "pageIdentifyer": "newmarket-ea-pickleball",
-    "Category": "TS",
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "taxes": null,
-    "fee_index": null,
-    "City": "Newmarket",
-    "Province": "ON",
-    "DL": "Jimmy",
-    "Coaches": "Karan"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Newmarket - Experienced Beginners Pickleball League (16+ yrs)",
@@ -4015,12 +3961,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Newmarket",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Karan"
+    "Coaches": "Karan",
+    "taxes": null
   },
   {
     "Title": "Newmarket - Intermediate Pickleball League (16+ yrs)",
@@ -4042,12 +3988,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Newmarket",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Clare + Sandy"
+    "Coaches": "Clare + Sandy",
+    "taxes": null
   },
   {
     "Title": "Newmarket - Learn to Play Pickleball (16+ yrs)",
@@ -4069,12 +4015,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Newmarket",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Clare + Sandy"
+    "Coaches": "Clare + Sandy",
+    "taxes": null
   },
   {
     "Title": "Newmarket - Learn to Play Pickleball (16+ yrs)",
@@ -4096,12 +4042,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Newmarket",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Clare + Sandy"
+    "Coaches": "Clare + Sandy",
+    "taxes": null
   },
   {
     "Title": "Newmarket - Learn to Play Pickleball (16+ yrs)",
@@ -4123,12 +4069,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Newmarket",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Clare + Sandy"
+    "Coaches": "Clare + Sandy",
+    "taxes": null
   },
   {
     "Title": "Newmarket - Learn to Play Pickleball (16+ yrs)",
@@ -4150,12 +4096,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Newmarket",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Clare + Sandy"
+    "Coaches": "Clare + Sandy",
+    "taxes": null
   },
   {
     "Title": "Newmarket - Learn to Play Pickleball (8 - 15 yrs)",
@@ -4177,12 +4123,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Newmarket",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Clare + Sandy"
+    "Coaches": "Clare + Sandy",
+    "taxes": null
   },
   {
     "Title": "Newmarket - Learn to Play Pickleball (8 - 15 yrs)",
@@ -4204,12 +4150,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Newmarket",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Clare + Sandy"
+    "Coaches": "Clare + Sandy",
+    "taxes": null
   },
   {
     "Title": "Newmarket - LEVEL 1: Beginners Pickleball League",
@@ -4231,12 +4177,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/41043/6",
     "updated_price": "44.51",
-    "taxes": null,
     "fee_index": 0,
     "City": "Newmarket",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Eddie A."
+    "Coaches": "Eddie A.",
+    "taxes": null
   },
   {
     "Title": "Newmarket - LEVEL 1: Beginners Pickleball League",
@@ -4258,12 +4204,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45825/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Newmarket",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Newmarket - LEVEL 1: Beginners Pickleball League",
@@ -4285,39 +4231,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45835/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Newmarket",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Need to hire"
-  },
-  {
-    "Title": "Newmarket - LEVEL 2: Experienced Beginners Pickleball League",
-    "TotalPrice": "131.30",
-    "Prorate": true,
-    "StaticPriceText": null,
-    "Day": "Fridays",
-    "Time": "6:00 - 8:00 PM",
-    "Start Date": "2025-09-19",
-    "End Date": "2025-12-12",
-    "Exceptions": "10/24/2025,11/7/2025,11/21/2025",
-    "SessionDates": "2025-09-19,2025-09-26,2025-10-03,2025-10-10,2025-10-17,2025-10-31,2025-11-14,2025-11-28,2025-12-05,2025-12-12",
-    "LocationName": "St. Elizabeth Seton Catholic Elementary School",
-    "LocationLink": "https://maps.app.goo.gl/6dHMQ96oEJzHDr6r5",
-    "RegisterLink": "https://registration.teamsnap.com/form/29762",
-    "URL": "https://eapickleball.com/newmarket-ea-pickleball/",
-    "pageIdentifyer": "newmarket-ea-pickleball",
-    "Category": "EA",
-    "sport": "pb",
-    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/29762/6",
-    "updated_price": "14.84",
-    "taxes": null,
-    "fee_index": 0,
-    "City": "Newmarket",
-    "Province": "ON",
-    "DL": "Jimmy",
-    "Coaches": "Clare"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Newmarket - LEVEL 2: Experienced Beginners Pickleball League",
@@ -4339,12 +4258,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/41043/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 1,
     "City": "Newmarket",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Clare"
+    "Coaches": "Clare",
+    "taxes": null
   },
   {
     "Title": "Newmarket - LEVEL 2: Experienced Beginners Pickleball League",
@@ -4366,12 +4285,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/41143/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Newmarket",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Eddie A."
+    "Coaches": "Eddie A.",
+    "taxes": null
   },
   {
     "Title": "Newmarket - LEVEL 2: Experienced Beginners Pickleball League",
@@ -4393,12 +4312,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45836/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Newmarket",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Newmarket - LEVEL 3: Intermediate Pickleball League",
@@ -4420,12 +4339,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/41043/6",
     "updated_price": "29.67",
-    "taxes": null,
     "fee_index": 2,
     "City": "Newmarket",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Matteo"
+    "Coaches": "Matteo",
+    "taxes": null
   },
   {
     "Title": "Newmarket - LEVEL 3: Intermediate Pickleball League",
@@ -4447,12 +4366,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45824/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Newmarket",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 3 - 4)",
@@ -4474,12 +4393,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": null,
     "Province": null,
     "DL": null,
-    "Coaches": null
+    "Coaches": null,
+    "taxes": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 3 - 4)",
@@ -4501,12 +4420,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": null,
     "Province": null,
     "DL": null,
-    "Coaches": null
+    "Coaches": null,
+    "taxes": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 3 - 4)",
@@ -4528,12 +4447,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": null,
     "Province": null,
     "DL": null,
-    "Coaches": null
+    "Coaches": null,
+    "taxes": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 3 - 4)",
@@ -4555,12 +4474,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": null,
     "Province": null,
     "DL": null,
-    "Coaches": null
+    "Coaches": null,
+    "taxes": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 3 - 4)",
@@ -4582,12 +4501,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": null,
     "Province": null,
     "DL": null,
-    "Coaches": null
+    "Coaches": null,
+    "taxes": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 5 - 10 GIRLS)",
@@ -4609,12 +4528,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": null,
     "Province": null,
     "DL": null,
-    "Coaches": null
+    "Coaches": null,
+    "taxes": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 5 - 6)",
@@ -4636,12 +4555,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": null,
     "Province": null,
     "DL": null,
-    "Coaches": null
+    "Coaches": null,
+    "taxes": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 5 - 6)",
@@ -4663,12 +4582,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": null,
     "Province": null,
     "DL": null,
-    "Coaches": null
+    "Coaches": null,
+    "taxes": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 5 - 6)",
@@ -4690,12 +4609,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": null,
     "Province": null,
     "DL": null,
-    "Coaches": null
+    "Coaches": null,
+    "taxes": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 5 - 6)",
@@ -4717,12 +4636,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": null,
     "Province": null,
     "DL": null,
-    "Coaches": null
+    "Coaches": null,
+    "taxes": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 5 - 6)",
@@ -4744,12 +4663,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": null,
     "Province": null,
     "DL": null,
-    "Coaches": null
+    "Coaches": null,
+    "taxes": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 7 - 9)",
@@ -4771,12 +4690,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": null,
     "Province": null,
     "DL": null,
-    "Coaches": null
+    "Coaches": null,
+    "taxes": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 7 - 9)",
@@ -4798,12 +4717,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": null,
     "Province": null,
     "DL": null,
-    "Coaches": null
+    "Coaches": null,
+    "taxes": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (SK - GR 2)",
@@ -4825,12 +4744,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": null,
     "Province": null,
     "DL": null,
-    "Coaches": null
+    "Coaches": null,
+    "taxes": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (SK - GR 2)",
@@ -4852,12 +4771,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": null,
     "Province": null,
     "DL": null,
-    "Coaches": null
+    "Coaches": null,
+    "taxes": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (SK - GR 2)",
@@ -4879,12 +4798,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": null,
     "Province": null,
     "DL": null,
-    "Coaches": null
+    "Coaches": null,
+    "taxes": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 3 - 4)",
@@ -4906,12 +4825,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Newmarket/Aurora",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 3 - 4)",
@@ -4933,12 +4852,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Newmarket/Aurora",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 3 - 4)",
@@ -4960,12 +4879,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Newmarket/Aurora",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 3 - 4)",
@@ -4987,12 +4906,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Newmarket/Aurora",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 3 - 4)",
@@ -5014,12 +4933,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Newmarket/Aurora",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 5 - 10 GIRLS)",
@@ -5041,12 +4960,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Newmarket/Aurora",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 5 - 6)",
@@ -5068,12 +4987,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Newmarket/Aurora",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 5 - 6)",
@@ -5095,12 +5014,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Newmarket/Aurora",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 5 - 6)",
@@ -5122,12 +5041,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Newmarket/Aurora",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 5 - 6)",
@@ -5149,12 +5068,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Newmarket/Aurora",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 5 - 6)",
@@ -5176,12 +5095,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Newmarket/Aurora",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 7 - 9)",
@@ -5203,12 +5122,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Newmarket/Aurora",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 7 - 9)",
@@ -5230,12 +5149,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Newmarket/Aurora",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (SK - GR 2)",
@@ -5257,12 +5176,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Newmarket/Aurora",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (SK - GR 2)",
@@ -5284,12 +5203,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Newmarket/Aurora",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (SK - GR 2)",
@@ -5311,12 +5230,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Newmarket/Aurora",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "North York - Beginners Pickleball League",
@@ -5338,12 +5257,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/40906/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 4,
     "City": "North York",
     "Province": "ON",
     "DL": "Andrew",
-    "Coaches": "David C."
+    "Coaches": "David C.",
+    "taxes": null
   },
   {
     "Title": "North York - Learn to Play Pickleball",
@@ -5365,12 +5284,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45780/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "North York",
     "Province": "ON",
     "DL": "Andrew",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "North York - Learn to Play Pickleball Level 1",
@@ -5392,12 +5311,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/39233/6",
     "updated_price": "14.84",
-    "taxes": null,
     "fee_index": 1,
     "City": "North York",
     "Province": "ON",
     "DL": "Andrew",
-    "Coaches": "David C."
+    "Coaches": "David C.",
+    "taxes": null
   },
   {
     "Title": "North York - Learn to Play Pickleball Level 2",
@@ -5419,12 +5338,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/40906/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 3,
     "City": "North York",
     "Province": "ON",
     "DL": "Andrew",
-    "Coaches": "David C."
+    "Coaches": "David C.",
+    "taxes": null
   },
   {
     "Title": "North York - LEVEL 1: Beginners Pickleball League",
@@ -5446,12 +5365,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45778/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "North York",
     "Province": "ON",
     "DL": "Andrew",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "North York - LEVEL 2: Experienced Beginners Pickleball League",
@@ -5473,12 +5392,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45779/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "North York",
     "Province": "ON",
     "DL": "Andrew",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Norwood - Pickleball Membership",
@@ -5500,12 +5419,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Norwood",
     "Province": "ON",
     "DL": "Mattie G",
-    "Coaches": "Bill C."
+    "Coaches": "Bill C.",
+    "taxes": null
   },
   {
     "Title": "Oakville - LEVEL 1: Beginners Pickleball League",
@@ -5527,12 +5446,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46444/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Oakville",
     "Province": "ON",
     "DL": "?",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Orleans - LEVEL 1: Beginners Pickleball League",
@@ -5554,12 +5473,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45515/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Orleans",
     "Province": "ON",
     "DL": "Jeramy",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Orleans - LEVEL 1: Beginners Pickleball League",
@@ -5581,12 +5500,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45530/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Orleans",
     "Province": "ON",
     "DL": "Jeramy",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Orleans - LEVEL 2: Experienced Beginners Pickleball League",
@@ -5608,12 +5527,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45531/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Orleans",
     "Province": "ON",
     "DL": "Jeramy",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Orleans - Youth Pickleball Club",
@@ -5635,12 +5554,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45532/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Orleans",
     "Province": "ON",
     "DL": "Jeramy",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Oro-Medonte - Beginners Pickleball League",
@@ -5662,12 +5581,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Oro-Medonte",
     "Province": "ON",
     "DL": "Sheila",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Oro-Medonte - Beginners Pickleball Lessons",
@@ -5689,12 +5608,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Oro-Medonte",
     "Province": "ON",
     "DL": "Sheila",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Oro-Medonte - Beginners Pickleball Lessons",
@@ -5716,12 +5635,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Oro-Medonte",
     "Province": "ON",
     "DL": "Sheila",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Oro-Medonte - Beginners Pickleball Lessons",
@@ -5743,12 +5662,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Oro-Medonte",
     "Province": "ON",
     "DL": "Sheila",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Oro-Medonte - Beginners Pickleball Lessons",
@@ -5770,12 +5689,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Oro-Medonte",
     "Province": "ON",
     "DL": "Sheila",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Oro-Medonte - Intermediate Pickleball League",
@@ -5797,12 +5716,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Oro-Medonte",
     "Province": "ON",
     "DL": "Sheila",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Oro-Medonte - Jr Basketball (11 - 13)",
@@ -5824,12 +5743,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Oro-Medonte",
     "Province": "ON",
     "DL": "Sheila",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Oro-Medonte - Jr Basketball (5 - 7)",
@@ -5851,12 +5770,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Oro-Medonte",
     "Province": "ON",
     "DL": "Sheila",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Oro-Medonte - Jr Basketball (8 - 10)",
@@ -5878,12 +5797,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Oro-Medonte",
     "Province": "ON",
     "DL": "Sheila",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Oshawa - LEVEL 1: Beginners Pickleball League",
@@ -5905,12 +5824,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/44578/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Oshawa",
     "Province": "ON",
     "DL": "Zubair",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Ottawa - LEVEL 1: Beginners Pickleball League",
@@ -5932,12 +5851,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/40982/6",
     "updated_price": "89.02",
-    "taxes": null,
     "fee_index": 0,
     "City": "Ottawa",
     "Province": "ON",
     "DL": "Jeramy",
-    "Coaches": "Leonardo"
+    "Coaches": "Leonardo",
+    "taxes": null
   },
   {
     "Title": "Ottawa - LEVEL 2: Experienced Beginners Pickleball League",
@@ -5959,12 +5878,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45529/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Ottawa",
     "Province": "ON",
     "DL": "Jeramy",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Owen Sound - LEVEL 1: Beginners Pickleball League",
@@ -5986,12 +5905,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/44599/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Owen Sound",
     "Province": "ON",
     "DL": "Karan",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Owen Sound - LEVEL 2: Experienced Beginners Pickleball League",
@@ -6013,12 +5932,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/44598/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Owen Sound",
     "Province": "ON",
     "DL": "Karan",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Perth - LEVEL 2: Experienced Beginners Pickleball League",
@@ -6040,12 +5959,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45534/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Perth",
     "Province": "ON",
     "DL": "Jeramy",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Perth - LEVEL 2: Experienced Beginners Pickleball League",
@@ -6067,12 +5986,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46690/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Perth",
     "Province": "ON",
     "DL": "Jeramy",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Perth - LEVEL 3: Intermediate Pickleball League",
@@ -6094,12 +6013,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46695/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Perth",
     "Province": "ON",
     "DL": "Jeramy",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Perth - LEVEL 1 + 2: Beginners + Experienced Beginners Pickleball League",
@@ -6121,12 +6040,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46696/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Perth",
     "Province": "ON",
     "DL": "Jeramy",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Picton - LEVEL 1: Beginners Pickleball League",
@@ -6148,12 +6067,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45545/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Picton",
     "Province": "ON",
     "DL": "Karan",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Port Colborne - LEVEL 2: Experienced Beginners Pickleball League",
@@ -6175,12 +6094,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/38052/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Port Colborne",
     "Province": "ON",
     "DL": "Karan",
-    "Coaches": "Michele"
+    "Coaches": "Michele",
+    "taxes": null
   },
   {
     "Title": "Port Hope - LEVEL 1: Beginners Pickleball League",
@@ -6202,12 +6121,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/44580/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Port Hope",
     "Province": "ON",
     "DL": "Zubair",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Prince George - LEVEL 1:  Beginners Pickleball League",
@@ -6229,12 +6148,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/43457/6",
     "updated_price": "87.73",
-    "taxes": null,
     "fee_index": 0,
     "City": "Prince George",
     "Province": "BC",
     "DL": "Sunny + Jarred",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Prince George - LEVEL 1:  Beginners Pickleball League",
@@ -6255,13 +6174,13 @@
     "Category": "EA",
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/42012/6",
-    "updated_price": "67.30",
-    "taxes": null,
+    "updated_price": "50.47",
     "fee_index": 0,
     "City": "Prince George",
     "Province": "BC",
     "DL": "Sunny + Jarred",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Richmond Hill - Jr Badminton (10 - 13)",
@@ -6283,12 +6202,12 @@
     "sport": "bad",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Richmond Hill",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Richmond Hill - Jr Badminton (11 - 13)",
@@ -6310,12 +6229,12 @@
     "sport": "bad",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Richmond Hill",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Richmond Hill - Jr Badminton (11 - 13)",
@@ -6337,12 +6256,12 @@
     "sport": "bad",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Richmond Hill",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Richmond Hill - Jr Badminton (14 - 16)",
@@ -6364,12 +6283,12 @@
     "sport": "bad",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Richmond Hill",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Richmond Hill - Jr Badminton (14 - 16)",
@@ -6391,12 +6310,12 @@
     "sport": "bad",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Richmond Hill",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Richmond Hill - Jr Badminton (8 - 10)",
@@ -6418,12 +6337,12 @@
     "sport": "bad",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Richmond Hill",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Richmond Hill - Jr Badminton (8 - 10)",
@@ -6445,12 +6364,12 @@
     "sport": "bad",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Richmond Hill",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Richmond Hill - Jr Basketabll (8 - 10)",
@@ -6472,12 +6391,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Richmond Hill",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Richmond Hill - Jr Basketabll (8 - 10)",
@@ -6499,12 +6418,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Richmond Hill",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Richmond Hill - Jr Basketabll (8 - 10)",
@@ -6526,12 +6445,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Richmond Hill",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Richmond Hill - Jr Basketabll (8 - 10)",
@@ -6553,12 +6472,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Richmond Hill",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (11 - 13)",
@@ -6580,12 +6499,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Richmond Hill",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (11 - 13)",
@@ -6607,12 +6526,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Richmond Hill",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (11 - 13)",
@@ -6634,12 +6553,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Richmond Hill",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (11 - 13)",
@@ -6661,12 +6580,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Richmond Hill",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (11 - 13)",
@@ -6688,12 +6607,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Richmond Hill",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (11 - 13)",
@@ -6715,12 +6634,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Richmond Hill",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (11 - 13) Mini",
@@ -6742,12 +6661,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Richmond Hill",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (11 - 13) Mini",
@@ -6769,12 +6688,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Richmond Hill",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (5 - 7)",
@@ -6796,12 +6715,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Richmond Hill",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (5 - 7)",
@@ -6823,12 +6742,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Richmond Hill",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (5 - 7)",
@@ -6850,12 +6769,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Richmond Hill",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (5 - 7)",
@@ -6877,12 +6796,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Richmond Hill",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (5 - 7)",
@@ -6904,12 +6823,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Richmond Hill",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (5 - 7)",
@@ -6931,12 +6850,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Richmond Hill",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (5 - 7) Mini",
@@ -6958,12 +6877,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Richmond Hill",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (5 - 7) Mini",
@@ -6985,12 +6904,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Richmond Hill",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (5 - 7) Mini",
@@ -7012,12 +6931,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Richmond Hill",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (8 - 10)",
@@ -7039,12 +6958,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Richmond Hill",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (8 - 10)",
@@ -7066,12 +6985,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Richmond Hill",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (8 - 10)",
@@ -7093,12 +7012,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Richmond Hill",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (8 - 10)",
@@ -7120,12 +7039,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Richmond Hill",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (8 - 10) Mini",
@@ -7147,12 +7066,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Richmond Hill",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (8 - 10) Mini",
@@ -7174,12 +7093,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Richmond Hill",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (8 - 10) Mini",
@@ -7201,12 +7120,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Richmond Hill",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (8 - 10) Mini",
@@ -7228,12 +7147,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Richmond Hill",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (Girls)",
@@ -7255,12 +7174,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Richmond Hill",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (Girls)",
@@ -7282,12 +7201,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Richmond Hill",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (Girls) Mini",
@@ -7309,12 +7228,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Richmond Hill",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Richmond Hill - LEVEL 2: Experienced Beginners Pickleball League",
@@ -7336,12 +7255,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/41045/6",
     "updated_price": "29.67",
-    "taxes": null,
     "fee_index": 0,
     "City": "Richmond Hill",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Connor"
+    "Coaches": "Connor",
+    "taxes": null
   },
   {
     "Title": "Richmond Hill - LEVEL 2: Experienced Beginners Pickleball League",
@@ -7363,12 +7282,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45819/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Richmond Hill",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Severn - LEVEL 1: Beginners Pickleball League",
@@ -7390,12 +7309,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/41049/6",
     "updated_price": "103.86",
-    "taxes": null,
     "fee_index": 0,
     "City": "Severn/Cumberland Beach",
     "Province": "ON",
     "DL": "Sheila",
-    "Coaches": "Dominique"
+    "Coaches": "Dominique",
+    "taxes": null
   },
   {
     "Title": "Severn - LEVEL 3: Intermediate Pickleball League",
@@ -7417,12 +7336,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/41049/6",
     "updated_price": "103.86",
-    "taxes": null,
     "fee_index": 1,
     "City": "Severn/Cumberland Beach",
     "Province": "ON",
     "DL": "Sheila",
-    "Coaches": "Dominique"
+    "Coaches": "Dominique",
+    "taxes": null
   },
   {
     "Title": "South Bruce - LEVEL 1: Beginners Pickleball League",
@@ -7444,12 +7363,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/44596/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "South Bruce",
     "Province": "ON",
     "DL": "Karan",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "South River - LEVEL 1: Beginners Pickleball League",
@@ -7471,12 +7390,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45538/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "South River",
     "Province": "ON",
     "DL": "Sheila",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Squamish - LEVEL 1:  Beginners Pickleball League",
@@ -7498,12 +7417,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/43455/6",
     "updated_price": "84.45",
-    "taxes": null,
     "fee_index": 0,
     "City": "Squamish",
     "Province": "BC",
     "DL": "Sunny + Jarred",
-    "Coaches": "Gini"
+    "Coaches": "Gini",
+    "taxes": null
   },
   {
     "Title": "Squamish - LEVEL 1: Beginners Pickleball League",
@@ -7525,12 +7444,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/42076/6",
     "updated_price": "84.45",
-    "taxes": null,
     "fee_index": 0,
     "City": "Squamish",
     "Province": "BC",
     "DL": "Sunny + Jarred",
-    "Coaches": "Gunveet"
+    "Coaches": "Gunveet",
+    "taxes": null
   },
   {
     "Title": "St. Catharines - LEVEL 1: Beginners Pickleball League",
@@ -7552,12 +7471,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/44589/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "St. Catharines",
     "Province": "ON",
     "DL": "Karan",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Stayner - LEVEL 2: Advanced Beginners Pickleball League",
@@ -7579,12 +7498,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45628/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Stayner",
     "Province": "ON",
     "DL": "Sheila",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Stirling - LEVEL 1: Beginners Pickleball League",
@@ -7606,12 +7525,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45546/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Stirling",
     "Province": "ON",
     "DL": "Karan",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Stoney Creek  - LEVEL 2: Experienced Beginners Pickleball League",
@@ -7633,12 +7552,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45620/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Stoney Creek",
     "Province": "ON",
     "DL": "Karan",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Stoney Creek - LEVEL 1: Beginners Pickleball League",
@@ -7660,12 +7579,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45619/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Stoney Creek",
     "Province": "ON",
     "DL": "Karan",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Stouffville - LEVEL 2: Experienced Beginners Pickleball League",
@@ -7687,12 +7606,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/41140/6",
     "updated_price": "103.86",
-    "taxes": null,
     "fee_index": 0,
     "City": "Stouffville",
     "Province": "ON",
     "DL": "Rob Miller",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Sudbury - LEVEL 1: Beginners Pickleball League",
@@ -7714,12 +7633,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45536/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Sudbury",
     "Province": "ON",
     "DL": "Sheila",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Sudbury - LEVEL 2: Experienced Beginners Pickleball League",
@@ -7741,12 +7660,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45537/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Sudbury",
     "Province": "ON",
     "DL": "Sheila",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Surrey - LEVEL 1: Beginners Pickleball League",
@@ -7768,12 +7687,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/42073/6",
     "updated_price": "72.06",
-    "taxes": null,
     "fee_index": 0,
     "City": "Surrey",
     "Province": "BC",
     "DL": "Sunny + Jarred",
-    "Coaches": "Rajbir"
+    "Coaches": "Rajbir",
+    "taxes": null
   },
   {
     "Title": "Surrey - LEVEL 1: Beginners Pickleball League",
@@ -7795,12 +7714,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/43453/6",
     "updated_price": "17.92",
-    "taxes": null,
     "fee_index": 0,
     "City": "Surrey",
     "Province": "BC",
     "DL": "Sunny + Jarred",
-    "Coaches": "Merwise"
+    "Coaches": "Merwise",
+    "taxes": null
   },
   {
     "Title": "Sutton - LEVEL 2: Experienced Beginners Pickleball League",
@@ -7822,12 +7741,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/40992/6",
     "updated_price": "14.84",
-    "taxes": null,
     "fee_index": 0,
     "City": "Sutton",
     "Province": "ON",
     "DL": "Adele",
-    "Coaches": "Adele"
+    "Coaches": "Adele",
+    "taxes": null
   },
   {
     "Title": "Sutton - LEVEL 2: Experienced Beginners Pickleball League",
@@ -7849,12 +7768,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/41139/6",
     "updated_price": "103.86",
-    "taxes": null,
     "fee_index": 0,
     "City": "Sutton",
     "Province": "ON",
     "DL": "Adele",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Terrace - Beginners/Intermediate Pickleball League",
@@ -7876,12 +7795,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/43967/6",
     "updated_price": "93.18",
-    "taxes": null,
     "fee_index": 0,
     "City": "Terrace",
     "Province": "BC",
     "DL": "Sunny + Jarred",
-    "Coaches": "Jugal + Nicole"
+    "Coaches": "Jugal + Nicole",
+    "taxes": null
   },
   {
     "Title": "Terrace - LEVEL 1: Beginners Pickleball League",
@@ -7903,12 +7822,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/42074/6",
     "updated_price": "93.18",
-    "taxes": null,
     "fee_index": 0,
     "City": "Terrace",
     "Province": "BC",
     "DL": "Sunny + Jarred",
-    "Coaches": "Jugal + Nicole"
+    "Coaches": "Jugal + Nicole",
+    "taxes": null
   },
   {
     "Title": "Terrace - LEVEL 1: Beginners Pickleball League",
@@ -7930,12 +7849,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/43454/6",
     "updated_price": "62.12",
-    "taxes": null,
     "fee_index": 0,
     "City": "Terrace",
     "Province": "BC",
     "DL": "Sunny + Jarred",
-    "Coaches": "Jugal + Nicole"
+    "Coaches": "Jugal + Nicole",
+    "taxes": null
   },
   {
     "Title": "Tiny Township - Jr Basketball (11 - 13 yrs)",
@@ -7957,12 +7876,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Tiny Township",
     "Province": "ON",
     "DL": "Sheila",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Tiny Township - Jr Basketball (5 - 7 yrs)",
@@ -7984,12 +7903,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Tiny Township",
     "Province": "ON",
     "DL": "Sheila",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Tiny Township - Jr Basketball (8 - 10 yrs)",
@@ -8011,12 +7930,12 @@
     "sport": "bask",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Tiny Township",
     "Province": "ON",
     "DL": "Sheila",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Trenton - LEVEL 1: Beginners Pickleball League",
@@ -8038,12 +7957,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45544/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Trenton",
     "Province": "ON",
     "DL": "Karan",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "Truro - LEVEL 1: Beginners Pickleball League",
@@ -8065,12 +7984,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/41356/6",
     "updated_price": "13.68",
-    "taxes": null,
     "fee_index": 0,
     "City": "Truro",
     "Province": "NS",
     "DL": "Dylan",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Truro - LEVEL 1: Beginners Pickleball League",
@@ -8092,12 +8011,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45121/6",
     "updated_price": "82.08",
-    "taxes": null,
     "fee_index": 0,
     "City": "Truro",
     "Province": "NS",
     "DL": "Dylan",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Vaughan - Pickleball Clinic Intro: LEVEL 1",
@@ -8119,12 +8038,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Vaughan",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Jimmy + NEED 1 MORE"
+    "Coaches": "Jimmy + NEED 1 MORE",
+    "taxes": null
   },
   {
     "Title": "Vaughan - Pickleball Clinic Intro: LEVEL 1",
@@ -8146,12 +8065,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Vaughan",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Jimmy + Sandy?"
+    "Coaches": "Jimmy + Sandy?",
+    "taxes": null
   },
   {
     "Title": "Vaughan - Pickleball Clinic Intro: LEVEL 1",
@@ -8173,12 +8092,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Vaughan",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Jimmy + Sandy?"
+    "Coaches": "Jimmy + Sandy?",
+    "taxes": null
   },
   {
     "Title": "Vaughan - Pickleball Clinic: LEVEL 2",
@@ -8200,12 +8119,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Vaughan",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Jimmy + NEED 1 MORE"
+    "Coaches": "Jimmy + NEED 1 MORE",
+    "taxes": null
   },
   {
     "Title": "Vaughan - Pickleball Clinic: LEVEL 2",
@@ -8227,12 +8146,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Vaughan",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Jimmy + Sandy?"
+    "Coaches": "Jimmy + Sandy?",
+    "taxes": null
   },
   {
     "Title": "Vaughan - Pickleball Clinic: LEVEL 2",
@@ -8254,12 +8173,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Vaughan",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Jimmy + Sandy?"
+    "Coaches": "Jimmy + Sandy?",
+    "taxes": null
   },
   {
     "Title": "Vernon - LEVEL 1: Beginners Pickleball League",
@@ -8281,12 +8200,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/42892/6",
     "updated_price": "82.39",
-    "taxes": null,
     "fee_index": 0,
     "City": "Vernon",
     "Province": "BC",
     "DL": "Sunny + Jarred",
-    "Coaches": "Blake"
+    "Coaches": "Blake",
+    "taxes": null
   },
   {
     "Title": "Vernon - LEVEL 1: Beginners Pickleball League",
@@ -8308,12 +8227,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/42890/6",
     "updated_price": "98.86",
-    "taxes": null,
     "fee_index": 0,
     "City": "Vernon",
     "Province": "BC",
     "DL": "Sunny + Jarred",
-    "Coaches": "Blake"
+    "Coaches": "Blake",
+    "taxes": null
   },
   {
     "Title": "Vernon - LEVEL 1: Beginners Pickleball League",
@@ -8335,12 +8254,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/42075/6",
     "updated_price": "82.39",
-    "taxes": null,
     "fee_index": 0,
     "City": "Vernon",
     "Province": "BC",
     "DL": "Sunny + Jarred",
-    "Coaches": "Blake"
+    "Coaches": "Blake",
+    "taxes": null
   },
   {
     "Title": "Victoria - Intermediate/Beginners Hybrid Pickleball League",
@@ -8362,12 +8281,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/42939/6",
     "updated_price": "19.50",
-    "taxes": null,
     "fee_index": 0,
     "City": "Victoria",
     "Province": "BC",
     "DL": "Sunny + Jarred",
-    "Coaches": "Linda"
+    "Coaches": "Linda",
+    "taxes": null
   },
   {
     "Title": "Wasaga Beach - LEVEL 1: Beginners Pickleball League",
@@ -8389,12 +8308,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46766/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Wasaga Beach",
     "Province": "ON",
     "DL": "Sheila",
-    "Coaches": "Rob H."
+    "Coaches": "Rob H.",
+    "taxes": null
   },
   {
     "Title": "Wasaga Beach - LEVEL 2: Experienced Beginners Pickleball League",
@@ -8416,12 +8335,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46767/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "Wasaga Beach",
     "Province": "ON",
     "DL": "Sheila",
-    "Coaches": "Rob H."
+    "Coaches": "Rob H.",
+    "taxes": null
   },
   {
     "Title": "Wasaga Beach - LEVEL 1: Beginners Pickleball League",
@@ -8443,12 +8362,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/39828/6",
     "updated_price": "14.84",
-    "taxes": null,
     "fee_index": 1,
     "City": "Wasaga Beach",
     "Province": "ON",
     "DL": "Sheila",
-    "Coaches": "Rob H."
+    "Coaches": "Rob H.",
+    "taxes": null
   },
   {
     "Title": "Wasaga Beach - LEVEL 2: Experienced Beginners Pickleball League",
@@ -8470,12 +8389,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/39828/6",
     "updated_price": "14.84",
-    "taxes": null,
     "fee_index": 2,
     "City": "Wasaga Beach",
     "Province": "ON",
     "DL": "Sheila",
-    "Coaches": "Rob H."
+    "Coaches": "Rob H.",
+    "taxes": null
   },
   {
     "Title": "Waterloo - LEVEL 1: Beginners Pickleball League",
@@ -8497,12 +8416,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/39685/6",
     "updated_price": "29.67",
-    "taxes": null,
     "fee_index": 0,
     "City": "Waterloo",
     "Province": "ON",
     "DL": "Sadie",
-    "Coaches": "Mark W."
+    "Coaches": "Mark W.",
+    "taxes": null
   },
   {
     "Title": "West Grey - LEVEL 1: Beginners Pickleball League",
@@ -8524,12 +8443,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45630/6",
     "updated_price": "118.70",
-    "taxes": null,
     "fee_index": 0,
     "City": "West Grey",
     "Province": "ON",
     "DL": "Karan",
-    "Coaches": "Need to hire"
+    "Coaches": "Need to hire",
+    "taxes": null
   },
   {
     "Title": "West Northfield - Parent + Youth Pickleball (12 - 18 yrs)",
@@ -8551,12 +8470,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": 0,
     "City": "West Northfield",
     "Province": "NS",
     "DL": "Dylan",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "West Northfield - Parent + Youth Pickleball (9 - 12 yrs)",
@@ -8578,12 +8497,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": 0,
     "City": "West Northfield",
     "Province": "NS",
     "DL": "Dylan",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Windsor, NS - LEVEL 1: Beginners Pickleball League",
@@ -8605,12 +8524,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/41359/6",
     "updated_price": "13.68",
-    "taxes": null,
     "fee_index": 0,
     "City": "Windsor, NS",
     "Province": "NS",
     "DL": "Dylan",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Windsor, NS - LEVEL 1: Beginners Pickleball League",
@@ -8632,12 +8551,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45126/6",
     "updated_price": "109.44",
-    "taxes": null,
     "fee_index": 0,
     "City": "Windsor, NS",
     "Province": "NS",
     "DL": "Dylan",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Victoria - Learn to Play Pickleball",
@@ -8659,12 +8578,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46519/6",
     "updated_price": "126.00",
-    "taxes": null,
     "fee_index": 0,
     "City": "Victoria",
     "Province": "BC",
     "DL": "Sunny + Jarred",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Kamloops - LEVEL 1: Beginners Pickleball League",
@@ -8686,12 +8605,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46604/6",
     "updated_price": "139.65",
-    "taxes": null,
     "fee_index": 0,
     "City": "Kamloops",
     "Province": "BC",
     "DL": "Sunny + Jarred",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Victoria - LEVEL 1: Beginners Pickleball League",
@@ -8713,12 +8632,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46607/6",
     "updated_price": "146.22",
-    "taxes": null,
     "fee_index": 0,
     "City": "Victoria",
     "Province": "BC",
     "DL": "Sunny + Jarred",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Surrey - LEVEL 1: Beginners Pickleball League",
@@ -8740,12 +8659,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46610/6",
     "updated_price": "114.02",
-    "taxes": null,
     "fee_index": 0,
     "City": "Surrey",
     "Province": "BC",
     "DL": "Sunny + Jarred",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "North Vancouver - LEVEL 2: Experienced Beginners League",
@@ -8767,12 +8686,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46612/6",
     "updated_price": "102.03",
-    "taxes": null,
     "fee_index": 0,
     "City": "North Vancouver",
     "Province": "BC",
     "DL": "Sunny + Jarred",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "North Vancouver - LEVEL 2: Experienced Beginners League",
@@ -8794,12 +8713,12 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46611/6",
     "updated_price": "102.03",
-    "taxes": null,
     "fee_index": 0,
     "City": "North Vancouver",
     "Province": "BC",
     "DL": "Sunny + Jarred",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Aurora - Beginners Pickleball League",
@@ -8821,12 +8740,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Aurora",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Aurora - Intermediate Pickleball League",
@@ -8848,12 +8767,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Aurora",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Aurora - Beginners Pickleball League",
@@ -8875,12 +8794,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Aurora",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Aurora - Youth Learn to Play PIckleball (10 - 17 yrs)",
@@ -8902,12 +8821,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Aurora",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Aurora - Intermediate Pickleball League",
@@ -8929,12 +8848,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Aurora",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Aurora - Adult Learn to Play Pickleball",
@@ -8956,12 +8875,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Aurora",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Aurora - Adult Learn to Play Pickleball",
@@ -8983,12 +8902,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Aurora",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Aurora - Adult Learn to Play Pickleball",
@@ -9010,12 +8929,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Aurora",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Aurora - Adult Learn to Play Pickleball",
@@ -9037,12 +8956,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Aurora",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Aurora - Youth Learn to Play PIckleball (10 - 17 yrs)",
@@ -9064,12 +8983,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Aurora",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Aurora - Beginners Pickleball League",
@@ -9091,12 +9010,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Aurora",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Aurora - Intermediate Pickleball League",
@@ -9118,12 +9037,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Aurora",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Oshawa - Learn to Play Pickleball (15+ yrs)",
@@ -9145,12 +9064,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Oshawa",
     "Province": "ON",
     "DL": "?",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Oshawa - Learn to Play Pickleball (6 - 10 yrs)",
@@ -9172,12 +9091,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Oshawa",
     "Province": "ON",
     "DL": "?",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Oshawa - Learn to Play Pickleball (11 - 14 yrs)",
@@ -9199,12 +9118,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Oshawa",
     "Province": "ON",
     "DL": "?",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Oshawa - Beginners Pickleball League",
@@ -9226,12 +9145,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Oshawa",
     "Province": "ON",
     "DL": "?",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Oshawa - Learn to Play Pickleball (15+ yrs)",
@@ -9253,12 +9172,12 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Oshawa",
     "Province": "ON",
     "DL": "?",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   },
   {
     "Title": "Oshawa - Learn to Play Pickleball (15+ yrs)",
@@ -9280,11 +9199,11 @@
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
-    "taxes": null,
     "fee_index": null,
     "City": "Oshawa",
     "Province": "ON",
     "DL": "?",
-    "Coaches": "?"
+    "Coaches": "?",
+    "taxes": null
   }
 ]
