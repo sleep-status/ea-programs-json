@@ -3,7 +3,7 @@
     "City": "Newmarket",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/newmarket-ea-pickleball/",
-    "Active": 28
+    "Active": 20
   },
   {
     "City": "Aurora",
@@ -12,16 +12,16 @@
     "Active": 20
   },
   {
-    "City": "East Gwillimbury",
+    "City": "Lanark County",
     "Province": "ON",
-    "PageURL": "https://eapickleball.com/east-gwillimbury-ea-pickleball",
-    "Active": 9
+    "PageURL": "https://eapickleball.com/lanark-county/",
+    "Active": 8
   },
   {
     "City": "Keswick",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/keswick-pickleball/",
-    "Active": 8
+    "Active": 7
   },
   {
     "City": "King City",
@@ -36,10 +36,10 @@
     "Active": 7
   },
   {
-    "City": "Lanark County",
+    "City": "East Gwillimbury",
     "Province": "ON",
-    "PageURL": "https://eapickleball.com/lanark-county/",
-    "Active": 7
+    "PageURL": "https://eapickleball.com/east-gwillimbury-ea-pickleball",
+    "Active": 6
   },
   {
     "City": "Vaughan",
@@ -78,12 +78,6 @@
     "Active": 4
   },
   {
-    "City": "North Vancouver",
-    "Province": "BC",
-    "PageURL": "https://bc.eapickleball.com/north-vancouver/",
-    "Active": 4
-  },
-  {
     "City": "Courtice",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/courtice-pickleball/",
@@ -108,15 +102,15 @@
     "Active": 4
   },
   {
-    "City": "Uxbridge",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/uxbridge-pickleball/",
-    "Active": 4
-  },
-  {
     "City": "Wasaga Beach",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/wasaga-beach/",
+    "Active": 4
+  },
+  {
+    "City": "Coquitlam",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/coquitlam/",
     "Active": 4
   },
   {
@@ -135,12 +129,6 @@
     "City": "Bracebridge",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/bracebridge-pickleball/",
-    "Active": 3
-  },
-  {
-    "City": "Coquitlam",
-    "Province": "BC",
-    "PageURL": "https://bc.eapickleball.com/coquitlam/",
     "Active": 3
   },
   {
@@ -192,6 +180,12 @@
     "Active": 3
   },
   {
+    "City": "North Vancouver",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/north-vancouver/",
+    "Active": 2
+  },
+  {
     "City": "Ottawa",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/ottawa-pickleball/",
@@ -213,12 +207,6 @@
     "City": "Squamish",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/squamish/",
-    "Active": 2
-  },
-  {
-    "City": "Chester",
-    "Province": "NS",
-    "PageURL": "https://eapickleball.com/chester/",
     "Active": 2
   },
   {
@@ -270,12 +258,6 @@
     "Active": 2
   },
   {
-    "City": "Stouffville",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/stouffvillepickleball/",
-    "Active": 2
-  },
-  {
     "City": "Sudbury",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/sudbury/",
@@ -316,6 +298,24 @@
     "Province": "ON",
     "PageURL": "https://eapickleball.com/severn-pickleball/",
     "Active": 2
+  },
+  {
+    "City": "Uxbridge",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/uxbridge-pickleball/",
+    "Active": 1
+  },
+  {
+    "City": "Chester",
+    "Province": "NS",
+    "PageURL": "https://eapickleball.com/chester/",
+    "Active": 1
+  },
+  {
+    "City": "Stouffville",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/stouffvillepickleball/",
+    "Active": 1
   },
   {
     "City": "Port Colborne",
