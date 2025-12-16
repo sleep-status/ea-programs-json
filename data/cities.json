@@ -18,12 +18,6 @@
     "Active": 8
   },
   {
-    "City": "Keswick",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/keswick-pickleball/",
-    "Active": 7
-  },
-  {
     "City": "King City",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/king-city-pickleball/",
@@ -36,21 +30,9 @@
     "Active": 7
   },
   {
-    "City": "East Gwillimbury",
+    "City": "Keswick",
     "Province": "ON",
-    "PageURL": "https://eapickleball.com/east-gwillimbury-ea-pickleball",
-    "Active": 6
-  },
-  {
-    "City": "Vaughan",
-    "Province": "ON",
-    "PageURL": "http://eapickleball.com/vaughan/",
-    "Active": 6
-  },
-  {
-    "City": "North York",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/north-york-pickleball/",
+    "PageURL": "https://eapickleball.com/keswick-pickleball/",
     "Active": 6
   },
   {
@@ -70,6 +52,24 @@
     "Province": "ON",
     "PageURL": "https://eapickleball.com/caledon-pickleball-league/",
     "Active": 6
+  },
+  {
+    "City": "East Gwillimbury",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/east-gwillimbury-ea-pickleball",
+    "Active": 5
+  },
+  {
+    "City": "North York",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/north-york-pickleball/",
+    "Active": 5
+  },
+  {
+    "City": "Vaughan",
+    "Province": "ON",
+    "PageURL": "http://eapickleball.com/vaughan/",
+    "Active": 4
   },
   {
     "City": "Brampton",
@@ -102,16 +102,16 @@
     "Active": 4
   },
   {
-    "City": "Wasaga Beach",
+    "City": "Almonte",
     "Province": "ON",
-    "PageURL": "https://eapickleball.com/wasaga-beach/",
+    "PageURL": "https://eapickleball.com/lanark-county/",
     "Active": 4
   },
   {
     "City": "Coquitlam",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/coquitlam/",
-    "Active": 4
+    "Active": 3
   },
   {
     "City": "Victoria",
@@ -144,12 +144,6 @@
     "Active": 3
   },
   {
-    "City": "Almonte",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/lanark-county/",
-    "Active": 3
-  },
-  {
     "City": "Bradford",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/bradford-pickleball-league/",
@@ -178,6 +172,12 @@
     "Province": "ON",
     "PageURL": "https://eapickleball.com/bolton-pickleball/",
     "Active": 3
+  },
+  {
+    "City": "Wasaga Beach",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/wasaga-beach/",
+    "Active": 2
   },
   {
     "City": "North Vancouver",
@@ -298,12 +298,6 @@
     "Province": "ON",
     "PageURL": "https://eapickleball.com/severn-pickleball/",
     "Active": 2
-  },
-  {
-    "City": "Uxbridge",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/uxbridge-pickleball/",
-    "Active": 1
   },
   {
     "City": "Chester",
@@ -465,6 +459,12 @@
     "City": "Kamloops",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/kamloops/",
+    "Active": 1
+  },
+  {
+    "City": "Uxbridge",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/uxbridge-pickleball/",
     "Active": 1
   },
   {
