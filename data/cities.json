@@ -12,12 +12,6 @@
     "Active": 20
   },
   {
-    "City": "Lanark County",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/lanark-county/",
-    "Active": 8
-  },
-  {
     "City": "King City",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/king-city-pickleball/",
@@ -108,15 +102,15 @@
     "Active": 4
   },
   {
-    "City": "Coquitlam",
-    "Province": "BC",
-    "PageURL": "https://bc.eapickleball.com/coquitlam/",
-    "Active": 3
-  },
-  {
     "City": "Victoria",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/victoria/",
+    "Active": 4
+  },
+  {
+    "City": "Coquitlam",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/coquitlam/",
     "Active": 3
   },
   {
@@ -300,6 +294,18 @@
     "Active": 2
   },
   {
+    "City": "Uxbridge",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/uxbridge-pickleball/",
+    "Active": 2
+  },
+  {
+    "City": "Port Perry",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/port-perry-pickleball/",
+    "Active": 2
+  },
+  {
     "City": "Chester",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/chester/",
@@ -462,15 +468,9 @@
     "Active": 1
   },
   {
-    "City": "Uxbridge",
+    "City": "Lanark County",
     "Province": "ON",
-    "PageURL": "https://eapickleball.com/uxbridge-pickleball/",
-    "Active": 1
-  },
-  {
-    "City": "Port Perry",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/port-perry-pickleball/",
+    "PageURL": "https://eapickleball.com/lanark-county/",
     "Active": 0
   },
   {
