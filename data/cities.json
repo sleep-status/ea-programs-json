@@ -24,21 +24,9 @@
     "Active": 7
   },
   {
-    "City": "Keswick",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/keswick-pickleball/",
-    "Active": 6
-  },
-  {
     "City": "Oro-Medonte",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/oro-pickleball/",
-    "Active": 6
-  },
-  {
-    "City": "Bridgewater",
-    "Province": "NS",
-    "PageURL": "https://eapickleball.com/bridgewater/",
     "Active": 6
   },
   {
@@ -46,6 +34,18 @@
     "Province": "ON",
     "PageURL": "https://eapickleball.com/caledon-pickleball-league/",
     "Active": 6
+  },
+  {
+    "City": "Keswick",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/keswick-pickleball/",
+    "Active": 5
+  },
+  {
+    "City": "Bridgewater",
+    "Province": "NS",
+    "PageURL": "https://eapickleball.com/bridgewater/",
+    "Active": 5
   },
   {
     "City": "East Gwillimbury",
@@ -69,12 +69,6 @@
     "City": "Brampton",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/brampton-pickleball/",
-    "Active": 4
-  },
-  {
-    "City": "Courtice",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/courtice-pickleball/",
     "Active": 4
   },
   {
@@ -106,6 +100,12 @@
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/victoria/",
     "Active": 4
+  },
+  {
+    "City": "Courtice",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/courtice-pickleball/",
+    "Active": 3
   },
   {
     "City": "Coquitlam",
@@ -258,12 +258,6 @@
     "Active": 2
   },
   {
-    "City": "Sutton",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/sutton-pickleball-2/",
-    "Active": 2
-  },
-  {
     "City": "Chilliwack",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/chilliwack/",
@@ -304,6 +298,12 @@
     "Province": "ON",
     "PageURL": "https://eapickleball.com/port-perry-pickleball/",
     "Active": 2
+  },
+  {
+    "City": "Sutton",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/sutton-pickleball-2/",
+    "Active": 1
   },
   {
     "City": "Chester",
