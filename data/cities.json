@@ -9,7 +9,13 @@
     "City": "Aurora",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/aurora/",
-    "Active": 20
+    "Active": 18
+  },
+  {
+    "City": "Lanark County",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/lanark-county/",
+    "Active": 8
   },
   {
     "City": "King City",
@@ -39,12 +45,6 @@
     "City": "Keswick",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/keswick-pickleball/",
-    "Active": 5
-  },
-  {
-    "City": "Bridgewater",
-    "Province": "NS",
-    "PageURL": "https://eapickleball.com/bridgewater/",
     "Active": 5
   },
   {
@@ -100,6 +100,18 @@
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/victoria/",
     "Active": 4
+  },
+  {
+    "City": "Whitby",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/whitby-pickleball/",
+    "Active": 4
+  },
+  {
+    "City": "Bridgewater",
+    "Province": "NS",
+    "PageURL": "https://eapickleball.com/bridgewater/",
+    "Active": 3
   },
   {
     "City": "Courtice",
@@ -162,10 +174,16 @@
     "Active": 3
   },
   {
+    "City": "Uxbridge",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/uxbridge-pickleball/",
+    "Active": 3
+  },
+  {
     "City": "Bolton",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/bolton-pickleball/",
-    "Active": 3
+    "Active": 2
   },
   {
     "City": "Wasaga Beach",
@@ -204,12 +222,6 @@
     "Active": 2
   },
   {
-    "City": "Truro",
-    "Province": "NS",
-    "PageURL": "https://eapickleball.com/truro/",
-    "Active": 2
-  },
-  {
     "City": "Windsor, NS",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/windsor-ns/",
@@ -231,12 +243,6 @@
     "City": "Dundas",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/dundas/",
-    "Active": 2
-  },
-  {
-    "City": "Guelph",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/guelph-pickleball/",
     "Active": 2
   },
   {
@@ -288,16 +294,22 @@
     "Active": 2
   },
   {
-    "City": "Uxbridge",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/uxbridge-pickleball/",
-    "Active": 2
-  },
-  {
     "City": "Port Perry",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/port-perry-pickleball/",
     "Active": 2
+  },
+  {
+    "City": "Truro",
+    "Province": "NS",
+    "PageURL": "https://eapickleball.com/truro/",
+    "Active": 1
+  },
+  {
+    "City": "Guelph",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/guelph-pickleball/",
+    "Active": 1
   },
   {
     "City": "Sutton",
@@ -468,21 +480,9 @@
     "Active": 1
   },
   {
-    "City": "Lanark County",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/lanark-county/",
-    "Active": 0
-  },
-  {
     "City": "Cornwall",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/cornwall/",
-    "Active": 0
-  },
-  {
-    "City": "Whitby",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/whitby-pickleball/",
     "Active": 0
   },
   {
