@@ -9,12 +9,18 @@
     "City": "Aurora",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/aurora/",
-    "Active": 18
+    "Active": 16
   },
   {
     "City": "Lanark County",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/lanark-county/",
+    "Active": 8
+  },
+  {
+    "City": "Caledon",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/caledon-pickleball-league/",
     "Active": 8
   },
   {
@@ -33,12 +39,6 @@
     "City": "Oro-Medonte",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/oro-pickleball/",
-    "Active": 6
-  },
-  {
-    "City": "Caledon",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/caledon-pickleball-league/",
     "Active": 6
   },
   {
@@ -114,12 +114,6 @@
     "Active": 3
   },
   {
-    "City": "Courtice",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/courtice-pickleball/",
-    "Active": 3
-  },
-  {
     "City": "Coquitlam",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/coquitlam/",
@@ -168,16 +162,22 @@
     "Active": 3
   },
   {
-    "City": "Surrey",
-    "Province": "BC",
-    "PageURL": "https://bc.eapickleball.com/surrey/",
-    "Active": 3
-  },
-  {
     "City": "Uxbridge",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/uxbridge-pickleball/",
     "Active": 3
+  },
+  {
+    "City": "Courtice",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/courtice-pickleball/",
+    "Active": 2
+  },
+  {
+    "City": "Surrey",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/surrey/",
+    "Active": 2
   },
   {
     "City": "Bolton",
@@ -219,12 +219,6 @@
     "City": "Squamish",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/squamish/",
-    "Active": 2
-  },
-  {
-    "City": "Windsor, NS",
-    "Province": "NS",
-    "PageURL": "https://eapickleball.com/windsor-ns/",
     "Active": 2
   },
   {
@@ -300,6 +294,12 @@
     "Active": 2
   },
   {
+    "City": "Windsor, NS",
+    "Province": "NS",
+    "PageURL": "https://eapickleball.com/windsor-ns/",
+    "Active": 1
+  },
+  {
     "City": "Truro",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/truro/",
@@ -351,12 +351,6 @@
     "City": "New Waterford",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/new-waterford/",
-    "Active": 1
-  },
-  {
-    "City": "Bowmanville",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/bowmanville-pickleball/",
     "Active": 1
   },
   {
@@ -478,6 +472,12 @@
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/kamloops/",
     "Active": 1
+  },
+  {
+    "City": "Bowmanville",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/bowmanville-pickleball/",
+    "Active": 0
   },
   {
     "City": "Cornwall",
