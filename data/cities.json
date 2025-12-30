@@ -168,6 +168,12 @@
     "Active": 3
   },
   {
+    "City": "North Vancouver",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/north-vancouver/",
+    "Active": 3
+  },
+  {
     "City": "Courtice",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/courtice-pickleball/",
@@ -189,12 +195,6 @@
     "City": "Wasaga Beach",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/wasaga-beach/",
-    "Active": 2
-  },
-  {
-    "City": "North Vancouver",
-    "Province": "BC",
-    "PageURL": "https://bc.eapickleball.com/north-vancouver/",
     "Active": 2
   },
   {
