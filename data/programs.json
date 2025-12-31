@@ -24,7 +24,8 @@
     "Province": "ON",
     "DL": "Sheila",
     "Coaches": "Sheri",
-    "taxes": 1.14
+    "taxes": 1.14,
+    "age": null
   },
   {
     "Title": "Alliston - LEVEL 2: Experienced Beginners Pickleball League",
@@ -51,7 +52,8 @@
     "Province": "ON",
     "DL": "Sheila",
     "Coaches": "Sheri",
-    "taxes": 1.13
+    "taxes": 1.13,
+    "age": null
   },
   {
     "Title": "Almonte - LEVEL 1: Beginners Pickleball League",
@@ -78,7 +80,8 @@
     "Province": "ON",
     "DL": "Sheila",
     "Coaches": "Paul O'Leary",
-    "taxes": 1.05
+    "taxes": 1.05,
+    "age": null
   },
   {
     "Title": "Almonte - LEVEL 1: Beginners Pickleball League",
@@ -105,7 +108,8 @@
     "Province": "ON",
     "DL": "Sheila",
     "Coaches": "Need to hire",
-    "taxes": 1
+    "taxes": 1,
+    "age": null
   },
   {
     "Title": "Almonte - LEVEL 2: Experienced Beginners Pickleball League",
@@ -132,7 +136,8 @@
     "Province": "ON",
     "DL": "Sheila",
     "Coaches": "Paul O'Leary",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Almonte - LEVEL 3: Intermediate Pickleball League",
@@ -159,7 +164,8 @@
     "Province": "ON",
     "DL": "Sheila",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Aurora - Adult Learn to Play Pickleball",
@@ -186,7 +192,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Aurora - Adult Learn to Play Pickleball",
@@ -213,7 +220,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Aurora - Adult Learn to Play Pickleball",
@@ -240,7 +248,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Aurora - Adult Learn to Play Pickleball",
@@ -267,7 +276,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Aurora - Advanced Badminton Lessons (Jan - Feb)",
@@ -294,7 +304,8 @@
     "Province": "ON",
     "DL": "?",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Aurora - Advanced Badminton Lessons (Mar - Apr)",
@@ -321,7 +332,8 @@
     "Province": "ON",
     "DL": "?",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Aurora - Advanced Badminton Lessons (May - Jun)",
@@ -348,7 +360,8 @@
     "Province": "ON",
     "DL": "?",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Aurora - Beginner/Intermediate Badminton Lessons (Jan - Feb)",
@@ -375,7 +388,8 @@
     "Province": "ON",
     "DL": "?",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Aurora - Beginner/Intermediate Badminton Lessons (Mar - Apr)",
@@ -402,7 +416,8 @@
     "Province": "ON",
     "DL": "?",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Aurora - Beginner/Intermediate Badminton Lessons (May - Jun)",
@@ -429,61 +444,8 @@
     "Province": "ON",
     "DL": "?",
     "Coaches": "?",
-    "taxes": null
-  },
-  {
-    "Title": "Aurora - Beginners Pickleball League",
-    "TotalPrice": 145,
-    "Prorate": false,
-    "StaticPriceText": "145",
-    "Day": "Fridays",
-    "Time": "1:30 - 3:30 PM",
-    "Start Date": "2026-01-16",
-    "End Date": "2026-03-27",
-    "Exceptions": "2026-03-20",
-    "SessionDates": "2026-01-16,2026-01-23,2026-01-30,2026-02-06,2026-02-13,2026-02-20,2026-02-27,2026-03-06,2026-03-13,2026-03-27",
-    "LocationName": "AFLC",
-    "LocationLink": "https://maps.app.goo.gl/snvh2ukKNfuLyZzq8",
-    "RegisterLink": "https://anc.ca.apm.activecommunities.com/auroraontario/activity/search/detail/29377?onlineSiteId=0&from_original_cui=true",
-    "URL": "https://eapickleball.com/aurora/",
-    "pageIdentifyer": "aurora",
-    "Category": "TS",
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Aurora",
-    "Province": "ON",
-    "DL": "Jimmy",
-    "Coaches": "?",
-    "taxes": null
-  },
-  {
-    "Title": "Aurora - Beginners Pickleball League",
-    "TotalPrice": 145,
-    "Prorate": false,
-    "StaticPriceText": "145",
-    "Day": "Thursdays",
-    "Time": "8:00 - 10:00 PM",
-    "Start Date": "2026-01-15",
-    "End Date": "2026-03-26",
-    "Exceptions": "N/A",
-    "SessionDates": "2026-01-15,2026-01-22,2026-01-29,2026-02-05,2026-02-12,2026-02-19,2026-02-26,2026-03-05,2026-03-12,2026-03-19,2026-03-26",
-    "LocationName": "AFLC",
-    "LocationLink": "https://maps.app.goo.gl/snvh2ukKNfuLyZzq8",
-    "RegisterLink": "https://anc.ca.apm.activecommunities.com/auroraontario/activity/search/detail/29379?onlineSiteId=0&from_original_cui=true",
-    "URL": "https://eapickleball.com/aurora/",
-    "pageIdentifyer": "aurora",
-    "Category": "TS",
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Aurora",
-    "Province": "ON",
-    "DL": "Jimmy",
-    "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Aurora - Beginners Pickleball League",
@@ -510,22 +472,51 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
-    "Title": "Aurora - Intermediate Pickleball League",
-    "TotalPrice": 155,
+    "Title": "Aurora - Beginners Pickleball League",
+    "TotalPrice": 145,
     "Prorate": false,
-    "StaticPriceText": "155",
+    "StaticPriceText": "145",
+    "Day": "Thursdays",
+    "Time": "8:00 - 10:00 PM",
+    "Start Date": "2026-01-15",
+    "End Date": "2026-03-26",
+    "Exceptions": "N/A",
+    "SessionDates": "2026-01-15,2026-01-22,2026-01-29,2026-02-05,2026-02-12,2026-02-19,2026-02-26,2026-03-05,2026-03-12,2026-03-19,2026-03-26",
+    "LocationName": "AFLC",
+    "LocationLink": "https://maps.app.goo.gl/snvh2ukKNfuLyZzq8",
+    "RegisterLink": "https://anc.ca.apm.activecommunities.com/auroraontario/activity/search/detail/29379?onlineSiteId=0&from_original_cui=true",
+    "URL": "https://eapickleball.com/aurora/",
+    "pageIdentifyer": "aurora",
+    "Category": "TS",
+    "sport": "pb",
+    "fee_url": null,
+    "updated_price": null,
+    "fee_index": null,
+    "City": "Aurora",
+    "Province": "ON",
+    "DL": "Jimmy",
+    "Coaches": "?",
+    "taxes": null,
+    "age": null
+  },
+  {
+    "Title": "Aurora - Beginners Pickleball League",
+    "TotalPrice": 145,
+    "Prorate": false,
+    "StaticPriceText": "145",
     "Day": "Fridays",
-    "Time": "11:30 - 1:30 PM",
+    "Time": "1:30 - 3:30 PM",
     "Start Date": "2026-01-16",
     "End Date": "2026-03-27",
     "Exceptions": "2026-03-20",
     "SessionDates": "2026-01-16,2026-01-23,2026-01-30,2026-02-06,2026-02-13,2026-02-20,2026-02-27,2026-03-06,2026-03-13,2026-03-27",
     "LocationName": "AFLC",
     "LocationLink": "https://maps.app.goo.gl/snvh2ukKNfuLyZzq8",
-    "RegisterLink": "https://anc.ca.apm.activecommunities.com/auroraontario/activity/search/detail/29388?onlineSiteId=0&from_original_cui=true",
+    "RegisterLink": "https://anc.ca.apm.activecommunities.com/auroraontario/activity/search/detail/29377?onlineSiteId=0&from_original_cui=true",
     "URL": "https://eapickleball.com/aurora/",
     "pageIdentifyer": "aurora",
     "Category": "TS",
@@ -537,34 +528,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
-  },
-  {
-    "Title": "Aurora - Intermediate Pickleball League",
-    "TotalPrice": 155,
-    "Prorate": false,
-    "StaticPriceText": "155",
-    "Day": "Thursdays",
-    "Time": "1:00 - 3:00 PM",
-    "Start Date": "2026-01-15",
-    "End Date": "2026-03-26",
-    "Exceptions": "2026-03-19",
-    "SessionDates": "2026-01-15,2026-01-22,2026-01-29,2026-02-05,2026-02-12,2026-02-19,2026-02-26,2026-03-05,2026-03-12,2026-03-26",
-    "LocationName": "AFLC",
-    "LocationLink": "https://maps.app.goo.gl/snvh2ukKNfuLyZzq8",
-    "RegisterLink": "https://anc.ca.apm.activecommunities.com/auroraontario/activity/search/detail/29376?onlineSiteId=0&from_original_cui=true",
-    "URL": "https://eapickleball.com/aurora/",
-    "pageIdentifyer": "aurora",
-    "Category": "TS",
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Aurora",
-    "Province": "ON",
-    "DL": "Jimmy",
-    "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Aurora - Intermediate Pickleball League",
@@ -591,7 +556,64 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
+  },
+  {
+    "Title": "Aurora - Intermediate Pickleball League",
+    "TotalPrice": 155,
+    "Prorate": false,
+    "StaticPriceText": "155",
+    "Day": "Thursdays",
+    "Time": "1:00 - 3:00 PM",
+    "Start Date": "2026-01-15",
+    "End Date": "2026-03-26",
+    "Exceptions": "2026-03-19",
+    "SessionDates": "2026-01-15,2026-01-22,2026-01-29,2026-02-05,2026-02-12,2026-02-19,2026-02-26,2026-03-05,2026-03-12,2026-03-26",
+    "LocationName": "AFLC",
+    "LocationLink": "https://maps.app.goo.gl/snvh2ukKNfuLyZzq8",
+    "RegisterLink": "https://anc.ca.apm.activecommunities.com/auroraontario/activity/search/detail/29376?onlineSiteId=0&from_original_cui=true",
+    "URL": "https://eapickleball.com/aurora/",
+    "pageIdentifyer": "aurora",
+    "Category": "TS",
+    "sport": "pb",
+    "fee_url": null,
+    "updated_price": null,
+    "fee_index": null,
+    "City": "Aurora",
+    "Province": "ON",
+    "DL": "Jimmy",
+    "Coaches": "?",
+    "taxes": null,
+    "age": null
+  },
+  {
+    "Title": "Aurora - Intermediate Pickleball League",
+    "TotalPrice": 155,
+    "Prorate": false,
+    "StaticPriceText": "155",
+    "Day": "Fridays",
+    "Time": "11:30 - 1:30 PM",
+    "Start Date": "2026-01-16",
+    "End Date": "2026-03-27",
+    "Exceptions": "2026-03-20",
+    "SessionDates": "2026-01-16,2026-01-23,2026-01-30,2026-02-06,2026-02-13,2026-02-20,2026-02-27,2026-03-06,2026-03-13,2026-03-27",
+    "LocationName": "AFLC",
+    "LocationLink": "https://maps.app.goo.gl/snvh2ukKNfuLyZzq8",
+    "RegisterLink": "https://anc.ca.apm.activecommunities.com/auroraontario/activity/search/detail/29388?onlineSiteId=0&from_original_cui=true",
+    "URL": "https://eapickleball.com/aurora/",
+    "pageIdentifyer": "aurora",
+    "Category": "TS",
+    "sport": "pb",
+    "fee_url": null,
+    "updated_price": null,
+    "fee_index": null,
+    "City": "Aurora",
+    "Province": "ON",
+    "DL": "Jimmy",
+    "Coaches": "?",
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Aurora - LEVEL 2: Experienced Beginners Pickleball League",
@@ -618,7 +640,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Aurora - LEVEL 2: Experienced Beginners Pickleball League",
@@ -645,34 +668,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "Billy",
-    "taxes": null
-  },
-  {
-    "Title": "Aurora - Youth Learn to Play PIckleball (10 - 17 yrs)",
-    "TotalPrice": 110,
-    "Prorate": false,
-    "StaticPriceText": "110",
-    "Day": "Wednesdays",
-    "Time": "5:30 - 6:30 PM",
-    "Start Date": "2026-01-14",
-    "End Date": "2026-03-04",
-    "Exceptions": "N/A",
-    "SessionDates": "2026-01-14,2026-01-21,2026-01-28,2026-02-04,2026-02-11,2026-02-18,2026-02-25,2026-03-04",
-    "LocationName": "ASC",
-    "LocationLink": "https://maps.app.goo.gl/kMVvAhJJ2YWdNCoQA",
-    "RegisterLink": "https://anc.ca.apm.activecommunities.com/auroraontario/activity/search/detail/29492?onlineSiteId=0&from_original_cui=true",
-    "URL": "https://eapickleball.com/aurora/",
-    "pageIdentifyer": "aurora",
-    "Category": "TS",
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Aurora",
-    "Province": "ON",
-    "DL": "Jimmy",
-    "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Aurora - Youth Learn to Play PIckleball (10 - 17 yrs)",
@@ -699,7 +696,64 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
+  },
+  {
+    "Title": "Aurora - Youth Learn to Play PIckleball (10 - 17 yrs)",
+    "TotalPrice": 110,
+    "Prorate": false,
+    "StaticPriceText": "110",
+    "Day": "Wednesdays",
+    "Time": "5:30 - 6:30 PM",
+    "Start Date": "2026-01-14",
+    "End Date": "2026-03-04",
+    "Exceptions": "N/A",
+    "SessionDates": "2026-01-14,2026-01-21,2026-01-28,2026-02-04,2026-02-11,2026-02-18,2026-02-25,2026-03-04",
+    "LocationName": "ASC",
+    "LocationLink": "https://maps.app.goo.gl/kMVvAhJJ2YWdNCoQA",
+    "RegisterLink": "https://anc.ca.apm.activecommunities.com/auroraontario/activity/search/detail/29492?onlineSiteId=0&from_original_cui=true",
+    "URL": "https://eapickleball.com/aurora/",
+    "pageIdentifyer": "aurora",
+    "Category": "TS",
+    "sport": "pb",
+    "fee_url": null,
+    "updated_price": null,
+    "fee_index": null,
+    "City": "Aurora",
+    "Province": "ON",
+    "DL": "Jimmy",
+    "Coaches": "?",
+    "taxes": null,
+    "age": null
+  },
+  {
+    "Title": "Belleville - LEVEL 1: Beginners Pickleball League",
+    "TotalPrice": "118.17",
+    "Prorate": true,
+    "StaticPriceText": null,
+    "Day": "Mondays",
+    "Time": "6:00 - 8:00 PM",
+    "Start Date": "2026-02-02",
+    "End Date": "2026-04-13",
+    "Exceptions": "2/16/2026,4/6/2026",
+    "SessionDates": "2026-02-02,2026-02-09,2026-02-23,2026-03-02,2026-03-09,2026-03-16,2026-03-23,2026-03-30,2026-04-13",
+    "LocationName": "Harmony PS",
+    "LocationLink": "https://maps.app.goo.gl/B8jcUFVbpvvwMrLP8",
+    "RegisterLink": "https://registration.teamsnap.com/form/45543",
+    "URL": "https://eapickleball.com/belleville/",
+    "pageIdentifyer": "belleville",
+    "Category": "EA",
+    "sport": "pb",
+    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45543/6",
+    "updated_price": "133.53",
+    "fee_index": 0,
+    "City": "Belleville",
+    "Province": "ON",
+    "DL": "Karan",
+    "Coaches": "Need to hire",
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Belleville - LEVEL 1: Beginners Pickleball League",
@@ -726,34 +780,8 @@
     "Province": "ON",
     "DL": "Karan",
     "Coaches": "Need to hire",
-    "taxes": null
-  },
-  {
-    "Title": "Belleville - LEVEL 1: Beginners Pickleball League",
-    "TotalPrice": "105.04",
-    "Prorate": true,
-    "StaticPriceText": null,
-    "Day": "Mondays",
-    "Time": "6:00 - 8:00 PM",
-    "Start Date": "2026-01-05",
-    "End Date": "2026-03-02",
-    "Exceptions": "2026-02-16",
-    "SessionDates": "2026-01-05,2026-01-12,2026-01-19,2026-01-26,2026-02-02,2026-02-09,2026-02-23,2026-03-02",
-    "LocationName": "Harmony PS",
-    "LocationLink": "https://maps.app.goo.gl/B8jcUFVbpvvwMrLP8",
-    "RegisterLink": "https://registration.teamsnap.com/form/45543",
-    "URL": "https://eapickleball.com/belleville/",
-    "pageIdentifyer": "belleville",
-    "Category": "EA",
-    "sport": "pb",
-    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45543/6",
-    "updated_price": "118.70",
-    "fee_index": 0,
-    "City": "Belleville",
-    "Province": "ON",
-    "DL": "Karan",
-    "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Bolton - LEVEL 2: Experienced Beginners Pickleball League",
@@ -780,7 +808,8 @@
     "Province": "ON",
     "DL": "Karan",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Bolton - LEVEL 3: Intermeidate Pickleball League",
@@ -807,7 +836,8 @@
     "Province": "ON",
     "DL": "Karan",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Bracebridge - LEVEL 1: Beginners Pickleball League",
@@ -834,7 +864,8 @@
     "Province": "ON",
     "DL": "Sheila",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Bracebridge - LEVEL 2: Experienced Beginners Pickleball League",
@@ -861,7 +892,8 @@
     "Province": "ON",
     "DL": "Sheila",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Bracebridge - Youth Pickleball Club",
@@ -888,7 +920,8 @@
     "Province": "ON",
     "DL": "Sheila",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Bradford - Learn to Play Pickleball (Adult)",
@@ -915,7 +948,8 @@
     "Province": "ON",
     "DL": "Sheila",
     "Coaches": "Kamran?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Bradford - Learn to Play Pickleball (Youth)",
@@ -942,7 +976,8 @@
     "Province": "ON",
     "DL": "Sheila",
     "Coaches": "Kamran?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Bradford - Pickleball League",
@@ -969,7 +1004,8 @@
     "Province": "ON",
     "DL": "Sheila",
     "Coaches": "Kamran?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Brampton - LEVEL 2: Experienced Beginners Pickleball League",
@@ -996,7 +1032,8 @@
     "Province": "ON",
     "DL": "Karan",
     "Coaches": "Masi",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Brampton - LEVEL 2: Experienced Beginners Pickleball League",
@@ -1023,7 +1060,8 @@
     "Province": "ON",
     "DL": "Karan",
     "Coaches": "Masi",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Brampton - LEVEL 2: Experienced Beginners Pickleball League",
@@ -1050,7 +1088,8 @@
     "Province": "ON",
     "DL": "Karan",
     "Coaches": "Mike",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Brampton - LEVEL 3: Intermediate Pickleball League",
@@ -1077,7 +1116,8 @@
     "Province": "ON",
     "DL": "Karan",
     "Coaches": "Masi",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Bridgewater - LEVEL 1:  Beginners Pickleball League",
@@ -1104,7 +1144,8 @@
     "Province": "NS",
     "DL": "Dylan",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Bridgewater - LEVEL 2: Advanced Beginners Pickleball League",
@@ -1131,7 +1172,8 @@
     "Province": "NS",
     "DL": "Dylan",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Bridgewater - LEVEL 3:  Intermediate Pickleball League",
@@ -1158,7 +1200,8 @@
     "Province": "NS",
     "DL": "Dylan",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Burlington - LEVEL 1: Beginners Pickleball League",
@@ -1185,34 +1228,8 @@
     "Province": "ON",
     "DL": "Karan",
     "Coaches": "Need to hire",
-    "taxes": null
-  },
-  {
-    "Title": "Burlington - LEVEL 1: Beginners Pickleball League",
-    "TotalPrice": "105.04",
-    "Prorate": true,
-    "StaticPriceText": null,
-    "Day": "Wednesdays",
-    "Time": "6:30 - 8:30 PM",
-    "Start Date": "2026-02-04",
-    "End Date": "2026-04-01",
-    "Exceptions": "2026-03-18",
-    "SessionDates": "2026-02-04,2026-02-11,2026-02-18,2026-02-25,2026-03-04,2026-03-11,2026-03-25,2026-04-01",
-    "LocationName": "Burlington Central PS",
-    "LocationLink": "https://maps.app.goo.gl/zvSZAchRY22UuTCE7",
-    "RegisterLink": "https://registration.teamsnap.com/form/46441",
-    "URL": "https://eapickleball.com/burlington/",
-    "pageIdentifyer": "burlington",
-    "Category": "EA",
-    "sport": "pb",
-    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46441/6",
-    "updated_price": "118.70",
-    "fee_index": 0,
-    "City": "Burlington",
-    "Province": "ON",
-    "DL": "?",
-    "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Burlington - LEVEL 1: Beginners Pickleball League",
@@ -1239,7 +1256,36 @@
     "Province": "ON",
     "DL": "?",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
+  },
+  {
+    "Title": "Burlington - LEVEL 1: Beginners Pickleball League",
+    "TotalPrice": "105.04",
+    "Prorate": true,
+    "StaticPriceText": null,
+    "Day": "Wednesdays",
+    "Time": "6:30 - 8:30 PM",
+    "Start Date": "2026-02-04",
+    "End Date": "2026-04-01",
+    "Exceptions": "2026-03-18",
+    "SessionDates": "2026-02-04,2026-02-11,2026-02-18,2026-02-25,2026-03-04,2026-03-11,2026-03-25,2026-04-01",
+    "LocationName": "Burlington Central PS",
+    "LocationLink": "https://maps.app.goo.gl/zvSZAchRY22UuTCE7",
+    "RegisterLink": "https://registration.teamsnap.com/form/46441",
+    "URL": "https://eapickleball.com/burlington/",
+    "pageIdentifyer": "burlington",
+    "Category": "EA",
+    "sport": "pb",
+    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46441/6",
+    "updated_price": "118.70",
+    "fee_index": 0,
+    "City": "Burlington",
+    "Province": "ON",
+    "DL": "?",
+    "Coaches": "?",
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Burlington - LEVEL 2: Experienced Pickleball League",
@@ -1266,7 +1312,8 @@
     "Province": "ON",
     "DL": "?",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Caledon - Beginners Pickleball League",
@@ -1293,34 +1340,8 @@
     "Province": "ON",
     "DL": "Karan",
     "Coaches": "Parson",
-    "taxes": null
-  },
-  {
-    "Title": "Caledon - Learn to Play Pickleball (12+ yrs)",
-    "TotalPrice": "105.04",
-    "Prorate": true,
-    "StaticPriceText": null,
-    "Day": "Mondays",
-    "Time": "8:00 - 10:00 PM",
-    "Start Date": "2026-02-09",
-    "End Date": "2026-04-20",
-    "Exceptions": "2/16/2026,3/16/2026,4/6/2026",
-    "SessionDates": "2026-02-09,2026-02-23,2026-03-02,2026-03-09,2026-03-23,2026-03-30,2026-04-13,2026-04-20",
-    "LocationName": "Southfields Village PS",
-    "LocationLink": "https://maps.app.goo.gl/UuVaZJXuN2nHVuqK8",
-    "RegisterLink": "https://registration.teamsnap.com/form/46949",
-    "URL": "https://eapickleball.com/caledon-pickleball-league/",
-    "pageIdentifyer": "caledon-pickleball-league",
-    "Category": "EA",
-    "sport": "pb",
-    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46949/6",
-    "updated_price": "118.70",
-    "fee_index": 0,
-    "City": "Caledon",
-    "Province": "ON",
-    "DL": "Karan",
-    "Coaches": "Parson",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Caledon - Learn to Play Pickleball (12+ yrs)",
@@ -1347,7 +1368,36 @@
     "Province": "ON",
     "DL": "Karan",
     "Coaches": "Parson",
-    "taxes": null
+    "taxes": null,
+    "age": null
+  },
+  {
+    "Title": "Caledon - Learn to Play Pickleball (12+ yrs)",
+    "TotalPrice": "105.04",
+    "Prorate": true,
+    "StaticPriceText": null,
+    "Day": "Mondays",
+    "Time": "8:00 - 10:00 PM",
+    "Start Date": "2026-02-09",
+    "End Date": "2026-04-20",
+    "Exceptions": "2/16/2026,3/16/2026,4/6/2026",
+    "SessionDates": "2026-02-09,2026-02-23,2026-03-02,2026-03-09,2026-03-23,2026-03-30,2026-04-13,2026-04-20",
+    "LocationName": "Southfields Village PS",
+    "LocationLink": "https://maps.app.goo.gl/UuVaZJXuN2nHVuqK8",
+    "RegisterLink": "https://registration.teamsnap.com/form/46949",
+    "URL": "https://eapickleball.com/caledon-pickleball-league/",
+    "pageIdentifyer": "caledon-pickleball-league",
+    "Category": "EA",
+    "sport": "pb",
+    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46949/6",
+    "updated_price": "118.70",
+    "fee_index": 0,
+    "City": "Caledon",
+    "Province": "ON",
+    "DL": "Karan",
+    "Coaches": "Parson",
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Caledon - LEVEL 1: Beginners Pickleball League",
@@ -1374,7 +1424,36 @@
     "Province": "ON",
     "DL": "Karan",
     "Coaches": "Parson",
-    "taxes": null
+    "taxes": null,
+    "age": null
+  },
+  {
+    "Title": "Caledon - LEVEL 2: Experienced Beginners Pickleball League",
+    "TotalPrice": "105.04",
+    "Prorate": true,
+    "StaticPriceText": null,
+    "Day": "Tuesdays",
+    "Time": "8:00 - 10:00 PM",
+    "Start Date": "2025-11-25",
+    "End Date": "2026-01-27",
+    "Exceptions": "12/23/2025,12/30/2025",
+    "SessionDates": "2025-11-25,2025-12-02,2025-12-09,2025-12-16,2026-01-06,2026-01-13,2026-01-20,2026-01-27",
+    "LocationName": "Southfields Village PS",
+    "LocationLink": "https://maps.app.goo.gl/UuVaZJXuN2nHVuqK8",
+    "RegisterLink": "https://registration.teamsnap.com/form/40980",
+    "URL": "https://eapickleball.com/caledon-pickleball-league/",
+    "pageIdentifyer": "caledon-pickleball-league",
+    "Category": "EA",
+    "sport": "pb",
+    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/40980/6",
+    "updated_price": "59.35",
+    "fee_index": 1,
+    "City": "Caledon",
+    "Province": "ON",
+    "DL": "Karan",
+    "Coaches": "Parson",
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Caledon - LEVEL 2: Experienced Beginners Pickleball League",
@@ -1401,15 +1480,16 @@
     "Province": "ON",
     "DL": "Karan",
     "Coaches": "Parson",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
-    "Title": "Caledon - LEVEL 2: Experienced Beginners Pickleball League",
+    "Title": "Caledon - LEVEL 3: Intermediate Pickleball League",
     "TotalPrice": "105.04",
     "Prorate": true,
     "StaticPriceText": null,
     "Day": "Tuesdays",
-    "Time": "8:00 - 10:00 PM",
+    "Time": "6:00 - 8:00 PM",
     "Start Date": "2025-11-25",
     "End Date": "2026-01-27",
     "Exceptions": "12/23/2025,12/30/2025",
@@ -1423,12 +1503,13 @@
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/40980/6",
     "updated_price": "59.35",
-    "fee_index": 1,
+    "fee_index": 2,
     "City": "Caledon",
     "Province": "ON",
     "DL": "Karan",
     "Coaches": "Parson",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Caledon - LEVEL 3: Intermediate Pickleball League",
@@ -1455,34 +1536,8 @@
     "Province": "ON",
     "DL": "Karan",
     "Coaches": "Parson",
-    "taxes": null
-  },
-  {
-    "Title": "Caledon - LEVEL 3: Intermediate Pickleball League",
-    "TotalPrice": "105.04",
-    "Prorate": true,
-    "StaticPriceText": null,
-    "Day": "Tuesdays",
-    "Time": "6:00 - 8:00 PM",
-    "Start Date": "2025-11-25",
-    "End Date": "2026-01-27",
-    "Exceptions": "12/23/2025,12/30/2025",
-    "SessionDates": "2025-11-25,2025-12-02,2025-12-09,2025-12-16,2026-01-06,2026-01-13,2026-01-20,2026-01-27",
-    "LocationName": "Southfields Village PS",
-    "LocationLink": "https://maps.app.goo.gl/UuVaZJXuN2nHVuqK8",
-    "RegisterLink": "https://registration.teamsnap.com/form/40980",
-    "URL": "https://eapickleball.com/caledon-pickleball-league/",
-    "pageIdentifyer": "caledon-pickleball-league",
-    "Category": "EA",
-    "sport": "pb",
-    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/40980/6",
-    "updated_price": "59.35",
-    "fee_index": 2,
-    "City": "Caledon",
-    "Province": "ON",
-    "DL": "Karan",
-    "Coaches": "Parson",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Cambridge - LEVEL 1: Beginners Pickleball League",
@@ -1509,7 +1564,8 @@
     "Province": "ON",
     "DL": "Sadie",
     "Coaches": "Sadie",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Cambridge - LEVEL 1: Beginners Pickleball League",
@@ -1536,7 +1592,8 @@
     "Province": "ON",
     "DL": "Sadie",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Cambridge - LEVEL 2: Experienced Beginners Pickleball League",
@@ -1563,7 +1620,8 @@
     "Province": "ON",
     "DL": "Sadie",
     "Coaches": "Sadie",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Cambridge - LEVEL 2: Experienced Beginners Pickleball League",
@@ -1590,7 +1648,8 @@
     "Province": "ON",
     "DL": "Sadie",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Campbellville - LEVEL 1: Beginners Pickleball League",
@@ -1617,7 +1676,8 @@
     "Province": "ON",
     "DL": "?",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Chester - LEVEL 2: Advanced Beginners Pickleball League",
@@ -1644,7 +1704,8 @@
     "Province": "NS",
     "DL": "Dylan",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Chilliwack - LEVEL 1: Beginners Pickleball League",
@@ -1671,7 +1732,8 @@
     "Province": "BC",
     "DL": "Sunny + Jarred",
     "Coaches": "Jonathan Kohan",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Chilliwack - LEVEL 1: Beginners Pickleball League",
@@ -1698,88 +1760,8 @@
     "Province": "BC",
     "DL": "Sunny + Jarred",
     "Coaches": "Need to hire",
-    "taxes": null
-  },
-  {
-    "Title": "Cobourg - LEVEL 1: Beginners Pickleball League",
-    "TotalPrice": "105.04",
-    "Prorate": true,
-    "StaticPriceText": null,
-    "Day": "Fridays",
-    "Time": "6:00 - 8:00 PM",
-    "Start Date": "2026-01-09",
-    "End Date": "2026-03-06",
-    "Exceptions": "2026-01-30",
-    "SessionDates": "2026-01-09,2026-01-16,2026-01-23,2026-02-06,2026-02-13,2026-02-20,2026-02-27,2026-03-06",
-    "LocationName": "Terry Fox PS",
-    "LocationLink": "https://maps.app.goo.gl/nkUJwAmEuGS9V5nS8",
-    "RegisterLink": "https://registration.teamsnap.com/form/44569",
-    "URL": "https://eapickleball.com/cobourg/",
-    "pageIdentifyer": "cobourg",
-    "Category": "EA",
-    "sport": "pb",
-    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/44569/6",
-    "updated_price": "118.70",
-    "fee_index": 0,
-    "City": "Cobourg",
-    "Province": "ON",
-    "DL": "Zubair",
-    "Coaches": "Need to hire",
-    "taxes": null
-  },
-  {
-    "Title": "Coquitlam - LEVEL 1: Beginners Pickleball League",
-    "TotalPrice": 132.59,
-    "Prorate": true,
-    "StaticPriceText": null,
-    "Day": "Wednesdays",
-    "Time": "5:00 - 6:45 PM",
-    "Start Date": "2026-01-07",
-    "End Date": "2026-03-11",
-    "Exceptions": "1/28/2026,2/4/2026,2/11/2026",
-    "SessionDates": "2026-01-07,2026-01-14,2026-01-21,2026-02-18,2026-02-25,2026-03-04,2026-03-11",
-    "LocationName": "RC MacDonald Elementary",
-    "LocationLink": "https://maps.app.goo.gl/wxVexBqWYeZYoZ5K7",
-    "RegisterLink": "https://registration.teamsnap.com/form/46343",
-    "URL": "https://bc.eapickleball.com/coquitlam/",
-    "pageIdentifyer": "coquitlam",
-    "Category": "EA",
-    "sport": "pb",
-    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46343/6",
-    "updated_price": "139.22",
-    "fee_index": 0,
-    "City": "Coquitlam",
-    "Province": "BC",
-    "DL": "Sunny + Jarred",
-    "Coaches": "Tommy McLeod",
-    "taxes": null
-  },
-  {
-    "Title": "Coquitlam - LEVEL 1: Beginners Pickleball League",
-    "TotalPrice": 144.31,
-    "Prorate": true,
-    "StaticPriceText": null,
-    "Day": "Mondays",
-    "Time": "6:00 - 8:00 PM",
-    "Start Date": "2025-12-01",
-    "End Date": "2026-02-23",
-    "Exceptions": "12/8/2025,12/15/2025,12/22/2025,12/29/2025,2/16/2026",
-    "SessionDates": "2025-12-01,2026-01-05,2026-01-12,2026-01-19,2026-01-26,2026-02-02,2026-02-09,2026-02-23",
-    "LocationName": "Mary Hill Elementary School",
-    "LocationLink": "https://maps.app.goo.gl/E8Bzo3ZRXKkbFWN99",
-    "RegisterLink": "https://registration.teamsnap.com/form/45454",
-    "URL": "https://bc.eapickleball.com/coquitlam/",
-    "pageIdentifyer": "coquitlam",
-    "Category": "EA",
-    "sport": "pb",
-    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45454/6",
-    "updated_price": "132.58",
-    "fee_index": 0,
-    "City": "Coquitlam",
-    "Province": "BC",
-    "DL": "Sunny + Jarred",
-    "Coaches": "Tommy McLeod",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Coquitlam - LEVEL 1: Beginners Pickleball League",
@@ -1806,7 +1788,64 @@
     "Province": "BC",
     "DL": "Sunny + Jarred",
     "Coaches": "Tommy McLeod",
-    "taxes": null
+    "taxes": null,
+    "age": null
+  },
+  {
+    "Title": "Coquitlam - LEVEL 1: Beginners Pickleball League",
+    "TotalPrice": 144.31,
+    "Prorate": true,
+    "StaticPriceText": null,
+    "Day": "Mondays",
+    "Time": "6:00 - 8:00 PM",
+    "Start Date": "2025-12-01",
+    "End Date": "2026-02-23",
+    "Exceptions": "12/8/2025,12/15/2025,12/22/2025,12/29/2025,2/16/2026",
+    "SessionDates": "2025-12-01,2026-01-05,2026-01-12,2026-01-19,2026-01-26,2026-02-02,2026-02-09,2026-02-23",
+    "LocationName": "Mary Hill Elementary School",
+    "LocationLink": "https://maps.app.goo.gl/E8Bzo3ZRXKkbFWN99",
+    "RegisterLink": "https://registration.teamsnap.com/form/45454",
+    "URL": "https://bc.eapickleball.com/coquitlam/",
+    "pageIdentifyer": "coquitlam",
+    "Category": "EA",
+    "sport": "pb",
+    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45454/6",
+    "updated_price": "132.58",
+    "fee_index": 0,
+    "City": "Coquitlam",
+    "Province": "BC",
+    "DL": "Sunny + Jarred",
+    "Coaches": "Tommy McLeod",
+    "taxes": null,
+    "age": null
+  },
+  {
+    "Title": "Coquitlam - LEVEL 1: Beginners Pickleball League",
+    "TotalPrice": 132.59,
+    "Prorate": true,
+    "StaticPriceText": null,
+    "Day": "Wednesdays",
+    "Time": "5:00 - 6:45 PM",
+    "Start Date": "2026-01-07",
+    "End Date": "2026-03-11",
+    "Exceptions": "1/28/2026,2/4/2026,2/11/2026",
+    "SessionDates": "2026-01-07,2026-01-14,2026-01-21,2026-02-18,2026-02-25,2026-03-04,2026-03-11",
+    "LocationName": "RC MacDonald Elementary",
+    "LocationLink": "https://maps.app.goo.gl/wxVexBqWYeZYoZ5K7",
+    "RegisterLink": "https://registration.teamsnap.com/form/46343",
+    "URL": "https://bc.eapickleball.com/coquitlam/",
+    "pageIdentifyer": "coquitlam",
+    "Category": "EA",
+    "sport": "pb",
+    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46343/6",
+    "updated_price": "139.22",
+    "fee_index": 0,
+    "City": "Coquitlam",
+    "Province": "BC",
+    "DL": "Sunny + Jarred",
+    "Coaches": "Tommy McLeod",
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Courtice - LEVEL 1: Beginners Pickleball League",
@@ -1833,7 +1872,8 @@
     "Province": "ON",
     "DL": "Zubair",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Courtice - LEVEL 2: Experienced Beginners Pickleball League",
@@ -1860,7 +1900,8 @@
     "Province": "ON",
     "DL": "Zubair",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Dundas - LEVEL 1: Beginners Pickleball League",
@@ -1869,10 +1910,10 @@
     "StaticPriceText": null,
     "Day": "Wednesdays",
     "Time": "6:00 - 8:00 PM",
-    "Start Date": "2026-01-07",
-    "End Date": "2026-03-04",
-    "Exceptions": "2026-01-28",
-    "SessionDates": "2026-01-07,2026-01-14,2026-01-21,2026-02-04,2026-02-11,2026-02-18,2026-02-25,2026-03-04",
+    "Start Date": "2026-02-04",
+    "End Date": "2026-04-01",
+    "Exceptions": "N/A",
+    "SessionDates": "2026-02-04,2026-02-11,2026-02-18,2026-02-25,2026-03-04,2026-03-11,2026-03-18,2026-03-25,2026-04-01",
     "LocationName": "Dundas Central",
     "LocationLink": "https://maps.app.goo.gl/McQGA7f6pbVccYkP6",
     "RegisterLink": "https://registration.teamsnap.com/form/45622",
@@ -1887,7 +1928,8 @@
     "Province": "ON",
     "DL": "Karan",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Dundas - LEVEL 2: Experienced Beginners Pickleball League",
@@ -1914,61 +1956,8 @@
     "Province": "ON",
     "DL": "Karan",
     "Coaches": "Need to hire",
-    "taxes": null
-  },
-  {
-    "Title": "Durham - LEVEL 1: Beginners Pickleball League",
-    "TotalPrice": "105.04",
-    "Prorate": true,
-    "StaticPriceText": null,
-    "Day": "Tuesdays",
-    "Time": "6:00 - 8:00 PM",
-    "Start Date": "2026-01-06",
-    "End Date": "2026-02-24",
-    "Exceptions": "N/A",
-    "SessionDates": "2026-01-06,2026-01-13,2026-01-20,2026-01-27,2026-02-03,2026-02-10,2026-02-17,2026-02-24",
-    "LocationName": "Spruce Ridge Community School",
-    "LocationLink": "https://maps.app.goo.gl/7rpzq41wY5Ywpw1v5",
-    "RegisterLink": "https://registration.teamsnap.com/form/44597",
-    "URL": "https://eapickleball.com/durham-pickleball/",
-    "pageIdentifyer": "durham-pickleball",
-    "Category": "EA",
-    "sport": "pb",
-    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/44597/6",
-    "updated_price": "118.70",
-    "fee_index": 0,
-    "City": "Durham",
-    "Province": "ON",
-    "DL": "Karan",
-    "Coaches": "Need to hire",
-    "taxes": null
-  },
-  {
-    "Title": "East Gwillimbury - Beginners Pickleball League",
-    "TotalPrice": 155,
-    "Prorate": false,
-    "StaticPriceText": "155",
-    "Day": "Thursdays",
-    "Time": "6:00 - 8:00 PM",
-    "Start Date": "2026-01-15",
-    "End Date": "2026-03-26",
-    "Exceptions": "2026-03-19",
-    "SessionDates": "2026-01-15,2026-01-22,2026-01-29,2026-02-05,2026-02-12,2026-02-19,2026-02-26,2026-03-05,2026-03-12,2026-03-26",
-    "LocationName": "HHAC",
-    "LocationLink": "https://maps.app.goo.gl/YCRGEXRpv8LbNbB46",
-    "RegisterLink": "https://anc.ca.apm.activecommunities.com/eastgwillimbury/activity/search/detail/5238?onlineSiteId=0&from_original_cui=true",
-    "URL": "https://eapickleball.com/east-gwillimbury-ea-pickleball",
-    "pageIdentifyer": "east-gwillimbury-ea-pickleball",
-    "Category": "TS",
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "East Gwillimbury",
-    "Province": "ON",
-    "DL": "Adele",
-    "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "East Gwillimbury - Beginners Pickleball League",
@@ -1995,7 +1984,36 @@
     "Province": "ON",
     "DL": "Adele",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
+  },
+  {
+    "Title": "East Gwillimbury - Beginners Pickleball League",
+    "TotalPrice": 155,
+    "Prorate": false,
+    "StaticPriceText": "155",
+    "Day": "Thursdays",
+    "Time": "6:00 - 8:00 PM",
+    "Start Date": "2026-01-15",
+    "End Date": "2026-03-26",
+    "Exceptions": "2026-03-19",
+    "SessionDates": "2026-01-15,2026-01-22,2026-01-29,2026-02-05,2026-02-12,2026-02-19,2026-02-26,2026-03-05,2026-03-12,2026-03-26",
+    "LocationName": "HHAC",
+    "LocationLink": "https://maps.app.goo.gl/YCRGEXRpv8LbNbB46",
+    "RegisterLink": "https://anc.ca.apm.activecommunities.com/eastgwillimbury/activity/search/detail/5238?onlineSiteId=0&from_original_cui=true",
+    "URL": "https://eapickleball.com/east-gwillimbury-ea-pickleball",
+    "pageIdentifyer": "east-gwillimbury-ea-pickleball",
+    "Category": "TS",
+    "sport": "pb",
+    "fee_url": null,
+    "updated_price": null,
+    "fee_index": null,
+    "City": "East Gwillimbury",
+    "Province": "ON",
+    "DL": "Adele",
+    "Coaches": "Need to hire",
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "East Gwillimbury - Intermediate Pickleball League",
@@ -2022,7 +2040,8 @@
     "Province": "ON",
     "DL": "Adele",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "East Gwillimbury - LTP Pickleball (Adult)",
@@ -2049,7 +2068,8 @@
     "Province": "ON",
     "DL": "Adele",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "East Gwillimbury - LTP Pickleball (Adult)",
@@ -2076,7 +2096,8 @@
     "Province": "ON",
     "DL": "Adele",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Emsdale - LEVEL 1: Beginners Pickleball League",
@@ -2103,7 +2124,8 @@
     "Province": "ON",
     "DL": "Sheila",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Essa - Basketball Skills (5 - 8 yrs)",
@@ -2130,7 +2152,8 @@
     "Province": "ON",
     "DL": "Sheila",
     "Coaches": "Nathan + Keagan?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Essa - Basketball Skills (9 - 12 yrs)",
@@ -2157,7 +2180,8 @@
     "Province": "ON",
     "DL": "Sheila",
     "Coaches": "Nathan + Keagan?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Fairgrounds - LEVEL 1: Beginners Pickleball League",
@@ -2184,7 +2208,8 @@
     "Province": "ON",
     "DL": "Andrew",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Fairgrounds - LEVEL 1: Beginners Pickleball League",
@@ -2211,7 +2236,8 @@
     "Province": "ON",
     "DL": "Andrew",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Fairgrounds - LEVEL 2: Experienced Beginners Pickleball League",
@@ -2238,34 +2264,8 @@
     "Province": "ON",
     "DL": "Andrew",
     "Coaches": "?",
-    "taxes": null
-  },
-  {
-    "Title": "Fairgrounds - LEVEL 2: Experienced Beginners Pickleball League",
-    "TotalPrice": "105.04",
-    "Prorate": true,
-    "StaticPriceText": null,
-    "Day": "Wednesdays",
-    "Time": "1:00 - 3:00 PM",
-    "Start Date": "2026-01-07",
-    "End Date": "2026-02-25",
-    "Exceptions": "N/A",
-    "SessionDates": "2026-01-07,2026-01-14,2026-01-21,2026-01-28,2026-02-04,2026-02-11,2026-02-18,2026-02-25",
-    "LocationName": "Taunton Gardens - Whitby",
-    "LocationLink": "https://maps.app.goo.gl/zbGAXXmr4JEZxdi39",
-    "RegisterLink": "https://registration.teamsnap.com/form/46039",
-    "URL": "https://eapickleball.com/fairgrounds/",
-    "pageIdentifyer": "fairgrounds",
-    "Category": "EA",
-    "sport": "pb",
-    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46039/6",
-    "updated_price": "118.70",
-    "fee_index": 0,
-    "City": "Fairgrounds",
-    "Province": "ON",
-    "DL": "Andrew",
-    "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Fairgrounds - LEVEL 2: Experienced Beginners Pickleball League",
@@ -2292,7 +2292,36 @@
     "Province": "ON",
     "DL": "Andrew",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
+  },
+  {
+    "Title": "Fairgrounds - LEVEL 2: Experienced Beginners Pickleball League",
+    "TotalPrice": "105.04",
+    "Prorate": true,
+    "StaticPriceText": null,
+    "Day": "Wednesdays",
+    "Time": "1:00 - 3:00 PM",
+    "Start Date": "2026-01-07",
+    "End Date": "2026-02-25",
+    "Exceptions": "N/A",
+    "SessionDates": "2026-01-07,2026-01-14,2026-01-21,2026-01-28,2026-02-04,2026-02-11,2026-02-18,2026-02-25",
+    "LocationName": "Taunton Gardens - Whitby",
+    "LocationLink": "https://maps.app.goo.gl/zbGAXXmr4JEZxdi39",
+    "RegisterLink": "https://registration.teamsnap.com/form/46039",
+    "URL": "https://eapickleball.com/fairgrounds/",
+    "pageIdentifyer": "fairgrounds",
+    "Category": "EA",
+    "sport": "pb",
+    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/46039/6",
+    "updated_price": "118.70",
+    "fee_index": 0,
+    "City": "Fairgrounds",
+    "Province": "ON",
+    "DL": "Andrew",
+    "Coaches": "?",
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Fairgrounds - LEVEL 2: Experienced Beginners Pickleball League",
@@ -2319,7 +2348,8 @@
     "Province": "ON",
     "DL": "Andrew",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Fairgrounds - LEVEL 3: Intermediate Pickleball League",
@@ -2346,7 +2376,8 @@
     "Province": "ON",
     "DL": "Andrew",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Fairgrounds - LEVEL 3: Intermediate Pickleball League",
@@ -2373,61 +2404,8 @@
     "Province": "ON",
     "DL": "Andrew",
     "Coaches": "?",
-    "taxes": null
-  },
-  {
-    "Title": "Flesherton - LEVEL 1: Beginners Pickleball League",
-    "TotalPrice": "105.04",
-    "Prorate": true,
-    "StaticPriceText": null,
-    "Day": "Wednesdays",
-    "Time": "6:00 - 8:00 PM",
-    "Start Date": "2026-01-07",
-    "End Date": "2026-02-25",
-    "Exceptions": "N/A",
-    "SessionDates": "2026-01-07,2026-01-14,2026-01-21,2026-01-28,2026-02-04,2026-02-11,2026-02-18,2026-02-25",
-    "LocationName": "Grey Highlands Secondary School",
-    "LocationLink": "https://maps.app.goo.gl/S53ef33C8mrBS4Lt9",
-    "RegisterLink": "https://registration.teamsnap.com/form/44604",
-    "URL": "https://eapickleball.com/flesherton/",
-    "pageIdentifyer": "flesherton",
-    "Category": "EA",
-    "sport": "pb",
-    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/44604/6",
-    "updated_price": "118.70",
-    "fee_index": 0,
-    "City": "Flesherton",
-    "Province": "ON",
-    "DL": "Karan",
-    "Coaches": "Need to hire",
-    "taxes": null
-  },
-  {
-    "Title": "Flesherton - LEVEL 2: Experienced Beginners Pickleball League",
-    "TotalPrice": "105.04",
-    "Prorate": true,
-    "StaticPriceText": null,
-    "Day": "Thursdays",
-    "Time": "6:00 - 8:00 PM",
-    "Start Date": "2026-01-08",
-    "End Date": "2026-02-26",
-    "Exceptions": "N/A",
-    "SessionDates": "2026-01-08,2026-01-15,2026-01-22,2026-01-29,2026-02-05,2026-02-12,2026-02-19,2026-02-26",
-    "LocationName": "Grey Highlands Secondary School",
-    "LocationLink": "https://maps.app.goo.gl/S53ef33C8mrBS4Lt9",
-    "RegisterLink": "https://registration.teamsnap.com/form/44605",
-    "URL": "https://eapickleball.com/flesherton/",
-    "pageIdentifyer": "flesherton",
-    "Category": "EA",
-    "sport": "pb",
-    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/44605/6",
-    "updated_price": "118.70",
-    "fee_index": 0,
-    "City": "Flesherton",
-    "Province": "ON",
-    "DL": "Karan",
-    "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Georgina - Jr Badminton (9 - 17 yrs)",
@@ -2454,7 +2432,8 @@
     "Province": "ON",
     "DL": "?",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Georgina - Youth Basketball League (8 - 10 yrs)",
@@ -2481,7 +2460,8 @@
     "Province": "ON",
     "DL": "Adele",
     "Coaches": "Billy + Justice?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Georgina - Youth Basketball Training (5 - 7 yrs)",
@@ -2508,7 +2488,8 @@
     "Province": "ON",
     "DL": "Adele",
     "Coaches": "Billy + Justice?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Georgina - Youth Basketball Training (5 - 7 yrs)",
@@ -2535,7 +2516,8 @@
     "Province": "ON",
     "DL": "Adele",
     "Coaches": "Billy + Justice?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Georgina - Youth Basketball Training (8 - 11 yrs)",
@@ -2562,7 +2544,8 @@
     "Province": "ON",
     "DL": "Adele",
     "Coaches": "Billy + Justice?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Georgina - Youth Basketball Training (8 - 11 yrs)",
@@ -2589,7 +2572,8 @@
     "Province": "ON",
     "DL": "Adele",
     "Coaches": "Billy + Justice?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Guelph - LEVEL 1: Beginners Pickleball League",
@@ -2616,7 +2600,8 @@
     "Province": "ON",
     "DL": "Sadie",
     "Coaches": "Mark W.",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Halifax - LEVEL 1: Beginners Pickleball League",
@@ -2643,34 +2628,8 @@
     "Province": "NS",
     "DL": "Dylan",
     "Coaches": "?",
-    "taxes": null
-  },
-  {
-    "Title": "Hamilton - LEVEL 1: Beginners Pickleball League",
-    "TotalPrice": 105.04,
-    "Prorate": true,
-    "StaticPriceText": null,
-    "Day": "Tuesdays",
-    "Time": "6:00 - 8:00 PM",
-    "Start Date": "2026-01-06",
-    "End Date": "2026-02-24",
-    "Exceptions": "N/A",
-    "SessionDates": "2026-01-06,2026-01-13,2026-01-20,2026-01-27,2026-02-03,2026-02-10,2026-02-17,2026-02-24",
-    "LocationName": "Sir Wilfrid Laurier",
-    "LocationLink": "https://maps.app.goo.gl/TisjvZxriuKztMgy5",
-    "RegisterLink": "https://registration.teamsnap.com/form/45621",
-    "URL": "https://eapickleball.com/hamilton/",
-    "pageIdentifyer": "hamilton",
-    "Category": "EA",
-    "sport": "pb",
-    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45621/6",
-    "updated_price": "118.70",
-    "fee_index": 0,
-    "City": "Hamilton",
-    "Province": "ON",
-    "DL": "Karan",
-    "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Hamilton - LEVEL 1: Beginners Pickleball League",
@@ -2679,10 +2638,10 @@
     "StaticPriceText": null,
     "Day": "Mondays",
     "Time": "6:00 - 8:00 PM",
-    "Start Date": "2026-01-05",
-    "End Date": "2026-03-02",
-    "Exceptions": "2026-02-16",
-    "SessionDates": "2026-01-05,2026-01-12,2026-01-19,2026-01-26,2026-02-02,2026-02-09,2026-02-23,2026-03-02",
+    "Start Date": "2026-02-02",
+    "End Date": "2026-04-13",
+    "Exceptions": "2/16/2026,4/6/2026",
+    "SessionDates": "2026-02-02,2026-02-09,2026-02-23,2026-03-02,2026-03-09,2026-03-16,2026-03-23,2026-03-30,2026-04-13",
     "LocationName": "Sir Wilfrid Laurier",
     "LocationLink": "https://maps.app.goo.gl/TisjvZxriuKztMgy5",
     "RegisterLink": "https://registration.teamsnap.com/form/45625",
@@ -2697,7 +2656,36 @@
     "Province": "ON",
     "DL": "Karan",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
+  },
+  {
+    "Title": "Hamilton - LEVEL 1: Beginners Pickleball League",
+    "TotalPrice": 105.04,
+    "Prorate": true,
+    "StaticPriceText": null,
+    "Day": "Tuesdays",
+    "Time": "6:00 - 8:00 PM",
+    "Start Date": "2026-02-03",
+    "End Date": "2026-03-31",
+    "Exceptions": "2026-03-17",
+    "SessionDates": "2026-02-03,2026-02-10,2026-02-17,2026-02-24,2026-03-03,2026-03-10,2026-03-24,2026-03-31",
+    "LocationName": "Sir Wilfrid Laurier",
+    "LocationLink": "https://maps.app.goo.gl/TisjvZxriuKztMgy5",
+    "RegisterLink": "https://registration.teamsnap.com/form/45621",
+    "URL": "https://eapickleball.com/hamilton/",
+    "pageIdentifyer": "hamilton",
+    "Category": "EA",
+    "sport": "pb",
+    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45621/6",
+    "updated_price": "118.70",
+    "fee_index": 0,
+    "City": "Hamilton",
+    "Province": "ON",
+    "DL": "Karan",
+    "Coaches": "Need to hire",
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Hamilton - LEVEL 2: Experienced Beginners Pickleball League",
@@ -2724,7 +2712,8 @@
     "Province": "ON",
     "DL": "Karan",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Hanover - LEVEL 1: Beginners Pickleball League",
@@ -2751,7 +2740,8 @@
     "Province": "ON",
     "DL": "Karan",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Innisfil - Jr. Basketball Ages 11- 13",
@@ -2778,7 +2768,8 @@
     "Province": "ON",
     "DL": "Sheila",
     "Coaches": "Ralph + Justice K?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Innisfil - Jr. Basketball Ages 5 - 7",
@@ -2805,7 +2796,8 @@
     "Province": "ON",
     "DL": "Sheila",
     "Coaches": "Ralph + Justice K?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Innisfil - Jr. Basketball Ages 8 - 10",
@@ -2832,7 +2824,8 @@
     "Province": "ON",
     "DL": "Sheila",
     "Coaches": "Ralph + Justice K?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Kamloops - LEVEL 1: Beginners Pickleball League",
@@ -2859,7 +2852,36 @@
     "Province": "BC",
     "DL": "Sunny + Jarred",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
+  },
+  {
+    "Title": "Keswick - LEVEL 1: Beginners Pickleball League",
+    "TotalPrice": "91.91",
+    "Prorate": true,
+    "StaticPriceText": null,
+    "Day": "Mondays",
+    "Time": "8:15 - 10:15 PM",
+    "Start Date": "2025-11-17",
+    "End Date": "2026-01-12",
+    "Exceptions": "12/22/2025,12/29/2025",
+    "SessionDates": "2025-11-17,2025-11-24,2025-12-01,2025-12-08,2025-12-15,2026-01-05,2026-01-12",
+    "LocationName": "St. Thomas Aquinas",
+    "LocationLink": "https://maps.app.goo.gl/EaafextPTaJKi6AC7",
+    "RegisterLink": "https://registration.teamsnap.com/form/40979/selectGroup",
+    "URL": "https://eapickleball.com/keswick-pickleball/",
+    "pageIdentifyer": "keswick-pickleball",
+    "Category": "EA",
+    "sport": "pb",
+    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/40979/6",
+    "updated_price": "29.67",
+    "fee_index": 0,
+    "City": "Keswick",
+    "Province": "ON",
+    "DL": "Adele",
+    "Coaches": "Jaheim",
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Keswick - LEVEL 1: Beginners Pickleball League",
@@ -2886,34 +2908,8 @@
     "Province": "ON",
     "DL": "Adele",
     "Coaches": "Billy",
-    "taxes": null
-  },
-  {
-    "Title": "Keswick - LEVEL 1: Beginners Pickleball League",
-    "TotalPrice": "91.91",
-    "Prorate": true,
-    "StaticPriceText": null,
-    "Day": "Mondays",
-    "Time": "8:15 - 10:15 PM",
-    "Start Date": "2025-11-17",
-    "End Date": "2026-01-12",
-    "Exceptions": "12/22/2025,12/29/2025",
-    "SessionDates": "2025-11-17,2025-11-24,2025-12-01,2025-12-08,2025-12-15,2026-01-05,2026-01-12",
-    "LocationName": "St. Thomas Aquinas",
-    "LocationLink": "https://maps.app.goo.gl/EaafextPTaJKi6AC7",
-    "RegisterLink": "https://registration.teamsnap.com/form/40979/selectGroup",
-    "URL": "https://eapickleball.com/keswick-pickleball/",
-    "pageIdentifyer": "keswick-pickleball",
-    "Category": "EA",
-    "sport": "pb",
-    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/40979/6",
-    "updated_price": "29.67",
-    "fee_index": 0,
-    "City": "Keswick",
-    "Province": "ON",
-    "DL": "Adele",
-    "Coaches": "Jaheim",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Keswick - LEVEL 1: Beginners Pickleball League",
@@ -2940,7 +2936,8 @@
     "Province": "ON",
     "DL": "Adele",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Keswick - LEVEL 2: Experienced Beginners Pickleball League",
@@ -2967,7 +2964,8 @@
     "Province": "ON",
     "DL": "Adele",
     "Coaches": "Jaheim",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Keswick - LEVEL 3: Intermediate Pickleball League",
@@ -2994,7 +2992,8 @@
     "Province": "ON",
     "DL": "Adele",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Kincardine - LEVEL 1: Beginners Pickleball League",
@@ -3021,7 +3020,8 @@
     "Province": "ON",
     "DL": "Karan",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "King City - Beginners Pickleball League (18+ yrs)",
@@ -3048,7 +3048,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "Kamran + Clare?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "King City - Beginners Pickleball League (18+ yrs)",
@@ -3075,7 +3076,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "Kamran + Clare?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "King City - Beginners Pickleball League (18+ yrs)",
@@ -3102,7 +3104,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "Kamran + Clare?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "King City - Jr Badminton (11 - 13 yrs)",
@@ -3129,7 +3132,8 @@
     "Province": "ON",
     "DL": "?",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "King City - Jr Badminton (14 - 16 yrs)",
@@ -3156,7 +3160,8 @@
     "Province": "ON",
     "DL": "?",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "King City - Jr Badminton (8 - 10 yrs)",
@@ -3183,7 +3188,8 @@
     "Province": "ON",
     "DL": "?",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "King City - Learn to Play Pickleball (18+ yrs)",
@@ -3210,7 +3216,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "Kamran + Clare?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "King City - Learn to Play Pickleball (18+ yrs)",
@@ -3237,7 +3244,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "Kamran + Clare?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "King City - Learn to Play Pickleball (18+ yrs)",
@@ -3264,7 +3272,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "Kamran + Clare?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "King City - Learn to Play Pickleball (18+ yrs)",
@@ -3291,7 +3300,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "Kamran + Clare?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Kitchener - LEVEL 1: Beginners Pickleball League",
@@ -3318,7 +3328,8 @@
     "Province": "ON",
     "DL": "Sadie",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Kitimat - LEVEL 1:  Beginners Pickleball League",
@@ -3345,34 +3356,8 @@
     "Province": "BC",
     "DL": "Sunny + Jarred",
     "Coaches": "?",
-    "taxes": null
-  },
-  {
-    "Title": "Lion's Head - LEVEL 2: Experienced Beginners Pickleball League",
-    "TotalPrice": "105.04",
-    "Prorate": true,
-    "StaticPriceText": null,
-    "Day": "Mondays",
-    "Time": "6:00 - 8:00 PM",
-    "Start Date": "2026-01-05",
-    "End Date": "2026-03-02",
-    "Exceptions": "2026-02-16",
-    "SessionDates": "2026-01-05,2026-01-12,2026-01-19,2026-01-26,2026-02-02,2026-02-09,2026-02-23,2026-03-02",
-    "LocationName": "Bruce Peninsula DS",
-    "LocationLink": "https://maps.app.goo.gl/gT7MoFV4meuZikte9",
-    "RegisterLink": "https://registration.teamsnap.com/form/44572",
-    "URL": "https://eapickleball.com/lions-head/",
-    "pageIdentifyer": "lions-head",
-    "Category": "EA",
-    "sport": "pb",
-    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/44572/6",
-    "updated_price": "118.70",
-    "fee_index": 0,
-    "City": "Lion's Head",
-    "Province": "ON",
-    "DL": "Karan",
-    "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Markdale - LEVEL 1: Beginners Pickleball League",
@@ -3381,10 +3366,10 @@
     "StaticPriceText": null,
     "Day": "Thursdays",
     "Time": "6:00 - 8:00 PM",
-    "Start Date": "2026-01-08",
-    "End Date": "2026-02-26",
-    "Exceptions": "N/A",
-    "SessionDates": "2026-01-08,2026-01-15,2026-01-22,2026-01-29,2026-02-05,2026-02-12,2026-02-19,2026-02-26",
+    "Start Date": "2026-02-05",
+    "End Date": "2026-04-02",
+    "Exceptions": "2026-03-19",
+    "SessionDates": "2026-02-05,2026-02-12,2026-02-19,2026-02-26,2026-03-05,2026-03-12,2026-03-26,2026-04-02",
     "LocationName": "Beavercrest Community School",
     "LocationLink": "https://maps.app.goo.gl/K8VdMi76hweBD2zb6",
     "RegisterLink": "https://registration.teamsnap.com/form/45631",
@@ -3399,7 +3384,8 @@
     "Province": "ON",
     "DL": "Karan",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Milton - LEVEL 1: Beginners Pickleball League",
@@ -3426,7 +3412,8 @@
     "Province": "ON",
     "DL": "Karan",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Milton - LEVEL 2: Experienced Beginners Pickleball League",
@@ -3453,7 +3440,8 @@
     "Province": "ON",
     "DL": "Karan",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Nanaimo - LEVEL 1: Beginners Pickleball League",
@@ -3480,7 +3468,8 @@
     "Province": "BC",
     "DL": "Sunny + Jarred",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Nanaimo - LEVEL 1: Beginners Pickleball League",
@@ -3507,7 +3496,8 @@
     "Province": "BC",
     "DL": "Sunny + Jarred",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "New Waterford - LEVEL 1: Beginners Pickleball League",
@@ -3534,7 +3524,8 @@
     "Province": "NS",
     "DL": "Dylan",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Newcastle - LEVEL 1: Beginners Pickleball League",
@@ -3547,7 +3538,7 @@
     "End Date": "2026-04-02",
     "Exceptions": "2/19/2026,3/19/2026",
     "SessionDates": "2026-01-29,2026-02-05,2026-02-12,2026-02-26,2026-03-05,2026-03-12,2026-03-26,2026-04-02",
-    "LocationName": "St. Francis of Assisi CES",
+    "LocationName": "St. Francis of Assisi Elementary School",
     "LocationLink": "https://maps.app.goo.gl/LxDeDpaQ1QvRpMDW9",
     "RegisterLink": "https://registration.teamsnap.com/form/45833",
     "URL": "https://eapickleball.com/newcastle-pickleball/",
@@ -3561,7 +3552,8 @@
     "Province": "ON",
     "DL": "Zubair",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Newcastle - LEVEL 2: Experienced Beginners Pickleball League",
@@ -3588,19 +3580,20 @@
     "Province": "ON",
     "DL": "Zubair",
     "Coaches": "Scott",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
-    "Title": "Newcastle - LEVEL 3: Intermediate Pickleball League",
-    "TotalPrice": "91.91",
+    "Title": "Newcastle - LEVEL 2: Experienced Beginners Pickleball League",
+    "TotalPrice": "118.17",
     "Prorate": true,
     "StaticPriceText": null,
     "Day": "Thursdays",
     "Time": "8:00 - 10:00 PM",
-    "Start Date": "2026-01-08",
-    "End Date": "2026-02-26",
+    "Start Date": "2026-02-05",
+    "End Date": "2026-04-09",
     "Exceptions": "2026-02-19",
-    "SessionDates": "2026-01-08,2026-01-15,2026-01-22,2026-01-29,2026-02-05,2026-02-12,2026-02-26",
+    "SessionDates": "2026-02-05,2026-02-12,2026-02-26,2026-03-05,2026-03-12,2026-03-19,2026-03-26,2026-04-02,2026-04-09",
     "LocationName": "St. Francis of Assisi Elementary School",
     "LocationLink": "https://maps.app.goo.gl/LxDeDpaQ1QvRpMDW9",
     "RegisterLink": "https://registration.teamsnap.com/form/41144",
@@ -3609,13 +3602,14 @@
     "Category": "EA",
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/41144/6",
-    "updated_price": "103.86",
+    "updated_price": "133.53",
     "fee_index": 0,
     "City": "Newcastle",
     "Province": "ON",
     "DL": "Zubair",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Newmarket - Advanced Badminton League (Feb - Jun)",
@@ -3642,7 +3636,8 @@
     "Province": "ON",
     "DL": "?",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Newmarket - Advanced Badminton League (Sept - Jan)",
@@ -3669,7 +3664,8 @@
     "Province": "ON",
     "DL": "?",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Newmarket - Beginner/Intermediate Badminton League (Feb - Jun)",
@@ -3696,7 +3692,8 @@
     "Province": "ON",
     "DL": "?",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Newmarket - Beginner/Intermediate Badminton League (Sept - Jan)",
@@ -3723,34 +3720,8 @@
     "Province": "ON",
     "DL": "?",
     "Coaches": "?",
-    "taxes": null
-  },
-  {
-    "Title": "Newmarket - Beginners Pickleball League (16+ yrs)",
-    "TotalPrice": 124.28,
-    "Prorate": false,
-    "StaticPriceText": "124.28",
-    "Day": "Fridays",
-    "Time": "6:00 - 7:30 PM",
-    "Start Date": "2026-01-23",
-    "End Date": "2026-03-13",
-    "Exceptions": "N/A",
-    "SessionDates": "2026-01-23,2026-01-30,2026-02-06,2026-02-13,2026-02-20,2026-02-27,2026-03-06,2026-03-13",
-    "LocationName": "Armitage Public School",
-    "LocationLink": "https://maps.app.goo.gl/kWcDk3KQXVzxKmE89",
-    "RegisterLink": "https://newmarket.perfectmind.com/Clients/BookMe4LandingPages/CoursesLandingPage?widgetId=15f6af07-39c5-473e-b053-96653f77a406&redirectedFromEmbededMode=False&courseId=81a04a4d-7a0e-4dc3-a039-f902368967cb",
-    "URL": "https://eapickleball.com/newmarket-ea-pickleball/",
-    "pageIdentifyer": "newmarket-ea-pickleball",
-    "Category": "TS",
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Newmarket",
-    "Province": "ON",
-    "DL": "Jimmy",
-    "Coaches": "Karan",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Newmarket - Beginners Pickleball League (16+ yrs)",
@@ -3777,7 +3748,36 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "Clare + Sandy",
-    "taxes": null
+    "taxes": null,
+    "age": null
+  },
+  {
+    "Title": "Newmarket - Beginners Pickleball League (16+ yrs)",
+    "TotalPrice": 124.28,
+    "Prorate": false,
+    "StaticPriceText": "124.28",
+    "Day": "Fridays",
+    "Time": "6:00 - 7:30 PM",
+    "Start Date": "2026-01-23",
+    "End Date": "2026-03-13",
+    "Exceptions": "N/A",
+    "SessionDates": "2026-01-23,2026-01-30,2026-02-06,2026-02-13,2026-02-20,2026-02-27,2026-03-06,2026-03-13",
+    "LocationName": "Armitage Public School",
+    "LocationLink": "https://maps.app.goo.gl/kWcDk3KQXVzxKmE89",
+    "RegisterLink": "https://newmarket.perfectmind.com/Clients/BookMe4LandingPages/CoursesLandingPage?widgetId=15f6af07-39c5-473e-b053-96653f77a406&redirectedFromEmbededMode=False&courseId=81a04a4d-7a0e-4dc3-a039-f902368967cb",
+    "URL": "https://eapickleball.com/newmarket-ea-pickleball/",
+    "pageIdentifyer": "newmarket-ea-pickleball",
+    "Category": "TS",
+    "sport": "pb",
+    "fee_url": null,
+    "updated_price": null,
+    "fee_index": null,
+    "City": "Newmarket",
+    "Province": "ON",
+    "DL": "Jimmy",
+    "Coaches": "Karan",
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Newmarket - Beginners Youth Pickleball League (Gr. 9 - 12)",
@@ -3804,7 +3804,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Newmarket - Beginners Youth Pickleball League (Gr. 9 - 12)",
@@ -3831,7 +3832,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Newmarket - Experienced Beginners Pickleball League (16+ yrs)",
@@ -3858,7 +3860,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "Karan",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Newmarket - Intermediate Pickleball League (16+ yrs)",
@@ -3885,34 +3888,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "Clare + Sandy",
-    "taxes": null
-  },
-  {
-    "Title": "Newmarket - Learn to Play Pickleball (16+ yrs)",
-    "TotalPrice": 71.12,
-    "Prorate": false,
-    "StaticPriceText": "71.12",
-    "Day": "Tuesdays",
-    "Time": "8:00 - 9:00 PM",
-    "Start Date": "2026-02-17",
-    "End Date": "2026-03-10",
-    "Exceptions": "N/A",
-    "SessionDates": "2026-02-17,2026-02-24,2026-03-03,2026-03-10",
-    "LocationName": "Denne Public School",
-    "LocationLink": "https://maps.app.goo.gl/Xm6CZS2xR8CR3xgU8",
-    "RegisterLink": "https://newmarket.perfectmind.com/Clients/BookMe4LandingPages/CoursesLandingPage?widgetId=15f6af07-39c5-473e-b053-96653f77a406&redirectedFromEmbededMode=False&courseId=f0a4b010-f417-428b-b394-418889517eb6",
-    "URL": "https://eapickleball.com/newmarket-ea-pickleball/",
-    "pageIdentifyer": "newmarket-ea-pickleball",
-    "Category": "TS",
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Newmarket",
-    "Province": "ON",
-    "DL": "Jimmy",
-    "Coaches": "Clare + Sandy",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Newmarket - Learn to Play Pickleball (16+ yrs)",
@@ -3939,34 +3916,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "Clare + Sandy",
-    "taxes": null
-  },
-  {
-    "Title": "Newmarket - Learn to Play Pickleball (16+ yrs)",
-    "TotalPrice": 71.12,
-    "Prorate": false,
-    "StaticPriceText": "71.12",
-    "Day": "Tuesdays",
-    "Time": "7:00 - 8:00 PM",
-    "Start Date": "2026-02-17",
-    "End Date": "2026-03-10",
-    "Exceptions": "N/A",
-    "SessionDates": "2026-02-17,2026-02-24,2026-03-03,2026-03-10",
-    "LocationName": "Denne Public School",
-    "LocationLink": "https://maps.app.goo.gl/Xm6CZS2xR8CR3xgU8",
-    "RegisterLink": "https://newmarket.perfectmind.com/Clients/BookMe4LandingPages/CoursesLandingPage?widgetId=15f6af07-39c5-473e-b053-96653f77a406&redirectedFromEmbededMode=False&courseId=bbfbb2b0-2eac-493d-b47d-1107ac46e164",
-    "URL": "https://eapickleball.com/newmarket-ea-pickleball/",
-    "pageIdentifyer": "newmarket-ea-pickleball",
-    "Category": "TS",
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Newmarket",
-    "Province": "ON",
-    "DL": "Jimmy",
-    "Coaches": "Clare + Sandy",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Newmarket - Learn to Play Pickleball (16+ yrs)",
@@ -3993,22 +3944,23 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "Clare + Sandy",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
-    "Title": "Newmarket - Learn to Play Pickleball (8 - 15 yrs)",
+    "Title": "Newmarket - Learn to Play Pickleball (16+ yrs)",
     "TotalPrice": 71.12,
     "Prorate": false,
     "StaticPriceText": "71.12",
     "Day": "Tuesdays",
-    "Time": "6:00 - 7:00 PM",
+    "Time": "8:00 - 9:00 PM",
     "Start Date": "2026-02-17",
     "End Date": "2026-03-10",
     "Exceptions": "N/A",
     "SessionDates": "2026-02-17,2026-02-24,2026-03-03,2026-03-10",
     "LocationName": "Denne Public School",
     "LocationLink": "https://maps.app.goo.gl/Xm6CZS2xR8CR3xgU8",
-    "RegisterLink": "https://newmarket.perfectmind.com/Clients/BookMe4LandingPages/CoursesLandingPage?widgetId=15f6af07-39c5-473e-b053-96653f77a406&courseId=1397eab0-a6d7-4bd5-9d59-2bf8889ac516&searchText=%22pickleball%22",
+    "RegisterLink": "https://newmarket.perfectmind.com/Clients/BookMe4LandingPages/CoursesLandingPage?widgetId=15f6af07-39c5-473e-b053-96653f77a406&redirectedFromEmbededMode=False&courseId=f0a4b010-f417-428b-b394-418889517eb6",
     "URL": "https://eapickleball.com/newmarket-ea-pickleball/",
     "pageIdentifyer": "newmarket-ea-pickleball",
     "Category": "TS",
@@ -4020,7 +3972,36 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "Clare + Sandy",
-    "taxes": null
+    "taxes": null,
+    "age": null
+  },
+  {
+    "Title": "Newmarket - Learn to Play Pickleball (16+ yrs)",
+    "TotalPrice": 71.12,
+    "Prorate": false,
+    "StaticPriceText": "71.12",
+    "Day": "Tuesdays",
+    "Time": "7:00 - 8:00 PM",
+    "Start Date": "2026-02-17",
+    "End Date": "2026-03-10",
+    "Exceptions": "N/A",
+    "SessionDates": "2026-02-17,2026-02-24,2026-03-03,2026-03-10",
+    "LocationName": "Denne Public School",
+    "LocationLink": "https://maps.app.goo.gl/Xm6CZS2xR8CR3xgU8",
+    "RegisterLink": "https://newmarket.perfectmind.com/Clients/BookMe4LandingPages/CoursesLandingPage?widgetId=15f6af07-39c5-473e-b053-96653f77a406&redirectedFromEmbededMode=False&courseId=bbfbb2b0-2eac-493d-b47d-1107ac46e164",
+    "URL": "https://eapickleball.com/newmarket-ea-pickleball/",
+    "pageIdentifyer": "newmarket-ea-pickleball",
+    "Category": "TS",
+    "sport": "pb",
+    "fee_url": null,
+    "updated_price": null,
+    "fee_index": null,
+    "City": "Newmarket",
+    "Province": "ON",
+    "DL": "Jimmy",
+    "Coaches": "Clare + Sandy",
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Newmarket - Learn to Play Pickleball (8 - 15 yrs)",
@@ -4047,7 +4028,36 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "Clare + Sandy",
-    "taxes": null
+    "taxes": null,
+    "age": null
+  },
+  {
+    "Title": "Newmarket - Learn to Play Pickleball (8 - 15 yrs)",
+    "TotalPrice": 71.12,
+    "Prorate": false,
+    "StaticPriceText": "71.12",
+    "Day": "Tuesdays",
+    "Time": "6:00 - 7:00 PM",
+    "Start Date": "2026-02-17",
+    "End Date": "2026-03-10",
+    "Exceptions": "N/A",
+    "SessionDates": "2026-02-17,2026-02-24,2026-03-03,2026-03-10",
+    "LocationName": "Denne Public School",
+    "LocationLink": "https://maps.app.goo.gl/Xm6CZS2xR8CR3xgU8",
+    "RegisterLink": "https://newmarket.perfectmind.com/Clients/BookMe4LandingPages/CoursesLandingPage?widgetId=15f6af07-39c5-473e-b053-96653f77a406&courseId=1397eab0-a6d7-4bd5-9d59-2bf8889ac516&searchText=%22pickleball%22",
+    "URL": "https://eapickleball.com/newmarket-ea-pickleball/",
+    "pageIdentifyer": "newmarket-ea-pickleball",
+    "Category": "TS",
+    "sport": "pb",
+    "fee_url": null,
+    "updated_price": null,
+    "fee_index": null,
+    "City": "Newmarket",
+    "Province": "ON",
+    "DL": "Jimmy",
+    "Coaches": "Clare + Sandy",
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Newmarket - LEVEL 1: Beginners Pickleball League",
@@ -4074,34 +4084,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "Eddie A.",
-    "taxes": null
-  },
-  {
-    "Title": "Newmarket - LEVEL 1: Beginners Pickleball League",
-    "TotalPrice": "105.04",
-    "Prorate": true,
-    "StaticPriceText": null,
-    "Day": "Tuesdays",
-    "Time": "6:00 - 8:00 PM",
-    "Start Date": "2026-01-27",
-    "End Date": "2026-03-24",
-    "Exceptions": "2026-03-17",
-    "SessionDates": "2026-01-27,2026-02-03,2026-02-10,2026-02-17,2026-02-24,2026-03-03,2026-03-10,2026-03-24",
-    "LocationName": "Alexander Muir PS",
-    "LocationLink": "https://maps.app.goo.gl/ZLMgkJm52sXvJCU99",
-    "RegisterLink": "https://registration.teamsnap.com/form/45825",
-    "URL": "https://eapickleball.com/newmarket-ea-pickleball/",
-    "pageIdentifyer": "newmarket-ea-pickleball",
-    "Category": "EA",
-    "sport": "pb",
-    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45825/6",
-    "updated_price": "118.70",
-    "fee_index": 0,
-    "City": "Newmarket",
-    "Province": "ON",
-    "DL": "Jimmy",
-    "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Newmarket - LEVEL 1: Beginners Pickleball League",
@@ -4128,61 +4112,36 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
-    "Title": "Newmarket - LEVEL 2: Experienced Beginners Pickleball League",
-    "TotalPrice": "105.04",
-    "Prorate": true,
-    "StaticPriceText": null,
-    "Day": "Fridays",
-    "Time": "6:00 - 8:00 PM",
-    "Start Date": "2026-01-09",
-    "End Date": "2026-03-13",
-    "Exceptions": "1/16/2026,1/30/2026",
-    "SessionDates": "2026-01-09,2026-01-23,2026-02-06,2026-02-13,2026-02-20,2026-02-27,2026-03-06,2026-03-13",
-    "LocationName": "St. Elizabeth Seton Catholic Elementary School",
-    "LocationLink": "https://maps.app.goo.gl/6dHMQ96oEJzHDr6r5",
-    "RegisterLink": "https://registration.teamsnap.com/form/41043",
-    "URL": "https://eapickleball.com/newmarket-ea-pickleball/",
-    "pageIdentifyer": "newmarket-ea-pickleball",
-    "Category": "EA",
-    "sport": "pb",
-    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/41043/6",
-    "updated_price": "118.70",
-    "fee_index": 1,
-    "City": "Newmarket",
-    "Province": "ON",
-    "DL": "Jimmy",
-    "Coaches": "Clare",
-    "taxes": null
-  },
-  {
-    "Title": "Newmarket - LEVEL 2: Experienced Beginners Pickleball League",
+    "Title": "Newmarket - LEVEL 1: Beginners Pickleball League",
     "TotalPrice": "105.04",
     "Prorate": true,
     "StaticPriceText": null,
     "Day": "Tuesdays",
-    "Time": "8:15 - 10:15 PM",
-    "Start Date": "2026-01-20",
-    "End Date": "2026-03-10",
-    "Exceptions": "N/A",
-    "SessionDates": "2026-01-20,2026-01-27,2026-02-03,2026-02-10,2026-02-17,2026-02-24,2026-03-03,2026-03-10",
-    "LocationName": "St. Elizabeth Seton Catholic Elementary School",
-    "LocationLink": "https://maps.app.goo.gl/6dHMQ96oEJzHDr6r5",
-    "RegisterLink": "https://registration.teamsnap.com/form/41143",
+    "Time": "6:00 - 8:00 PM",
+    "Start Date": "2026-01-27",
+    "End Date": "2026-03-24",
+    "Exceptions": "2026-03-17",
+    "SessionDates": "2026-01-27,2026-02-03,2026-02-10,2026-02-17,2026-02-24,2026-03-03,2026-03-10,2026-03-24",
+    "LocationName": "Alexander Muir PS",
+    "LocationLink": "https://maps.app.goo.gl/ZLMgkJm52sXvJCU99",
+    "RegisterLink": "https://registration.teamsnap.com/form/45825",
     "URL": "https://eapickleball.com/newmarket-ea-pickleball/",
     "pageIdentifyer": "newmarket-ea-pickleball",
     "Category": "EA",
     "sport": "pb",
-    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/41143/6",
+    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45825/6",
     "updated_price": "118.70",
     "fee_index": 0,
     "City": "Newmarket",
     "Province": "ON",
     "DL": "Jimmy",
-    "Coaches": "Eddie A.",
-    "taxes": null
+    "Coaches": "Need to hire",
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Newmarket - LEVEL 2: Experienced Beginners Pickleball League",
@@ -4209,7 +4168,64 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
+  },
+  {
+    "Title": "Newmarket - LEVEL 2: Experienced Beginners Pickleball League",
+    "TotalPrice": "105.04",
+    "Prorate": true,
+    "StaticPriceText": null,
+    "Day": "Fridays",
+    "Time": "6:00 - 8:00 PM",
+    "Start Date": "2026-01-09",
+    "End Date": "2026-03-13",
+    "Exceptions": "1/16/2026,1/30/2026",
+    "SessionDates": "2026-01-09,2026-01-23,2026-02-06,2026-02-13,2026-02-20,2026-02-27,2026-03-06,2026-03-13",
+    "LocationName": "St. Elizabeth Seton Catholic Elementary School",
+    "LocationLink": "https://maps.app.goo.gl/6dHMQ96oEJzHDr6r5",
+    "RegisterLink": "https://registration.teamsnap.com/form/41043",
+    "URL": "https://eapickleball.com/newmarket-ea-pickleball/",
+    "pageIdentifyer": "newmarket-ea-pickleball",
+    "Category": "EA",
+    "sport": "pb",
+    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/41043/6",
+    "updated_price": "118.70",
+    "fee_index": 1,
+    "City": "Newmarket",
+    "Province": "ON",
+    "DL": "Jimmy",
+    "Coaches": "Clare",
+    "taxes": null,
+    "age": null
+  },
+  {
+    "Title": "Newmarket - LEVEL 2: Experienced Beginners Pickleball League",
+    "TotalPrice": "105.04",
+    "Prorate": true,
+    "StaticPriceText": null,
+    "Day": "Tuesdays",
+    "Time": "8:15 - 10:15 PM",
+    "Start Date": "2026-01-20",
+    "End Date": "2026-03-10",
+    "Exceptions": "N/A",
+    "SessionDates": "2026-01-20,2026-01-27,2026-02-03,2026-02-10,2026-02-17,2026-02-24,2026-03-03,2026-03-10",
+    "LocationName": "St. Elizabeth Seton Catholic Elementary School",
+    "LocationLink": "https://maps.app.goo.gl/6dHMQ96oEJzHDr6r5",
+    "RegisterLink": "https://registration.teamsnap.com/form/41143",
+    "URL": "https://eapickleball.com/newmarket-ea-pickleball/",
+    "pageIdentifyer": "newmarket-ea-pickleball",
+    "Category": "EA",
+    "sport": "pb",
+    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/41143/6",
+    "updated_price": "118.70",
+    "fee_index": 0,
+    "City": "Newmarket",
+    "Province": "ON",
+    "DL": "Jimmy",
+    "Coaches": "Eddie A.",
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Newmarket - LEVEL 3: Intermediate Pickleball League",
@@ -4236,7 +4252,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "Matteo",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Newmarket - LEVEL 3: Intermediate Pickleball League",
@@ -4263,7 +4280,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 3 - 4)",
@@ -4290,7 +4308,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": 1
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 3 - 4)",
@@ -4317,7 +4336,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": 1
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 3 - 4)",
@@ -4344,7 +4364,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": 1
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 3 - 4)",
@@ -4371,7 +4392,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": 1
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 3 - 4)",
@@ -4398,7 +4420,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": 1
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 5 - 10 GIRLS)",
@@ -4425,7 +4448,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": 4
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 5 - 6)",
@@ -4452,7 +4476,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": 2
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 5 - 6)",
@@ -4479,7 +4504,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": 2
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 5 - 6)",
@@ -4506,7 +4532,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": 2
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 5 - 6)",
@@ -4533,7 +4560,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": 2
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 5 - 6)",
@@ -4560,7 +4588,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": 2
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 7 - 9)",
@@ -4587,7 +4616,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": 3
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 7 - 9)",
@@ -4614,7 +4644,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": 3
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (SK - GR 2)",
@@ -4641,7 +4672,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": 0
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (SK - GR 2)",
@@ -4668,7 +4700,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": 0
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (SK - GR 2)",
@@ -4695,7 +4728,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": 0
   },
   {
     "Title": "North Vancouver - LEVEL 2: Experienced Beginners League",
@@ -4722,34 +4756,8 @@
     "Province": "BC",
     "DL": "Sunny + Jarred",
     "Coaches": "?",
-    "taxes": null
-  },
-  {
-    "Title": "North Vancouver - LEVEL 2: Experienced Beginners League",
-    "TotalPrice": 97.17,
-    "Prorate": true,
-    "StaticPriceText": null,
-    "Day": "Thursdays",
-    "Time": "7:30 - 9:30 PM",
-    "Start Date": "2026-01-08",
-    "End Date": "2026-02-05",
-    "Exceptions": "N/A",
-    "SessionDates": "2026-01-08,2026-01-15,2026-01-22,2026-01-29,2026-02-05",
-    "LocationName": "Larson Elementary",
-    "LocationLink": "https://maps.app.goo.gl/TVvKkYHcRQAJrozH9",
-    "RegisterLink": "https://registration.teamsnap.com/form/47826",
-    "URL": "https://bc.eapickleball.com/north-vancouver/",
-    "pageIdentifyer": "north-vancouver",
-    "Category": "EA",
-    "sport": "pb",
-    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/47826/6",
-    "updated_price": "102.03",
-    "fee_index": 0,
-    "City": "North Vancouver",
-    "Province": "BC",
-    "DL": "Sunny + Jarred",
-    "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "North Vancouver - LEVEL 2: Experienced Beginners League",
@@ -4776,7 +4784,36 @@
     "Province": "BC",
     "DL": "Sunny + Jarred",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
+  },
+  {
+    "Title": "North Vancouver - LEVEL 2: Experienced Beginners League",
+    "TotalPrice": 97.17,
+    "Prorate": true,
+    "StaticPriceText": null,
+    "Day": "Thursdays",
+    "Time": "7:30 - 9:30 PM",
+    "Start Date": "2026-01-08",
+    "End Date": "2026-02-05",
+    "Exceptions": "N/A",
+    "SessionDates": "2026-01-08,2026-01-15,2026-01-22,2026-01-29,2026-02-05",
+    "LocationName": "Larson Elementary",
+    "LocationLink": "https://maps.app.goo.gl/TVvKkYHcRQAJrozH9",
+    "RegisterLink": "https://registration.teamsnap.com/form/47826",
+    "URL": "https://bc.eapickleball.com/north-vancouver/",
+    "pageIdentifyer": "north-vancouver",
+    "Category": "EA",
+    "sport": "pb",
+    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/47826/6",
+    "updated_price": "102.03",
+    "fee_index": 0,
+    "City": "North Vancouver",
+    "Province": "BC",
+    "DL": "Sunny + Jarred",
+    "Coaches": "?",
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "North York - Beginners Pickleball League",
@@ -4803,7 +4840,8 @@
     "Province": "ON",
     "DL": "Andrew",
     "Coaches": "David C.",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "North York - Learn to Play Pickleball",
@@ -4830,7 +4868,8 @@
     "Province": "ON",
     "DL": "Andrew",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "North York - Learn to Play Pickleball Level 1",
@@ -4857,7 +4896,8 @@
     "Province": "ON",
     "DL": "Andrew",
     "Coaches": "David C.",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "North York - LEVEL 1: Beginners Pickleball League",
@@ -4884,7 +4924,8 @@
     "Province": "ON",
     "DL": "Andrew",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "North York - LEVEL 2: Experienced Beginners Pickleball League",
@@ -4911,7 +4952,8 @@
     "Province": "ON",
     "DL": "Andrew",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Norwood - Pickleball Membership",
@@ -4938,7 +4980,8 @@
     "Province": "ON",
     "DL": "Mattie G",
     "Coaches": "Bill C.",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Oakville - LEVEL 1: Beginners Pickleball League",
@@ -4965,19 +5008,20 @@
     "Province": "ON",
     "DL": "?",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Orleans - LEVEL 1: Beginners Pickleball League",
-    "TotalPrice": "105.04",
+    "TotalPrice": "118.17",
     "Prorate": true,
     "StaticPriceText": null,
     "Day": "Mondays",
     "Time": "8:30 - 9:30 PM",
-    "Start Date": "2026-01-05",
-    "End Date": "2026-03-02",
-    "Exceptions": "2026-02-16",
-    "SessionDates": "2026-01-05,2026-01-12,2026-01-19,2026-01-26,2026-02-02,2026-02-09,2026-02-23,2026-03-02",
+    "Start Date": "2026-02-02",
+    "End Date": "2026-04-13",
+    "Exceptions": "2/16/2026,4/6/2026",
+    "SessionDates": "2026-02-02,2026-02-09,2026-02-23,2026-03-02,2026-03-09,2026-03-16,2026-03-23,2026-03-30,2026-04-13",
     "LocationName": "St. Francis of Assisi",
     "LocationLink": "https://maps.app.goo.gl/qsgXNrFJkuKXrnou5",
     "RegisterLink": "https://registration.teamsnap.com/form/45515",
@@ -4986,13 +5030,14 @@
     "Category": "EA",
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45515/6",
-    "updated_price": "118.70",
+    "updated_price": "133.53",
     "fee_index": 0,
     "City": "Orleans",
     "Province": "ON",
     "DL": "Jeramy",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Orleans - LEVEL 1: Beginners Pickleball League",
@@ -5019,7 +5064,8 @@
     "Province": "ON",
     "DL": "Jeramy",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Orleans - LEVEL 2: Experienced Beginners Pickleball League",
@@ -5046,19 +5092,20 @@
     "Province": "ON",
     "DL": "Jeramy",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
-    "Title": "Orleans - Youth Pickleball Club",
+    "Title": "Orleans - LEVEL 1: Beginners Pickleball League",
     "TotalPrice": "105.04",
     "Prorate": true,
     "StaticPriceText": null,
     "Day": "Fridays",
     "Time": "6:30 - 8:30 PM",
-    "Start Date": "2026-01-09",
-    "End Date": "2026-03-06",
-    "Exceptions": "2026-01-30",
-    "SessionDates": "2026-01-09,2026-01-16,2026-01-23,2026-02-06,2026-02-13,2026-02-20,2026-02-27,2026-03-06",
+    "Start Date": "2026-02-06",
+    "End Date": "2026-04-10",
+    "Exceptions": "3/20/2026,4/3/2026",
+    "SessionDates": "2026-02-06,2026-02-13,2026-02-20,2026-02-27,2026-03-06,2026-03-13,2026-03-27,2026-04-10",
     "LocationName": "St. Dominic School",
     "LocationLink": "https://maps.app.goo.gl/gbNgN5bYt9yLBXYE6",
     "RegisterLink": "https://registration.teamsnap.com/form/45532",
@@ -5073,7 +5120,8 @@
     "Province": "ON",
     "DL": "Jeramy",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Oro-Medonte - Beginners Pickleball League",
@@ -5100,7 +5148,8 @@
     "Province": "ON",
     "DL": "Sheila",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Oro-Medonte - Beginners Pickleball Lessons",
@@ -5127,7 +5176,8 @@
     "Province": "ON",
     "DL": "Sheila",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Oro-Medonte - Beginners Pickleball Lessons",
@@ -5154,7 +5204,8 @@
     "Province": "ON",
     "DL": "Sheila",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Oro-Medonte - Beginners Pickleball Lessons",
@@ -5181,7 +5232,8 @@
     "Province": "ON",
     "DL": "Sheila",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Oro-Medonte - Beginners Pickleball Lessons",
@@ -5208,7 +5260,8 @@
     "Province": "ON",
     "DL": "Sheila",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Oro-Medonte - Intermediate Pickleball League",
@@ -5235,7 +5288,8 @@
     "Province": "ON",
     "DL": "Sheila",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Oro-Medonte - Jr Basketball (11 - 13)",
@@ -5262,7 +5316,8 @@
     "Province": "ON",
     "DL": "Sheila",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Oro-Medonte - Jr Basketball (5 - 7)",
@@ -5289,7 +5344,8 @@
     "Province": "ON",
     "DL": "Sheila",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Oro-Medonte - Jr Basketball (8 - 10)",
@@ -5316,7 +5372,8 @@
     "Province": "ON",
     "DL": "Sheila",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Oshawa - Beginners Pickleball League",
@@ -5343,7 +5400,8 @@
     "Province": "ON",
     "DL": "?",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Oshawa - Learn to Play Pickleball (11 - 14 yrs)",
@@ -5370,7 +5428,8 @@
     "Province": "ON",
     "DL": "?",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Oshawa - Learn to Play Pickleball (15+ yrs)",
@@ -5397,7 +5456,8 @@
     "Province": "ON",
     "DL": "?",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Oshawa - Learn to Play Pickleball (15+ yrs)",
@@ -5424,7 +5484,8 @@
     "Province": "ON",
     "DL": "?",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Oshawa - Learn to Play Pickleball (15+ yrs)",
@@ -5451,7 +5512,8 @@
     "Province": "ON",
     "DL": "?",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Oshawa - Learn to Play Pickleball (6 - 10 yrs)",
@@ -5478,7 +5540,8 @@
     "Province": "ON",
     "DL": "?",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Oshawa - LEVEL 1: Beginners Pickleball League",
@@ -5505,7 +5568,8 @@
     "Province": "ON",
     "DL": "Zubair",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Ottawa - LEVEL 1: Beginners Pickleball League",
@@ -5532,7 +5596,8 @@
     "Province": "ON",
     "DL": "Jeramy",
     "Coaches": "Leonardo",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Ottawa - LEVEL 2: Experienced Beginners Pickleball League",
@@ -5541,10 +5606,10 @@
     "StaticPriceText": null,
     "Day": "Tuesdays",
     "Time": "8:00 - 10:00 PM",
-    "Start Date": "2026-01-06",
-    "End Date": "2026-02-24",
-    "Exceptions": "N/A",
-    "SessionDates": "2026-01-06,2026-01-13,2026-01-20,2026-01-27,2026-02-03,2026-02-10,2026-02-17,2026-02-24",
+    "Start Date": "2026-02-03",
+    "End Date": "2026-03-31",
+    "Exceptions": "2026-03-17",
+    "SessionDates": "2026-02-03,2026-02-10,2026-02-17,2026-02-24,2026-03-03,2026-03-10,2026-03-24,2026-03-31",
     "LocationName": "Our Lady of Mount Carmel",
     "LocationLink": "https://maps.app.goo.gl/gk9suaeFQ4QDnGdd6",
     "RegisterLink": "https://registration.teamsnap.com/form/45529",
@@ -5559,7 +5624,8 @@
     "Province": "ON",
     "DL": "Jeramy",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Owen Sound - LEVEL 1: Beginners Pickleball League",
@@ -5586,7 +5652,8 @@
     "Province": "ON",
     "DL": "Karan",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Owen Sound - LEVEL 2: Experienced Beginners Pickleball League",
@@ -5613,7 +5680,8 @@
     "Province": "ON",
     "DL": "Karan",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Perth - LEVEL 1 + 2: Beginners + Experienced Beginners Pickleball League",
@@ -5640,7 +5708,8 @@
     "Province": "ON",
     "DL": "Jeramy",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Perth - LEVEL 2: Experienced Beginners Pickleball League",
@@ -5667,7 +5736,8 @@
     "Province": "ON",
     "DL": "Jeramy",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Perth - LEVEL 2: Experienced Beginners Pickleball League",
@@ -5694,7 +5764,8 @@
     "Province": "ON",
     "DL": "Jeramy",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Perth - LEVEL 3: Intermediate Pickleball League",
@@ -5721,34 +5792,8 @@
     "Province": "ON",
     "DL": "Jeramy",
     "Coaches": "Need to hire",
-    "taxes": null
-  },
-  {
-    "Title": "Picton - LEVEL 1: Beginners Pickleball League",
-    "TotalPrice": "105.04",
-    "Prorate": true,
-    "StaticPriceText": null,
-    "Day": "Mondays",
-    "Time": "8:00 - 10:00 PM",
-    "Start Date": "2026-01-05",
-    "End Date": "2026-03-02",
-    "Exceptions": "2026-02-16",
-    "SessionDates": "2026-01-05,2026-01-12,2026-01-19,2026-01-26,2026-02-02,2026-02-09,2026-02-23,2026-03-02",
-    "LocationName": "Prince Edward CI",
-    "LocationLink": "https://maps.app.goo.gl/eokvhQBW6yiEPoQ19",
-    "RegisterLink": "https://registration.teamsnap.com/form/45545",
-    "URL": "https://eapickleball.com/picton/",
-    "pageIdentifyer": "picton",
-    "Category": "EA",
-    "sport": "pb",
-    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/45545/6",
-    "updated_price": "118.70",
-    "fee_index": 0,
-    "City": "Picton",
-    "Province": "ON",
-    "DL": "Karan",
-    "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Port Colborne - LEVEL 2: Experienced Beginners Pickleball League",
@@ -5775,7 +5820,8 @@
     "Province": "ON",
     "DL": "Karan",
     "Coaches": "Michele",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Port Hope - LEVEL 1: Beginners Pickleball League",
@@ -5802,34 +5848,8 @@
     "Province": "ON",
     "DL": "Zubair",
     "Coaches": "Need to hire",
-    "taxes": null
-  },
-  {
-    "Title": "Port Perry - LEVEL 3: Intermediate Pickleball (Round Robin Format)",
-    "TotalPrice": "131.30",
-    "Prorate": true,
-    "StaticPriceText": null,
-    "Day": "Wednesdays",
-    "Time": "8:15 - 10:00 PM",
-    "Start Date": "2026-01-07",
-    "End Date": "2026-03-25",
-    "Exceptions": "2/18/2026,3/18/2026",
-    "SessionDates": "2026-01-07,2026-01-14,2026-01-21,2026-01-28,2026-02-04,2026-02-11,2026-02-25,2026-03-04,2026-03-11,2026-03-25",
-    "LocationName": "SA Cawker Public School",
-    "LocationLink": "https://maps.app.goo.gl/7n524E3nRRQv4nhr7",
-    "RegisterLink": "https://registration.teamsnap.com/form/47284",
-    "URL": "https://eapickleball.com/port-perry-pickleball/",
-    "pageIdentifyer": "port-perry-pickleball",
-    "Category": "EA",
-    "sport": "pb",
-    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/47284/6",
-    "updated_price": "148.37",
-    "fee_index": 0,
-    "City": "Port Perry",
-    "Province": "ON",
-    "DL": "Rob",
-    "Coaches": null,
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Port Perry - LEVEL 3: Intermediate Pickleball (Round Robin Format)",
@@ -5856,7 +5876,36 @@
     "Province": "ON",
     "DL": "Rob",
     "Coaches": null,
-    "taxes": null
+    "taxes": null,
+    "age": null
+  },
+  {
+    "Title": "Port Perry - LEVEL 3: Intermediate Pickleball (Round Robin Format)",
+    "TotalPrice": "131.30",
+    "Prorate": true,
+    "StaticPriceText": null,
+    "Day": "Wednesdays",
+    "Time": "8:15 - 10:00 PM",
+    "Start Date": "2026-01-07",
+    "End Date": "2026-03-25",
+    "Exceptions": "2/18/2026,3/18/2026",
+    "SessionDates": "2026-01-07,2026-01-14,2026-01-21,2026-01-28,2026-02-04,2026-02-11,2026-02-25,2026-03-04,2026-03-11,2026-03-25",
+    "LocationName": "SA Cawker Public School",
+    "LocationLink": "https://maps.app.goo.gl/7n524E3nRRQv4nhr7",
+    "RegisterLink": "https://registration.teamsnap.com/form/47284",
+    "URL": "https://eapickleball.com/port-perry-pickleball/",
+    "pageIdentifyer": "port-perry-pickleball",
+    "Category": "EA",
+    "sport": "pb",
+    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/47284/6",
+    "updated_price": "148.37",
+    "fee_index": 0,
+    "City": "Port Perry",
+    "Province": "ON",
+    "DL": "Rob",
+    "Coaches": null,
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Powassan - LEVEL 1: Beginners Pickleball League",
@@ -5883,34 +5932,8 @@
     "Province": "ON",
     "DL": "Sheila",
     "Coaches": "Need to hire",
-    "taxes": null
-  },
-  {
-    "Title": "Prince George - LEVEL 1:  Beginners Pickleball League",
-    "TotalPrice": 133.68,
-    "Prorate": true,
-    "StaticPriceText": null,
-    "Day": "Thursdays",
-    "Time": "5:30 - 7:30 PM",
-    "Start Date": "2025-11-20",
-    "End Date": "2026-02-05",
-    "Exceptions": "12/11/2025,12/18/2025,12/25/2025,1/1/2026",
-    "SessionDates": "2025-11-20,2025-11-27,2025-12-04,2026-01-08,2026-01-15,2026-01-22,2026-01-29,2026-02-05",
-    "LocationName": "Heather Park Elementary School",
-    "LocationLink": "https://maps.app.goo.gl/Cs45pjqrAXCXvh5e9",
-    "RegisterLink": "https://registration.teamsnap.com/form/43457",
-    "URL": "https://bc.eapickleball.com/prince-george/",
-    "pageIdentifyer": "prince-george",
-    "Category": "EA",
-    "sport": "pb",
-    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/43457/6",
-    "updated_price": "87.73",
-    "fee_index": 0,
-    "City": "Prince George",
-    "Province": "BC",
-    "DL": "Sunny + Jarred",
-    "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Prince George - LEVEL 1:  Beginners Pickleball League",
@@ -5937,7 +5960,36 @@
     "Province": "BC",
     "DL": "Sunny + Jarred",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
+  },
+  {
+    "Title": "Prince George - LEVEL 1:  Beginners Pickleball League",
+    "TotalPrice": 133.68,
+    "Prorate": true,
+    "StaticPriceText": null,
+    "Day": "Thursdays",
+    "Time": "5:30 - 7:30 PM",
+    "Start Date": "2025-11-20",
+    "End Date": "2026-02-05",
+    "Exceptions": "12/11/2025,12/18/2025,12/25/2025,1/1/2026",
+    "SessionDates": "2025-11-20,2025-11-27,2025-12-04,2026-01-08,2026-01-15,2026-01-22,2026-01-29,2026-02-05",
+    "LocationName": "Heather Park Elementary School",
+    "LocationLink": "https://maps.app.goo.gl/Cs45pjqrAXCXvh5e9",
+    "RegisterLink": "https://registration.teamsnap.com/form/43457",
+    "URL": "https://bc.eapickleball.com/prince-george/",
+    "pageIdentifyer": "prince-george",
+    "Category": "EA",
+    "sport": "pb",
+    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/43457/6",
+    "updated_price": "87.73",
+    "fee_index": 0,
+    "City": "Prince George",
+    "Province": "BC",
+    "DL": "Sunny + Jarred",
+    "Coaches": "?",
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Richmond Hill - Jr Badminton (10 - 13)",
@@ -5964,7 +6016,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Richmond Hill - Jr Badminton (11 - 13)",
@@ -5991,7 +6044,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Richmond Hill - Jr Badminton (11 - 13)",
@@ -6018,7 +6072,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Richmond Hill - Jr Badminton (14 - 16)",
@@ -6045,7 +6100,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Richmond Hill - Jr Badminton (14 - 16)",
@@ -6072,7 +6128,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Richmond Hill - Jr Badminton (8 - 10)",
@@ -6099,7 +6156,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Richmond Hill - Jr Badminton (8 - 10)",
@@ -6126,7 +6184,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (11 - 13)",
@@ -6153,34 +6212,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
-  },
-  {
-    "Title": "Richmond Hill - Jr Basketball (11 - 13)",
-    "TotalPrice": 136,
-    "Prorate": false,
-    "StaticPriceText": "136",
-    "Day": "Wednesdays",
-    "Time": "7:30 - 8:30 PM",
-    "Start Date": "2026-01-14",
-    "End Date": "2026-03-04",
-    "Exceptions": "N/A",
-    "SessionDates": "2026-01-14,2026-01-21,2026-01-28,2026-02-04,2026-02-11,2026-02-18,2026-02-25,2026-03-04",
-    "LocationName": "Rouge Woods CC",
-    "LocationLink": "https://maps.app.goo.gl/6MRow7venbgiv6pAA",
-    "RegisterLink": "https://anc.ca.apm.activecommunities.com/richmondhill/activity/search/detail/134297?onlineSiteId=0&from_original_cui=true",
-    "URL": "https://elevationathletics.ca/richmond-hill/",
-    "pageIdentifyer": "richmond-hill",
-    "Category": "TS",
-    "sport": "bask",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Richmond Hill",
-    "Province": "ON",
-    "DL": "Jimmy",
-    "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (11 - 13)",
@@ -6207,7 +6240,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (11 - 13)",
@@ -6234,7 +6268,36 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
+  },
+  {
+    "Title": "Richmond Hill - Jr Basketball (11 - 13)",
+    "TotalPrice": 136,
+    "Prorate": false,
+    "StaticPriceText": "136",
+    "Day": "Wednesdays",
+    "Time": "7:30 - 8:30 PM",
+    "Start Date": "2026-01-14",
+    "End Date": "2026-03-04",
+    "Exceptions": "N/A",
+    "SessionDates": "2026-01-14,2026-01-21,2026-01-28,2026-02-04,2026-02-11,2026-02-18,2026-02-25,2026-03-04",
+    "LocationName": "Rouge Woods CC",
+    "LocationLink": "https://maps.app.goo.gl/6MRow7venbgiv6pAA",
+    "RegisterLink": "https://anc.ca.apm.activecommunities.com/richmondhill/activity/search/detail/134297?onlineSiteId=0&from_original_cui=true",
+    "URL": "https://elevationathletics.ca/richmond-hill/",
+    "pageIdentifyer": "richmond-hill",
+    "Category": "TS",
+    "sport": "bask",
+    "fee_url": null,
+    "updated_price": null,
+    "fee_index": null,
+    "City": "Richmond Hill",
+    "Province": "ON",
+    "DL": "Jimmy",
+    "Coaches": "?",
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (11 - 13) Mini",
@@ -6261,34 +6324,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
-  },
-  {
-    "Title": "Richmond Hill - Jr Basketball (5 - 7)",
-    "TotalPrice": 136,
-    "Prorate": false,
-    "StaticPriceText": "136",
-    "Day": "Wednesdays",
-    "Time": "5:30 - 6:30 PM",
-    "Start Date": "2026-01-14",
-    "End Date": "2026-03-04",
-    "Exceptions": "N/A",
-    "SessionDates": "2026-01-14,2026-01-21,2026-01-28,2026-02-04,2026-02-11,2026-02-18,2026-02-25,2026-03-04",
-    "LocationName": "Rouge Woods CC",
-    "LocationLink": "https://maps.app.goo.gl/6MRow7venbgiv6pAA",
-    "RegisterLink": "https://anc.ca.apm.activecommunities.com/richmondhill/activity/search/detail/134298?onlineSiteId=0&from_original_cui=true",
-    "URL": "https://elevationathletics.ca/richmond-hill/",
-    "pageIdentifyer": "richmond-hill",
-    "Category": "TS",
-    "sport": "bask",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Richmond Hill",
-    "Province": "ON",
-    "DL": "Jimmy",
-    "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (5 - 7)",
@@ -6315,7 +6352,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (5 - 7)",
@@ -6342,7 +6380,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (5 - 7)",
@@ -6369,7 +6408,36 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
+  },
+  {
+    "Title": "Richmond Hill - Jr Basketball (5 - 7)",
+    "TotalPrice": 136,
+    "Prorate": false,
+    "StaticPriceText": "136",
+    "Day": "Wednesdays",
+    "Time": "5:30 - 6:30 PM",
+    "Start Date": "2026-01-14",
+    "End Date": "2026-03-04",
+    "Exceptions": "N/A",
+    "SessionDates": "2026-01-14,2026-01-21,2026-01-28,2026-02-04,2026-02-11,2026-02-18,2026-02-25,2026-03-04",
+    "LocationName": "Rouge Woods CC",
+    "LocationLink": "https://maps.app.goo.gl/6MRow7venbgiv6pAA",
+    "RegisterLink": "https://anc.ca.apm.activecommunities.com/richmondhill/activity/search/detail/134298?onlineSiteId=0&from_original_cui=true",
+    "URL": "https://elevationathletics.ca/richmond-hill/",
+    "pageIdentifyer": "richmond-hill",
+    "Category": "TS",
+    "sport": "bask",
+    "fee_url": null,
+    "updated_price": null,
+    "fee_index": null,
+    "City": "Richmond Hill",
+    "Province": "ON",
+    "DL": "Jimmy",
+    "Coaches": "?",
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (5 - 7)",
@@ -6396,7 +6464,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (5 - 7) Mini",
@@ -6423,7 +6492,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (5 - 7) Mini",
@@ -6450,115 +6520,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
-  },
-  {
-    "Title": "Richmond Hill - Jr Basketball (8 - 10)",
-    "TotalPrice": 136,
-    "Prorate": false,
-    "StaticPriceText": "136",
-    "Day": "Tuesdays",
-    "Time": "5:30 - 6:30 PM",
-    "Start Date": "2026-01-13",
-    "End Date": "2026-03-03",
-    "Exceptions": "N/A",
-    "SessionDates": "2026-01-13,2026-01-20,2026-01-27,2026-02-03,2026-02-10,2026-02-17,2026-02-24,2026-03-03",
-    "LocationName": "Richvale CC",
-    "LocationLink": "https://maps.app.goo.gl/X9rSgQqpAEeMqeTc7",
-    "RegisterLink": "https://anc.ca.apm.activecommunities.com/richmondhill/activity/search/detail/135309?onlineSiteId=0&from_original_cui=true",
-    "URL": "https://elevationathletics.ca/richmond-hill/",
-    "pageIdentifyer": "richmond-hill",
-    "Category": "TS",
-    "sport": "bask",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Richmond Hill",
-    "Province": "ON",
-    "DL": "Jimmy",
-    "Coaches": "?",
-    "taxes": null
-  },
-  {
-    "Title": "Richmond Hill - Jr Basketball (8 - 10)",
-    "TotalPrice": 136,
-    "Prorate": false,
-    "StaticPriceText": "136",
-    "Day": "Tuesdays",
-    "Time": "6:00 - 7:00 PM",
-    "Start Date": "2026-01-13",
-    "End Date": "2026-03-03",
-    "Exceptions": "N/A",
-    "SessionDates": "2026-01-13,2026-01-20,2026-01-27,2026-02-03,2026-02-10,2026-02-17,2026-02-24,2026-03-03",
-    "LocationName": "Elgin West CC",
-    "LocationLink": "https://maps.app.goo.gl/spQs5gPGjjaTjTZh7",
-    "RegisterLink": "https://anc.ca.apm.activecommunities.com/richmondhill/activity/search/detail/130649?onlineSiteId=0&from_original_cui=true",
-    "URL": "https://elevationathletics.ca/richmond-hill/",
-    "pageIdentifyer": "richmond-hill",
-    "Category": "TS",
-    "sport": "bask",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Richmond Hill",
-    "Province": "ON",
-    "DL": "Jimmy",
-    "Coaches": "?",
-    "taxes": null
-  },
-  {
-    "Title": "Richmond Hill - Jr Basketball (8 - 10)",
-    "TotalPrice": 136,
-    "Prorate": false,
-    "StaticPriceText": "136",
-    "Day": "Wednesdays",
-    "Time": "6:00 - 7:00 PM",
-    "Start Date": "2026-01-14",
-    "End Date": "2026-03-04",
-    "Exceptions": "N/A",
-    "SessionDates": "2026-01-14,2026-01-21,2026-01-28,2026-02-04,2026-02-11,2026-02-18,2026-02-25,2026-03-04",
-    "LocationName": "Elgin West CC",
-    "LocationLink": "https://maps.app.goo.gl/spQs5gPGjjaTjTZh7",
-    "RegisterLink": "https://anc.ca.apm.activecommunities.com/richmondhill/activity/search/detail/130650?onlineSiteId=0&from_original_cui=true",
-    "URL": "https://elevationathletics.ca/richmond-hill/",
-    "pageIdentifyer": "richmond-hill",
-    "Category": "TS",
-    "sport": "bask",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Richmond Hill",
-    "Province": "ON",
-    "DL": "Jimmy",
-    "Coaches": "?",
-    "taxes": null
-  },
-  {
-    "Title": "Richmond Hill - Jr Basketball (8 - 10)",
-    "TotalPrice": 136,
-    "Prorate": false,
-    "StaticPriceText": "136",
-    "Day": "Wednesdays",
-    "Time": "6:30 - 7:30 PM",
-    "Start Date": "2026-01-14",
-    "End Date": "2026-03-04",
-    "Exceptions": "N/A",
-    "SessionDates": "2026-01-14,2026-01-21,2026-01-28,2026-02-04,2026-02-11,2026-02-18,2026-02-25,2026-03-04",
-    "LocationName": "Rouge Woods CC",
-    "LocationLink": "https://maps.app.goo.gl/6MRow7venbgiv6pAA",
-    "RegisterLink": "https://anc.ca.apm.activecommunities.com/richmondhill/activity/search/detail/134299?onlineSiteId=0&from_original_cui=true",
-    "URL": "https://elevationathletics.ca/richmond-hill/",
-    "pageIdentifyer": "richmond-hill",
-    "Category": "TS",
-    "sport": "bask",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Richmond Hill",
-    "Province": "ON",
-    "DL": "Jimmy",
-    "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (8 - 10)",
@@ -6585,7 +6548,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (8 - 10)",
@@ -6612,7 +6576,120 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
+  },
+  {
+    "Title": "Richmond Hill - Jr Basketball (8 - 10)",
+    "TotalPrice": 136,
+    "Prorate": false,
+    "StaticPriceText": "136",
+    "Day": "Tuesdays",
+    "Time": "5:30 - 6:30 PM",
+    "Start Date": "2026-01-13",
+    "End Date": "2026-03-03",
+    "Exceptions": "N/A",
+    "SessionDates": "2026-01-13,2026-01-20,2026-01-27,2026-02-03,2026-02-10,2026-02-17,2026-02-24,2026-03-03",
+    "LocationName": "Richvale CC",
+    "LocationLink": "https://maps.app.goo.gl/X9rSgQqpAEeMqeTc7",
+    "RegisterLink": "https://anc.ca.apm.activecommunities.com/richmondhill/activity/search/detail/135309?onlineSiteId=0&from_original_cui=true",
+    "URL": "https://elevationathletics.ca/richmond-hill/",
+    "pageIdentifyer": "richmond-hill",
+    "Category": "TS",
+    "sport": "bask",
+    "fee_url": null,
+    "updated_price": null,
+    "fee_index": null,
+    "City": "Richmond Hill",
+    "Province": "ON",
+    "DL": "Jimmy",
+    "Coaches": "?",
+    "taxes": null,
+    "age": null
+  },
+  {
+    "Title": "Richmond Hill - Jr Basketball (8 - 10)",
+    "TotalPrice": 136,
+    "Prorate": false,
+    "StaticPriceText": "136",
+    "Day": "Tuesdays",
+    "Time": "6:00 - 7:00 PM",
+    "Start Date": "2026-01-13",
+    "End Date": "2026-03-03",
+    "Exceptions": "N/A",
+    "SessionDates": "2026-01-13,2026-01-20,2026-01-27,2026-02-03,2026-02-10,2026-02-17,2026-02-24,2026-03-03",
+    "LocationName": "Elgin West CC",
+    "LocationLink": "https://maps.app.goo.gl/spQs5gPGjjaTjTZh7",
+    "RegisterLink": "https://anc.ca.apm.activecommunities.com/richmondhill/activity/search/detail/130649?onlineSiteId=0&from_original_cui=true",
+    "URL": "https://elevationathletics.ca/richmond-hill/",
+    "pageIdentifyer": "richmond-hill",
+    "Category": "TS",
+    "sport": "bask",
+    "fee_url": null,
+    "updated_price": null,
+    "fee_index": null,
+    "City": "Richmond Hill",
+    "Province": "ON",
+    "DL": "Jimmy",
+    "Coaches": "?",
+    "taxes": null,
+    "age": null
+  },
+  {
+    "Title": "Richmond Hill - Jr Basketball (8 - 10)",
+    "TotalPrice": 136,
+    "Prorate": false,
+    "StaticPriceText": "136",
+    "Day": "Wednesdays",
+    "Time": "6:00 - 7:00 PM",
+    "Start Date": "2026-01-14",
+    "End Date": "2026-03-04",
+    "Exceptions": "N/A",
+    "SessionDates": "2026-01-14,2026-01-21,2026-01-28,2026-02-04,2026-02-11,2026-02-18,2026-02-25,2026-03-04",
+    "LocationName": "Elgin West CC",
+    "LocationLink": "https://maps.app.goo.gl/spQs5gPGjjaTjTZh7",
+    "RegisterLink": "https://anc.ca.apm.activecommunities.com/richmondhill/activity/search/detail/130650?onlineSiteId=0&from_original_cui=true",
+    "URL": "https://elevationathletics.ca/richmond-hill/",
+    "pageIdentifyer": "richmond-hill",
+    "Category": "TS",
+    "sport": "bask",
+    "fee_url": null,
+    "updated_price": null,
+    "fee_index": null,
+    "City": "Richmond Hill",
+    "Province": "ON",
+    "DL": "Jimmy",
+    "Coaches": "?",
+    "taxes": null,
+    "age": null
+  },
+  {
+    "Title": "Richmond Hill - Jr Basketball (8 - 10)",
+    "TotalPrice": 136,
+    "Prorate": false,
+    "StaticPriceText": "136",
+    "Day": "Wednesdays",
+    "Time": "6:30 - 7:30 PM",
+    "Start Date": "2026-01-14",
+    "End Date": "2026-03-04",
+    "Exceptions": "N/A",
+    "SessionDates": "2026-01-14,2026-01-21,2026-01-28,2026-02-04,2026-02-11,2026-02-18,2026-02-25,2026-03-04",
+    "LocationName": "Rouge Woods CC",
+    "LocationLink": "https://maps.app.goo.gl/6MRow7venbgiv6pAA",
+    "RegisterLink": "https://anc.ca.apm.activecommunities.com/richmondhill/activity/search/detail/134299?onlineSiteId=0&from_original_cui=true",
+    "URL": "https://elevationathletics.ca/richmond-hill/",
+    "pageIdentifyer": "richmond-hill",
+    "Category": "TS",
+    "sport": "bask",
+    "fee_url": null,
+    "updated_price": null,
+    "fee_index": null,
+    "City": "Richmond Hill",
+    "Province": "ON",
+    "DL": "Jimmy",
+    "Coaches": "?",
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (8 - 10) Mini",
@@ -6639,7 +6716,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (8 - 10) Mini",
@@ -6666,7 +6744,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (Girls)",
@@ -6693,7 +6772,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (Girls)",
@@ -6720,7 +6800,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (Girls) Mini",
@@ -6747,7 +6828,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Richmond Hill - LEVEL 2: Experienced Beginners Pickleball League",
@@ -6774,7 +6856,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "Connor",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Richmond Hill - LEVEL 2: Experienced Beginners Pickleball League",
@@ -6801,7 +6884,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Severn - LEVEL 1: Beginners Pickleball League",
@@ -6828,7 +6912,8 @@
     "Province": "ON",
     "DL": "Sheila",
     "Coaches": "Dominique",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Severn - LEVEL 3: Intermediate Pickleball League",
@@ -6855,34 +6940,8 @@
     "Province": "ON",
     "DL": "Sheila",
     "Coaches": "Dominique",
-    "taxes": null
-  },
-  {
-    "Title": "South Bruce - LEVEL 1: Beginners Pickleball League",
-    "TotalPrice": "105.04",
-    "Prorate": true,
-    "StaticPriceText": null,
-    "Day": "Wednesdays",
-    "Time": "6:00 - 8:00 PM",
-    "Start Date": "2026-01-07",
-    "End Date": "2026-02-25",
-    "Exceptions": "N/A",
-    "SessionDates": "2026-01-07,2026-01-14,2026-01-21,2026-01-28,2026-02-04,2026-02-11,2026-02-18,2026-02-25",
-    "LocationName": "Hepworth Central PS",
-    "LocationLink": "https://maps.app.goo.gl/Rkv4VachuaUnwTT19",
-    "RegisterLink": "https://registration.teamsnap.com/form/44596",
-    "URL": "https://eapickleball.com/south-bruce/",
-    "pageIdentifyer": "south-bruce",
-    "Category": "EA",
-    "sport": "pb",
-    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/44596/6",
-    "updated_price": "118.70",
-    "fee_index": 0,
-    "City": "South Bruce",
-    "Province": "ON",
-    "DL": "Karan",
-    "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "South River - LEVEL 1: Beginners Pickleball League",
@@ -6909,7 +6968,8 @@
     "Province": "ON",
     "DL": "Sheila",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Squamish - LEVEL 1:  Beginners Pickleball League",
@@ -6936,7 +6996,8 @@
     "Province": "BC",
     "DL": "Sunny + Jarred",
     "Coaches": "Gini",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Squamish - LEVEL 1: Beginners Pickleball League",
@@ -6963,7 +7024,8 @@
     "Province": "BC",
     "DL": "Sunny + Jarred",
     "Coaches": "Gunveet",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "St. Catharines - LEVEL 1: Beginners Pickleball League",
@@ -6972,10 +7034,10 @@
     "StaticPriceText": null,
     "Day": "Mondays",
     "Time": "6:00 - 8:00 PM",
-    "Start Date": "2026-01-05",
-    "End Date": "2026-03-02",
-    "Exceptions": "2026-02-16",
-    "SessionDates": "2026-01-05,2026-01-12,2026-01-19,2026-01-26,2026-02-02,2026-02-09,2026-02-23,2026-03-02",
+    "Start Date": "2026-01-19",
+    "End Date": "2026-03-23",
+    "Exceptions": "2/16/2026,3/16/2026",
+    "SessionDates": "2026-01-19,2026-01-26,2026-02-02,2026-02-09,2026-02-23,2026-03-02,2026-03-09,2026-03-23",
     "LocationName": "Westdale PS",
     "LocationLink": "https://maps.app.goo.gl/Lch1bgtW5RwJk6Xq6",
     "RegisterLink": "https://registration.teamsnap.com/form/44589",
@@ -6990,7 +7052,8 @@
     "Province": "ON",
     "DL": "Karan",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Stayner - LEVEL 2: Advanced Beginners Pickleball League",
@@ -7017,7 +7080,8 @@
     "Province": "ON",
     "DL": "Sheila",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Stirling - LEVEL 1: Beginners Pickleball League",
@@ -7026,10 +7090,10 @@
     "StaticPriceText": null,
     "Day": "Wednesdays",
     "Time": "8:00 - 10:00 PM",
-    "Start Date": "2026-01-07",
-    "End Date": "2026-02-25",
-    "Exceptions": "N/A",
-    "SessionDates": "2026-01-07,2026-01-14,2026-01-21,2026-01-28,2026-02-04,2026-02-11,2026-02-18,2026-02-25",
+    "Start Date": "2026-02-04",
+    "End Date": "2026-04-01",
+    "Exceptions": "2026-03-18",
+    "SessionDates": "2026-02-04,2026-02-11,2026-02-18,2026-02-25,2026-03-04,2026-03-11,2026-03-25,2026-04-01",
     "LocationName": "Stirling PS",
     "LocationLink": "https://maps.app.goo.gl/55kSCnY916Wm5PUr6",
     "RegisterLink": "https://registration.teamsnap.com/form/45546",
@@ -7044,7 +7108,8 @@
     "Province": "ON",
     "DL": "Karan",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Stoney Creek  - LEVEL 2: Experienced Beginners Pickleball League",
@@ -7071,7 +7136,8 @@
     "Province": "ON",
     "DL": "Karan",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Stoney Creek - LEVEL 1: Beginners Pickleball League",
@@ -7080,10 +7146,10 @@
     "StaticPriceText": null,
     "Day": "Fridays",
     "Time": "6:00 - 8:00 PM",
-    "Start Date": "2026-01-09",
-    "End Date": "2026-03-13",
-    "Exceptions": "1/23/2026,3/6/2026",
-    "SessionDates": "2026-01-09,2026-01-16,2026-01-30,2026-02-06,2026-02-13,2026-02-20,2026-02-27,2026-03-13",
+    "Start Date": "2026-02-06",
+    "End Date": "2026-04-17",
+    "Exceptions": "3/6/2026,3/20/2026",
+    "SessionDates": "2026-02-06,2026-02-13,2026-02-20,2026-02-27,2026-03-13,2026-03-27,2026-04-03,2026-04-10,2026-04-17",
     "LocationName": "Eastdale",
     "LocationLink": "https://maps.app.goo.gl/eAqXxBdqbTXQJCg58",
     "RegisterLink": "https://registration.teamsnap.com/form/45619",
@@ -7098,7 +7164,8 @@
     "Province": "ON",
     "DL": "Karan",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Stouffville - LEVEL 2: Experienced Beginners Pickleball League",
@@ -7125,7 +7192,8 @@
     "Province": "ON",
     "DL": "Rob Miller",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Sudbury - LEVEL 1: Beginners Pickleball League",
@@ -7152,7 +7220,8 @@
     "Province": "ON",
     "DL": "Sheila",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Sudbury - LEVEL 2: Experienced Beginners Pickleball League",
@@ -7179,7 +7248,8 @@
     "Province": "ON",
     "DL": "Sheila",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Surrey - LEVEL 1: Beginners Pickleball League",
@@ -7206,7 +7276,8 @@
     "Province": "BC",
     "DL": "Sunny + Jarred",
     "Coaches": "Rajbir",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Surrey - LEVEL 1: Beginners Pickleball League",
@@ -7233,7 +7304,8 @@
     "Province": "BC",
     "DL": "Sunny + Jarred",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Sutton - LEVEL 2: Experienced Beginners Pickleball League",
@@ -7260,7 +7332,8 @@
     "Province": "ON",
     "DL": "Adele",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Terrace - Beginners/Intermediate Pickleball League",
@@ -7287,34 +7360,8 @@
     "Province": "BC",
     "DL": "Sunny + Jarred",
     "Coaches": "Jugal + Nicole",
-    "taxes": null
-  },
-  {
-    "Title": "Terrace - LEVEL 1: Beginners Pickleball League",
-    "TotalPrice": 118.33,
-    "Prorate": true,
-    "StaticPriceText": null,
-    "Day": "Tuesdays",
-    "Time": "6:00 - 8:00 PM",
-    "Start Date": "2025-12-02",
-    "End Date": "2026-02-10",
-    "Exceptions": "12/16/2025,12/23/2025,12/30/2025",
-    "SessionDates": "2025-12-02,2025-12-09,2026-01-06,2026-01-13,2026-01-20,2026-01-27,2026-02-03,2026-02-10",
-    "LocationName": "Ecole Mountainview",
-    "LocationLink": "https://maps.app.goo.gl/v8a99o4GxYeN913r8",
-    "RegisterLink": "https://registration.teamsnap.com/form/42074",
-    "URL": "https://bc.eapickleball.com/terrace/",
-    "pageIdentifyer": "terrace",
-    "Category": "EA",
-    "sport": "pb",
-    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/42074/6",
-    "updated_price": "93.18",
-    "fee_index": 0,
-    "City": "Terrace",
-    "Province": "BC",
-    "DL": "Sunny + Jarred",
-    "Coaches": "Jugal + Nicole",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Terrace - LEVEL 1: Beginners Pickleball League",
@@ -7341,7 +7388,36 @@
     "Province": "BC",
     "DL": "Sunny + Jarred",
     "Coaches": "Jugal + Nicole",
-    "taxes": null
+    "taxes": null,
+    "age": null
+  },
+  {
+    "Title": "Terrace - LEVEL 1: Beginners Pickleball League",
+    "TotalPrice": 118.33,
+    "Prorate": true,
+    "StaticPriceText": null,
+    "Day": "Tuesdays",
+    "Time": "6:00 - 8:00 PM",
+    "Start Date": "2025-12-02",
+    "End Date": "2026-02-10",
+    "Exceptions": "12/16/2025,12/23/2025,12/30/2025",
+    "SessionDates": "2025-12-02,2025-12-09,2026-01-06,2026-01-13,2026-01-20,2026-01-27,2026-02-03,2026-02-10",
+    "LocationName": "Ecole Mountainview",
+    "LocationLink": "https://maps.app.goo.gl/v8a99o4GxYeN913r8",
+    "RegisterLink": "https://registration.teamsnap.com/form/42074",
+    "URL": "https://bc.eapickleball.com/terrace/",
+    "pageIdentifyer": "terrace",
+    "Category": "EA",
+    "sport": "pb",
+    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/42074/6",
+    "updated_price": "93.18",
+    "fee_index": 0,
+    "City": "Terrace",
+    "Province": "BC",
+    "DL": "Sunny + Jarred",
+    "Coaches": "Jugal + Nicole",
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Tiny Township - Jr Basketball (11 - 13 yrs)",
@@ -7368,7 +7444,8 @@
     "Province": "ON",
     "DL": "Sheila",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Tiny Township - Jr Basketball (5 - 7 yrs)",
@@ -7395,7 +7472,8 @@
     "Province": "ON",
     "DL": "Sheila",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Tiny Township - Jr Basketball (8 - 10 yrs)",
@@ -7422,7 +7500,8 @@
     "Province": "ON",
     "DL": "Sheila",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Trenton - LEVEL 1: Beginners Pickleball League",
@@ -7431,10 +7510,10 @@
     "StaticPriceText": null,
     "Day": "Tuesdays",
     "Time": "6:00 - 8:00 PM",
-    "Start Date": "2026-01-06",
-    "End Date": "2026-02-24",
-    "Exceptions": "N/A",
-    "SessionDates": "2026-01-06,2026-01-13,2026-01-20,2026-01-27,2026-02-03,2026-02-10,2026-02-17,2026-02-24",
+    "Start Date": "2026-02-03",
+    "End Date": "2026-03-31",
+    "Exceptions": "2026-03-17",
+    "SessionDates": "2026-02-03,2026-02-10,2026-02-17,2026-02-24,2026-03-03,2026-03-10,2026-03-24,2026-03-31",
     "LocationName": "Trenton High School",
     "LocationLink": "https://maps.app.goo.gl/4DeLWgzZ6cPSMs7a6",
     "RegisterLink": "https://registration.teamsnap.com/form/45544",
@@ -7449,7 +7528,8 @@
     "Province": "ON",
     "DL": "Karan",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Truro - LEVEL 1: Beginners Pickleball League",
@@ -7476,7 +7556,8 @@
     "Province": "NS",
     "DL": "Dylan",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Uxbridge - LEVEL 3: Intermediate Pickleball (Round Robin Format)",
@@ -7503,7 +7584,8 @@
     "Province": "ON",
     "DL": "Rob",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Uxbridge - LEVEL 3: Intermediate Pickleball (Round Robin Format)",
@@ -7530,7 +7612,8 @@
     "Province": "ON",
     "DL": "Rob",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Uxbridge - LEVEL 3: Intermediate Pickleball League",
@@ -7557,7 +7640,8 @@
     "Province": "ON",
     "DL": "Rob",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Vaughan - Pickleball Clinic Intro: LEVEL 1",
@@ -7584,7 +7668,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "Jimmy + Sandy?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Vaughan - Pickleball Clinic Intro: LEVEL 1",
@@ -7611,7 +7696,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "Jimmy + Sandy?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Vaughan - Pickleball Clinic: LEVEL 2",
@@ -7638,7 +7724,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "Jimmy + Sandy?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Vaughan - Pickleball Clinic: LEVEL 2",
@@ -7665,7 +7752,8 @@
     "Province": "ON",
     "DL": "Jimmy",
     "Coaches": "Jimmy + Sandy?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Vernon - LEVEL 1: Beginners Pickleball League",
@@ -7692,34 +7780,8 @@
     "Province": "BC",
     "DL": "Sunny + Jarred",
     "Coaches": "Blake",
-    "taxes": null
-  },
-  {
-    "Title": "Vernon - LEVEL 1: Beginners Pickleball League",
-    "TotalPrice": 125.54,
-    "Prorate": true,
-    "StaticPriceText": null,
-    "Day": "Thursdays",
-    "Time": "6:00 - 8:00 PM",
-    "Start Date": "2025-11-27",
-    "End Date": "2026-02-12",
-    "Exceptions": "12/11/2025,12/18/2025,12/25/2025,1/1/2026",
-    "SessionDates": "2025-11-27,2025-12-04,2026-01-08,2026-01-15,2026-01-22,2026-01-29,2026-02-05,2026-02-12",
-    "LocationName": "Alexis Park Elementary School",
-    "LocationLink": "https://maps.app.goo.gl/M3qXmjCcc5Zvgp2z5",
-    "RegisterLink": "https://registration.teamsnap.com/form/42890",
-    "URL": "https://bc.eapickleball.com/vernon/",
-    "pageIdentifyer": "vernon",
-    "Category": "EA",
-    "sport": "pb",
-    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/42890/6",
-    "updated_price": "98.86",
-    "fee_index": 0,
-    "City": "Vernon",
-    "Province": "BC",
-    "DL": "Sunny + Jarred",
-    "Coaches": "Blake",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Vernon - LEVEL 1: Beginners Pickleball League",
@@ -7746,7 +7808,36 @@
     "Province": "BC",
     "DL": "Sunny + Jarred",
     "Coaches": "Blake",
-    "taxes": null
+    "taxes": null,
+    "age": null
+  },
+  {
+    "Title": "Vernon - LEVEL 1: Beginners Pickleball League",
+    "TotalPrice": 125.54,
+    "Prorate": true,
+    "StaticPriceText": null,
+    "Day": "Thursdays",
+    "Time": "6:00 - 8:00 PM",
+    "Start Date": "2025-11-27",
+    "End Date": "2026-02-12",
+    "Exceptions": "12/11/2025,12/18/2025,12/25/2025,1/1/2026",
+    "SessionDates": "2025-11-27,2025-12-04,2026-01-08,2026-01-15,2026-01-22,2026-01-29,2026-02-05,2026-02-12",
+    "LocationName": "Alexis Park Elementary School",
+    "LocationLink": "https://maps.app.goo.gl/M3qXmjCcc5Zvgp2z5",
+    "RegisterLink": "https://registration.teamsnap.com/form/42890",
+    "URL": "https://bc.eapickleball.com/vernon/",
+    "pageIdentifyer": "vernon",
+    "Category": "EA",
+    "sport": "pb",
+    "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/42890/6",
+    "updated_price": "98.86",
+    "fee_index": 0,
+    "City": "Vernon",
+    "Province": "BC",
+    "DL": "Sunny + Jarred",
+    "Coaches": "Blake",
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Victoria - Learn to Play Pickleball",
@@ -7773,7 +7864,8 @@
     "Province": "BC",
     "DL": "Sunny + Jarred",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Victoria - LEVEL 1 + 2: Beginners/Intermediate Hybrid Pickleball League",
@@ -7800,7 +7892,8 @@
     "Province": "BC",
     "DL": "Sunny + Jarred",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Victoria - LEVEL 1: Beginners Pickleball League",
@@ -7827,7 +7920,8 @@
     "Province": "BC",
     "DL": "Sunny + Jarred",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Wasaga Beach - LEVEL 1: Beginners Pickleball League",
@@ -7854,7 +7948,8 @@
     "Province": "ON",
     "DL": "Sheila",
     "Coaches": "Rob H.",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Wasaga Beach - LEVEL 2: Experienced Beginners Pickleball League",
@@ -7881,7 +7976,8 @@
     "Province": "ON",
     "DL": "Sheila",
     "Coaches": "Rob H.",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Waterloo - LEVEL 1: Beginners Pickleball League",
@@ -7908,7 +8004,8 @@
     "Province": "ON",
     "DL": "Sadie",
     "Coaches": "Mark W.",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "West Grey - LEVEL 1: Beginners Pickleball League",
@@ -7917,10 +8014,10 @@
     "StaticPriceText": null,
     "Day": "Wednesdays",
     "Time": "6:00 - 8:00 PM",
-    "Start Date": "2026-01-07",
-    "End Date": "2026-02-25",
-    "Exceptions": "N/A",
-    "SessionDates": "2026-01-07,2026-01-14,2026-01-21,2026-01-28,2026-02-04,2026-02-11,2026-02-18,2026-02-25",
+    "Start Date": "2026-02-04",
+    "End Date": "2026-04-01",
+    "Exceptions": "2026-03-18",
+    "SessionDates": "2026-02-04,2026-02-11,2026-02-18,2026-02-25,2026-03-04,2026-03-11,2026-03-25,2026-04-01",
     "LocationName": "Normanby Community School",
     "LocationLink": "https://maps.app.goo.gl/hbYU65r2u2zDoSDZ7",
     "RegisterLink": "https://registration.teamsnap.com/form/45630",
@@ -7935,7 +8032,8 @@
     "Province": "ON",
     "DL": "Karan",
     "Coaches": "Need to hire",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "West Northfield - Parent + Youth Pickleball (12 - 18 yrs)",
@@ -7962,7 +8060,8 @@
     "Province": "NS",
     "DL": "Dylan",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "West Northfield - Parent + Youth Pickleball (9 - 12 yrs)",
@@ -7989,7 +8088,8 @@
     "Province": "NS",
     "DL": "Dylan",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   },
   {
     "Title": "Windsor, NS - LEVEL 1: Beginners Pickleball League",
@@ -8016,6 +8116,7 @@
     "Province": "NS",
     "DL": "Dylan",
     "Coaches": "?",
-    "taxes": null
+    "taxes": null,
+    "age": null
   }
 ]
