@@ -36,16 +36,16 @@
     "Active": 7
   },
   {
+    "City": "Keswick",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/keswick-pickleball/",
+    "Active": 7
+  },
+  {
     "City": "Oro-Medonte",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/oro-pickleball/",
     "Active": 6
-  },
-  {
-    "City": "Keswick",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/keswick-pickleball/",
-    "Active": 5
   },
   {
     "City": "East Gwillimbury",
@@ -366,12 +366,6 @@
     "Active": 1
   },
   {
-    "City": "Powassan",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/powassan/",
-    "Active": 1
-  },
-  {
     "City": "Kincardine",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/kincardine-pickleball/",
@@ -454,6 +448,12 @@
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/kamloops/",
     "Active": 1
+  },
+  {
+    "City": "Powassan",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/powassan/",
+    "Active": 0
   },
   {
     "City": "Cobourg",
