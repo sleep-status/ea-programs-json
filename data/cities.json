@@ -12,16 +12,16 @@
     "Active": 14
   },
   {
-    "City": "Lanark County",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/lanark-county/",
-    "Active": 8
-  },
-  {
     "City": "Caledon",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/caledon-pickleball-league/",
     "Active": 8
+  },
+  {
+    "City": "Lanark County",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/lanark-county/",
+    "Active": 7
   },
   {
     "City": "King City",
@@ -84,12 +84,6 @@
     "Active": 4
   },
   {
-    "City": "Perth",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/lanark-county/",
-    "Active": 4
-  },
-  {
     "City": "Almonte",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/lanark-county/",
@@ -100,6 +94,12 @@
     "Province": "ON",
     "PageURL": "https://eapickleball.com/whitby-pickleball/",
     "Active": 4
+  },
+  {
+    "City": "Perth",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/lanark-county/",
+    "Active": 3
   },
   {
     "City": "Victoria",
@@ -255,7 +255,7 @@
     "City": "Sudbury",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/sudbury/",
-    "Active": 2
+    "Active": 1
   },
   {
     "City": "Chilliwack",
@@ -345,12 +345,6 @@
     "City": "Halifax",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/halifax/",
-    "Active": 1
-  },
-  {
-    "City": "New Waterford",
-    "Province": "NS",
-    "PageURL": "https://eapickleball.com/new-waterford/",
     "Active": 1
   },
   {
@@ -447,7 +441,13 @@
     "City": "Kamloops",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/kamloops/",
-    "Active": 1
+    "Active": 3
+  },
+  {
+    "City": "New Waterford",
+    "Province": "NS",
+    "PageURL": "https://eapickleball.com/new-waterford/",
+    "Active": 0
   },
   {
     "City": "Powassan",
