@@ -305,7 +305,7 @@
     "DL": "?",
     "Coaches": "?",
     "taxes": null,
-    "age": null
+    "age": 1
   },
   {
     "Title": "Aurora - Advanced Badminton Lessons (Mar - Apr)",
@@ -333,7 +333,7 @@
     "DL": "?",
     "Coaches": "?",
     "taxes": null,
-    "age": null
+    "age": 1
   },
   {
     "Title": "Aurora - Advanced Badminton Lessons (May - Jun)",
@@ -361,7 +361,7 @@
     "DL": "?",
     "Coaches": "?",
     "taxes": null,
-    "age": null
+    "age": 1
   },
   {
     "Title": "Aurora - Beginner/Intermediate Badminton Lessons (Jan - Feb)",
@@ -389,7 +389,7 @@
     "DL": "?",
     "Coaches": "?",
     "taxes": null,
-    "age": null
+    "age": 0
   },
   {
     "Title": "Aurora - Beginner/Intermediate Badminton Lessons (Mar - Apr)",
@@ -417,7 +417,7 @@
     "DL": "?",
     "Coaches": "?",
     "taxes": null,
-    "age": null
+    "age": 0
   },
   {
     "Title": "Aurora - Beginner/Intermediate Badminton Lessons (May - Jun)",
@@ -445,7 +445,7 @@
     "DL": "?",
     "Coaches": "?",
     "taxes": null,
-    "age": null
+    "age": 0
   },
   {
     "Title": "Aurora - Beginners Pickleball League",
@@ -3665,7 +3665,7 @@
     "DL": "?",
     "Coaches": "?",
     "taxes": null,
-    "age": null
+    "age": 3
   },
   {
     "Title": "Newmarket - Advanced Badminton League (Sept - Jan)",
@@ -3693,7 +3693,7 @@
     "DL": "?",
     "Coaches": "?",
     "taxes": null,
-    "age": null
+    "age": 3
   },
   {
     "Title": "Newmarket - Beginner/Intermediate Badminton League (Feb - Jun)",
@@ -3721,7 +3721,7 @@
     "DL": "?",
     "Coaches": "?",
     "taxes": null,
-    "age": null
+    "age": 2
   },
   {
     "Title": "Newmarket - Beginner/Intermediate Badminton League (Sept - Jan)",
@@ -3749,7 +3749,7 @@
     "DL": "?",
     "Coaches": "?",
     "taxes": null,
-    "age": null
+    "age": 2
   },
   {
     "Title": "Newmarket - Beginners Pickleball League (16+ yrs)",
