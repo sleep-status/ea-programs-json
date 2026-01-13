@@ -3,7 +3,7 @@
     "City": "Newmarket",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/newmarket-ea-pickleball/",
-    "Active": 20
+    "Active": 19
   },
   {
     "City": "Aurora",
@@ -174,6 +174,12 @@
     "Active": 3
   },
   {
+    "City": "Kamloops",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/kamloops/",
+    "Active": 3
+  },
+  {
     "City": "Courtice",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/courtice-pickleball/",
@@ -228,12 +234,6 @@
     "Active": 2
   },
   {
-    "City": "Belleville",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/belleville/",
-    "Active": 2
-  },
-  {
     "City": "Dundas",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/dundas/",
@@ -252,21 +252,9 @@
     "Active": 2
   },
   {
-    "City": "Sudbury",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/sudbury/",
-    "Active": 1
-  },
-  {
     "City": "Chilliwack",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/chilliwack/",
-    "Active": 2
-  },
-  {
-    "City": "Richmond Hill",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/richmond-hill-pickleball-league/",
     "Active": 2
   },
   {
@@ -294,6 +282,24 @@
     "Active": 2
   },
   {
+    "City": "Guelph",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/guelph-pickleball/",
+    "Active": 2
+  },
+  {
+    "City": "Belleville",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/belleville/",
+    "Active": 1
+  },
+  {
+    "City": "Richmond Hill",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/richmond-hill-pickleball-league/",
+    "Active": 1
+  },
+  {
     "City": "Windsor, NS",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/windsor-ns/",
@@ -303,12 +309,6 @@
     "City": "Truro",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/truro/",
-    "Active": 1
-  },
-  {
-    "City": "Guelph",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/guelph-pickleball/",
     "Active": 1
   },
   {
@@ -333,18 +333,6 @@
     "City": "Port Colborne",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/port-colborne-pickleball/",
-    "Active": 1
-  },
-  {
-    "City": "Kitimat",
-    "Province": "BC",
-    "PageURL": "https://bc.eapickleball.com/kitimat/",
-    "Active": 1
-  },
-  {
-    "City": "Halifax",
-    "Province": "NS",
-    "PageURL": "https://eapickleball.com/halifax/",
     "Active": 1
   },
   {
@@ -414,12 +402,6 @@
     "Active": 1
   },
   {
-    "City": "Waterloo",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/waterloo-pickleball/",
-    "Active": 1
-  },
-  {
     "City": "West Grey",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/west-grey/",
@@ -438,10 +420,34 @@
     "Active": 1
   },
   {
-    "City": "Kamloops",
+    "City": "Peterborough",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/peterborough-pickleball/",
+    "Active": 1
+  },
+  {
+    "City": "Sudbury",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/sudbury/",
+    "Active": 0
+  },
+  {
+    "City": "Kitimat",
     "Province": "BC",
-    "PageURL": "https://bc.eapickleball.com/kamloops/",
-    "Active": 3
+    "PageURL": "https://bc.eapickleball.com/kitimat/",
+    "Active": 0
+  },
+  {
+    "City": "Halifax",
+    "Province": "NS",
+    "PageURL": "https://eapickleball.com/halifax/",
+    "Active": 0
+  },
+  {
+    "City": "Waterloo",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/waterloo-pickleball/",
+    "Active": 0
   },
   {
     "City": "New Waterford",
@@ -1077,12 +1083,6 @@
     "City": "Parry Sound",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/parry-sound/",
-    "Active": 0
-  },
-  {
-    "City": "Peterborough",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/peterborough-pickleball/",
     "Active": 0
   },
   {
