@@ -3,7 +3,7 @@
     "City": "Newmarket",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/newmarket-ea-pickleball/",
-    "Active": 19
+    "Active": 17
   },
   {
     "City": "Aurora",
@@ -39,6 +39,12 @@
     "City": "Oro-Medonte",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/oro-pickleball/",
+    "Active": 6
+  },
+  {
+    "City": "North Vancouver",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/north-vancouver/",
     "Active": 6
   },
   {
@@ -93,6 +99,12 @@
     "City": "Whitby",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/whitby-pickleball/",
+    "Active": 4
+  },
+  {
+    "City": "Nanaimo",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/nanaimo/",
     "Active": 4
   },
   {
@@ -159,12 +171,6 @@
     "City": "Newcastle",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/newcastle-pickleball/",
-    "Active": 3
-  },
-  {
-    "City": "North Vancouver",
-    "Province": "BC",
-    "PageURL": "https://bc.eapickleball.com/north-vancouver/",
     "Active": 3
   },
   {
@@ -261,12 +267,6 @@
     "City": "Milton",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/milton/",
-    "Active": 2
-  },
-  {
-    "City": "Nanaimo",
-    "Province": "BC",
-    "PageURL": "https://bc.eapickleball.com/nanaimo/",
     "Active": 2
   },
   {
