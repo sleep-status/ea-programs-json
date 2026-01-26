@@ -9,7 +9,7 @@
     "City": "Aurora",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/aurora/",
-    "Active": 15
+    "Active": 14
   },
   {
     "City": "Lanark County",
@@ -27,6 +27,12 @@
     "City": "Ottawa",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/ottawa-pickleball/",
+    "Active": 9
+  },
+  {
+    "City": "Brampton",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/brampton-pickleball/",
     "Active": 9
   },
   {
@@ -48,21 +54,9 @@
     "Active": 7
   },
   {
-    "City": "Oro-Medonte",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/oro-pickleball/",
-    "Active": 6
-  },
-  {
     "City": "North Vancouver",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/north-vancouver/",
-    "Active": 6
-  },
-  {
-    "City": "Terrace",
-    "Province": "BC",
-    "PageURL": "https://bc.eapickleball.com/terrace/",
     "Active": 6
   },
   {
@@ -72,9 +66,9 @@
     "Active": 6
   },
   {
-    "City": "Cambridge",
+    "City": "Oro-Medonte",
     "Province": "ON",
-    "PageURL": "https://eapickleball.com/cambridgepickleball/",
+    "PageURL": "https://eapickleball.com/oro-pickleball/",
     "Active": 6
   },
   {
@@ -93,18 +87,12 @@
     "City": "East Gwillimbury",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/east-gwillimbury-ea-pickleball",
-    "Active": 5
+    "Active": 6
   },
   {
-    "City": "North York",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/north-york-pickleball/",
-    "Active": 5
-  },
-  {
-    "City": "Victoria",
+    "City": "Terrace",
     "Province": "BC",
-    "PageURL": "https://bc.eapickleball.com/victoria/",
+    "PageURL": "https://bc.eapickleball.com/terrace/",
     "Active": 5
   },
   {
@@ -114,9 +102,9 @@
     "Active": 5
   },
   {
-    "City": "Burlington",
+    "City": "North York",
     "Province": "ON",
-    "PageURL": "https://eapickleball.com/burlington/",
+    "PageURL": "https://eapickleball.com/north-york-pickleball/",
     "Active": 5
   },
   {
@@ -126,27 +114,15 @@
     "Active": 5
   },
   {
-    "City": "Vaughan",
+    "City": "Cambridge",
     "Province": "ON",
-    "PageURL": "http://eapickleball.com/vaughan/",
+    "PageURL": "https://eapickleball.com/cambridgepickleball/",
     "Active": 4
   },
   {
-    "City": "Brampton",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/brampton-pickleball/",
-    "Active": 4
-  },
-  {
-    "City": "Fairgrounds",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/fairgrounds/",
-    "Active": 4
-  },
-  {
-    "City": "Whitby",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/whitby-pickleball/",
+    "City": "Victoria",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/victoria/",
     "Active": 4
   },
   {
@@ -174,6 +150,24 @@
     "Active": 4
   },
   {
+    "City": "Vaughan",
+    "Province": "ON",
+    "PageURL": "http://eapickleball.com/vaughan/",
+    "Active": 4
+  },
+  {
+    "City": "Fairgrounds",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/fairgrounds/",
+    "Active": 4
+  },
+  {
+    "City": "Whitby",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/whitby-pickleball/",
+    "Active": 4
+  },
+  {
     "City": "Perth",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/lanark-county/",
@@ -198,6 +192,18 @@
     "Active": 4
   },
   {
+    "City": "Surrey",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/surrey/",
+    "Active": 3
+  },
+  {
+    "City": "Chilliwack",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/chilliwack/",
+    "Active": 3
+  },
+  {
     "City": "Bridgewater",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/bridgewater/",
@@ -213,24 +219,6 @@
     "City": "Bradford",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/bradford-pickleball-league/",
-    "Active": 3
-  },
-  {
-    "City": "Newcastle",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/newcastle-pickleball/",
-    "Active": 3
-  },
-  {
-    "City": "Surrey",
-    "Province": "BC",
-    "PageURL": "https://bc.eapickleball.com/surrey/",
-    "Active": 3
-  },
-  {
-    "City": "Chilliwack",
-    "Province": "BC",
-    "PageURL": "https://bc.eapickleball.com/chilliwack/",
     "Active": 3
   },
   {
@@ -252,6 +240,24 @@
     "Active": 3
   },
   {
+    "City": "Stoney Creek",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/stoney-creek/",
+    "Active": 3
+  },
+  {
+    "City": "Burlington",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/burlington/",
+    "Active": 2
+  },
+  {
+    "City": "Newcastle",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/newcastle-pickleball/",
+    "Active": 2
+  },
+  {
     "City": "Uxbridge",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/uxbridge-pickleball/",
@@ -261,12 +267,6 @@
     "City": "Dundas",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/dundas/",
-    "Active": 2
-  },
-  {
-    "City": "Stoney Creek",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/stoney-creek/",
     "Active": 2
   },
   {
@@ -324,12 +324,6 @@
     "Active": 2
   },
   {
-    "City": "Belleville",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/belleville/",
-    "Active": 1
-  },
-  {
     "City": "Windsor, NS",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/windsor-ns/",
@@ -345,6 +339,12 @@
     "City": "Chester",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/chester/",
+    "Active": 1
+  },
+  {
+    "City": "Belleville",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/belleville/",
     "Active": 1
   },
   {
@@ -402,99 +402,21 @@
     "Active": 1
   },
   {
-    "City": "Oakville",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/oakville",
-    "Active": 1
-  },
-  {
-    "City": "Campbellville",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/campbellville",
-    "Active": 1
-  },
-  {
     "City": "Lakefield",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/lakefield-pickleball/",
     "Active": 1
   },
   {
-    "City": "West Northfield",
-    "Province": "NS",
-    "PageURL": "https://eapickleball.com/west-northfield/",
-    "Active": 0
-  },
-  {
-    "City": "Owen Sound",
+    "City": "Oakville",
     "Province": "ON",
-    "PageURL": "https://eapickleball.com/owensound-pickleball/",
+    "PageURL": "https://eapickleball.com/oakville",
     "Active": 0
   },
   {
-    "City": "Sudbury",
+    "City": "Campbellville",
     "Province": "ON",
-    "PageURL": "https://eapickleball.com/sudbury/",
-    "Active": 0
-  },
-  {
-    "City": "Halifax",
-    "Province": "NS",
-    "PageURL": "https://eapickleball.com/halifax/",
-    "Active": 0
-  },
-  {
-    "City": "Waterloo",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/waterloo-pickleball/",
-    "Active": 0
-  },
-  {
-    "City": "New Waterford",
-    "Province": "NS",
-    "PageURL": "https://eapickleball.com/new-waterford/",
-    "Active": 0
-  },
-  {
-    "City": "Powassan",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/powassan/",
-    "Active": 0
-  },
-  {
-    "City": "Cobourg",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/cobourg/",
-    "Active": 0
-  },
-  {
-    "City": "Durham",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/durham-pickleball/",
-    "Active": 0
-  },
-  {
-    "City": "Picton",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/picton/",
-    "Active": 0
-  },
-  {
-    "City": "Bowmanville",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/bowmanville-pickleball/",
-    "Active": 0
-  },
-  {
-    "City": "Cornwall",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/cornwall/",
-    "Active": 0
-  },
-  {
-    "City": "Gravenhurst",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/gravenhurst/",
+    "PageURL": "https://eapickleball.com/campbellville",
     "Active": 0
   },
   {
@@ -684,96 +606,6 @@
     "Active": 0
   },
   {
-    "City": "Estevan",
-    "Province": "SK",
-    "PageURL": "https://eapickleball.com/sk-estevan",
-    "Active": 0
-  },
-  {
-    "City": "Humboldt",
-    "Province": "SK",
-    "PageURL": "https://eapickleball.com/sk-humboldt",
-    "Active": 0
-  },
-  {
-    "City": "La Ronge",
-    "Province": "SK",
-    "PageURL": "https://eapickleball.com/sk-la-ronge",
-    "Active": 0
-  },
-  {
-    "City": "Lloydminster",
-    "Province": "SK",
-    "PageURL": "https://eapickleball.com/sk-lloydminster",
-    "Active": 0
-  },
-  {
-    "City": "Medicine Hat",
-    "Province": "SK",
-    "PageURL": "https://eapickleball.com/sk-medicine-hat",
-    "Active": 0
-  },
-  {
-    "City": "Melford",
-    "Province": "SK",
-    "PageURL": "https://eapickleball.com/sk-melford",
-    "Active": 0
-  },
-  {
-    "City": "Moose Jaw",
-    "Province": "SK",
-    "PageURL": "https://eapickleball.com/sk-moose-jaw",
-    "Active": 0
-  },
-  {
-    "City": "North Battleford",
-    "Province": "SK",
-    "PageURL": "https://eapickleball.com/sk-north-battleford",
-    "Active": 0
-  },
-  {
-    "City": "Prince Albert",
-    "Province": "SK",
-    "PageURL": "https://eapickleball.com/sk-prince-albert",
-    "Active": 0
-  },
-  {
-    "City": "Regina",
-    "Province": "SK",
-    "PageURL": "https://eapickleball.com/sk-regina",
-    "Active": 0
-  },
-  {
-    "City": "Saskatoon",
-    "Province": "SK",
-    "PageURL": "https://eapickleball.com/sk-saskatoon",
-    "Active": 0
-  },
-  {
-    "City": "Swift Current",
-    "Province": "SK",
-    "PageURL": "https://eapickleball.com/sk-swift-current",
-    "Active": 0
-  },
-  {
-    "City": "Warman/Martensville",
-    "Province": "SK",
-    "PageURL": "https://eapickleball.com/sk-martensville-warman/",
-    "Active": 0
-  },
-  {
-    "City": "Weyburn",
-    "Province": "SK",
-    "PageURL": "https://eapickleball.com/sk-weyburn",
-    "Active": 0
-  },
-  {
-    "City": "Yorkton",
-    "Province": "SK",
-    "PageURL": "https://eapickleball.com/sk-yorkton",
-    "Active": 0
-  },
-  {
     "City": "Bathurst",
     "Province": "NB",
     "PageURL": "https://eapickleball.com/bathurst/",
@@ -894,6 +726,24 @@
     "Active": 0
   },
   {
+    "City": "West Northfield",
+    "Province": "NS",
+    "PageURL": "https://eapickleball.com/west-northfield/",
+    "Active": 0
+  },
+  {
+    "City": "Halifax",
+    "Province": "NS",
+    "PageURL": "https://eapickleball.com/halifax/",
+    "Active": 0
+  },
+  {
+    "City": "New Waterford",
+    "Province": "NS",
+    "PageURL": "https://eapickleball.com/new-waterford/",
+    "Active": 0
+  },
+  {
     "City": "Bedford",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/bedford/",
@@ -951,6 +801,66 @@
     "City": "Wolfville",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/wolfville/",
+    "Active": 0
+  },
+  {
+    "City": "Owen Sound",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/owensound-pickleball/",
+    "Active": 0
+  },
+  {
+    "City": "Sudbury",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/sudbury/",
+    "Active": 0
+  },
+  {
+    "City": "Waterloo",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/waterloo-pickleball/",
+    "Active": 0
+  },
+  {
+    "City": "Powassan",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/powassan/",
+    "Active": 0
+  },
+  {
+    "City": "Cobourg",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/cobourg/",
+    "Active": 0
+  },
+  {
+    "City": "Durham",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/durham-pickleball/",
+    "Active": 0
+  },
+  {
+    "City": "Picton",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/picton/",
+    "Active": 0
+  },
+  {
+    "City": "Bowmanville",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/bowmanville-pickleball/",
+    "Active": 0
+  },
+  {
+    "City": "Cornwall",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/cornwall/",
+    "Active": 0
+  },
+  {
+    "City": "Gravenhurst",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/gravenhurst/",
     "Active": 0
   },
   {
@@ -1323,6 +1233,96 @@
     "City": "Victoriaville",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/victoriaville",
+    "Active": 0
+  },
+  {
+    "City": "Estevan",
+    "Province": "SK",
+    "PageURL": "https://eapickleball.com/sk-estevan",
+    "Active": 0
+  },
+  {
+    "City": "Humboldt",
+    "Province": "SK",
+    "PageURL": "https://eapickleball.com/sk-humboldt",
+    "Active": 0
+  },
+  {
+    "City": "La Ronge",
+    "Province": "SK",
+    "PageURL": "https://eapickleball.com/sk-la-ronge",
+    "Active": 0
+  },
+  {
+    "City": "Lloydminster",
+    "Province": "SK",
+    "PageURL": "https://eapickleball.com/sk-lloydminster",
+    "Active": 0
+  },
+  {
+    "City": "Medicine Hat",
+    "Province": "SK",
+    "PageURL": "https://eapickleball.com/sk-medicine-hat",
+    "Active": 0
+  },
+  {
+    "City": "Melford",
+    "Province": "SK",
+    "PageURL": "https://eapickleball.com/sk-melford",
+    "Active": 0
+  },
+  {
+    "City": "Moose Jaw",
+    "Province": "SK",
+    "PageURL": "https://eapickleball.com/sk-moose-jaw",
+    "Active": 0
+  },
+  {
+    "City": "North Battleford",
+    "Province": "SK",
+    "PageURL": "https://eapickleball.com/sk-north-battleford",
+    "Active": 0
+  },
+  {
+    "City": "Prince Albert",
+    "Province": "SK",
+    "PageURL": "https://eapickleball.com/sk-prince-albert",
+    "Active": 0
+  },
+  {
+    "City": "Regina",
+    "Province": "SK",
+    "PageURL": "https://eapickleball.com/sk-regina",
+    "Active": 0
+  },
+  {
+    "City": "Saskatoon",
+    "Province": "SK",
+    "PageURL": "https://eapickleball.com/sk-saskatoon",
+    "Active": 0
+  },
+  {
+    "City": "Swift Current",
+    "Province": "SK",
+    "PageURL": "https://eapickleball.com/sk-swift-current",
+    "Active": 0
+  },
+  {
+    "City": "Warman/Martensville",
+    "Province": "SK",
+    "PageURL": "https://eapickleball.com/sk-martensville-warman/",
+    "Active": 0
+  },
+  {
+    "City": "Weyburn",
+    "Province": "SK",
+    "PageURL": "https://eapickleball.com/sk-weyburn",
+    "Active": 0
+  },
+  {
+    "City": "Yorkton",
+    "Province": "SK",
+    "PageURL": "https://eapickleball.com/sk-yorkton",
     "Active": 0
   }
 ]
