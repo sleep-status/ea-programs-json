@@ -4,1988 +4,1997 @@
     "Province": "ON",
     "PageURL": "https://eapickleball.com/newmarket-ea-pickleball/",
     "Active": 19,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"29262\"]",
+    "facebook_link": "https://www.facebook.com/groups/317253352671233",
+    "GPN": "https://www.globalpickleball.network/network/register/5041-elevation-athletics-york-region"
   },
   {
     "City": "Aurora",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/aurora/",
     "Active": 15,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"32811\"]",
+    "facebook_link": "https://www.facebook.com/groups/3971699213072295/",
+    "GPN": "N/A"
   },
   {
     "City": "Lanark County",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/lanark-county/",
     "Active": 12,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "N/A",
+    "facebook_link": "N/A",
+    "GPN": "N/A"
   },
   {
     "City": "Keswick",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/keswick-pickleball/",
     "Active": 9,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
-  },
-  {
-    "City": "Ottawa",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/ottawa-pickleball/",
-    "Active": 8,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
-  },
-  {
-    "City": "Brampton",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/brampton-pickleball/",
-    "Active": 7,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
-  },
-  {
-    "City": "Caledon",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/caledon-pickleball-league/",
-    "Active": 6,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
-  },
-  {
-    "City": "King City",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/king-city-pickleball/",
-    "Active": 7,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
-  },
-  {
-    "City": "Oshawa",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/oshawa-pickleball/",
-    "Active": 6,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
-  },
-  {
-    "City": "North Vancouver",
-    "Province": "BC",
-    "PageURL": "https://bc.eapickleball.com/north-vancouver/",
-    "Active": 5,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
-  },
-  {
-    "City": "Oro-Medonte",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/oro-pickleball/",
-    "Active": 6,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"29030\"]",
+    "facebook_link": "https://www.facebook.com/groups/842175170238132/permalink/1060538278401819/?mibextid=W9rl1R",
+    "GPN": "https://www.globalpickleball.network/network/register/5041-elevation-athletics-york-region"
   },
   {
     "City": "Almonte",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/lanark-county/",
     "Active": 8,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "N/A",
+    "facebook_link": "N/A",
+    "GPN": "N/A"
   },
   {
-    "City": "Wasaga Beach",
+    "City": "Ottawa",
     "Province": "ON",
-    "PageURL": "https://eapickleball.com/wasaga-beach/",
-    "Active": 6,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "PageURL": "https://eapickleball.com/ottawa-pickleball/",
+    "Active": 8,
+    "newsletter_shortcode": "[wpforms id=\"29289\"]",
+    "facebook_link": "https://www.facebook.com/groups/1617925192025202/permalink/1766751293809257/?mibextid=W9rl1R",
+    "GPN": "https://www.globalpickleball.network/network/register/5071-elevation-athletics-gta"
   },
   {
-    "City": "East Gwillimbury",
+    "City": "Brampton",
     "Province": "ON",
-    "PageURL": "https://eapickleball.com/east-gwillimbury-ea-pickleball",
-    "Active": 6,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "PageURL": "https://eapickleball.com/brampton-pickleball/",
+    "Active": 7,
+    "newsletter_shortcode": "[wpforms id=\"28990\"]",
+    "facebook_link": "https://www.facebook.com/groups/1617925192025202/permalink/1766751293809257/?mibextid=W9rl1R",
+    "GPN": "https://www.globalpickleball.network/network/register/5071-elevation-athletics-gta"
+  },
+  {
+    "City": "King City",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/king-city-pickleball/",
+    "Active": 7,
+    "newsletter_shortcode": "N/A",
+    "facebook_link": "https://www.facebook.com/groups/1682873145441067",
+    "GPN": "N/A"
   },
   {
     "City": "Coquitlam",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/coquitlam/",
     "Active": 6,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"26293\"]",
+    "facebook_link": "https://www.facebook.com/groups/1417514099256100/?ref=share&mibextid=NSMWBT",
+    "GPN": "N/A"
   },
   {
-    "City": "Vernon",
+    "City": "Caledon",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/caledon-pickleball-league/",
+    "Active": 6,
+    "newsletter_shortcode": "[wpforms id=\"28995\"]",
+    "facebook_link": "https://www.facebook.com/groups/714306107056225/permalink/855139856306182/?mibextid=W9rl1R",
+    "GPN": "https://www.globalpickleball.network/network/register/5041-elevation-athletics-york-region"
+  },
+  {
+    "City": "East Gwillimbury",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/east-gwillimbury-ea-pickleball",
+    "Active": 6,
+    "newsletter_shortcode": "[wpforms id=\"29015\"]",
+    "facebook_link": "https://www.facebook.com/groups/714569745927330/?ref=share",
+    "GPN": "https://www.globalpickleball.network/network/register/5041-elevation-athletics-york-region"
+  },
+  {
+    "City": "Oro-Medonte",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/oro-pickleball/",
+    "Active": 6,
+    "newsletter_shortcode": "[wpforms id=\"29277\"]",
+    "facebook_link": "https://www.facebook.com/groups/640399501577372/?ref=share&mibextid=wwXIfr&rdid=jiVoiO13glz1BCUE&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F1AHXtjcrj6%2F%3Fmibextid%3DwwXIfr",
+    "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region"
+  },
+  {
+    "City": "Oshawa",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/oshawa-pickleball/",
+    "Active": 6,
+    "newsletter_shortcode": "[wpforms id=\"29186\"]",
+    "facebook_link": "https://www.facebook.com/groups/1865183903999282/?ref=share&mibextid=K35XfP&rdid=TPV7MigOn3PQ4lRx&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2Fspu9Vp21iTD1ig7C%2F%3Fmibextid%3DK35XfP",
+    "GPN": "N/A"
+  },
+  {
+    "City": "Wasaga Beach",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/wasaga-beach/",
+    "Active": 6,
+    "newsletter_shortcode": "[wpforms id=\"29402\"]",
+    "facebook_link": "https://www.facebook.com/groups/1991301251271076/?ref=share&mibextid=NSMWBT",
+    "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region"
+  },
+  {
+    "City": "North Vancouver",
     "Province": "BC",
-    "PageURL": "https://bc.eapickleball.com/vernon/",
+    "PageURL": "https://bc.eapickleball.com/north-vancouver/",
     "Active": 5,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"26617\"]",
+    "facebook_link": "https://www.facebook.com/groups/2410835639307941/?rdid=oDtGo3Csdp9eYH4a&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2Fv3xXUfvd1pu94oN3%2F",
+    "GPN": "N/A"
   },
   {
     "City": "Terrace",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/terrace/",
     "Active": 5,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"26633\"]",
+    "facebook_link": "https://www.facebook.com/groups/1568496540765325/?rdid=bESghhy5W0sboYFz&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FYMeChMvnWvB39KG1%2F#",
+    "GPN": "N/A"
   },
   {
-    "City": "North York",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/north-york-pickleball/",
+    "City": "Vernon",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/vernon/",
     "Active": 5,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"26280\"]",
+    "facebook_link": "https://www.facebook.com/groups/5483566035287891/?ref=share&mibextid=wwXIfr&rdid=t6SaVoBlRyRsHPL2&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F19urhcLyxb%2F%3Fmibextid%3DwwXIfr",
+    "GPN": "N/A"
   },
   {
     "City": "Bolton",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/bolton-pickleball/",
     "Active": 5,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"28985\"]",
+    "facebook_link": "https://www.facebook.com/groups/714306107056225/permalink/855139856306182/?mibextid=W9rl1R",
+    "GPN": "https://www.globalpickleball.network/network/register/5041-elevation-athletics-york-region"
   },
   {
-    "City": "Cambridge",
+    "City": "North York",
     "Province": "ON",
-    "PageURL": "https://eapickleball.com/cambridgepickleball/",
-    "Active": 4,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
-  },
-  {
-    "City": "Victoria",
-    "Province": "BC",
-    "PageURL": "https://bc.eapickleball.com/victoria/",
-    "Active": 4,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "PageURL": "https://eapickleball.com/north-york-pickleball/",
+    "Active": 5,
+    "newsletter_shortcode": "[wpforms id=\"29267\"]",
+    "facebook_link": "https://www.facebook.com/groups/1009320611202813/?ref=share&mibextid=K35XfP&rdid=W90Olvvw7Z3MJanC&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FYAk1vVeqo3Sa4Pk8%2F%3Fmibextid%3DK35XfP#",
+    "GPN": "https://www.globalpickleball.network/network/register/5071-elevation-athletics-gta"
   },
   {
     "City": "Kamloops",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/kamloops/",
     "Active": 4,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"26309\"]",
+    "facebook_link": "https://www.facebook.com/groups/1820325298455996/?rdid=lBgosXX768WHiCsL&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2Fgtyxa57TdbLx49hJ%2F#",
+    "GPN": "N/A"
   },
   {
     "City": "Prince George",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/prince-george/",
     "Active": 4,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"26621\"]",
+    "facebook_link": "https://www.facebook.com/groups/8168389329914586/?rdid=5voQcMLGEdYRqRVS&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2Fxtw2VqMYKmW8yBAD%2F#",
+    "GPN": "N/A"
   },
   {
     "City": "Squamish",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/squamish/",
     "Active": 4,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"26629\"]",
+    "facebook_link": "https://www.facebook.com/groups/1007891270659527/?rdid=xoJYHuKYfkUIfyke&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FW4QFDtq3pog4wd4z%2F#",
+    "GPN": "N/A"
   },
   {
-    "City": "Vaughan",
-    "Province": "ON",
-    "PageURL": "http://eapickleball.com/vaughan/",
+    "City": "Victoria",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/victoria/",
     "Active": 4,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
-  },
-  {
-    "City": "Fairgrounds",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/fairgrounds/",
-    "Active": 3,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
-  },
-  {
-    "City": "Whitby",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/whitby-pickleball/",
-    "Active": 3,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"26288\"]",
+    "facebook_link": "N/A",
+    "GPN": "N/A"
   },
   {
     "City": "Alliston",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/alliston-pickleball/",
     "Active": 4,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"32083\"]",
+    "facebook_link": "https://www.facebook.com/groups/215077781695667/?ref=share",
+    "GPN": "N/A"
   },
   {
-    "City": "Peterborough",
+    "City": "Cambridge",
     "Province": "ON",
-    "PageURL": "https://eapickleball.com/peterborough-pickleball/",
+    "PageURL": "https://eapickleball.com/cambridgepickleball/",
     "Active": 4,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
-  },
-  {
-    "City": "Nanaimo",
-    "Province": "BC",
-    "PageURL": "https://bc.eapickleball.com/nanaimo/",
-    "Active": 3,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"29005\"]",
+    "facebook_link": "https://www.facebook.com/groups/1512570509232160/?ref=share&mibextid=K35XfP&rdid=5WXISxMm9OSTvQLu&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2FaEMXyxfXsnLDy72j%2F%3Fmibextid%3DK35XfP",
+    "GPN": "https://www.globalpickleball.network/network/register/5072-elevation-athletics-huron-region"
   },
   {
     "City": "Perth",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/lanark-county/",
     "Active": 4,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "N/A",
+    "facebook_link": "N/A",
+    "GPN": "N/A"
+  },
+  {
+    "City": "Peterborough",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/peterborough-pickleball/",
+    "Active": 4,
+    "newsletter_shortcode": "[wpforms id=\"29294\"]",
+    "facebook_link": "https://www.facebook.com/groups/564816432370631",
+    "GPN": "https://www.globalpickleball.network/network/register/5073-elevation-athletics-kawartha-region"
+  },
+  {
+    "City": "Vaughan",
+    "Province": "ON",
+    "PageURL": "http://eapickleball.com/vaughan/",
+    "Active": 4,
+    "newsletter_shortcode": "[wpforms id=\"28903\"]",
+    "facebook_link": "N/A",
+    "GPN": "N/A"
   },
   {
     "City": "Chilliwack",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/chilliwack/",
     "Active": 3,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"26600\"]",
+    "facebook_link": "https://www.facebook.com/profile.php?id=61563238815205&mibextid=qi2Omg&rdid=Z6UE124lon6d3Adt&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2FiavcBgWvWm7sQTpL%2F%3Fmibextid%3Dqi2Omg#",
+    "GPN": "N/A"
+  },
+  {
+    "City": "Nanaimo",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/nanaimo/",
+    "Active": 3,
+    "newsletter_shortcode": "[wpforms id=\"26612\"]",
+    "facebook_link": "https://www.facebook.com/groups/1654037585375792/?rdid=ejeESd2g9V4RAhRG&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FPn8mcFec6BUgyd1G%2F#",
+    "GPN": "N/A"
+  },
+  {
+    "City": "Surrey",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/surrey/",
+    "Active": 3,
+    "newsletter_shortcode": "[wpforms id=\"26301\"]",
+    "facebook_link": "https://www.facebook.com/profile.php?id=61563238815205&mibextid=qi2Omg&rdid=Z6UE124lon6d3Adt&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2FiavcBgWvWm7sQTpL%2F%3Fmibextid%3Dqi2Omg#",
+    "GPN": "N/A"
   },
   {
     "City": "Bridgewater",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/bridgewater/",
     "Active": 3,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"33319\" title=\"false\"]",
+    "facebook_link": "N/A",
+    "GPN": "N/A"
   },
   {
     "City": "Bracebridge",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/bracebridge-pickleball/",
     "Active": 3,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"29788\"]",
+    "facebook_link": "https://www.facebook.com/groups/383481764396439/?ref=share&mibextid=wwXIfr&rdid=rF8yrZ4fVvkI9For&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F1644eg5Lbz%2F%3Fmibextid%3DwwXIfr",
+    "GPN": "https://www.globalpickleball.network/network/register/5070-elevation-athletics-muskoka-region"
   },
   {
     "City": "Bradford",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/bradford-pickleball-league/",
     "Active": 3,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"28980\"]",
+    "facebook_link": "https://www.facebook.com/groups/5620896011352781",
+    "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region"
   },
   {
     "City": "Courtice",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/courtice-pickleball/",
     "Active": 3,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"29176\"]",
+    "facebook_link": "https://www.facebook.com/groups/1150648605625416",
+    "GPN": "N/A"
+  },
+  {
+    "City": "Fairgrounds",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/fairgrounds/",
+    "Active": 3,
+    "newsletter_shortcode": "N/A",
+    "facebook_link": "N/A",
+    "GPN": "N/A"
   },
   {
     "City": "Guelph",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/guelph-pickleball/",
     "Active": 3,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"29020\"]",
+    "facebook_link": "https://www.facebook.com/groups/999621204906672/",
+    "GPN": "https://www.globalpickleball.network/network/register/5072-elevation-athletics-huron-region"
+  },
+  {
+    "City": "Whitby",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/whitby-pickleball/",
+    "Active": 3,
+    "newsletter_shortcode": "[wpforms id=\"29050\"]",
+    "facebook_link": "https://www.facebook.com/groups/1865183903999282/?ref=share&mibextid=K35XfP&rdid=fBGxcnofLSiiBdMZ&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2Fspu9Vp21iTD1ig7C%2F%3Fmibextid%3DK35XfP#",
+    "GPN": "N/A"
   },
   {
     "City": "Hamilton",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/hamilton/",
     "Active": 2,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
-  },
-  {
-    "City": "Surrey",
-    "Province": "BC",
-    "PageURL": "https://bc.eapickleball.com/surrey/",
-    "Active": 2,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
-  },
-  {
-    "City": "Stoney Creek",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/stoney-creek/",
-    "Active": 2,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
-  },
-  {
-    "City": "Newcastle",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/newcastle-pickleball/",
-    "Active": 2,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
-  },
-  {
-    "City": "Uxbridge",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/uxbridge-pickleball/",
-    "Active": 2,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
-  },
-  {
-    "City": "Severn/Cumberland Beach",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/severn-pickleball/",
-    "Active": 2,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
-  },
-  {
-    "City": "Port Perry",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/port-perry-pickleball/",
-    "Active": 2,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
-  },
-  {
-    "City": "Richmond Hill",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/richmond-hill-pickleball-league/",
-    "Active": 2,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
-  },
-  {
-    "City": "Sutton",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/sutton-pickleball-2/",
-    "Active": 2,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
-  },
-  {
-    "City": "Port Colborne",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/port-colborne-pickleball/",
-    "Active": 2,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"28808\"]",
+    "facebook_link": "N/A",
+    "GPN": "https://www.globalpickleball.network/network/register/5059-elevation-athletics-halton-region"
   },
   {
     "City": "Kincardine",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/kincardine-pickleball/",
     "Active": 2,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"29035\"]",
+    "facebook_link": "https://www.facebook.com/groups/342167091929491/permalink/342167911929409/?mibextid=W9rl1R",
+    "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region"
   },
   {
     "City": "Kitchener",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/kitchener-pickleball/",
     "Active": 2,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
-  },
-  {
-    "City": "Stayner",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/stayner/",
-    "Active": 2,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"29040\"]",
+    "facebook_link": "https://www.facebook.com/groups/558392706627622/?ref=share&mibextid=K35XfP&rdid=yoceyAAlBDXlHmoD&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FG71rAHtzAtr5rSoc%2F%3Fmibextid%3DK35XfP#",
+    "GPN": "https://www.globalpickleball.network/network/register/5072-elevation-athletics-huron-region"
   },
   {
     "City": "Lakefield",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/lakefield-pickleball/",
     "Active": 2,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"29045\"]",
+    "facebook_link": "https://www.facebook.com/groups/564816432370631",
+    "GPN": "https://www.globalpickleball.network/network/register/5073-elevation-athletics-kawartha-region"
   },
   {
-    "City": "Milton",
+    "City": "Newcastle",
     "Province": "ON",
-    "PageURL": "https://eapickleball.com/milton/",
-    "Active": 1,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "PageURL": "https://eapickleball.com/newcastle-pickleball/",
+    "Active": 2,
+    "newsletter_shortcode": "[wpforms id=\"29181\"]",
+    "facebook_link": "https://www.facebook.com/groups/1679819529114744/permalink/1868773170219378/?mibextid=W9rl1R",
+    "GPN": "N/A"
   },
   {
-    "City": "Trenton",
+    "City": "Port Colborne",
     "Province": "ON",
-    "PageURL": "https://eapickleball.com/trenton/",
-    "Active": 1,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "PageURL": "https://eapickleball.com/port-colborne-pickleball/",
+    "Active": 2,
+    "newsletter_shortcode": "[wpforms id=\"29303\"]",
+    "facebook_link": "https://www.facebook.com/groups/439719328870765/?paipv=0&eav=AfY9UxF_9srE4SUwJ8striu13tMiNQ08EPCv8kI8GfU6jdRTfH2SUPhkyf80E0hVr8I&_rdr",
+    "GPN": "https://www.globalpickleball.network/network/register/5074-elevation-athletics-niagara-region"
   },
   {
-    "City": "Windsor, NS",
-    "Province": "NS",
-    "PageURL": "https://eapickleball.com/windsor-ns/",
-    "Active": 1,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "City": "Port Perry",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/port-perry-pickleball/",
+    "Active": 2,
+    "newsletter_shortcode": "[wpforms id=\"29313\"]",
+    "facebook_link": "https://www.facebook.com/groups/1209556549983698/?ref=share",
+    "GPN": "https://www.globalpickleball.network/network/register/5041-elevation-athletics-york-region"
   },
   {
-    "City": "Truro",
-    "Province": "NS",
-    "PageURL": "https://eapickleball.com/truro/",
-    "Active": 1,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "City": "Richmond Hill",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/richmond-hill-pickleball-league/",
+    "Active": 2,
+    "newsletter_shortcode": "[wpforms id=\"27861\"]",
+    "facebook_link": "https://www.facebook.com/groups/317253352671233",
+    "GPN": "N/A"
+  },
+  {
+    "City": "Severn/Cumberland Beach",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/severn-pickleball/",
+    "Active": 2,
+    "newsletter_shortcode": "[wpforms id=\"29372\"]",
+    "facebook_link": "https://www.facebook.com/groups/334765084602586/?ref=share&mibextid=K35XfP&rdid=tLYBhWCupgVH9edR&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F6NvDaZmxKhNF7vUK%2F%3Fmibextid%3DK35XfP#",
+    "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region"
+  },
+  {
+    "City": "Stayner",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/stayner/",
+    "Active": 2,
+    "newsletter_shortcode": "N/A",
+    "facebook_link": "N/A",
+    "GPN": "N/A"
+  },
+  {
+    "City": "Stoney Creek",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/stoney-creek/",
+    "Active": 2,
+    "newsletter_shortcode": "[wpforms id=\"28912\"]",
+    "facebook_link": "N/A",
+    "GPN": "https://www.globalpickleball.network/network/register/5059-elevation-athletics-halton-region"
+  },
+  {
+    "City": "Sutton",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/sutton-pickleball-2/",
+    "Active": 2,
+    "newsletter_shortcode": "[wpforms id=\"29387\"]",
+    "facebook_link": "https://www.facebook.com/groups/842175170238132/?ref=share&mibextid=K35XfP&rdid=jy0peQEAltecumMO&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FMqmFX7duatv4x1Xc%2F%3Fmibextid%3DK35XfP#",
+    "GPN": "https://www.globalpickleball.network/network/register/5041-elevation-athletics-york-region"
+  },
+  {
+    "City": "Uxbridge",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/uxbridge-pickleball/",
+    "Active": 2,
+    "newsletter_shortcode": "[wpforms id=\"29397\"]",
+    "facebook_link": "https://www.facebook.com/groups/1209556549983698",
+    "GPN": "https://www.globalpickleball.network/network/register/5041-elevation-athletics-york-region"
   },
   {
     "City": "Chester",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/chester/",
     "Active": 1,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"30200\"]",
+    "facebook_link": "https://www.facebook.com/groups/766887378911743/?ref=share&mibextid=NSMWBT",
+    "GPN": "N/A"
   },
   {
-    "City": "Stouffville",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/stouffvillepickleball/",
+    "City": "Truro",
+    "Province": "NS",
+    "PageURL": "https://eapickleball.com/truro/",
     "Active": 1,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"30250\"]",
+    "facebook_link": "https://www.facebook.com/groups/1373389770100686/?ref=share&mibextid=NSMWBT",
+    "GPN": "N/A"
+  },
+  {
+    "City": "Windsor, NS",
+    "Province": "NS",
+    "PageURL": "https://eapickleball.com/windsor-ns/",
+    "Active": 1,
+    "newsletter_shortcode": "[wpforms id=\"30255\"]",
+    "facebook_link": "https://www.facebook.com/groups/1098192032093549/?ref=share&mibextid=NSMWBT",
+    "GPN": "N/A"
   },
   {
     "City": "Emsdale",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/emsdale/",
     "Active": 1,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "N/A",
+    "facebook_link": "N/A",
+    "GPN": "N/A"
   },
   {
     "City": "Hanover",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/hanover/",
     "Active": 1,
-    "newsletter_shortcode": null,
+    "newsletter_shortcode": "[wpforms id=\"28808\"]",
     "facebook_link": null,
-    "GPN": null
+    "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region"
+  },
+  {
+    "City": "Milton",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/milton/",
+    "Active": 1,
+    "newsletter_shortcode": "[wpforms id=\"28800\"]",
+    "facebook_link": "N/A",
+    "GPN": "https://www.globalpickleball.network/network/register/5059-elevation-athletics-halton-region"
   },
   {
     "City": "Norwood",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/norwood-pickleball/",
     "Active": 1,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"29272\"]",
+    "facebook_link": "https://www.facebook.com/groups/1182369695799093",
+    "GPN": "https://www.globalpickleball.network/network/register/5073-elevation-athletics-kawartha-region"
   },
   {
     "City": "Port Hope",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/port-hope/",
     "Active": 1,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"29308\"]",
+    "facebook_link": "N/A",
+    "GPN": "https://www.globalpickleball.network/network/register/5073-elevation-athletics-kawartha-region"
   },
   {
     "City": "Stirling",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/stirling/",
     "Active": 1,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "N/A",
+    "facebook_link": "N/A",
+    "GPN": "N/A"
   },
   {
-    "City": "Burlington",
+    "City": "Stouffville",
     "Province": "ON",
-    "PageURL": "https://eapickleball.com/burlington/",
-    "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "PageURL": "https://eapickleball.com/stouffvillepickleball/",
+    "Active": 1,
+    "newsletter_shortcode": "[wpforms id=\"29382\"]",
+    "facebook_link": "https://www.facebook.com/groups/600465141475575/?ref=share&mibextid=wwXIfr&rdid=XVFehMS6KMaMx83H&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F14rmsURTbJ%2F%3Fmibextid%3DwwXIfr#",
+    "GPN": "https://www.globalpickleball.network/network/register/5041-elevation-athletics-york-region"
   },
   {
-    "City": "Dundas",
+    "City": "Trenton",
     "Province": "ON",
-    "PageURL": "https://eapickleball.com/dundas/",
-    "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
-  },
-  {
-    "City": "Belleville",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/belleville/",
-    "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
-  },
-  {
-    "City": "Markdale",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/markdale/",
-    "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
-  },
-  {
-    "City": "South River",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/south-river/",
-    "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
-  },
-  {
-    "City": "West Grey",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/west-grey/",
-    "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
-  },
-  {
-    "City": "Oakville",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/oakville",
-    "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
-  },
-  {
-    "City": "Campbellville",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/campbellville",
-    "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "PageURL": "https://eapickleball.com/trenton/",
+    "Active": 1,
+    "newsletter_shortcode": "[wpforms id=\"35145\" title=\"false\"]",
+    "facebook_link": "N/A",
+    "GPN": "N/A"
   },
   {
     "City": "Airdrie",
     "Province": "AB",
     "PageURL": "https://eapickleball.com/ab-airdrie/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"32083\"]",
+    "facebook_link": "https://www.facebook.com/groups/1228991188453311",
+    "GPN": "N/A"
   },
   {
     "City": "Calgary",
     "Province": "AB",
     "PageURL": "https://eapickleball.com/ab-calgary/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"32060\"]",
+    "facebook_link": "https://www.facebook.com/groups/1414010099619197",
+    "GPN": "N/A"
   },
   {
     "City": "Chestermere",
     "Province": "AB",
     "PageURL": "https://eapickleball.com/ab-chestermere/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"32124\"]",
+    "facebook_link": "https://www.facebook.com/groups/1943481452855743/",
+    "GPN": "N/A"
   },
   {
     "City": "Cochrane",
     "Province": "AB",
     "PageURL": "https://eapickleball.com/ab-cochrane/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"32114\"]",
+    "facebook_link": "https://www.facebook.com/groups/729500483360537/",
+    "GPN": "N/A"
   },
   {
     "City": "Edmonton",
     "Province": "AB",
     "PageURL": "https://eapickleball.com/ab-edmonton/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"32064\"]",
+    "facebook_link": "https://www.facebook.com/groups/1747290709493078/",
+    "GPN": "N/A"
   },
   {
     "City": "Grande Prairie",
     "Province": "AB",
     "PageURL": "https://eapickleball.com/ab-grande-prairie/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"32096\"]",
+    "facebook_link": "https://www.facebook.com/groups/30094465943533373/",
+    "GPN": "N/A"
   },
   {
     "City": "Leduc",
     "Province": "AB",
     "PageURL": "https://eapickleball.com/ab-leduc/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"32119\"]",
+    "facebook_link": "https://www.facebook.com/groups/1060324506051617/",
+    "GPN": "N/A"
   },
   {
     "City": "Lethbridge",
     "Province": "AB",
     "PageURL": "https://eapickleball.com/ab-lethbridge/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"32073\"]",
+    "facebook_link": "https://www.facebook.com/groups/743543468114222/",
+    "GPN": "N/A"
   },
   {
     "City": "Medicine Hat",
     "Province": "AB",
     "PageURL": "https://eapickleball.com/ab-medicine-hat/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"32101\"]",
+    "facebook_link": "https://www.facebook.com/groups/900108698965751",
+    "GPN": "N/A"
   },
   {
     "City": "Okotoks",
     "Province": "AB",
     "PageURL": "https://eapickleball.com/ab-okotoks/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"32110\"]",
+    "facebook_link": "https://www.facebook.com/groups/1235260824803374",
+    "GPN": "N/A"
   },
   {
     "City": "Red Deer",
     "Province": "AB",
     "PageURL": "https://eapickleball.com/ab-red-deer/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"32069\"]",
+    "facebook_link": "https://www.facebook.com/groups/24483287974617540",
+    "GPN": "N/A"
   },
   {
     "City": "Spruce Grove",
     "Province": "AB",
     "PageURL": "https://eapickleball.com/ab-spruce-grove/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"32106\"]",
+    "facebook_link": "https://www.facebook.com/groups/711274491651516/",
+    "GPN": "N/A"
   },
   {
     "City": "St. Albert",
     "Province": "AB",
     "PageURL": "https://eapickleball.com/ab-st-albert/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"32092\"]",
+    "facebook_link": "https://www.facebook.com/groups/3864551947142196/",
+    "GPN": "N/A"
   },
   {
     "City": "Strathcona County",
     "Province": "AB",
     "PageURL": "https://eapickleball.com/ab-strathcona-county/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"32078\"]",
+    "facebook_link": "https://www.facebook.com/groups/2595334010858358",
+    "GPN": "N/A"
   },
   {
     "City": "Wood Buffalo",
     "Province": "AB",
     "PageURL": "https://eapickleball.com/ab-wood-buffalo/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"32088\"]",
+    "facebook_link": "https://www.facebook.com/groups/1050535413753973/",
+    "GPN": "N/A"
   },
   {
     "City": "Abbotsford",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/abbotsford/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"26592\"]",
+    "facebook_link": "https://www.facebook.com/groups/1615663365646885/?rdid=X5thghIhvlaqwNQj&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FANmjMJoYD64ERmRt%2F#",
+    "GPN": "N/A"
   },
   {
     "City": "Kelowna",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/kelowna/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"26604\"]",
+    "facebook_link": "N/A",
+    "GPN": "N/A"
   },
   {
     "City": "Brandon",
     "Province": "MB",
     "PageURL": "https://eapickleball.com/brandon/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"31363\"]",
+    "facebook_link": "https://www.facebook.com/groups/8043564919013492/?rdid=YNgijAibv3Pmisbs&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FHGZdgWwij2awk9RA%2F#",
+    "GPN": "N/A"
   },
   {
     "City": "Gimli",
     "Province": "MB",
     "PageURL": "https://eapickleball.com/gimli/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"31355\"]",
+    "facebook_link": "https://www.facebook.com/groups/860589146002107/?rdid=2qNITVo5XiU3vn9j&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FdCv9W5HYB71wLqW3%2F#",
+    "GPN": "N/A"
   },
   {
     "City": "Niverville",
     "Province": "MB",
     "PageURL": "https://eapickleball.com/niverville/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"31087\"]",
+    "facebook_link": "https://www.facebook.com/groups/3759995110955010/?rdid=qbieU8XHw8WAG1G9&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FYn5zK54Nu31hPfcB%2F#",
+    "GPN": "N/A"
   },
   {
     "City": "Portage la Prairie",
     "Province": "MB",
     "PageURL": "https://eapickleball.com/portage-la-prairie/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"31317\"]",
+    "facebook_link": "https://www.facebook.com/groups/474071542186238/?rdid=FXD1YmXIQ1BRJQLH&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FBViUs6w9A7iyEDqo%2F#",
+    "GPN": "N/A"
   },
   {
     "City": "Selkirk",
     "Province": "MB",
     "PageURL": "https://eapickleball.com/selkirk/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"31343\"]",
+    "facebook_link": "https://www.facebook.com/groups/1222967949128161/?rdid=0KpIVLWaiHM3FP65&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FWYWSScN76Ta3CQ3d%2F#",
+    "GPN": "N/A"
   },
   {
     "City": "Springfield",
     "Province": "MB",
     "PageURL": "https://eapickleball.com/springfield/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"31347\"]",
+    "facebook_link": "https://www.facebook.com/groups/1732506510873453/?rdid=lVZ7UIgYdncx3epE&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2Fwfd15ndWxabgFFyu%2F#",
+    "GPN": "N/A"
   },
   {
     "City": "St. Andrews",
     "Province": "MB",
     "PageURL": "https://eapickleball.com/st-andrews/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"31333\"]",
+    "facebook_link": "https://www.facebook.com/groups/874191314758126/?rdid=QmJg69Y69ia7SDSg&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FooCETw1MCSwNyoiX%2F#",
+    "GPN": "N/A"
   },
   {
     "City": "St.Clements",
     "Province": "MB",
     "PageURL": "https://eapickleball.com/st-clements/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"31338\"]",
+    "facebook_link": "https://www.facebook.com/groups/918097887023217/?rdid=8Lz6G647ZrsNpw10&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FaEuwabZE1Zqvvz5j%2F#",
+    "GPN": "N/A"
   },
   {
     "City": "Steinbach",
     "Province": "MB",
     "PageURL": "https://eapickleball.com/steinbach/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"31329\"]",
+    "facebook_link": "https://www.facebook.com/groups/871773807617701/?rdid=xAQNKatyuwOnrh9M&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FLBRu5coST43n7x75%2F#",
+    "GPN": "N/A"
   },
   {
     "City": "Swan River",
     "Province": "MB",
     "PageURL": "https://eapickleball.com/swan-river/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"31359\"]",
+    "facebook_link": "https://www.facebook.com/groups/884228440296295/?rdid=QJ0TC0d8ZKXlZ8pH&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F95grqk2574S6Y6tT%2F#",
+    "GPN": "N/A"
   },
   {
     "City": "Tache",
     "Province": "MB",
     "PageURL": "https://eapickleball.com/tache/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"31351\"]",
+    "facebook_link": "https://www.facebook.com/groups/2261176697550186/?rdid=OLvxPUPZYyFlEAMY&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F3g4WagmfFCk3gF23%2F#",
+    "GPN": "N/A"
   },
   {
     "City": "Thompson",
     "Province": "MB",
     "PageURL": "https://eapickleball.com/thompson/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"31313\"]",
+    "facebook_link": "https://www.facebook.com/groups/469083689418143/?rdid=pDuY2i0bpSqnxmsx&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FFHyVccVX4L7JowE4%2F#",
+    "GPN": "N/A"
   },
   {
     "City": "Winkler",
     "Province": "MB",
     "PageURL": "https://eapickleball.com/winkler/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"31321\"]",
+    "facebook_link": "https://www.facebook.com/groups/520255227143535/?rdid=NJfTAbY3hOFrSZwj&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FQ5irpD5nfJdUwDHy%2F#",
+    "GPN": "N/A"
   },
   {
     "City": "Winnipeg",
     "Province": "MB",
     "PageURL": "https://eapickleball.com/winnipeg/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"31325\"]",
+    "facebook_link": "https://www.facebook.com/groups/810886621257667/?rdid=A7vJuk0j27zHNqPc&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F9Jjjv34aaNpbDcxP%2F#",
+    "GPN": "N/A"
   },
   {
     "City": "Bathurst",
     "Province": "NB",
     "PageURL": "https://eapickleball.com/bathurst/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"31965\"]",
+    "facebook_link": "https://www.facebook.com/groups/23986326270978302",
+    "GPN": "N/A"
   },
   {
     "City": "Dieppe",
     "Province": "NB",
     "PageURL": "https://eapickleball.com/dieppe/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"31939\"]",
+    "facebook_link": "https://www.facebook.com/groups/2311051755994959",
+    "GPN": "N/A"
   },
   {
     "City": "Edmundston",
     "Province": "NB",
     "PageURL": "https://eapickleball.com/edmundston/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"31956\"]",
+    "facebook_link": "https://www.facebook.com/groups/1716288965922366",
+    "GPN": "N/A"
   },
   {
     "City": "Fredericton",
     "Province": "NB",
     "PageURL": "https://eapickleball.com/fredericton/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"31934\"]",
+    "facebook_link": "https://www.facebook.com/groups/1240186910920487/",
+    "GPN": "N/A"
   },
   {
     "City": "Miramichi",
     "Province": "NB",
     "PageURL": "https://eapickleball.com/miramichi/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"31951\"]",
+    "facebook_link": "https://www.facebook.com/groups/1675863459780313",
+    "GPN": "N/A"
   },
   {
     "City": "Moncton",
     "Province": "NB",
     "PageURL": "https://eapickleball.com/moncton/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"31925\"]",
+    "facebook_link": "https://www.facebook.com/groups/751930921118295/",
+    "GPN": "N/A"
   },
   {
     "City": "Quispamsis",
     "Province": "NB",
     "PageURL": "https://eapickleball.com/quispamsis/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"31947\"]",
+    "facebook_link": "https://www.facebook.com/groups/1278962913618650",
+    "GPN": "N/A"
   },
   {
     "City": "Riverview",
     "Province": "NB",
     "PageURL": "https://eapickleball.com/riverview/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"31943\"]",
+    "facebook_link": "https://www.facebook.com/groups/1462086968318465",
+    "GPN": "N/A"
   },
   {
     "City": "Saint John",
     "Province": "NB",
     "PageURL": "https://eapickleball.com/saint-john/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"31929\"]",
+    "facebook_link": "https://www.facebook.com/groups/1123890066311354",
+    "GPN": "N/A"
   },
   {
     "City": "Tracadie",
     "Province": "NB",
     "PageURL": "https://eapickleball.com/tracadie/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"31961\"]",
+    "facebook_link": "https://www.facebook.com/groups/1066440555164178",
+    "GPN": "N/A"
   },
   {
     "City": "Conception Bay South",
     "Province": "NF",
     "PageURL": "https://eapickleball.com/nl-conception-bay-south/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"32133\"]",
+    "facebook_link": "https://www.facebook.com/groups/2123870371371738",
+    "GPN": "N/A"
   },
   {
     "City": "Corner Brook",
     "Province": "NF",
     "PageURL": "https://eapickleball.com/nl-corner-brook/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"32145\"]",
+    "facebook_link": "https://www.facebook.com/groups/1628900044435204/",
+    "GPN": "N/A"
   },
   {
     "City": "Gander",
     "Province": "NF",
     "PageURL": "https://eapickleball.com/nl-gander/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"32154\"]",
+    "facebook_link": "https://www.facebook.com/groups/680338297958989/",
+    "GPN": "N/A"
   },
   {
     "City": "Grand Falls-Windsor",
     "Province": "NF",
     "PageURL": "https://eapickleball.com/nl-grand-falls-windsor/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"32149\"]",
+    "facebook_link": "https://www.facebook.com/groups/689519553873326/",
+    "GPN": "N/A"
   },
   {
     "City": "Happy Valley-Goose Bay",
     "Province": "NF",
     "PageURL": "https://eapickleball.com/nl-happy-valley-goose-bay/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"32163\"]",
+    "facebook_link": "https://www.facebook.com/groups/681238838044017",
+    "GPN": "N/A"
   },
   {
     "City": "Mount Pearl",
     "Province": "NF",
     "PageURL": "https://eapickleball.com/nl-mount-pearl/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"32141\"]",
+    "facebook_link": "https://www.facebook.com/groups/1521079002200660/",
+    "GPN": "N/A"
   },
   {
     "City": "Paradise",
     "Province": "NF",
     "PageURL": "https://eapickleball.com/nl-paradise/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"32137\"]",
+    "facebook_link": "https://www.facebook.com/groups/724422523434519",
+    "GPN": "N/A"
   },
   {
     "City": "Portugal Cove-St. Philips",
     "Province": "NF",
     "PageURL": "https://eapickleball.com/nl-portugal-cove-st-philips/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"32156\"]",
+    "facebook_link": "https://www.facebook.com/groups/2146358279143764",
+    "GPN": "N/A"
   },
   {
     "City": "St. Johns",
     "Province": "NF",
     "PageURL": "https://eapickleball.com/nl-st-johns/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"32129\"]",
+    "facebook_link": "https://www.facebook.com/groups/1004196514814732",
+    "GPN": "N/A"
   },
   {
     "City": "Torbay",
     "Province": "NF",
     "PageURL": "https://eapickleball.com/nl-torbay/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
-  },
-  {
-    "City": "West Northfield",
-    "Province": "NS",
-    "PageURL": "https://eapickleball.com/west-northfield/",
-    "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
-  },
-  {
-    "City": "Halifax",
-    "Province": "NS",
-    "PageURL": "https://eapickleball.com/halifax/",
-    "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
-  },
-  {
-    "City": "New Waterford",
-    "Province": "NS",
-    "PageURL": "https://eapickleball.com/new-waterford/",
-    "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"32165\"]",
+    "facebook_link": "https://www.facebook.com/groups/1899605047466723",
+    "GPN": "N/A"
   },
   {
     "City": "Bedford",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/bedford/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"30190\"]",
+    "facebook_link": "https://www.facebook.com/groups/3894740167478365/?ref=share&mibextid=NSMWBT",
+    "GPN": "N/A"
   },
   {
     "City": "Brookside",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/brookside/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"30195\"]",
+    "facebook_link": "https://www.facebook.com/groups/941183891183777/?ref=share&mibextid=NSMWBT",
+    "GPN": "N/A"
   },
   {
     "City": "Cole Harbour",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/cole-harbour/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"30205\"]",
+    "facebook_link": "https://www.facebook.com/groups/8816596995069971/?ref=share&mibextid=NSMWBT",
+    "GPN": "N/A"
   },
   {
     "City": "Dartmouth",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/dartmouth/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"30210\"]",
+    "facebook_link": "https://www.facebook.com/groups/511242288566448/?ref=share&mibextid=NSMWBT",
+    "GPN": "N/A"
+  },
+  {
+    "City": "Halifax",
+    "Province": "NS",
+    "PageURL": "https://eapickleball.com/halifax/",
+    "Active": 0,
+    "newsletter_shortcode": "[wpforms id=\"30215\"]",
+    "facebook_link": "https://www.facebook.com/groups/999832825235301/?ref=share&mibextid=NSMWBT",
+    "GPN": "N/A"
   },
   {
     "City": "Kentville",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/kentville/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"30220\"]",
+    "facebook_link": "https://www.facebook.com/groups/1601513980761001/?ref=share&mibextid=NSMWBT",
+    "GPN": "N/A"
   },
   {
     "City": "Lawrencetown",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/lawrencetown/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"30225\"]",
+    "facebook_link": "https://www.facebook.com/groups/3416657671971041/?ref=share&mibextid=NSMWBT",
+    "GPN": "N/A"
   },
   {
     "City": "New Glasgow",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/new-glasgow/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"30235\"]",
+    "facebook_link": "https://www.facebook.com/groups/1271890017330572/?ref=share&mibextid=NSMWBT",
+    "GPN": "N/A"
+  },
+  {
+    "City": "New Waterford",
+    "Province": "NS",
+    "PageURL": "https://eapickleball.com/new-waterford/",
+    "Active": 0,
+    "newsletter_shortcode": "[wpforms id=\"39697\" title=\"false\"]",
+    "facebook_link": "N/A",
+    "GPN": "N/A"
   },
   {
     "City": "Sackville",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/sackville/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"30240\"]",
+    "facebook_link": "https://www.facebook.com/groups/8324126437716520/?ref=share&mibextid=NSMWBT",
+    "GPN": "N/A"
   },
   {
     "City": "Spryfield",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/spryfield/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"30245\"]",
+    "facebook_link": "https://www.facebook.com/groups/399774503073539/?ref=share&mibextid=NSMWBT",
+    "GPN": "N/A"
+  },
+  {
+    "City": "West Northfield",
+    "Province": "NS",
+    "PageURL": "https://eapickleball.com/west-northfield/",
+    "Active": 0,
+    "newsletter_shortcode": "[wpforms id=\"39697\" title=\"false\"]",
+    "facebook_link": "N/A",
+    "GPN": "N/A"
   },
   {
     "City": "Wolfville",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/wolfville/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
-  },
-  {
-    "City": "Owen Sound",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/owensound-pickleball/",
-    "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
-  },
-  {
-    "City": "Sudbury",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/sudbury/",
-    "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
-  },
-  {
-    "City": "Waterloo",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/waterloo-pickleball/",
-    "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
-  },
-  {
-    "City": "Powassan",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/powassan/",
-    "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
-  },
-  {
-    "City": "Cobourg",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/cobourg/",
-    "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
-  },
-  {
-    "City": "Durham",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/durham-pickleball/",
-    "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
-  },
-  {
-    "City": "Picton",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/picton/",
-    "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
-  },
-  {
-    "City": "Bowmanville",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/bowmanville-pickleball/",
-    "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
-  },
-  {
-    "City": "Cornwall",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/cornwall/",
-    "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
-  },
-  {
-    "City": "Gravenhurst",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/gravenhurst/",
-    "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"30260\"]",
+    "facebook_link": "https://www.facebook.com/groups/3081095052027381/?ref=share&mibextid=NSMWBT",
+    "GPN": "N/A"
   },
   {
     "City": "Ancaster",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/ancaster/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"28828\"]",
+    "facebook_link": "https://www.facebook.com/groups/1206823474247094/",
+    "GPN": "https://www.globalpickleball.network/network/register/5059-elevation-athletics-halton-region"
   },
   {
     "City": "Arnprior",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/arnprior-pickleball/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"28965\"]",
+    "facebook_link": "https://www.facebook.com/groups/1189266695781523/",
+    "GPN": "https://www.globalpickleball.network/network/register/5068-elevation-athletics-haliburton-highlands"
   },
   {
     "City": "Barrie",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/barrie-pickleball-2/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"28970\"]",
+    "facebook_link": "https://www.facebook.com/groups/690155751818711/?ref=share",
+    "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region"
   },
   {
     "City": "Beckwith",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/lanark-county/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "N/A",
+    "facebook_link": "N/A",
+    "GPN": "N/A"
   },
   {
-    "City": "Carleton Place",
+    "City": "Belleville",
     "Province": "ON",
-    "PageURL": "https://eapickleball.com/lanark-county/",
+    "PageURL": "https://eapickleball.com/belleville/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"28768\"]",
+    "facebook_link": "N/A",
+    "GPN": "https://www.globalpickleball.network/network/register/5069-elevation-athletics-southeastern-ontario"
+  },
+  {
+    "City": "Bowmanville",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/bowmanville-pickleball/",
+    "Active": 0,
+    "newsletter_shortcode": "[wpforms id=\"29171\"]",
+    "facebook_link": "https://www.facebook.com/groups/1679819529114744/permalink/1868773170219378/?mibextid=W9rl1R",
+    "GPN": "N/A"
+  },
+  {
+    "City": "Burlington",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/burlington/",
+    "Active": 0,
+    "newsletter_shortcode": "[wpforms id=\"28792\"]",
+    "facebook_link": "N/A",
+    "GPN": "https://www.globalpickleball.network/network/register/5059-elevation-athletics-halton-region"
+  },
+  {
+    "City": "Campbellville",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/campbellville",
+    "Active": 0,
+    "newsletter_shortcode": "N/A",
+    "facebook_link": "N/A",
+    "GPN": "N/A"
   },
   {
     "City": "Cannington",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/cannington-pickleball/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"29010\"]",
+    "facebook_link": "https://www.facebook.com/groups/189465923717329",
+    "GPN": "https://www.globalpickleball.network/network/register/5041-elevation-athletics-york-region"
   },
   {
-    "City": "Clinton",
+    "City": "Carleton Place",
     "Province": "ON",
-    "PageURL": "https://eapickleball.com/clinton/",
+    "PageURL": "https://eapickleball.com/lanark-county/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "N/A",
+    "facebook_link": "N/A",
+    "GPN": "N/A"
   },
   {
     "City": "Clarington",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/durham-clarington-pickleball/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"30680\"]",
+    "facebook_link": "https://www.facebook.com/groups/1150648605625416",
+    "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region"
+  },
+  {
+    "City": "Clinton",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/clinton/",
+    "Active": 0,
+    "newsletter_shortcode": "[wpforms id=\"35153\" title=\"false\"]",
+    "facebook_link": "N/A",
+    "GPN": "N/A"
+  },
+  {
+    "City": "Cobourg",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/cobourg/",
+    "Active": 0,
+    "newsletter_shortcode": "[wpforms id=\"28749\"]",
+    "facebook_link": "N/A",
+    "GPN": "https://www.globalpickleball.network/network/register/5073-elevation-athletics-kawartha-region"
+  },
+  {
+    "City": "Cornwall",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/cornwall/",
+    "Active": 0,
+    "newsletter_shortcode": "N/A",
+    "facebook_link": "N/A",
+    "GPN": "N/A"
+  },
+  {
+    "City": "Dundas",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/dundas/",
+    "Active": 0,
+    "newsletter_shortcode": "N/A",
+    "facebook_link": "N/A",
+    "GPN": "N/A"
+  },
+  {
+    "City": "Durham",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/durham-pickleball/",
+    "Active": 0,
+    "newsletter_shortcode": "[wpforms id=\"28720\"]",
+    "facebook_link": "N/A",
+    "GPN": "N/A"
   },
   {
     "City": "Fonthill",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/fonthill/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"33642\" title=\"false\"]",
+    "facebook_link": "N/A",
+    "GPN": "N/A"
+  },
+  {
+    "City": "Gravenhurst",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/gravenhurst/",
+    "Active": 0,
+    "newsletter_shortcode": "[wpforms id=\"28944\"]",
+    "facebook_link": "N/A",
+    "GPN": "https://www.globalpickleball.network/network/register/5070-elevation-athletics-muskoka-region"
   },
   {
     "City": "Grimsby",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/grimsby/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"28921\"]",
+    "facebook_link": "N/A",
+    "GPN": "https://www.globalpickleball.network/network/register/5074-elevation-athletics-niagara-region"
   },
   {
     "City": "Innisfil",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/innisfil-pickleball/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"29025\"]",
+    "facebook_link": "https://www.facebook.com/groups/690155751818711/?ref=share",
+    "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region"
   },
   {
     "City": "Lanark",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/lanark-county/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "N/A",
+    "facebook_link": "N/A",
+    "GPN": "N/A"
   },
   {
     "City": "Lindsay",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/lindsay-pickleball/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"29764\"]",
+    "facebook_link": "https://www.facebook.com/groups/1202763951166310/?ref=share&mibextid=wwXIfr&rdid=lffBIzf7UdE36PEV&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F18ZiZe7e88%2F%3Fmibextid%3DwwXIfr#",
+    "GPN": "https://www.globalpickleball.network/network/register/5073-elevation-athletics-kawartha-region"
   },
   {
     "City": "London",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/london/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"28858\"]",
+    "facebook_link": "N/A",
+    "GPN": "https://www.globalpickleball.network/network/register/5060-elevation-athletics-southwestern-ontario"
+  },
+  {
+    "City": "Markdale",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/markdale/",
+    "Active": 0,
+    "newsletter_shortcode": "N/A",
+    "facebook_link": "N/A",
+    "GPN": "N/A"
   },
   {
     "City": "Midland",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/midland-pickleball/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"29050\"]",
+    "facebook_link": "https://www.facebook.com/groups/3704307183018762/permalink/7043450602437720/?mibextid=W9rl1R",
+    "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region"
   },
   {
     "City": "Niagara",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/niagara-pickleball/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"29771\"]",
+    "facebook_link": "https://www.facebook.com/groups/439719328870765/?paipv=0&eav=AfY9UxF_9srE4SUwJ8striu13tMiNQ08EPCv8kI8GfU6jdRTfH2SUPhkyf80E0hVr8I&_rdr",
+    "GPN": "https://www.globalpickleball.network/network/register/5074-elevation-athletics-niagara-region"
   },
   {
     "City": "North Bay",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/north-bay/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"28885\"]",
+    "facebook_link": "N/A",
+    "GPN": "https://www.globalpickleball.network/network/register/5075-elevation-athletics-northeastern-ontario"
   },
   {
     "City": "North Perth",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/north-perth/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"28735\"]",
+    "facebook_link": "N/A",
+    "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region"
+  },
+  {
+    "City": "Oakville",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/oakville",
+    "Active": 0,
+    "newsletter_shortcode": "N/A",
+    "facebook_link": "N/A",
+    "GPN": "N/A"
   },
   {
     "City": "Orangeville",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/orangeville-2/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"28780\"]",
+    "facebook_link": "N/A",
+    "GPN": "https://www.globalpickleball.network/network/register/5041-elevation-athletics-york-region"
+  },
+  {
+    "City": "Owen Sound",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/owensound-pickleball/",
+    "Active": 0,
+    "newsletter_shortcode": "[wpforms id=\"29283\"]",
+    "facebook_link": "https://www.facebook.com/groups/6320056524763923/?ref=share",
+    "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region"
   },
   {
     "City": "Pakenham",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/lanark-county/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "N/A",
+    "facebook_link": "N/A",
+    "GPN": "N/A"
   },
   {
     "City": "Parry Sound",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/parry-sound/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"28894\"]",
+    "facebook_link": "N/A",
+    "GPN": "https://www.globalpickleball.network/network/register/5070-elevation-athletics-muskoka-region"
   },
   {
     "City": "Pickering",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/pickering-pickleball/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"29191\"]",
+    "facebook_link": "https://www.facebook.com/groups/342167091929491/permalink/342167911929409/?mibextid=W9rl1R",
+    "GPN": "N/A"
+  },
+  {
+    "City": "Picton",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/picton/",
+    "Active": 0,
+    "newsletter_shortcode": "N/A",
+    "facebook_link": "N/A",
+    "GPN": "N/A"
   },
   {
     "City": "Port Dover",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/port-dover/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"28837\"]",
+    "facebook_link": "N/A",
+    "GPN": "https://www.globalpickleball.network/network/register/5060-elevation-athletics-southwestern-ontario"
   },
   {
     "City": "Port Elgin",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/port-elgin-pickleball",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"29308\"]",
+    "facebook_link": "https://www.facebook.com/groups/921248999213775/?ref=share",
+    "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region"
   },
   {
-    "City": "Ridgeway",
+    "City": "Powassan",
     "Province": "ON",
-    "PageURL": "https://eapickleball.com/ridgeway",
+    "PageURL": "https://eapickleball.com/powassan/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "N/A",
+    "facebook_link": "N/A",
+    "GPN": "N/A"
   },
   {
     "City": "Renfrew",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/renfrew-pickleball/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"29367\"]",
+    "facebook_link": "https://www.facebook.com/groups/1561681788007684/?ref=share",
+    "GPN": "https://www.globalpickleball.network/network/register/5068-elevation-athletics-haliburton-highlands"
+  },
+  {
+    "City": "Ridgeway",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/ridgeway",
+    "Active": 0,
+    "newsletter_shortcode": "[wpforms id=\"33635\" title=\"false\"]",
+    "facebook_link": "N/A",
+    "GPN": "N/A"
   },
   {
     "City": "Smiths Falls",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/lanark-county/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "N/A",
+    "facebook_link": "N/A",
+    "GPN": "N/A"
+  },
+  {
+    "City": "South River",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/south-river/",
+    "Active": 0,
+    "newsletter_shortcode": "N/A",
+    "facebook_link": "N/A",
+    "GPN": "N/A"
   },
   {
     "City": "Springwater/Minesing",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/springwater-pickleball-2/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
-  },
-  {
-    "City": "Stratford",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/stratford/",
-    "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"28955\"]",
+    "facebook_link": "N/A",
+    "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region"
   },
   {
     "City": "St Catharines",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/st-catharines/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"28936\"]",
+    "facebook_link": "N/A",
+    "GPN": "https://www.globalpickleball.network/network/register/5074-elevation-athletics-niagara-region"
   },
   {
     "City": "St Thomas",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/st-thomas/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"28876\"]",
+    "facebook_link": "N/A",
+    "GPN": "https://www.globalpickleball.network/network/register/5060-elevation-athletics-southwestern-ontario"
+  },
+  {
+    "City": "Stratford",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/stratford/",
+    "Active": 0,
+    "newsletter_shortcode": "[wpforms id=\"35160\" title=\"false\"]",
+    "facebook_link": "N/A",
+    "GPN": "N/A"
+  },
+  {
+    "City": "Sudbury",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/sudbury/",
+    "Active": 0,
+    "newsletter_shortcode": "N/A",
+    "facebook_link": "N/A",
+    "GPN": "N/A"
   },
   {
     "City": "Thornhill",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/thornhill/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"28903\"]",
+    "facebook_link": "N/A",
+    "GPN": "https://www.globalpickleball.network/network/register/5041-elevation-athletics-york-region"
   },
   {
     "City": "Tillsonburg",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/tillsonburg/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"28849\"]",
+    "facebook_link": "N/A",
+    "GPN": "https://www.globalpickleball.network/network/register/5060-elevation-athletics-southwestern-ontario"
   },
   {
     "City": "Tottenham",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/tottenham-pickleball/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"29392\"]",
+    "facebook_link": "https://www.facebook.com/groups/3424844084453613",
+    "GPN": "https://www.globalpickleball.network/network/register/5068-elevation-athletics-haliburton-highlands"
+  },
+  {
+    "City": "Waterloo",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/waterloo-pickleball/",
+    "Active": 0,
+    "newsletter_shortcode": "[wpforms id=\"29409\"]",
+    "facebook_link": "https://www.facebook.com/groups/558392706627622/?ref=share&mibextid=K35XfP&rdid=rVWM8nlk1nNELwRa&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FG71rAHtzAtr5rSoc%2F%3Fmibextid%3DK35XfP#",
+    "GPN": "https://www.globalpickleball.network/network/register/5072-elevation-athletics-huron-region"
+  },
+  {
+    "City": "West Grey",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/west-grey/",
+    "Active": 0,
+    "newsletter_shortcode": "N/A",
+    "facebook_link": "N/A",
+    "GPN": "N/A"
   },
   {
     "City": "Windsor",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/windsor/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"28702\"]",
+    "facebook_link": "N/A",
+    "GPN": "https://www.globalpickleball.network/network/register/5060-elevation-athletics-southwestern-ontario"
   },
   {
     "City": "Woodstock",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/woodstock/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"28867\"]",
+    "facebook_link": "N/A",
+    "GPN": "https://www.globalpickleball.network/network/register/5060-elevation-athletics-southwestern-ontario"
   },
   {
     "City": "Alma",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/alma/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"38215\"]",
+    "facebook_link": "https://www.facebook.com/groups/24331573066497106/?ref=share&_rdr",
+    "GPN": "N/A"
   },
   {
     "City": "Amos",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/amos/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"38215\"]",
+    "facebook_link": "https://www.facebook.com/groups/1073049781651031/?ref=share&_rdr",
+    "GPN": "N/A"
   },
   {
     "City": "Beloeil",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/beloeil",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"38215\"]",
+    "facebook_link": "https://www.facebook.com/groups/1260784271894528/?ref=share&_rdr",
+    "GPN": "N/A"
   },
   {
     "City": "Chambly",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/chambly",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"38215\"]",
+    "facebook_link": "https://www.facebook.com/groups/1441698290217159/?ref=share&_rdr",
+    "GPN": "N/A"
   },
   {
     "City": "Dollard-Des-Ormeaux",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/dollard-des-ormeaux",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"38215\"]",
+    "facebook_link": "https://www.facebook.com/groups/1775281319745573/?ref=share&_rdr",
+    "GPN": "N/A"
   },
   {
     "City": "Gatineau-Chelsea",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/gatineau-chelsea",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"38215\"]",
+    "facebook_link": "https://www.facebook.com/groups/1486299086038754/?ref=share&_rdr",
+    "GPN": "N/A"
   },
   {
     "City": "Joliette",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/joliette",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"38215\"]",
+    "facebook_link": "https://www.facebook.com/groups/1409802936768430/?ref=share&_rdr",
+    "GPN": "N/A"
   },
   {
     "City": "Laval",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/laval",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"38215\"]",
+    "facebook_link": "https://www.facebook.com/groups/1418977686895123/?ref=share&_rdr",
+    "GPN": "N/A"
   },
   {
     "City": "Levis",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/levis",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"38215\"]",
+    "facebook_link": "https://www.facebook.com/groups/994938316015156/?ref=share&_rdr",
+    "GPN": "N/A"
   },
   {
     "City": "Longueuil",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/longueuil",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"38215\"]",
+    "facebook_link": "https://www.facebook.com/groups/802837665407970/?ref=share&_rdr",
+    "GPN": "N/A"
   },
   {
     "City": "Montmagny",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/montmagny",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"38215\"]",
+    "facebook_link": "https://www.facebook.com/groups/1113173517417867/?ref=share&_rdr",
+    "GPN": "N/A"
   },
   {
     "City": "Montreal",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/montreal",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"38215\"]",
+    "facebook_link": "https://www.facebook.com/groups/757810986850462/?ref=share&_rdr",
+    "GPN": "N/A"
   },
   {
     "City": "Rimouski",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/rimouski",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"38215\"]",
+    "facebook_link": "https://www.facebook.com/groups/780875754390115/?ref=share&_rdr",
+    "GPN": "N/A"
   },
   {
     "City": "Riviere-du-loup",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/riviere-du-loup",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"38215\"]",
+    "facebook_link": "https://www.facebook.com/groups/1131371915538627/?ref=share&_rdr",
+    "GPN": "N/A"
   },
   {
     "City": "Rouyn-Noranda",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/rouyn-noranda",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"38215\"]",
+    "facebook_link": "https://www.facebook.com/groups/3023041441208069/?ref=share&_rdr",
+    "GPN": "N/A"
   },
   {
     "City": "Saguenay",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/saguenay",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"38215\"]",
+    "facebook_link": "https://www.facebook.com/groups/1942370963230128/?ref=share&_rdr",
+    "GPN": "N/A"
   },
   {
     "City": "Sept-Iles",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/sept-iles",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"38215\"]",
+    "facebook_link": "https://www.facebook.com/groups/698312623254871/?ref=share&_rdr",
+    "GPN": "N/A"
   },
   {
     "City": "Sherbrook",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/sherbrooke",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"38215\"]",
+    "facebook_link": "https://www.facebook.com/groups/958773003056520/?ref=share&_rdr",
+    "GPN": "N/A"
   },
   {
     "City": "Sorel-Tracy",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/sorel-tracy",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"38215\"]",
+    "facebook_link": "https://www.facebook.com/groups/1805530490042948/?ref=share&_rdr",
+    "GPN": "N/A"
   },
   {
     "City": "St-Jean-sur-Richelieu",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/st-jean-sur-richelieu",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"38215\"]",
+    "facebook_link": "https://www.facebook.com/groups/1434118337816904/?ref=share&_rdr",
+    "GPN": "N/A"
   },
   {
     "City": "St-Jerome",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/st-jerome",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"38215\"]",
+    "facebook_link": "https://www.facebook.com/groups/1433836894491662/?ref=share&_rdr",
+    "GPN": "N/A"
   },
   {
     "City": "Terrebonne",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/terrebonne",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"38215\"]",
+    "facebook_link": "https://www.facebook.com/groups/24483588691275677/?ref=share&_rdr",
+    "GPN": "N/A"
   },
   {
     "City": "Trois-rivieres",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/trois-rivieres",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"38215\"]",
+    "facebook_link": "https://www.facebook.com/groups/635118192557023/?ref=share&_rdr",
+    "GPN": "N/A"
   },
   {
     "City": "Val dor",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/val-dor",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"38215\"]",
+    "facebook_link": "https://www.facebook.com/groups/990324376477165/?ref=share&_rdr",
+    "GPN": "N/A"
   },
   {
     "City": "Vaudreuil-Dorion",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/vaudreuil-dorion",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"38215\"]",
+    "facebook_link": "https://www.facebook.com/groups/1906456423231015/?ref=share&_rdr",
+    "GPN": "N/A"
   },
   {
     "City": "Victoriaville",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/victoriaville",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"38215\"]",
+    "facebook_link": "https://www.facebook.com/groups/1462767434915876/?ref=share&_rdr",
+    "GPN": "N/A"
   },
   {
     "City": "Estevan",
     "Province": "SK",
     "PageURL": "https://eapickleball.com/sk-estevan",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"30741\"]",
+    "facebook_link": "https://www.facebook.com/groups/1097661804669897/?rdid=F8Q5Ga3QqKbOZzPc&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FnmsPaR6yYx3bLpBr%2F#",
+    "GPN": "N/A"
   },
   {
     "City": "Humboldt",
     "Province": "SK",
     "PageURL": "https://eapickleball.com/sk-humboldt",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"30748\"]",
+    "facebook_link": "https://www.facebook.com/groups/987226936021328/?rdid=Ty9sXxZJD7V3R25X&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FeShApMsV5rciEdgM%2F#",
+    "GPN": "N/A"
   },
   {
     "City": "La Ronge",
     "Province": "SK",
     "PageURL": "https://eapickleball.com/sk-la-ronge",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"30752\"]",
+    "facebook_link": "https://www.facebook.com/groups/1426436554682246/?rdid=N55LMUTZi87Q6mmk&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FGKE4KfDicx4LvDM3%2F#",
+    "GPN": "N/A"
   },
   {
     "City": "Lloydminster",
     "Province": "SK",
     "PageURL": "https://eapickleball.com/sk-lloydminster",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"30757\"]",
+    "facebook_link": "https://www.facebook.com/groups/1660640051414955/?rdid=jPhpztgvU6p2BPFr&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FLqCxTf81gUZBycBZ%2F#",
+    "GPN": "N/A"
   },
   {
     "City": "Medicine Hat",
     "Province": "SK",
     "PageURL": "https://eapickleball.com/sk-medicine-hat",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"30761\"]",
+    "facebook_link": "https://www.facebook.com/groups/3312953932334784/?rdid=tUJNVrQIGE8BGk6N&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FvrnP9vUXbG8ex1wi%2F#",
+    "GPN": "N/A"
   },
   {
     "City": "Melford",
     "Province": "SK",
     "PageURL": "https://eapickleball.com/sk-melford",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"30765\"]",
+    "facebook_link": "https://www.facebook.com/groups/480858781290042/?rdid=0TnIoN3U6h8Nb2HB&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FvMH1hLG5AJyvTKHR%2F#",
+    "GPN": "N/A"
   },
   {
     "City": "Moose Jaw",
     "Province": "SK",
     "PageURL": "https://eapickleball.com/sk-moose-jaw",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"30769\"]",
+    "facebook_link": "https://www.facebook.com/groups/782467170671141/?rdid=Ce3i1DRACOAU3pFf&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F1BntXFCzzeZqYKbg%2F#",
+    "GPN": "N/A"
   },
   {
     "City": "North Battleford",
     "Province": "SK",
     "PageURL": "https://eapickleball.com/sk-north-battleford",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"30773\"]",
+    "facebook_link": "https://www.facebook.com/groups/994023112371434/?rdid=4avfLm445Y3DMYCt&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F9CqXUo3pMbCVjJ6g%2F#",
+    "GPN": "N/A"
   },
   {
     "City": "Prince Albert",
     "Province": "SK",
     "PageURL": "https://eapickleball.com/sk-prince-albert",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"30777\"]",
+    "facebook_link": "https://www.facebook.com/groups/842085830772558/?rdid=8YBTYUg9oIHyq8pN&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FKGvq3CUPRAMao9Uc%2F#",
+    "GPN": "N/A"
   },
   {
     "City": "Regina",
     "Province": "SK",
     "PageURL": "https://eapickleball.com/sk-regina",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"30781\"]",
+    "facebook_link": "https://www.facebook.com/groups/778616731068887/?rdid=5TmOuPWpFDXFADC9&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FyQvwaY7AMGM2rco6%2F#",
+    "GPN": "N/A"
   },
   {
     "City": "Saskatoon",
     "Province": "SK",
     "PageURL": "https://eapickleball.com/sk-saskatoon",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"30785\"]",
+    "facebook_link": "https://www.facebook.com/groups/3828316017493034/?rdid=obGGj5UTEvska98D&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FJVs53T9KeM5ecyYo%2F#",
+    "GPN": "N/A"
   },
   {
     "City": "Swift Current",
     "Province": "SK",
     "PageURL": "https://eapickleball.com/sk-swift-current",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"30789\"]",
+    "facebook_link": "https://www.facebook.com/groups/3666933746899289/?rdid=pd9WiJbaD23xCb54&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FoTq3RWRpeSB292rH%2F#",
+    "GPN": "N/A"
   },
   {
     "City": "Warman/Martensville",
     "Province": "SK",
     "PageURL": "https://eapickleball.com/sk-martensville-warman/",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"30793\"]",
+    "facebook_link": "https://www.facebook.com/groups/482645591087390/?rdid=Awri0omslLJkyWEI&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FUwUSS5ctdFNdbTwE%2F#",
+    "GPN": "N/A"
   },
   {
     "City": "Weyburn",
     "Province": "SK",
     "PageURL": "https://eapickleball.com/sk-weyburn",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"30797\"]",
+    "facebook_link": "https://www.facebook.com/groups/1448602302696021/?rdid=qU0lC7c9cLJYmcNi&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FsCvBYPiw1BAGGDsV%2F#",
+    "GPN": "N/A"
   },
   {
     "City": "Yorkton",
     "Province": "SK",
     "PageURL": "https://eapickleball.com/sk-yorkton",
     "Active": 0,
-    "newsletter_shortcode": null,
-    "facebook_link": null,
-    "GPN": null
+    "newsletter_shortcode": "[wpforms id=\"30801\"]",
+    "facebook_link": "https://www.facebook.com/groups/648869650790964/?rdid=PP9nwtVfD08qe5l3&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FvCDKd6HJuepG9jAW%2F#",
+    "GPN": "N/A"
+  },
+  {
+    "City": "Test Bubble",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/test-bubble",
+    "Active": 6,
+    "newsletter_shortcode": "[wpforms id=\"21926\"]",
+    "facebook_link": "FALLBACK PAGE (EAPICKLEBALL FACEBOOK GENERAL)",
+    "GPN": "N/A"
   }
 ]
