@@ -549,6 +549,15 @@
     "GPN": "N/A"
   },
   {
+    "City": "Kelowna",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/kelowna/",
+    "Active": 1,
+    "newsletter_shortcode": "[wpforms id=\"26604\"]",
+    "facebook_link": "N/A",
+    "GPN": "N/A"
+  },
+  {
     "City": "Hamilton",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/hamilton/",
@@ -699,15 +708,6 @@
     "Active": 0,
     "newsletter_shortcode": "[wpforms id=\"26592\"]",
     "facebook_link": "https://www.facebook.com/groups/1615663365646885/?rdid=X5thghIhvlaqwNQj&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FANmjMJoYD64ERmRt%2F#",
-    "GPN": "N/A"
-  },
-  {
-    "City": "Kelowna",
-    "Province": "BC",
-    "PageURL": "https://bc.eapickleball.com/kelowna/",
-    "Active": 0,
-    "newsletter_shortcode": "[wpforms id=\"26604\"]",
-    "facebook_link": "N/A",
     "GPN": "N/A"
   },
   {
