@@ -558,6 +558,15 @@
     "GPN": "N/A"
   },
   {
+    "City": "Sooke",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/sooke/",
+    "Active": 1,
+    "newsletter_shortcode": 26625,
+    "facebook_link": "https://www.facebook.com/groups/350198528028795/?rdid=dsuJVCWkGBQHSGJX&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FgH52XJQydQyXea8G%2F#",
+    "GPN": "N/A"
+  },
+  {
     "City": "Hamilton",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/hamilton/",
