@@ -27,15 +27,6 @@
     "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region"
   },
   {
-    "City": "Lanark County",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/lanark-county/",
-    "Active": 10,
-    "newsletter_shortcode": "N/A",
-    "facebook_link": "N/A",
-    "GPN": "N/A"
-  },
-  {
     "City": "King City",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/king-city-pickleball/",
@@ -43,15 +34,6 @@
     "newsletter_shortcode": "N/A",
     "facebook_link": "https://www.facebook.com/groups/1682873145441067",
     "GPN": "N/A"
-  },
-  {
-    "City": "Keswick",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/keswick-pickleball/",
-    "Active": 8,
-    "newsletter_shortcode": "29030",
-    "facebook_link": "https://www.facebook.com/groups/842175170238132/permalink/1060538278401819/?mibextid=W9rl1R",
-    "GPN": "https://www.globalpickleball.network/network/register/5041-elevation-athletics-york-region"
   },
   {
     "City": "Caledon",
@@ -63,13 +45,22 @@
     "GPN": "https://www.globalpickleball.network/network/register/5041-elevation-athletics-york-region"
   },
   {
-    "City": "Almonte",
+    "City": "Lanark County",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/lanark-county/",
     "Active": 7,
     "newsletter_shortcode": "N/A",
     "facebook_link": "N/A",
     "GPN": "N/A"
+  },
+  {
+    "City": "Keswick",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/keswick-pickleball/",
+    "Active": 7,
+    "newsletter_shortcode": "29030",
+    "facebook_link": "https://www.facebook.com/groups/842175170238132/permalink/1060538278401819/?mibextid=W9rl1R",
+    "GPN": "https://www.globalpickleball.network/network/register/5041-elevation-athletics-york-region"
   },
   {
     "City": "Newcastle",
@@ -96,6 +87,15 @@
     "Active": 6,
     "newsletter_shortcode": "26617",
     "facebook_link": "https://www.facebook.com/groups/2410835639307941/?rdid=oDtGo3Csdp9eYH4a&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2Fv3xXUfvd1pu94oN3%2F",
+    "GPN": "N/A"
+  },
+  {
+    "City": "Almonte",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/lanark-county/",
+    "Active": 5,
+    "newsletter_shortcode": "N/A",
+    "facebook_link": "N/A",
     "GPN": "N/A"
   },
   {
@@ -126,15 +126,6 @@
     "GPN": "N/A"
   },
   {
-    "City": "Prince George",
-    "Province": "BC",
-    "PageURL": "https://bc.eapickleball.com/prince-george/",
-    "Active": 5,
-    "newsletter_shortcode": "26621",
-    "facebook_link": "https://www.facebook.com/groups/8168389329914586/?rdid=5voQcMLGEdYRqRVS&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2Fxtw2VqMYKmW8yBAD%2F#",
-    "GPN": "N/A"
-  },
-  {
     "City": "Victoria",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/victoria/",
@@ -150,6 +141,15 @@
     "Active": 5,
     "newsletter_shortcode": "29176",
     "facebook_link": "https://www.facebook.com/groups/1150648605625416",
+    "GPN": "N/A"
+  },
+  {
+    "City": "Prince George",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/prince-george/",
+    "Active": 4,
+    "newsletter_shortcode": "26621",
+    "facebook_link": "https://www.facebook.com/groups/8168389329914586/?rdid=5voQcMLGEdYRqRVS&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2Fxtw2VqMYKmW8yBAD%2F#",
     "GPN": "N/A"
   },
   {
@@ -225,24 +225,6 @@
     "GPN": "N/A"
   },
   {
-    "City": "Oshawa",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/oshawa-pickleball/",
-    "Active": 3,
-    "newsletter_shortcode": "29186",
-    "facebook_link": "https://www.facebook.com/groups/1865183903999282/?ref=share&mibextid=K35XfP&rdid=TPV7MigOn3PQ4lRx&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2Fspu9Vp21iTD1ig7C%2F%3Fmibextid%3DK35XfP",
-    "GPN": "N/A"
-  },
-  {
-    "City": "Perth",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/lanark-county/",
-    "Active": 3,
-    "newsletter_shortcode": "N/A",
-    "facebook_link": "https://www.facebook.com/groups/2559989794175096/?ref=share&mibextid=NSMWBT",
-    "GPN": "N/A"
-  },
-  {
     "City": "Guelph",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/guelph-pickleball/",
@@ -270,15 +252,6 @@
     "GPN": "N/A"
   },
   {
-    "City": "Bradford",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/bradford-pickleball-league/",
-    "Active": 3,
-    "newsletter_shortcode": "28980",
-    "facebook_link": "https://www.facebook.com/groups/5620896011352781",
-    "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region"
-  },
-  {
     "City": "Stoney Creek",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/stoney-creek/",
@@ -288,12 +261,12 @@
     "GPN": "https://www.globalpickleball.network/network/register/5059-elevation-athletics-halton-region"
   },
   {
-    "City": "Vaughan",
+    "City": "Perth",
     "Province": "ON",
-    "PageURL": "http://eapickleball.com/vaughan/",
+    "PageURL": "https://eapickleball.com/lanark-county/",
     "Active": 2,
-    "newsletter_shortcode": "28903",
-    "facebook_link": "https://www.facebook.com/groups/120051924337462/?ref=share&mibextid=NSMWBT",
+    "newsletter_shortcode": "N/A",
+    "facebook_link": "https://www.facebook.com/groups/2559989794175096/?ref=share&mibextid=NSMWBT",
     "GPN": "N/A"
   },
   {
@@ -538,6 +511,51 @@
     "newsletter_shortcode": "29382",
     "facebook_link": "https://www.facebook.com/groups/600465141475575/?ref=share&mibextid=wwXIfr&rdid=XVFehMS6KMaMx83H&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F14rmsURTbJ%2F%3Fmibextid%3DwwXIfr#",
     "GPN": "https://www.globalpickleball.network/network/register/5041-elevation-athletics-york-region"
+  },
+  {
+    "City": "New Glasgow",
+    "Province": "NS",
+    "PageURL": "https://eapickleball.com/new-glasgow/",
+    "Active": 1,
+    "newsletter_shortcode": "30235",
+    "facebook_link": "https://www.facebook.com/groups/1271890017330572/?ref=share&mibextid=NSMWBT",
+    "GPN": "N/A"
+  },
+  {
+    "City": "Waterloo",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/waterloo-pickleball/",
+    "Active": 1,
+    "newsletter_shortcode": "29409",
+    "facebook_link": "https://www.facebook.com/groups/558392706627622/?ref=share&mibextid=K35XfP&rdid=rVWM8nlk1nNELwRa&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FG71rAHtzAtr5rSoc%2F%3Fmibextid%3DK35XfP#",
+    "GPN": "https://www.globalpickleball.network/network/register/5072-elevation-athletics-huron-region"
+  },
+  {
+    "City": "Oshawa",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/oshawa-pickleball/",
+    "Active": 0,
+    "newsletter_shortcode": "29186",
+    "facebook_link": "https://www.facebook.com/groups/1865183903999282/?ref=share&mibextid=K35XfP&rdid=TPV7MigOn3PQ4lRx&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2Fspu9Vp21iTD1ig7C%2F%3Fmibextid%3DK35XfP",
+    "GPN": "N/A"
+  },
+  {
+    "City": "Bradford",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/bradford-pickleball-league/",
+    "Active": 0,
+    "newsletter_shortcode": "28980",
+    "facebook_link": "https://www.facebook.com/groups/5620896011352781",
+    "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region"
+  },
+  {
+    "City": "Vaughan",
+    "Province": "ON",
+    "PageURL": "http://eapickleball.com/vaughan/",
+    "Active": 0,
+    "newsletter_shortcode": "28903",
+    "facebook_link": "https://www.facebook.com/groups/120051924337462/?ref=share&mibextid=NSMWBT",
+    "GPN": "N/A"
   },
   {
     "City": "Fairgrounds",
@@ -1089,15 +1107,6 @@
     "GPN": "N/A"
   },
   {
-    "City": "New Glasgow",
-    "Province": "NS",
-    "PageURL": "https://eapickleball.com/new-glasgow/",
-    "Active": 0,
-    "newsletter_shortcode": "30235",
-    "facebook_link": "https://www.facebook.com/groups/1271890017330572/?ref=share&mibextid=NSMWBT",
-    "GPN": "N/A"
-  },
-  {
     "City": "Sackville",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/sackville/",
@@ -1618,15 +1627,6 @@
     "newsletter_shortcode": "35145",
     "facebook_link": "https://www.facebook.com/groups/1812609022978393/?ref=share&mibextid=NSMWBT",
     "GPN": "N/A"
-  },
-  {
-    "City": "Waterloo",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/waterloo-pickleball/",
-    "Active": 0,
-    "newsletter_shortcode": "29409",
-    "facebook_link": "https://www.facebook.com/groups/558392706627622/?ref=share&mibextid=K35XfP&rdid=rVWM8nlk1nNELwRa&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FG71rAHtzAtr5rSoc%2F%3Fmibextid%3DK35XfP#",
-    "GPN": "https://www.globalpickleball.network/network/register/5072-elevation-athletics-huron-region"
   },
   {
     "City": "West Grey",
