@@ -81,6 +81,15 @@
     "GPN": "N/A"
   },
   {
+    "City": "Vernon",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/vernon/",
+    "Active": 6,
+    "newsletter_shortcode": "26280",
+    "facebook_link": "https://www.facebook.com/groups/5483566035287891/?ref=share&mibextid=wwXIfr&rdid=t6SaVoBlRyRsHPL2&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F19urhcLyxb%2F%3Fmibextid%3DwwXIfr",
+    "GPN": "N/A"
+  },
+  {
     "City": "North Vancouver",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/north-vancouver/",
@@ -216,6 +225,15 @@
     "GPN": "N/A"
   },
   {
+    "City": "Severn/Cumberland Beach",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/severn-pickleball/",
+    "Active": 4,
+    "newsletter_shortcode": "29372",
+    "facebook_link": "https://www.facebook.com/groups/334765084602586/?ref=share&mibextid=K35XfP&rdid=tLYBhWCupgVH9edR&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F6NvDaZmxKhNF7vUK%2F%3Fmibextid%3DK35XfP#",
+    "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region"
+  },
+  {
     "City": "North York",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/north-york-pickleball/",
@@ -241,15 +259,6 @@
     "newsletter_shortcode": "29387",
     "facebook_link": "https://www.facebook.com/groups/842175170238132/?ref=share&mibextid=K35XfP&rdid=jy0peQEAltecumMO&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FMqmFX7duatv4x1Xc%2F%3Fmibextid%3DK35XfP#",
     "GPN": "https://www.globalpickleball.network/network/register/5041-elevation-athletics-york-region"
-  },
-  {
-    "City": "Vernon",
-    "Province": "BC",
-    "PageURL": "https://bc.eapickleball.com/vernon/",
-    "Active": 3,
-    "newsletter_shortcode": "26280",
-    "facebook_link": "https://www.facebook.com/groups/5483566035287891/?ref=share&mibextid=wwXIfr&rdid=t6SaVoBlRyRsHPL2&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F19urhcLyxb%2F%3Fmibextid%3DwwXIfr",
-    "GPN": "N/A"
   },
   {
     "City": "Stoney Creek",
@@ -1510,15 +1519,6 @@
     "newsletter_shortcode": "33635",
     "facebook_link": "N/A",
     "GPN": "N/A"
-  },
-  {
-    "City": "Severn/Cumberland Beach",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/severn-pickleball/",
-    "Active": 0,
-    "newsletter_shortcode": "29372",
-    "facebook_link": "https://www.facebook.com/groups/334765084602586/?ref=share&mibextid=K35XfP&rdid=tLYBhWCupgVH9edR&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F6NvDaZmxKhNF7vUK%2F%3Fmibextid%3DK35XfP#",
-    "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region"
   },
   {
     "City": "Smiths Falls",
