@@ -3,7 +3,7 @@
     "City": "Newmarket",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/newmarket-ea-pickleball/",
-    "Active": 28,
+    "Active": 25,
     "newsletter_shortcode": "29262",
     "facebook_link": "https://www.facebook.com/groups/317253352671233",
     "GPN": "https://www.globalpickleball.network/network/register/5041-elevation-athletics-york-region"
@@ -90,6 +90,15 @@
     "GPN": "N/A"
   },
   {
+    "City": "Victoria",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/victoria/",
+    "Active": 6,
+    "newsletter_shortcode": "26288",
+    "facebook_link": "https://www.facebook.com/groups/2406625442881549/?ref=share&mibextid=NSMWBT",
+    "GPN": "N/A"
+  },
+  {
     "City": "North Vancouver",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/north-vancouver/",
@@ -132,15 +141,6 @@
     "Active": 5,
     "newsletter_shortcode": "26309",
     "facebook_link": "https://www.facebook.com/groups/1820325298455996/?rdid=lBgosXX768WHiCsL&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2Fgtyxa57TdbLx49hJ%2F#",
-    "GPN": "N/A"
-  },
-  {
-    "City": "Victoria",
-    "Province": "BC",
-    "PageURL": "https://bc.eapickleball.com/victoria/",
-    "Active": 5,
-    "newsletter_shortcode": "26288",
-    "facebook_link": "https://www.facebook.com/groups/2406625442881549/?ref=share&mibextid=NSMWBT",
     "GPN": "N/A"
   },
   {
@@ -234,6 +234,15 @@
     "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region"
   },
   {
+    "City": "Nanaimo",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/nanaimo/",
+    "Active": 4,
+    "newsletter_shortcode": "26612",
+    "facebook_link": "https://www.facebook.com/groups/1654037585375792/?rdid=ejeESd2g9V4RAhRG&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FPn8mcFec6BUgyd1G%2F#",
+    "GPN": "N/A"
+  },
+  {
     "City": "North York",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/north-york-pickleball/",
@@ -285,15 +294,6 @@
     "Active": 2,
     "newsletter_shortcode": "32083",
     "facebook_link": "https://www.facebook.com/groups/215077781695667/?ref=share",
-    "GPN": "N/A"
-  },
-  {
-    "City": "Nanaimo",
-    "Province": "BC",
-    "PageURL": "https://bc.eapickleball.com/nanaimo/",
-    "Active": 2,
-    "newsletter_shortcode": "26612",
-    "facebook_link": "https://www.facebook.com/groups/1654037585375792/?rdid=ejeESd2g9V4RAhRG&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FPn8mcFec6BUgyd1G%2F#",
     "GPN": "N/A"
   },
   {
@@ -376,6 +376,15 @@
     "newsletter_shortcode": "28749",
     "facebook_link": "https://www.facebook.com/groups/665385346374202/?ref=share&mibextid=NSMWBT",
     "GPN": "https://www.globalpickleball.network/network/register/5073-elevation-athletics-kawartha-region"
+  },
+  {
+    "City": "Maple Ridge",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/maple-ridge/",
+    "Active": 2,
+    "newsletter_shortcode": 26608,
+    "facebook_link": "N/A",
+    "GPN": "N/A"
   },
   {
     "City": "Chilliwack",
@@ -531,6 +540,15 @@
     "GPN": "https://www.globalpickleball.network/network/register/5072-elevation-athletics-huron-region"
   },
   {
+    "City": "Whitby",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/whitby-pickleball/",
+    "Active": 1,
+    "newsletter_shortcode": "29050",
+    "facebook_link": "https://www.facebook.com/groups/1865183903999282/?ref=share&mibextid=K35XfP&rdid=fBGxcnofLSiiBdMZ&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2Fspu9Vp21iTD1ig7C%2F%3Fmibextid%3DK35XfP#",
+    "GPN": "N/A"
+  },
+  {
     "City": "Kelowna",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/kelowna/",
@@ -573,15 +591,6 @@
     "Active": 0,
     "newsletter_shortcode": "N/A",
     "facebook_link": "N/A",
-    "GPN": "N/A"
-  },
-  {
-    "City": "Whitby",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/whitby-pickleball/",
-    "Active": 0,
-    "newsletter_shortcode": "29050",
-    "facebook_link": "https://www.facebook.com/groups/1865183903999282/?ref=share&mibextid=K35XfP&rdid=fBGxcnofLSiiBdMZ&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2Fspu9Vp21iTD1ig7C%2F%3Fmibextid%3DK35XfP#",
     "GPN": "N/A"
   },
   {
