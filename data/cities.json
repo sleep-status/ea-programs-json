@@ -252,6 +252,15 @@
     "GPN": "N/A"
   },
   {
+    "City": "Squamish",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/squamish/",
+    "Active": 4,
+    "newsletter_shortcode": "26629",
+    "facebook_link": "https://www.facebook.com/groups/1007891270659527/?rdid=xoJYHuKYfkUIfyke&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FW4QFDtq3pog4wd4z%2F#",
+    "GPN": "N/A"
+  },
+  {
     "City": "North York",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/north-york-pickleball/",
@@ -303,15 +312,6 @@
     "Active": 2,
     "newsletter_shortcode": "32083",
     "facebook_link": "https://www.facebook.com/groups/215077781695667/?ref=share",
-    "GPN": "N/A"
-  },
-  {
-    "City": "Squamish",
-    "Province": "BC",
-    "PageURL": "https://bc.eapickleball.com/squamish/",
-    "Active": 2,
-    "newsletter_shortcode": "26629",
-    "facebook_link": "https://www.facebook.com/groups/1007891270659527/?rdid=xoJYHuKYfkUIfyke&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FW4QFDtq3pog4wd4z%2F#",
     "GPN": "N/A"
   },
   {
