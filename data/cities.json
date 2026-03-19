@@ -18,15 +18,6 @@
     "GPN": "N/A"
   },
   {
-    "City": "Oro-Medonte",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/oro-pickleball/",
-    "Active": 13,
-    "newsletter_shortcode": "29277",
-    "facebook_link": "https://www.facebook.com/groups/640399501577372/?ref=share&mibextid=wwXIfr&rdid=jiVoiO13glz1BCUE&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F1AHXtjcrj6%2F%3Fmibextid%3DwwXIfr",
-    "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region"
-  },
-  {
     "City": "East Gwillimbury",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/east-gwillimbury-ea-pickleball",
@@ -34,6 +25,15 @@
     "newsletter_shortcode": "29015",
     "facebook_link": "https://www.facebook.com/groups/714569745927330/?ref=share",
     "GPN": "https://www.globalpickleball.network/network/register/5041-elevation-athletics-york-region"
+  },
+  {
+    "City": "Oro-Medonte",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/oro-pickleball/",
+    "Active": 9,
+    "newsletter_shortcode": "29277",
+    "facebook_link": "https://www.facebook.com/groups/640399501577372/?ref=share&mibextid=wwXIfr&rdid=jiVoiO13glz1BCUE&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F1AHXtjcrj6%2F%3Fmibextid%3DwwXIfr",
+    "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region"
   },
   {
     "City": "Caledon",
@@ -234,6 +234,33 @@
     "GPN": "N/A"
   },
   {
+    "City": "Severn/Cumberland Beach",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/severn-pickleball/",
+    "Active": 4,
+    "newsletter_shortcode": "29372",
+    "facebook_link": "https://www.facebook.com/groups/334765084602586/?ref=share&mibextid=K35XfP&rdid=tLYBhWCupgVH9edR&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F6NvDaZmxKhNF7vUK%2F%3Fmibextid%3DK35XfP#",
+    "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region"
+  },
+  {
+    "City": "Uxbridge",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/uxbridge-pickleball/",
+    "Active": 4,
+    "newsletter_shortcode": "29397",
+    "facebook_link": "https://www.facebook.com/groups/1209556549983698",
+    "GPN": "https://www.globalpickleball.network/network/register/5041-elevation-athletics-york-region"
+  },
+  {
+    "City": "Oshawa",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/oshawa-pickleball/",
+    "Active": 4,
+    "newsletter_shortcode": "29186",
+    "facebook_link": "https://www.facebook.com/groups/1865183903999282/?ref=share&mibextid=K35XfP&rdid=TPV7MigOn3PQ4lRx&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2Fspu9Vp21iTD1ig7C%2F%3Fmibextid%3DK35XfP",
+    "GPN": "N/A"
+  },
+  {
     "City": "North Vancouver",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/north-vancouver/",
@@ -279,6 +306,15 @@
     "GPN": "https://www.globalpickleball.network/network/register/5059-elevation-athletics-halton-region"
   },
   {
+    "City": "Port Perry",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/port-perry-pickleball/",
+    "Active": 3,
+    "newsletter_shortcode": "29313",
+    "facebook_link": "https://www.facebook.com/groups/1209556549983698/?ref=share",
+    "GPN": "https://www.globalpickleball.network/network/register/5041-elevation-athletics-york-region"
+  },
+  {
     "City": "Peterborough",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/peterborough-pickleball/",
@@ -286,15 +322,6 @@
     "newsletter_shortcode": "29294",
     "facebook_link": "https://www.facebook.com/groups/564816432370631",
     "GPN": "https://www.globalpickleball.network/network/register/5073-elevation-athletics-kawartha-region"
-  },
-  {
-    "City": "Severn/Cumberland Beach",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/severn-pickleball/",
-    "Active": 2,
-    "newsletter_shortcode": "29372",
-    "facebook_link": "https://www.facebook.com/groups/334765084602586/?ref=share&mibextid=K35XfP&rdid=tLYBhWCupgVH9edR&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F6NvDaZmxKhNF7vUK%2F%3Fmibextid%3DK35XfP#",
-    "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region"
   },
   {
     "City": "Perth",
@@ -342,15 +369,6 @@
     "GPN": "https://www.globalpickleball.network/network/register/5073-elevation-athletics-kawartha-region"
   },
   {
-    "City": "Port Perry",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/port-perry-pickleball/",
-    "Active": 2,
-    "newsletter_shortcode": "29313",
-    "facebook_link": "https://www.facebook.com/groups/1209556549983698/?ref=share",
-    "GPN": "https://www.globalpickleball.network/network/register/5041-elevation-athletics-york-region"
-  },
-  {
     "City": "Richmond Hill",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/richmond-hill-pickleball-league/",
@@ -367,15 +385,6 @@
     "newsletter_shortcode": "N/A",
     "facebook_link": "N/A",
     "GPN": "N/A"
-  },
-  {
-    "City": "Uxbridge",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/uxbridge-pickleball/",
-    "Active": 2,
-    "newsletter_shortcode": "29397",
-    "facebook_link": "https://www.facebook.com/groups/1209556549983698",
-    "GPN": "https://www.globalpickleball.network/network/register/5041-elevation-athletics-york-region"
   },
   {
     "City": "Cobourg",
@@ -396,19 +405,10 @@
     "GPN": "N/A"
   },
   {
-    "City": "Oshawa",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/oshawa-pickleball/",
-    "Active": 2,
-    "newsletter_shortcode": "29186",
-    "facebook_link": "https://www.facebook.com/groups/1865183903999282/?ref=share&mibextid=K35XfP&rdid=TPV7MigOn3PQ4lRx&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2Fspu9Vp21iTD1ig7C%2F%3Fmibextid%3DK35XfP",
-    "GPN": "N/A"
-  },
-  {
     "City": "Chilliwack",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/chilliwack/",
-    "Active": 1,
+    "Active": 2,
     "newsletter_shortcode": "26600",
     "facebook_link": "https://www.facebook.com/profile.php?id=61563238815205&mibextid=qi2Omg&rdid=Z6UE124lon6d3Adt&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2FiavcBgWvWm7sQTpL%2F%3Fmibextid%3Dqi2Omg#",
     "GPN": "N/A"
