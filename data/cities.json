@@ -1,33 +1,42 @@
 [
   {
-    "`": "Newmarket",
+    "City": "Newmarket",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/newmarket-ea-pickleball/",
-    "Active": 14,
+    "Active": 19,
     "newsletter_shortcode": "29262",
     "facebook_link": "https://www.facebook.com/groups/317253352671233",
     "GPN": "https://www.globalpickleball.network/network/register/5041-elevation-athletics-york-region"
   },
   {
-    "`": "Aurora",
+    "City": "Aurora",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/aurora/",
-    "Active": 10,
+    "Active": 14,
     "newsletter_shortcode": "32811",
     "facebook_link": "https://www.facebook.com/groups/3971699213072295/",
     "GPN": "N/A"
   },
   {
-    "`": "East Gwillimbury",
+    "City": "East Gwillimbury",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/east-gwillimbury-ea-pickleball",
-    "Active": 10,
+    "Active": 11,
     "newsletter_shortcode": "29015",
     "facebook_link": "https://www.facebook.com/groups/714569745927330/?ref=share",
     "GPN": "https://www.globalpickleball.network/network/register/5041-elevation-athletics-york-region"
   },
   {
-    "`": "Oshawa",
+    "City": "Oro-Medonte",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/oro-pickleball/",
+    "Active": 9,
+    "newsletter_shortcode": "29277",
+    "facebook_link": "https://www.facebook.com/groups/640399501577372/?ref=share&mibextid=wwXIfr&rdid=jiVoiO13glz1BCUE&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F1AHXtjcrj6%2F%3Fmibextid%3DwwXIfr",
+    "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region"
+  },
+  {
+    "City": "Oshawa",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/oshawa-pickleball/",
     "Active": 9,
@@ -36,25 +45,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Test Bubble",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/test-bubble",
-    "Active": 0,
-    "newsletter_shortcode": "21926",
-    "facebook_link": "N/A",
-    "GPN": "https://www.globalpickleball.network/network/register/5060-elevation-athletics-southwestern-ontario"
-  },
-  {
-    "`": "Oro-Medonte",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/oro-pickleball/",
-    "Active": 7,
-    "newsletter_shortcode": "29277",
-    "facebook_link": "https://www.facebook.com/groups/640399501577372/?ref=share&mibextid=wwXIfr&rdid=jiVoiO13glz1BCUE&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F1AHXtjcrj6%2F%3Fmibextid%3DwwXIfr",
-    "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region"
-  },
-  {
-    "`": "Caledon",
+    "City": "Caledon",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/caledon-pickleball-league/",
     "Active": 7,
@@ -63,7 +54,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5041-elevation-athletics-york-region"
   },
   {
-    "`": "King City",
+    "City": "King City",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/king-city-pickleball/",
     "Active": 7,
@@ -72,7 +63,16 @@
     "GPN": "N/A"
   },
   {
-    "`": "Coquitlam",
+    "City": "Lanark County",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/lanark-county/",
+    "Active": 7,
+    "newsletter_shortcode": "N/A",
+    "facebook_link": "N/A",
+    "GPN": "N/A"
+  },
+  {
+    "City": "Coquitlam",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/coquitlam/",
     "Active": 7,
@@ -81,16 +81,16 @@
     "GPN": "N/A"
   },
   {
-    "`": "Keswick",
+    "City": "Keswick",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/keswick-pickleball/",
-    "Active": 7,
+    "Active": 6,
     "newsletter_shortcode": "29030",
     "facebook_link": "https://www.facebook.com/groups/842175170238132/permalink/1060538278401819/?mibextid=W9rl1R",
     "GPN": "https://www.globalpickleball.network/network/register/5041-elevation-athletics-york-region"
   },
   {
-    "`": "Vernon",
+    "City": "Vernon",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/vernon/",
     "Active": 6,
@@ -99,7 +99,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Terrace",
+    "City": "Terrace",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/terrace/",
     "Active": 6,
@@ -108,16 +108,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Lanark County",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/lanark-county/",
-    "Active": 5,
-    "newsletter_shortcode": "N/A",
-    "facebook_link": "N/A",
-    "GPN": "N/A"
-  },
-  {
-    "`": "Victoria",
+    "City": "Victoria",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/victoria/",
     "Active": 5,
@@ -126,7 +117,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Kamloops",
+    "City": "Kamloops",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/kamloops/",
     "Active": 5,
@@ -135,16 +126,16 @@
     "GPN": "N/A"
   },
   {
-    "`": "Uxbridge",
+    "City": "Uxbridge",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/uxbridge-pickleball/",
-    "Active": 4,
+    "Active": 5,
     "newsletter_shortcode": "29397",
     "facebook_link": "https://www.facebook.com/groups/1209556549983698",
     "GPN": "https://www.globalpickleball.network/network/register/5041-elevation-athletics-york-region"
   },
   {
-    "`": "Almonte",
+    "City": "Almonte",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/lanark-county/",
     "Active": 4,
@@ -153,7 +144,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Courtice",
+    "City": "Courtice",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/courtice-pickleball/",
     "Active": 4,
@@ -162,7 +153,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Ottawa",
+    "City": "Ottawa",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/ottawa-pickleball/",
     "Active": 4,
@@ -171,7 +162,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5071-elevation-athletics-gta"
   },
   {
-    "`": "Prince George",
+    "City": "Prince George",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/prince-george/",
     "Active": 4,
@@ -180,7 +171,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Bolton",
+    "City": "Bolton",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/bolton-pickleball/",
     "Active": 4,
@@ -189,7 +180,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5041-elevation-athletics-york-region"
   },
   {
-    "`": "Wasaga Beach",
+    "City": "Wasaga Beach",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/wasaga-beach/",
     "Active": 4,
@@ -198,7 +189,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region"
   },
   {
-    "`": "Brampton",
+    "City": "Brampton",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/brampton-pickleball/",
     "Active": 4,
@@ -207,7 +198,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5071-elevation-athletics-gta"
   },
   {
-    "`": "Cambridge",
+    "City": "Cambridge",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/cambridgepickleball/",
     "Active": 4,
@@ -216,7 +207,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5072-elevation-athletics-huron-region"
   },
   {
-    "`": "Bowmanville",
+    "City": "Bowmanville",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/bowmanville-pickleball/",
     "Active": 4,
@@ -225,7 +216,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Nanaimo",
+    "City": "Nanaimo",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/nanaimo/",
     "Active": 4,
@@ -234,7 +225,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Surrey",
+    "City": "Surrey",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/surrey/",
     "Active": 4,
@@ -243,7 +234,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Squamish",
+    "City": "Squamish",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/squamish/",
     "Active": 4,
@@ -252,7 +243,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Severn/Cumberland Beach",
+    "City": "Severn/Cumberland Beach",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/severn-pickleball/",
     "Active": 4,
@@ -261,7 +252,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region"
   },
   {
-    "`": "North Vancouver",
+    "City": "North Vancouver",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/north-vancouver/",
     "Active": 3,
@@ -270,7 +261,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "North York",
+    "City": "North York",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/north-york-pickleball/",
     "Active": 3,
@@ -279,7 +270,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5071-elevation-athletics-gta"
   },
   {
-    "`": "Guelph",
+    "City": "Guelph",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/guelph-pickleball/",
     "Active": 3,
@@ -288,7 +279,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5072-elevation-athletics-huron-region"
   },
   {
-    "`": "Sutton",
+    "City": "Sutton",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/sutton-pickleball-2/",
     "Active": 3,
@@ -297,7 +288,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5041-elevation-athletics-york-region"
   },
   {
-    "`": "Stoney Creek",
+    "City": "Stoney Creek",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/stoney-creek/",
     "Active": 3,
@@ -306,25 +297,16 @@
     "GPN": "https://www.globalpickleball.network/network/register/5059-elevation-athletics-halton-region"
   },
   {
-    "`": "Bradford",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/bradford-pickleball-league/",
-    "Active": 3,
-    "newsletter_shortcode": "28980",
-    "facebook_link": "https://www.facebook.com/groups/5620896011352781",
-    "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region"
-  },
-  {
-    "`": "Port Perry",
+    "City": "Port Perry",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/port-perry-pickleball/",
-    "Active": 2,
+    "Active": 3,
     "newsletter_shortcode": "29313",
     "facebook_link": "https://www.facebook.com/groups/1209556549983698/?ref=share",
     "GPN": "https://www.globalpickleball.network/network/register/5041-elevation-athletics-york-region"
   },
   {
-    "`": "Newcastle",
+    "City": "Newcastle",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/newcastle-pickleball/",
     "Active": 2,
@@ -333,7 +315,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Peterborough",
+    "City": "Peterborough",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/peterborough-pickleball/",
     "Active": 2,
@@ -342,7 +324,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5073-elevation-athletics-kawartha-region"
   },
   {
-    "`": "Alliston",
+    "City": "Alliston",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/alliston-pickleball/",
     "Active": 2,
@@ -351,7 +333,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Truro",
+    "City": "Truro",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/truro/",
     "Active": 2,
@@ -360,7 +342,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Kitchener",
+    "City": "Kitchener",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/kitchener-pickleball/",
     "Active": 2,
@@ -369,7 +351,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5072-elevation-athletics-huron-region"
   },
   {
-    "`": "Lakefield",
+    "City": "Lakefield",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/lakefield-pickleball/",
     "Active": 2,
@@ -378,7 +360,25 @@
     "GPN": "https://www.globalpickleball.network/network/register/5073-elevation-athletics-kawartha-region"
   },
   {
-    "`": "Maple Ridge",
+    "City": "Richmond Hill",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/richmond-hill-pickleball-league/",
+    "Active": 2,
+    "newsletter_shortcode": "27861",
+    "facebook_link": "https://www.facebook.com/groups/317253352671233",
+    "GPN": "N/A"
+  },
+  {
+    "City": "Stayner",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/stayner/",
+    "Active": 2,
+    "newsletter_shortcode": "N/A",
+    "facebook_link": "N/A",
+    "GPN": "N/A"
+  },
+  {
+    "City": "Maple Ridge",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/maple-ridge/",
     "Active": 2,
@@ -387,7 +387,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Chilliwack",
+    "City": "Chilliwack",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/chilliwack/",
     "Active": 2,
@@ -396,25 +396,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Richmond Hill",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/richmond-hill-pickleball-league/",
-    "Active": 1,
-    "newsletter_shortcode": "27861",
-    "facebook_link": "https://www.facebook.com/groups/317253352671233",
-    "GPN": "N/A"
-  },
-  {
-    "`": "Stayner",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/stayner/",
-    "Active": 1,
-    "newsletter_shortcode": "N/A",
-    "facebook_link": "N/A",
-    "GPN": "N/A"
-  },
-  {
-    "`": "Perth",
+    "City": "Perth",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/lanark-county/",
     "Active": 1,
@@ -423,7 +405,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Windsor, NS",
+    "City": "Windsor, NS",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/windsor-ns/",
     "Active": 1,
@@ -432,7 +414,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Port Colborne",
+    "City": "Port Colborne",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/port-colborne-pickleball/",
     "Active": 1,
@@ -441,7 +423,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5074-elevation-athletics-niagara-region"
   },
   {
-    "`": "Burnaby",
+    "City": "Burnaby",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/burnaby",
     "Active": 1,
@@ -450,7 +432,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Richmond",
+    "City": "Richmond",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/richmond",
     "Active": 1,
@@ -459,7 +441,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Sooke",
+    "City": "Sooke",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/sooke/",
     "Active": 1,
@@ -468,7 +450,25 @@
     "GPN": "N/A"
   },
   {
-    "`": "Hanover",
+    "City": "Saint John",
+    "Province": "NB",
+    "PageURL": "https://eapickleball.com/saint-john/",
+    "Active": 1,
+    "newsletter_shortcode": "31929",
+    "facebook_link": "https://www.facebook.com/groups/1123890066311354",
+    "GPN": "N/A"
+  },
+  {
+    "City": "New Waterford",
+    "Province": "NS",
+    "PageURL": "https://eapickleball.com/new-waterford/",
+    "Active": 1,
+    "newsletter_shortcode": "39697",
+    "facebook_link": "https://www.facebook.com/groups/1198939842101795/?ref=share&mibextid=NSMWBT",
+    "GPN": "N/A"
+  },
+  {
+    "City": "Hanover",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/hanover/",
     "Active": 1,
@@ -477,7 +477,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region"
   },
   {
-    "`": "Kincardine",
+    "City": "Kincardine",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/kincardine-pickleball/",
     "Active": 1,
@@ -486,7 +486,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region"
   },
   {
-    "`": "Port Hope",
+    "City": "Port Hope",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/port-hope/",
     "Active": 1,
@@ -495,7 +495,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5073-elevation-athletics-kawartha-region"
   },
   {
-    "`": "Stirling",
+    "City": "Stirling",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/stirling/",
     "Active": 1,
@@ -504,7 +504,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Stouffville",
+    "City": "Stouffville",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/stouffvillepickleball/",
     "Active": 1,
@@ -513,7 +513,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5041-elevation-athletics-york-region"
   },
   {
-    "`": "Waterloo",
+    "City": "Waterloo",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/waterloo-pickleball/",
     "Active": 1,
@@ -522,7 +522,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5072-elevation-athletics-huron-region"
   },
   {
-    "`": "Whitby",
+    "City": "Whitby",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/whitby-pickleball/",
     "Active": 1,
@@ -531,25 +531,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Saint John",
-    "Province": "NB",
-    "PageURL": "https://eapickleball.com/saint-john/",
-    "Active": 0,
-    "newsletter_shortcode": "31929",
-    "facebook_link": "https://www.facebook.com/groups/1123890066311354",
-    "GPN": "N/A"
-  },
-  {
-    "`": "New Waterford",
-    "Province": "NS",
-    "PageURL": "https://eapickleball.com/new-waterford/",
-    "Active": 0,
-    "newsletter_shortcode": "39697",
-    "facebook_link": "https://www.facebook.com/groups/1198939842101795/?ref=share&mibextid=NSMWBT",
-    "GPN": "N/A"
-  },
-  {
-    "`": "Cobourg",
+    "City": "Cobourg",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/cobourg/",
     "Active": 0,
@@ -558,7 +540,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5073-elevation-athletics-kawartha-region"
   },
   {
-    "`": "Bracebridge",
+    "City": "Bracebridge",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/bracebridge-pickleball/",
     "Active": 0,
@@ -567,7 +549,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5070-elevation-athletics-muskoka-region"
   },
   {
-    "`": "New Glasgow",
+    "City": "New Glasgow",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/new-glasgow/",
     "Active": 0,
@@ -576,7 +558,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Kelowna",
+    "City": "Kelowna",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/kelowna/",
     "Active": 0,
@@ -585,7 +567,16 @@
     "GPN": "N/A"
   },
   {
-    "`": "Vaughan",
+    "City": "Bradford",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/bradford-pickleball-league/",
+    "Active": 0,
+    "newsletter_shortcode": "28980",
+    "facebook_link": "https://www.facebook.com/groups/5620896011352781",
+    "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region"
+  },
+  {
+    "City": "Vaughan",
     "Province": "ON",
     "PageURL": "http://eapickleball.com/vaughan/",
     "Active": 0,
@@ -594,7 +585,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Fairgrounds",
+    "City": "Fairgrounds",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/fairgrounds/",
     "Active": 0,
@@ -603,7 +594,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Chester",
+    "City": "Chester",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/chester/",
     "Active": 0,
@@ -612,7 +603,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Emsdale",
+    "City": "Emsdale",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/emsdale/",
     "Active": 0,
@@ -621,7 +612,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Airdrie",
+    "City": "Airdrie",
     "Province": "AB",
     "PageURL": "https://eapickleball.com/ab-airdrie/",
     "Active": 0,
@@ -630,7 +621,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Calgary",
+    "City": "Calgary",
     "Province": "AB",
     "PageURL": "https://eapickleball.com/ab-calgary/",
     "Active": 0,
@@ -639,7 +630,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Chestermere",
+    "City": "Chestermere",
     "Province": "AB",
     "PageURL": "https://eapickleball.com/ab-chestermere/",
     "Active": 0,
@@ -648,7 +639,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Cochrane",
+    "City": "Cochrane",
     "Province": "AB",
     "PageURL": "https://eapickleball.com/ab-cochrane/",
     "Active": 0,
@@ -657,7 +648,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Edmonton",
+    "City": "Edmonton",
     "Province": "AB",
     "PageURL": "https://eapickleball.com/ab-edmonton/",
     "Active": 0,
@@ -666,7 +657,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Grande Prairie",
+    "City": "Grande Prairie",
     "Province": "AB",
     "PageURL": "https://eapickleball.com/ab-grande-prairie/",
     "Active": 0,
@@ -675,7 +666,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Leduc",
+    "City": "Leduc",
     "Province": "AB",
     "PageURL": "https://eapickleball.com/ab-leduc/",
     "Active": 0,
@@ -684,7 +675,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Lethbridge",
+    "City": "Lethbridge",
     "Province": "AB",
     "PageURL": "https://eapickleball.com/ab-lethbridge/",
     "Active": 0,
@@ -693,7 +684,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Medicine Hat",
+    "City": "Medicine Hat",
     "Province": "AB",
     "PageURL": "https://eapickleball.com/ab-medicine-hat/",
     "Active": 0,
@@ -702,7 +693,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Okotoks",
+    "City": "Okotoks",
     "Province": "AB",
     "PageURL": "https://eapickleball.com/ab-okotoks/",
     "Active": 0,
@@ -711,7 +702,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Red Deer",
+    "City": "Red Deer",
     "Province": "AB",
     "PageURL": "https://eapickleball.com/ab-red-deer/",
     "Active": 0,
@@ -720,7 +711,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Spruce Grove",
+    "City": "Spruce Grove",
     "Province": "AB",
     "PageURL": "https://eapickleball.com/ab-spruce-grove/",
     "Active": 0,
@@ -729,7 +720,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "St. Albert",
+    "City": "St. Albert",
     "Province": "AB",
     "PageURL": "https://eapickleball.com/ab-st-albert/",
     "Active": 0,
@@ -738,7 +729,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Strathcona County",
+    "City": "Strathcona County",
     "Province": "AB",
     "PageURL": "https://eapickleball.com/ab-strathcona-county/",
     "Active": 0,
@@ -747,7 +738,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Wood Buffalo",
+    "City": "Wood Buffalo",
     "Province": "AB",
     "PageURL": "https://eapickleball.com/ab-wood-buffalo/",
     "Active": 0,
@@ -756,7 +747,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Abbotsford",
+    "City": "Abbotsford",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/abbotsford/",
     "Active": 0,
@@ -765,7 +756,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Brandon",
+    "City": "Brandon",
     "Province": "MB",
     "PageURL": "https://eapickleball.com/brandon/",
     "Active": 0,
@@ -774,7 +765,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Gimli",
+    "City": "Gimli",
     "Province": "MB",
     "PageURL": "https://eapickleball.com/gimli/",
     "Active": 0,
@@ -783,7 +774,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Niverville",
+    "City": "Niverville",
     "Province": "MB",
     "PageURL": "https://eapickleball.com/niverville/",
     "Active": 0,
@@ -792,7 +783,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Portage la Prairie",
+    "City": "Portage la Prairie",
     "Province": "MB",
     "PageURL": "https://eapickleball.com/portage-la-prairie/",
     "Active": 0,
@@ -801,7 +792,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Selkirk",
+    "City": "Selkirk",
     "Province": "MB",
     "PageURL": "https://eapickleball.com/selkirk/",
     "Active": 0,
@@ -810,7 +801,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Springfield",
+    "City": "Springfield",
     "Province": "MB",
     "PageURL": "https://eapickleball.com/springfield/",
     "Active": 0,
@@ -819,7 +810,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "St. Andrews",
+    "City": "St. Andrews",
     "Province": "MB",
     "PageURL": "https://eapickleball.com/st-andrews/",
     "Active": 0,
@@ -828,7 +819,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "St.Clements",
+    "City": "St.Clements",
     "Province": "MB",
     "PageURL": "https://eapickleball.com/st-clements/",
     "Active": 0,
@@ -837,7 +828,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Steinbach",
+    "City": "Steinbach",
     "Province": "MB",
     "PageURL": "https://eapickleball.com/steinbach/",
     "Active": 0,
@@ -846,7 +837,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Swan River",
+    "City": "Swan River",
     "Province": "MB",
     "PageURL": "https://eapickleball.com/swan-river/",
     "Active": 0,
@@ -855,7 +846,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Tache",
+    "City": "Tache",
     "Province": "MB",
     "PageURL": "https://eapickleball.com/tache/",
     "Active": 0,
@@ -864,7 +855,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Thompson",
+    "City": "Thompson",
     "Province": "MB",
     "PageURL": "https://eapickleball.com/thompson/",
     "Active": 0,
@@ -873,7 +864,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Winkler",
+    "City": "Winkler",
     "Province": "MB",
     "PageURL": "https://eapickleball.com/winkler/",
     "Active": 0,
@@ -882,7 +873,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Winnipeg",
+    "City": "Winnipeg",
     "Province": "MB",
     "PageURL": "https://eapickleball.com/winnipeg/",
     "Active": 0,
@@ -891,7 +882,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Bathurst",
+    "City": "Bathurst",
     "Province": "NB",
     "PageURL": "https://eapickleball.com/bathurst/",
     "Active": 0,
@@ -900,7 +891,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Dieppe",
+    "City": "Dieppe",
     "Province": "NB",
     "PageURL": "https://eapickleball.com/dieppe/",
     "Active": 0,
@@ -909,7 +900,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Edmundston",
+    "City": "Edmundston",
     "Province": "NB",
     "PageURL": "https://eapickleball.com/edmundston/",
     "Active": 0,
@@ -918,7 +909,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Fredericton",
+    "City": "Fredericton",
     "Province": "NB",
     "PageURL": "https://eapickleball.com/fredericton/",
     "Active": 0,
@@ -927,7 +918,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Miramichi",
+    "City": "Miramichi",
     "Province": "NB",
     "PageURL": "https://eapickleball.com/miramichi/",
     "Active": 0,
@@ -936,7 +927,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Moncton",
+    "City": "Moncton",
     "Province": "NB",
     "PageURL": "https://eapickleball.com/moncton/",
     "Active": 0,
@@ -945,7 +936,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Quispamsis",
+    "City": "Quispamsis",
     "Province": "NB",
     "PageURL": "https://eapickleball.com/quispamsis/",
     "Active": 0,
@@ -954,7 +945,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Riverview",
+    "City": "Riverview",
     "Province": "NB",
     "PageURL": "https://eapickleball.com/riverview/",
     "Active": 0,
@@ -963,7 +954,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Tracadie",
+    "City": "Tracadie",
     "Province": "NB",
     "PageURL": "https://eapickleball.com/tracadie/",
     "Active": 0,
@@ -972,7 +963,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Conception Bay South",
+    "City": "Conception Bay South",
     "Province": "NF",
     "PageURL": "https://eapickleball.com/nl-conception-bay-south/",
     "Active": 0,
@@ -981,7 +972,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Corner Brook",
+    "City": "Corner Brook",
     "Province": "NF",
     "PageURL": "https://eapickleball.com/nl-corner-brook/",
     "Active": 0,
@@ -990,7 +981,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Gander",
+    "City": "Gander",
     "Province": "NF",
     "PageURL": "https://eapickleball.com/nl-gander/",
     "Active": 0,
@@ -999,7 +990,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Grand Falls-Windsor",
+    "City": "Grand Falls-Windsor",
     "Province": "NF",
     "PageURL": "https://eapickleball.com/nl-grand-falls-windsor/",
     "Active": 0,
@@ -1008,7 +999,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Happy Valley-Goose Bay",
+    "City": "Happy Valley-Goose Bay",
     "Province": "NF",
     "PageURL": "https://eapickleball.com/nl-happy-valley-goose-bay/",
     "Active": 0,
@@ -1017,7 +1008,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Mount Pearl",
+    "City": "Mount Pearl",
     "Province": "NF",
     "PageURL": "https://eapickleball.com/nl-mount-pearl/",
     "Active": 0,
@@ -1026,7 +1017,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Paradise",
+    "City": "Paradise",
     "Province": "NF",
     "PageURL": "https://eapickleball.com/nl-paradise/",
     "Active": 0,
@@ -1035,7 +1026,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Portugal Cove-St. Philips",
+    "City": "Portugal Cove-St. Philips",
     "Province": "NF",
     "PageURL": "https://eapickleball.com/nl-portugal-cove-st-philips/",
     "Active": 0,
@@ -1044,7 +1035,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "St. Johns",
+    "City": "St. Johns",
     "Province": "NF",
     "PageURL": "https://eapickleball.com/nl-st-johns/",
     "Active": 0,
@@ -1053,7 +1044,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Torbay",
+    "City": "Torbay",
     "Province": "NF",
     "PageURL": "https://eapickleball.com/nl-torbay/",
     "Active": 0,
@@ -1062,7 +1053,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Bedford",
+    "City": "Bedford",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/bedford/",
     "Active": 0,
@@ -1071,7 +1062,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Bridgewater",
+    "City": "Bridgewater",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/bridgewater/",
     "Active": 0,
@@ -1080,7 +1071,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Brookside",
+    "City": "Brookside",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/brookside/",
     "Active": 0,
@@ -1089,7 +1080,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Cole Harbour",
+    "City": "Cole Harbour",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/cole-harbour/",
     "Active": 0,
@@ -1098,7 +1089,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Dartmouth",
+    "City": "Dartmouth",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/dartmouth/",
     "Active": 0,
@@ -1107,7 +1098,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Halifax",
+    "City": "Halifax",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/halifax/",
     "Active": 0,
@@ -1116,7 +1107,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Kentville",
+    "City": "Kentville",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/kentville/",
     "Active": 0,
@@ -1125,7 +1116,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Lawrencetown",
+    "City": "Lawrencetown",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/lawrencetown/",
     "Active": 0,
@@ -1134,7 +1125,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Sackville",
+    "City": "Sackville",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/sackville/",
     "Active": 0,
@@ -1143,7 +1134,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Spryfield",
+    "City": "Spryfield",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/spryfield/",
     "Active": 0,
@@ -1152,7 +1143,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "West Northfield",
+    "City": "West Northfield",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/west-northfield/",
     "Active": 0,
@@ -1161,7 +1152,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Wolfville",
+    "City": "Wolfville",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/wolfville/",
     "Active": 0,
@@ -1170,7 +1161,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Ancaster",
+    "City": "Ancaster",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/ancaster/",
     "Active": 0,
@@ -1179,7 +1170,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5059-elevation-athletics-halton-region"
   },
   {
-    "`": "Arnprior",
+    "City": "Arnprior",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/arnprior-pickleball/",
     "Active": 0,
@@ -1188,7 +1179,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5068-elevation-athletics-haliburton-highlands"
   },
   {
-    "`": "Barrie",
+    "City": "Barrie",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/barrie-pickleball-2/",
     "Active": 0,
@@ -1197,7 +1188,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region"
   },
   {
-    "`": "Beckwith",
+    "City": "Beckwith",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/lanark-county/",
     "Active": 0,
@@ -1206,7 +1197,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Belleville",
+    "City": "Belleville",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/belleville/",
     "Active": 0,
@@ -1215,7 +1206,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5069-elevation-athletics-southeastern-ontario"
   },
   {
-    "`": "Burlington",
+    "City": "Burlington",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/burlington/",
     "Active": 0,
@@ -1224,7 +1215,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5059-elevation-athletics-halton-region"
   },
   {
-    "`": "Campbellville",
+    "City": "Campbellville",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/campbellville",
     "Active": 0,
@@ -1233,7 +1224,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Cannington",
+    "City": "Cannington",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/cannington-pickleball/",
     "Active": 0,
@@ -1242,7 +1233,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5041-elevation-athletics-york-region"
   },
   {
-    "`": "Carleton Place",
+    "City": "Carleton Place",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/lanark-county/",
     "Active": 0,
@@ -1251,7 +1242,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Clarington",
+    "City": "Clarington",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/durham-clarington-pickleball/",
     "Active": 0,
@@ -1260,7 +1251,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region"
   },
   {
-    "`": "Clinton",
+    "City": "Clinton",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/clinton/",
     "Active": 0,
@@ -1269,7 +1260,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Cornwall",
+    "City": "Cornwall",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/cornwall/",
     "Active": 0,
@@ -1278,7 +1269,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Dundas",
+    "City": "Dundas",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/dundas/",
     "Active": 0,
@@ -1287,7 +1278,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Durham",
+    "City": "Durham",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/durham-pickleball/",
     "Active": 0,
@@ -1296,7 +1287,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Fonthill",
+    "City": "Fonthill",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/fonthill/",
     "Active": 0,
@@ -1305,7 +1296,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Gravenhurst",
+    "City": "Gravenhurst",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/gravenhurst/",
     "Active": 0,
@@ -1314,7 +1305,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5070-elevation-athletics-muskoka-region"
   },
   {
-    "`": "Grimsby",
+    "City": "Grimsby",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/grimsby/",
     "Active": 0,
@@ -1323,7 +1314,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5074-elevation-athletics-niagara-region"
   },
   {
-    "`": "Hamilton",
+    "City": "Hamilton",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/hamilton/",
     "Active": 0,
@@ -1332,7 +1323,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5059-elevation-athletics-halton-region"
   },
   {
-    "`": "Innisfil",
+    "City": "Innisfil",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/innisfil-pickleball/",
     "Active": 0,
@@ -1341,7 +1332,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region"
   },
   {
-    "`": "Lanark",
+    "City": "Lanark",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/lanark-county/",
     "Active": 0,
@@ -1350,7 +1341,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Lindsay",
+    "City": "Lindsay",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/lindsay-pickleball/",
     "Active": 0,
@@ -1359,7 +1350,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5073-elevation-athletics-kawartha-region"
   },
   {
-    "`": "London",
+    "City": "London",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/london/",
     "Active": 0,
@@ -1368,7 +1359,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5060-elevation-athletics-southwestern-ontario"
   },
   {
-    "`": "Markdale",
+    "City": "Markdale",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/markdale/",
     "Active": 0,
@@ -1377,7 +1368,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Midland",
+    "City": "Midland",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/midland-pickleball/",
     "Active": 0,
@@ -1386,7 +1377,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region"
   },
   {
-    "`": "Milton",
+    "City": "Milton",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/milton/",
     "Active": 0,
@@ -1395,7 +1386,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5059-elevation-athletics-halton-region"
   },
   {
-    "`": "Niagara",
+    "City": "Niagara",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/niagara-pickleball/",
     "Active": 0,
@@ -1404,7 +1395,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5074-elevation-athletics-niagara-region"
   },
   {
-    "`": "North Bay",
+    "City": "North Bay",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/north-bay/",
     "Active": 0,
@@ -1413,7 +1404,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5075-elevation-athletics-northeastern-ontario"
   },
   {
-    "`": "North Perth",
+    "City": "North Perth",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/north-perth/",
     "Active": 0,
@@ -1422,7 +1413,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region"
   },
   {
-    "`": "Norwood",
+    "City": "Norwood",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/norwood-pickleball/",
     "Active": 0,
@@ -1431,7 +1422,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5073-elevation-athletics-kawartha-region"
   },
   {
-    "`": "Oakville",
+    "City": "Oakville",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/oakville",
     "Active": 0,
@@ -1440,7 +1431,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Orangeville",
+    "City": "Orangeville",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/orangeville-2/",
     "Active": 0,
@@ -1449,7 +1440,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5041-elevation-athletics-york-region"
   },
   {
-    "`": "Owen Sound",
+    "City": "Owen Sound",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/owensound-pickleball/",
     "Active": 0,
@@ -1458,7 +1449,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region"
   },
   {
-    "`": "Pakenham",
+    "City": "Pakenham",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/lanark-county/",
     "Active": 0,
@@ -1467,7 +1458,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Parry Sound",
+    "City": "Parry Sound",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/parry-sound/",
     "Active": 0,
@@ -1476,7 +1467,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5070-elevation-athletics-muskoka-region"
   },
   {
-    "`": "Pickering",
+    "City": "Pickering",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/pickering-pickleball/",
     "Active": 0,
@@ -1485,7 +1476,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Picton",
+    "City": "Picton",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/picton/",
     "Active": 0,
@@ -1494,7 +1485,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Port Dover",
+    "City": "Port Dover",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/port-dover/",
     "Active": 0,
@@ -1503,7 +1494,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5060-elevation-athletics-southwestern-ontario"
   },
   {
-    "`": "Port Elgin",
+    "City": "Port Elgin",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/port-elgin-pickleball",
     "Active": 0,
@@ -1512,7 +1503,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region"
   },
   {
-    "`": "Powassan",
+    "City": "Powassan",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/powassan/",
     "Active": 0,
@@ -1521,7 +1512,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Renfrew",
+    "City": "Renfrew",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/renfrew-pickleball/",
     "Active": 0,
@@ -1530,7 +1521,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5068-elevation-athletics-haliburton-highlands"
   },
   {
-    "`": "Ridgeway",
+    "City": "Ridgeway",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/ridgeway",
     "Active": 0,
@@ -1539,7 +1530,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Smiths Falls",
+    "City": "Smiths Falls",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/lanark-county/",
     "Active": 0,
@@ -1548,7 +1539,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "South River",
+    "City": "South River",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/south-river/",
     "Active": 0,
@@ -1557,7 +1548,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Springwater/Minesing",
+    "City": "Springwater/Minesing",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/springwater-pickleball-2/",
     "Active": 0,
@@ -1566,7 +1557,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region"
   },
   {
-    "`": "St Catharines",
+    "City": "St Catharines",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/st-catharines/",
     "Active": 0,
@@ -1575,7 +1566,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5074-elevation-athletics-niagara-region"
   },
   {
-    "`": "St Thomas",
+    "City": "St Thomas",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/st-thomas/",
     "Active": 0,
@@ -1584,7 +1575,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5060-elevation-athletics-southwestern-ontario"
   },
   {
-    "`": "Stratford",
+    "City": "Stratford",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/stratford/",
     "Active": 0,
@@ -1593,7 +1584,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Sudbury",
+    "City": "Sudbury",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/sudbury/",
     "Active": 0,
@@ -1602,7 +1593,16 @@
     "GPN": "N/A"
   },
   {
-    "`": "Thornhill",
+    "City": "Test Bubble",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/test-bubble",
+    "Active": 0,
+    "newsletter_shortcode": "21926",
+    "facebook_link": "N/A",
+    "GPN": "https://www.globalpickleball.network/network/register/5060-elevation-athletics-southwestern-ontario"
+  },
+  {
+    "City": "Thornhill",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/thornhill/",
     "Active": 0,
@@ -1611,7 +1611,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5041-elevation-athletics-york-region"
   },
   {
-    "`": "Tillsonburg",
+    "City": "Tillsonburg",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/tillsonburg/",
     "Active": 0,
@@ -1620,7 +1620,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5060-elevation-athletics-southwestern-ontario"
   },
   {
-    "`": "Tottenham",
+    "City": "Tottenham",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/tottenham-pickleball/",
     "Active": 0,
@@ -1629,7 +1629,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5068-elevation-athletics-haliburton-highlands"
   },
   {
-    "`": "Trenton",
+    "City": "Trenton",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/trenton/",
     "Active": 0,
@@ -1638,7 +1638,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "West Grey",
+    "City": "West Grey",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/west-grey/",
     "Active": 0,
@@ -1647,7 +1647,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Windsor",
+    "City": "Windsor",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/windsor/",
     "Active": 0,
@@ -1656,7 +1656,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5060-elevation-athletics-southwestern-ontario"
   },
   {
-    "`": "Woodstock",
+    "City": "Woodstock",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/woodstock/",
     "Active": 0,
@@ -1665,7 +1665,7 @@
     "GPN": "https://www.globalpickleball.network/network/register/5060-elevation-athletics-southwestern-ontario"
   },
   {
-    "`": "Alma",
+    "City": "Alma",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/alma/",
     "Active": 0,
@@ -1674,7 +1674,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Amos",
+    "City": "Amos",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/amos/",
     "Active": 0,
@@ -1683,7 +1683,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Beloeil",
+    "City": "Beloeil",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/beloeil",
     "Active": 0,
@@ -1692,7 +1692,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Chambly",
+    "City": "Chambly",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/chambly",
     "Active": 0,
@@ -1701,7 +1701,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Dollard-Des-Ormeaux",
+    "City": "Dollard-Des-Ormeaux",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/dollard-des-ormeaux",
     "Active": 0,
@@ -1710,7 +1710,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Gatineau-Chelsea",
+    "City": "Gatineau-Chelsea",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/gatineau-chelsea",
     "Active": 0,
@@ -1719,7 +1719,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Joliette",
+    "City": "Joliette",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/joliette",
     "Active": 0,
@@ -1728,7 +1728,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Laval",
+    "City": "Laval",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/laval",
     "Active": 0,
@@ -1737,7 +1737,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Levis",
+    "City": "Levis",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/levis",
     "Active": 0,
@@ -1746,7 +1746,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Longueuil",
+    "City": "Longueuil",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/longueuil",
     "Active": 0,
@@ -1755,7 +1755,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Montmagny",
+    "City": "Montmagny",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/montmagny",
     "Active": 0,
@@ -1764,7 +1764,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Montreal",
+    "City": "Montreal",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/montreal",
     "Active": 0,
@@ -1773,7 +1773,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Rimouski",
+    "City": "Rimouski",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/rimouski",
     "Active": 0,
@@ -1782,7 +1782,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Riviere-du-loup",
+    "City": "Riviere-du-loup",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/riviere-du-loup",
     "Active": 0,
@@ -1791,7 +1791,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Rouyn-Noranda",
+    "City": "Rouyn-Noranda",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/rouyn-noranda",
     "Active": 0,
@@ -1800,7 +1800,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Saguenay",
+    "City": "Saguenay",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/saguenay",
     "Active": 0,
@@ -1809,7 +1809,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Sept-Iles",
+    "City": "Sept-Iles",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/sept-iles",
     "Active": 0,
@@ -1818,7 +1818,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Sherbrook",
+    "City": "Sherbrook",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/sherbrooke",
     "Active": 0,
@@ -1827,7 +1827,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Sorel-Tracy",
+    "City": "Sorel-Tracy",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/sorel-tracy",
     "Active": 0,
@@ -1836,7 +1836,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "St-Jean-sur-Richelieu",
+    "City": "St-Jean-sur-Richelieu",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/st-jean-sur-richelieu",
     "Active": 0,
@@ -1845,7 +1845,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "St-Jerome",
+    "City": "St-Jerome",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/st-jerome",
     "Active": 0,
@@ -1854,7 +1854,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Terrebonne",
+    "City": "Terrebonne",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/terrebonne",
     "Active": 0,
@@ -1863,7 +1863,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Trois-rivieres",
+    "City": "Trois-rivieres",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/trois-rivieres",
     "Active": 0,
@@ -1872,7 +1872,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Val dor",
+    "City": "Val dor",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/val-dor",
     "Active": 0,
@@ -1881,7 +1881,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Vaudreuil-Dorion",
+    "City": "Vaudreuil-Dorion",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/vaudreuil-dorion",
     "Active": 0,
@@ -1890,7 +1890,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Victoriaville",
+    "City": "Victoriaville",
     "Province": "QC",
     "PageURL": "https://eapickleball.com/victoriaville",
     "Active": 0,
@@ -1899,7 +1899,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Estevan",
+    "City": "Estevan",
     "Province": "SK",
     "PageURL": "https://eapickleball.com/sk-estevan",
     "Active": 0,
@@ -1908,7 +1908,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Humboldt",
+    "City": "Humboldt",
     "Province": "SK",
     "PageURL": "https://eapickleball.com/sk-humboldt",
     "Active": 0,
@@ -1917,7 +1917,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "La Ronge",
+    "City": "La Ronge",
     "Province": "SK",
     "PageURL": "https://eapickleball.com/sk-la-ronge",
     "Active": 0,
@@ -1926,7 +1926,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Lloydminster",
+    "City": "Lloydminster",
     "Province": "SK",
     "PageURL": "https://eapickleball.com/sk-lloydminster",
     "Active": 0,
@@ -1935,7 +1935,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Medicine Hat",
+    "City": "Medicine Hat",
     "Province": "SK",
     "PageURL": "https://eapickleball.com/sk-medicine-hat",
     "Active": 0,
@@ -1944,7 +1944,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Melford",
+    "City": "Melford",
     "Province": "SK",
     "PageURL": "https://eapickleball.com/sk-melford",
     "Active": 0,
@@ -1953,7 +1953,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Moose Jaw",
+    "City": "Moose Jaw",
     "Province": "SK",
     "PageURL": "https://eapickleball.com/sk-moose-jaw",
     "Active": 0,
@@ -1962,7 +1962,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "North Battleford",
+    "City": "North Battleford",
     "Province": "SK",
     "PageURL": "https://eapickleball.com/sk-north-battleford",
     "Active": 0,
@@ -1971,7 +1971,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Prince Albert",
+    "City": "Prince Albert",
     "Province": "SK",
     "PageURL": "https://eapickleball.com/sk-prince-albert",
     "Active": 0,
@@ -1980,7 +1980,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Regina",
+    "City": "Regina",
     "Province": "SK",
     "PageURL": "https://eapickleball.com/sk-regina",
     "Active": 0,
@@ -1989,7 +1989,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Saskatoon",
+    "City": "Saskatoon",
     "Province": "SK",
     "PageURL": "https://eapickleball.com/sk-saskatoon",
     "Active": 0,
@@ -1998,7 +1998,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Swift Current",
+    "City": "Swift Current",
     "Province": "SK",
     "PageURL": "https://eapickleball.com/sk-swift-current",
     "Active": 0,
@@ -2007,7 +2007,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Warman/Martensville",
+    "City": "Warman/Martensville",
     "Province": "SK",
     "PageURL": "https://eapickleball.com/sk-martensville-warman/",
     "Active": 0,
@@ -2016,7 +2016,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Weyburn",
+    "City": "Weyburn",
     "Province": "SK",
     "PageURL": "https://eapickleball.com/sk-weyburn",
     "Active": 0,
@@ -2025,7 +2025,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Yorkton",
+    "City": "Yorkton",
     "Province": "SK",
     "PageURL": "https://eapickleball.com/sk-yorkton",
     "Active": 0,
@@ -2034,7 +2034,7 @@
     "GPN": "N/A"
   },
   {
-    "`": "Trenton, NS",
+    "City": "Trenton, NS",
     "Province": "NS",
     "PageURL": "https://eapickleball.com/trenton-ns/",
     "Active": 0,
