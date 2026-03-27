@@ -8476,12 +8476,12 @@
     "fee_url": null,
     "updated_price": null,
     "fee_index": null,
-    "City": "Cityname",
+    "City": "Test Bubble",
     "Province": "ON",
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": 0
+    "level": "0"
   },
   {
     "Title": "test bubble community (IS_FULL) - lEARN TO PLAY",
@@ -8504,12 +8504,12 @@
     "fee_url": null,
     "updated_price": null,
     "fee_index": null,
-    "City": "Cityname",
+    "City": "Test Bubble",
     "Province": "ON",
     "taxes": null,
     "age": null,
     "is_full": true,
-    "level": 1
+    "level": "1"
   },
   {
     "Title": "test bubble private (IS_FULL); LEVEL 1",
@@ -8532,12 +8532,12 @@
     "fee_url": null,
     "updated_price": null,
     "fee_index": null,
-    "City": "Cityname",
+    "City": "Test Bubble",
     "Province": "ON",
     "taxes": null,
     "age": null,
     "is_full": true,
-    "level": 2
+    "level": "2"
   },
   {
     "Title": "test bubble community (NO REG): LEVEL 2",
@@ -8560,12 +8560,12 @@
     "fee_url": null,
     "updated_price": null,
     "fee_index": null,
-    "City": "Cityname",
+    "City": "Test Bubble",
     "Province": "ON",
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": 3
+    "level": "3"
   },
   {
     "Title": "test bubble private (NO REG): LEVEL 3",
@@ -8588,12 +8588,12 @@
     "fee_url": null,
     "updated_price": null,
     "fee_index": null,
-    "City": "Cityname",
+    "City": "Test Bubble",
     "Province": "ON",
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": 4
+    "level": "4"
   },
   {
     "Title": "test bubble community: LEVEL 4",
@@ -8616,7 +8616,7 @@
     "fee_url": null,
     "updated_price": null,
     "fee_index": null,
-    "City": "Cityname",
+    "City": "Test Bubble",
     "Province": "ON",
     "taxes": null,
     "age": null,
@@ -8644,12 +8644,12 @@
     "fee_url": null,
     "updated_price": null,
     "fee_index": null,
-    "City": "Cityname",
+    "City": "Test Bubble",
     "Province": "ON",
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": 1
+    "level": "1"
   },
   {
     "Title": "Test bubble social play",
@@ -8672,11 +8672,11 @@
     "fee_url": null,
     "updated_price": null,
     "fee_index": null,
-    "City": "Cityname",
+    "City": "Test Bubble",
     "Province": "ON",
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": 1
+    "level": "1"
   }
 ]
