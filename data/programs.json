@@ -9460,7 +9460,7 @@
     "Province": "ON",
     "taxes": null,
     "age": null,
-    "is_full": true,
+    "is_full": false,
     "level": "1"
   },
   {
@@ -9492,7 +9492,7 @@
     "level": "2"
   },
   {
-    "Title": "COMMUNITY - NO_REG - LEVEL 2",
+    "Title": "PRIV - NO_REG - LEVEL 2",
     "TotalPrice": 100,
     "Prorate": false,
     "StaticPriceText": "100",
@@ -9507,7 +9507,7 @@
     "RegisterLink": null,
     "URL": "https://eapickleball.com/test-bubble/",
     "pageIdentifyer": "Test Bubble",
-    "Category": "TS",
+    "Category": "EA",
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
