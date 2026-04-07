@@ -10,7 +10,7 @@
     "CityID": 65,
     "lat": 43.7941544,
     "lng": -79.5268023,
-    "NearbyActive": "30,41,7,20"
+    "NearbyActive": "30,228,41,7"
   },
   {
     "City": "Richmond Hill Curling Club",
@@ -62,7 +62,7 @@
     "CityID": 2,
     "lat": 43.99973,
     "lng": -79.467545,
-    "NearbyActive": "1,7,3,228"
+    "NearbyActive": "1,7,3,41"
   },
   {
     "City": "East Gwillimbury",
@@ -751,7 +751,7 @@
     "CityID": 57,
     "lat": 43.9717581,
     "lng": -79.2454446,
-    "NearbyActive": "2,15,228,41"
+    "NearbyActive": "2,15,41,228"
   },
   {
     "City": "Waterloo",
