@@ -331,7 +331,7 @@
     "City": "Aurora",
     "Province": "ON",
     "taxes": null,
-    "age": null,
+    "age": 1,
     "is_full": true,
     "level": null
   },
@@ -387,7 +387,7 @@
     "City": "Aurora",
     "Province": "ON",
     "taxes": null,
-    "age": 1,
+    "age": 0,
     "is_full": false,
     "level": null
   },
@@ -443,7 +443,7 @@
     "City": "Aurora",
     "Province": "ON",
     "taxes": null,
-    "age": 0,
+    "age": null,
     "is_full": false,
     "level": null
   },
@@ -3243,7 +3243,7 @@
     "City": "Newmarket",
     "Province": "ON",
     "taxes": null,
-    "age": null,
+    "age": 3,
     "is_full": false,
     "level": null
   },
@@ -3271,7 +3271,7 @@
     "City": "Newmarket",
     "Province": "ON",
     "taxes": null,
-    "age": 3,
+    "age": 2,
     "is_full": false,
     "level": null
   },
@@ -3299,7 +3299,7 @@
     "City": "Newmarket",
     "Province": "ON",
     "taxes": null,
-    "age": 2,
+    "age": null,
     "is_full": false,
     "level": null
   },
@@ -3691,7 +3691,7 @@
     "City": "Newmarket/Aurora",
     "Province": "ON",
     "taxes": null,
-    "age": null,
+    "age": 1,
     "is_full": false,
     "level": null
   },
@@ -3831,7 +3831,7 @@
     "City": "Newmarket/Aurora",
     "Province": "ON",
     "taxes": null,
-    "age": 1,
+    "age": 4,
     "is_full": false,
     "level": null
   },
@@ -3859,7 +3859,7 @@
     "City": "Newmarket/Aurora",
     "Province": "ON",
     "taxes": null,
-    "age": 4,
+    "age": 2,
     "is_full": false,
     "level": null
   },
@@ -3999,7 +3999,7 @@
     "City": "Newmarket/Aurora",
     "Province": "ON",
     "taxes": null,
-    "age": 2,
+    "age": 3,
     "is_full": false,
     "level": null
   },
@@ -4055,7 +4055,7 @@
     "City": "Newmarket/Aurora",
     "Province": "ON",
     "taxes": null,
-    "age": 3,
+    "age": 0,
     "is_full": false,
     "level": null
   },
@@ -4139,7 +4139,7 @@
     "City": "North Vancouver",
     "Province": "BC",
     "taxes": null,
-    "age": 0,
+    "age": null,
     "is_full": false,
     "level": null
   },
@@ -9296,7 +9296,7 @@
     "level": null
   },
   {
-    "Title": "EA Badminton Racquet Sports Camp (10+ yrs)",
+    "Title": "EA Racquet Sports Camp (10+ yrs)",
     "TotalPrice": 300,
     "Prorate": false,
     "StaticPriceText": "300",
@@ -10021,7 +10021,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "0"
   },
   {
     "Title": "PRIV - LEVEL 1",
@@ -10218,33 +10218,5 @@
     "age": null,
     "is_full": false,
     "level": "1"
-  },
-  {
-    "Title": null,
-    "TotalPrice": null,
-    "Prorate": null,
-    "StaticPriceText": null,
-    "Day": null,
-    "Time": null,
-    "Start Date": null,
-    "End Date": null,
-    "Exceptions": null,
-    "SessionDates": null,
-    "LocationName": null,
-    "LocationLink": null,
-    "RegisterLink": null,
-    "URL": null,
-    "pageIdentifyer": null,
-    "Category": null,
-    "sport": null,
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": null,
-    "Province": null,
-    "taxes": null,
-    "age": null,
-    "is_full": false,
-    "level": null
   }
 ]
