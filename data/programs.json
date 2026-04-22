@@ -10076,7 +10076,7 @@
     "Province": "ON",
     "taxes": null,
     "age": null,
-    "is_full": false,
+    "is_full": true,
     "level": "0"
   },
   {
@@ -10105,7 +10105,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": "0"
+    "level": "1"
   },
   {
     "Title": "PRIV - IS_FULL - LEVEL 2",
@@ -10133,7 +10133,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": "1"
+    "level": "2"
   },
   {
     "Title": "PRIV - NO_REG - LEVEL 2",
@@ -10189,7 +10189,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": "2"
+    "level": "3"
   },
   {
     "Title": "COMMUNITY - LEVEL 4",
@@ -10217,7 +10217,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": "3"
+    "level": "4"
   },
   {
     "Title": "COMMUNITY - IS_FULL - LEARN TO PLAY",
@@ -10245,10 +10245,10 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": "4"
+    "level": "0"
   },
   {
-    "Title": "UPLOADING TEST",
+    "Title": "SOCIAL PLAY - LEVEL 2",
     "TotalPrice": 100,
     "Prorate": false,
     "StaticPriceText": null,
@@ -10272,7 +10272,7 @@
     "Province": "ON",
     "taxes": null,
     "age": null,
-    "is_full": false,
-    "level": "1"
+    "is_full": true,
+    "level": "2"
   }
 ]
