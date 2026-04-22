@@ -52,19 +52,6 @@
     "NearbyActive": "1,7,3,41"
   },
   {
-    "City": "Coquitlam",
-    "Province": "BC",
-    "PageURL": "https://bc.eapickleball.com/coquitlam/",
-    "Active": 7,
-    "newsletter_shortcode": "26293",
-    "facebook_link": "https://www.facebook.com/groups/1417514099256100/?ref=share&mibextid=NSMWBT",
-    "GPN": "N/A",
-    "CityID": 9,
-    "lat": 49.2842958,
-    "lng": -122.793281,
-    "NearbyActive": "26,48,43,29"
-  },
-  {
     "City": "Oro-Medonte",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/oro-pickleball/",
@@ -91,6 +78,19 @@
     "NearbyActive": "50,49,25,26"
   },
   {
+    "City": "Coquitlam",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/coquitlam/",
+    "Active": 6,
+    "newsletter_shortcode": "26293",
+    "facebook_link": "https://www.facebook.com/groups/1417514099256100/?ref=share&mibextid=NSMWBT",
+    "GPN": "N/A",
+    "CityID": 9,
+    "lat": 49.2842958,
+    "lng": -122.793281,
+    "NearbyActive": "26,48,43,29"
+  },
+  {
     "City": "East Gwillimbury",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/east-gwillimbury-ea-pickleball",
@@ -115,19 +115,6 @@
     "lat": 43.929489,
     "lng": -79.5252267,
     "NearbyActive": "228,41,2,1"
-  },
-  {
-    "City": "Vernon",
-    "Province": "BC",
-    "PageURL": "https://bc.eapickleball.com/vernon/",
-    "Active": 6,
-    "newsletter_shortcode": "26280",
-    "facebook_link": "https://www.facebook.com/groups/5483566035287891/?ref=share&mibextid=wwXIfr&rdid=t6SaVoBlRyRsHPL2&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F19urhcLyxb%2F%3Fmibextid%3DwwXIfr",
-    "GPN": "N/A",
-    "CityID": 11,
-    "lat": 50.2668671,
-    "lng": -119.2718157,
-    "NearbyActive": "14,44,43,9"
   },
   {
     "City": "Oshawa",
@@ -169,6 +156,58 @@
     "NearbyActive": "32,64,3,1"
   },
   {
+    "City": "Prince George",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/prince-george/",
+    "Active": 5,
+    "newsletter_shortcode": "26621",
+    "facebook_link": "https://www.facebook.com/groups/8168389329914586/?rdid=5voQcMLGEdYRqRVS&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2Fxtw2VqMYKmW8yBAD%2F#",
+    "GPN": "N/A",
+    "CityID": 19,
+    "lat": 53.9128645,
+    "lng": -122.7453699,
+    "NearbyActive": "12,14,27,11"
+  },
+  {
+    "City": "Ottawa",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/ottawa-pickleball/",
+    "Active": 5,
+    "newsletter_shortcode": "29289",
+    "facebook_link": "https://www.facebook.com/groups/1617925192025202/permalink/1766751293809257/?mibextid=W9rl1R",
+    "GPN": "https://www.globalpickleball.network/network/register/5071-elevation-athletics-gta",
+    "CityID": 18,
+    "lat": 45.4208777,
+    "lng": -75.6901106,
+    "NearbyActive": "16,8,45,40"
+  },
+  {
+    "City": "North Vancouver",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/north-vancouver/",
+    "Active": 5,
+    "newsletter_shortcode": "26617",
+    "facebook_link": "https://www.facebook.com/groups/2410835639307941/?rdid=oDtGo3Csdp9eYH4a&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2Fv3xXUfvd1pu94oN3%2F",
+    "GPN": "N/A",
+    "CityID": 29,
+    "lat": 49.3206294,
+    "lng": -123.0737925,
+    "NearbyActive": "48,49,9,26"
+  },
+  {
+    "City": "Vernon",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/vernon/",
+    "Active": 4,
+    "newsletter_shortcode": "26280",
+    "facebook_link": "https://www.facebook.com/groups/5483566035287891/?ref=share&mibextid=wwXIfr&rdid=t6SaVoBlRyRsHPL2&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F19urhcLyxb%2F%3Fmibextid%3DwwXIfr",
+    "GPN": "N/A",
+    "CityID": 11,
+    "lat": 50.2668671,
+    "lng": -119.2718157,
+    "NearbyActive": "14,44,43,9"
+  },
+  {
     "City": "Terrace",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/terrace/",
@@ -193,58 +232,6 @@
     "lat": 45,
     "lng": -76.36,
     "NearbyActive": "45,16,18,40"
-  },
-  {
-    "City": "Prince George",
-    "Province": "BC",
-    "PageURL": "https://bc.eapickleball.com/prince-george/",
-    "Active": 4,
-    "newsletter_shortcode": "26621",
-    "facebook_link": "https://www.facebook.com/groups/8168389329914586/?rdid=5voQcMLGEdYRqRVS&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2Fxtw2VqMYKmW8yBAD%2F#",
-    "GPN": "N/A",
-    "CityID": 19,
-    "lat": 53.9128645,
-    "lng": -122.7453699,
-    "NearbyActive": "12,14,27,11"
-  },
-  {
-    "City": "Nanaimo",
-    "Province": "BC",
-    "PageURL": "https://bc.eapickleball.com/nanaimo/",
-    "Active": 4,
-    "newsletter_shortcode": "26612",
-    "facebook_link": "https://www.facebook.com/groups/1654037585375792/?rdid=ejeESd2g9V4RAhRG&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FPn8mcFec6BUgyd1G%2F#",
-    "GPN": "N/A",
-    "CityID": 25,
-    "lat": 49.163877,
-    "lng": -123.938122,
-    "NearbyActive": "49,29,48,26"
-  },
-  {
-    "City": "Squamish",
-    "Province": "BC",
-    "PageURL": "https://bc.eapickleball.com/squamish/",
-    "Active": 4,
-    "newsletter_shortcode": "26629",
-    "facebook_link": "https://www.facebook.com/groups/1007891270659527/?rdid=xoJYHuKYfkUIfyke&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FW4QFDtq3pog4wd4z%2F#",
-    "GPN": "N/A",
-    "CityID": 27,
-    "lat": 49.7588883,
-    "lng": -123.1342796,
-    "NearbyActive": "29,9,48,49"
-  },
-  {
-    "City": "Ottawa",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/ottawa-pickleball/",
-    "Active": 4,
-    "newsletter_shortcode": "29289",
-    "facebook_link": "https://www.facebook.com/groups/1617925192025202/permalink/1766751293809257/?mibextid=W9rl1R",
-    "GPN": "https://www.globalpickleball.network/network/register/5071-elevation-athletics-gta",
-    "CityID": 18,
-    "lat": 45.4208777,
-    "lng": -75.6901106,
-    "NearbyActive": "16,8,45,40"
   },
   {
     "City": "Bolton",
@@ -273,19 +260,6 @@
     "NearbyActive": "42,4,37,28"
   },
   {
-    "City": "Brampton",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/brampton-pickleball/",
-    "Active": 4,
-    "newsletter_shortcode": "28990",
-    "facebook_link": "https://www.facebook.com/groups/1617925192025202/permalink/1766751293809257/?mibextid=W9rl1R",
-    "GPN": "https://www.globalpickleball.network/network/register/5071-elevation-athletics-gta",
-    "CityID": 22,
-    "lat": 43.685832,
-    "lng": -79.7599366,
-    "NearbyActive": "6,20,65,30"
-  },
-  {
     "City": "Bowmanville",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/bowmanville-pickleball/",
@@ -310,6 +284,58 @@
     "lat": 44.75,
     "lng": -79.52,
     "NearbyActive": "4,21,32,10"
+  },
+  {
+    "City": "Sutton",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/sutton-pickleball-2/",
+    "Active": 4,
+    "newsletter_shortcode": "29387",
+    "facebook_link": "https://www.facebook.com/groups/842175170238132/?ref=share&mibextid=K35XfP&rdid=jy0peQEAltecumMO&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FMqmFX7duatv4x1Xc%2F%3Fmibextid%3DK35XfP#",
+    "GPN": "https://www.globalpickleball.network/network/register/5041-elevation-athletics-york-region",
+    "CityID": 32,
+    "lat": 44.310301,
+    "lng": -79.365311,
+    "NearbyActive": "10,3,64,1"
+  },
+  {
+    "City": "Cambridge",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/cambridgepickleball/",
+    "Active": 4,
+    "newsletter_shortcode": "29005",
+    "facebook_link": "https://www.facebook.com/groups/1512570509232160/?ref=share&mibextid=K35XfP&rdid=5WXISxMm9OSTvQLu&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2FaEMXyxfXsnLDy72j%2F%3Fmibextid%3DK35XfP",
+    "GPN": "https://www.globalpickleball.network/network/register/5072-elevation-athletics-huron-region",
+    "CityID": 23,
+    "lat": 43.3600536,
+    "lng": -80.3123023,
+    "NearbyActive": "39,31,22,6"
+  },
+  {
+    "City": "Nanaimo",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/nanaimo/",
+    "Active": 3,
+    "newsletter_shortcode": "26612",
+    "facebook_link": "https://www.facebook.com/groups/1654037585375792/?rdid=ejeESd2g9V4RAhRG&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FPn8mcFec6BUgyd1G%2F#",
+    "GPN": "N/A",
+    "CityID": 25,
+    "lat": 49.163877,
+    "lng": -123.938122,
+    "NearbyActive": "49,29,48,26"
+  },
+  {
+    "City": "Squamish",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/squamish/",
+    "Active": 3,
+    "newsletter_shortcode": "26629",
+    "facebook_link": "https://www.facebook.com/groups/1007891270659527/?rdid=xoJYHuKYfkUIfyke&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FW4QFDtq3pog4wd4z%2F#",
+    "GPN": "N/A",
+    "CityID": 27,
+    "lat": 49.7588883,
+    "lng": -123.1342796,
+    "NearbyActive": "29,9,48,49"
   },
   {
     "City": "Kamloops",
@@ -364,32 +390,6 @@
     "NearbyActive": "8,45,18,40"
   },
   {
-    "City": "Courtice",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/courtice-pickleball/",
-    "Active": 3,
-    "newsletter_shortcode": "29176",
-    "facebook_link": "https://www.facebook.com/groups/1150648605625416",
-    "GPN": "N/A",
-    "CityID": 17,
-    "lat": 43.9117719,
-    "lng": -78.7780464,
-    "NearbyActive": "5,24,59,35"
-  },
-  {
-    "City": "North Vancouver",
-    "Province": "BC",
-    "PageURL": "https://bc.eapickleball.com/north-vancouver/",
-    "Active": 3,
-    "newsletter_shortcode": "26617",
-    "facebook_link": "https://www.facebook.com/groups/2410835639307941/?rdid=oDtGo3Csdp9eYH4a&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2Fv3xXUfvd1pu94oN3%2F",
-    "GPN": "N/A",
-    "CityID": 29,
-    "lat": 49.3206294,
-    "lng": -123.0737925,
-    "NearbyActive": "48,49,9,26"
-  },
-  {
     "City": "North York",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/north-york-pickleball/",
@@ -401,32 +401,6 @@
     "lat": 43.7543217,
     "lng": -79.4491057,
     "NearbyActive": "65,228,41,7"
-  },
-  {
-    "City": "Guelph",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/guelph-pickleball/",
-    "Active": 3,
-    "newsletter_shortcode": "29020",
-    "facebook_link": "https://www.facebook.com/groups/999621204906672/",
-    "GPN": "https://www.globalpickleball.network/network/register/5072-elevation-athletics-huron-region",
-    "CityID": 31,
-    "lat": 43.5460516,
-    "lng": -80.2493276,
-    "NearbyActive": "23,39,6,22"
-  },
-  {
-    "City": "Sutton",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/sutton-pickleball-2/",
-    "Active": 3,
-    "newsletter_shortcode": "29387",
-    "facebook_link": "https://www.facebook.com/groups/842175170238132/?ref=share&mibextid=K35XfP&rdid=jy0peQEAltecumMO&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FMqmFX7duatv4x1Xc%2F%3Fmibextid%3DK35XfP#",
-    "GPN": "https://www.globalpickleball.network/network/register/5041-elevation-athletics-york-region",
-    "CityID": 32,
-    "lat": 44.310301,
-    "lng": -79.365311,
-    "NearbyActive": "10,3,64,1"
   },
   {
     "City": "Bradford",
@@ -442,17 +416,43 @@
     "NearbyActive": "3,1,2,10"
   },
   {
-    "City": "Cambridge",
+    "City": "Brampton",
     "Province": "ON",
-    "PageURL": "https://eapickleball.com/cambridgepickleball/",
+    "PageURL": "https://eapickleball.com/brampton-pickleball/",
     "Active": 2,
-    "newsletter_shortcode": "29005",
-    "facebook_link": "https://www.facebook.com/groups/1512570509232160/?ref=share&mibextid=K35XfP&rdid=5WXISxMm9OSTvQLu&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2FaEMXyxfXsnLDy72j%2F%3Fmibextid%3DK35XfP",
+    "newsletter_shortcode": "28990",
+    "facebook_link": "https://www.facebook.com/groups/1617925192025202/permalink/1766751293809257/?mibextid=W9rl1R",
+    "GPN": "https://www.globalpickleball.network/network/register/5071-elevation-athletics-gta",
+    "CityID": 22,
+    "lat": 43.685832,
+    "lng": -79.7599366,
+    "NearbyActive": "6,20,65,30"
+  },
+  {
+    "City": "Courtice",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/courtice-pickleball/",
+    "Active": 2,
+    "newsletter_shortcode": "29176",
+    "facebook_link": "https://www.facebook.com/groups/1150648605625416",
+    "GPN": "N/A",
+    "CityID": 17,
+    "lat": 43.9117719,
+    "lng": -78.7780464,
+    "NearbyActive": "5,24,59,35"
+  },
+  {
+    "City": "Guelph",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/guelph-pickleball/",
+    "Active": 2,
+    "newsletter_shortcode": "29020",
+    "facebook_link": "https://www.facebook.com/groups/999621204906672/",
     "GPN": "https://www.globalpickleball.network/network/register/5072-elevation-athletics-huron-region",
-    "CityID": 23,
-    "lat": 43.3600536,
-    "lng": -80.3123023,
-    "NearbyActive": "39,31,33,22"
+    "CityID": 31,
+    "lat": 43.5460516,
+    "lng": -80.2493276,
+    "NearbyActive": "23,39,6,22"
   },
   {
     "City": "Maple Ridge",
@@ -466,19 +466,6 @@
     "lat": 49.2197345,
     "lng": -122.599707,
     "NearbyActive": "9,26,48,29"
-  },
-  {
-    "City": "Chilliwack",
-    "Province": "BC",
-    "PageURL": "https://bc.eapickleball.com/chilliwack/",
-    "Active": 2,
-    "newsletter_shortcode": "26600",
-    "facebook_link": "https://www.facebook.com/profile.php?id=61563238815205&mibextid=qi2Omg&rdid=Z6UE124lon6d3Adt&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2FiavcBgWvWm7sQTpL%2F%3Fmibextid%3Dqi2Omg#",
-    "GPN": "N/A",
-    "CityID": 44,
-    "lat": 49.1709788,
-    "lng": -121.95255,
-    "NearbyActive": "43,9,26,48"
   },
   {
     "City": "Truro",
@@ -520,17 +507,17 @@
     "NearbyActive": "36,55,35,34"
   },
   {
-    "City": "Stoney Creek",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/stoney-creek/",
+    "City": "Chilliwack",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/chilliwack/",
     "Active": 1,
-    "newsletter_shortcode": "28912",
-    "facebook_link": "https://www.facebook.com/groups/5899524516802504/?ref=share&mibextid=NSMWBT",
-    "GPN": "https://www.globalpickleball.network/network/register/5059-elevation-athletics-halton-region",
-    "CityID": 33,
-    "lat": 43.2167526,
-    "lng": -79.7567616,
-    "NearbyActive": "23,22,31,47"
+    "newsletter_shortcode": "26600",
+    "facebook_link": "https://www.facebook.com/profile.php?id=61563238815205&mibextid=qi2Omg&rdid=Z6UE124lon6d3Adt&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2FiavcBgWvWm7sQTpL%2F%3Fmibextid%3Dqi2Omg#",
+    "GPN": "N/A",
+    "CityID": 44,
+    "lat": 49.1709788,
+    "lng": -121.95255,
+    "NearbyActive": "43,9,26,48"
   },
   {
     "City": "Port Perry",
@@ -686,7 +673,7 @@
     "CityID": 47,
     "lat": 42.8862392,
     "lng": -79.2513905,
-    "NearbyActive": "33,30,22,23"
+    "NearbyActive": "30,22,23,65"
   },
   {
     "City": "Port Hope",
@@ -726,6 +713,19 @@
     "lat": 43.87982,
     "lng": -78.9421751,
     "NearbyActive": "5,17,24,34"
+  },
+  {
+    "City": "Stoney Creek",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/stoney-creek/",
+    "Active": 0,
+    "newsletter_shortcode": "28912",
+    "facebook_link": "https://www.facebook.com/groups/5899524516802504/?ref=share&mibextid=NSMWBT",
+    "GPN": "https://www.globalpickleball.network/network/register/5059-elevation-athletics-halton-region",
+    "CityID": 33,
+    "lat": 43.2167526,
+    "lng": -79.7567616,
+    "NearbyActive": "23,22,31,47"
   },
   {
     "City": "Test Bubble",
@@ -1661,7 +1661,7 @@
     "CityID": 53,
     "lat": 44.1520712,
     "lng": -81.0279572,
-    "NearbyActive": "54,42,58,39"
+    "NearbyActive": "42,39,21,31"
   },
   {
     "City": "Cobourg",
@@ -1765,7 +1765,7 @@
     "CityID": 134,
     "lat": 44.1633264,
     "lng": -77.3852556,
-    "NearbyActive": "56,36,55,40"
+    "NearbyActive": "36,55,40,35"
   },
   {
     "City": "Burlington",
@@ -1843,7 +1843,7 @@
     "CityID": 140,
     "lat": 43.6171831,
     "lng": -81.5397155,
-    "NearbyActive": "54,58,39,23"
+    "NearbyActive": "39,23,31,6"
   },
   {
     "City": "Cornwall",
@@ -1882,7 +1882,7 @@
     "CityID": 143,
     "lat": 44.1762639,
     "lng": -80.8182299,
-    "NearbyActive": "42,54,21,37"
+    "NearbyActive": "42,21,37,6"
   },
   {
     "City": "Fonthill",
@@ -1986,7 +1986,7 @@
     "CityID": 151,
     "lat": 42.9836747,
     "lng": -81.2496068,
-    "NearbyActive": "58,39,23,31"
+    "NearbyActive": "39,23,31,33"
   },
   {
     "City": "Markdale",
@@ -1999,7 +1999,7 @@
     "CityID": 152,
     "lat": 44.31869,
     "lng": -80.648575,
-    "NearbyActive": "42,21,37,54"
+    "NearbyActive": "42,21,37,6"
   },
   {
     "City": "Midland",
@@ -2064,7 +2064,7 @@
     "CityID": 157,
     "lat": 43.6912279,
     "lng": -80.9835643,
-    "NearbyActive": "58,39,31,23"
+    "NearbyActive": "39,31,23,6"
   },
   {
     "City": "Norwood",
@@ -2077,7 +2077,7 @@
     "CityID": 158,
     "lat": 44.3818091,
     "lng": -77.9798045,
-    "NearbyActive": "40,36,56,55"
+    "NearbyActive": "40,36,55,35"
   },
   {
     "City": "Oakville",
@@ -2116,7 +2116,7 @@
     "CityID": 161,
     "lat": 44.5678105,
     "lng": -80.9430094,
-    "NearbyActive": "42,54,21,37"
+    "NearbyActive": "42,21,37,4"
   },
   {
     "City": "Pakenham",
@@ -2168,7 +2168,7 @@
     "CityID": 165,
     "lat": 44.0077067,
     "lng": -77.1411741,
-    "NearbyActive": "56,55,36,40"
+    "NearbyActive": "55,36,40,35"
   },
   {
     "City": "Port Dover",
@@ -2194,7 +2194,7 @@
     "CityID": 167,
     "lat": 44.4358826,
     "lng": -81.3889458,
-    "NearbyActive": "54,42,21,37"
+    "NearbyActive": "42,21,37,39"
   },
   {
     "City": "Powassan",
@@ -2298,7 +2298,7 @@
     "CityID": 175,
     "lat": 42.779022,
     "lng": -81.1929882,
-    "NearbyActive": "58,39,23,31"
+    "NearbyActive": "39,23,31,33"
   },
   {
     "City": "Stratford",
@@ -2311,7 +2311,7 @@
     "CityID": 176,
     "lat": 43.3700899,
     "lng": -80.9818016,
-    "NearbyActive": "58,39,23,31"
+    "NearbyActive": "39,23,31,33"
   },
   {
     "City": "Sudbury",
@@ -2350,7 +2350,7 @@
     "CityID": 180,
     "lat": 42.859494,
     "lng": -80.7265015,
-    "NearbyActive": "23,39,58,31"
+    "NearbyActive": "23,39,31,33"
   },
   {
     "City": "Tottenham",
@@ -2376,7 +2376,7 @@
     "CityID": 182,
     "lat": 44.1019126,
     "lng": -77.57539,
-    "NearbyActive": "56,55,36,40"
+    "NearbyActive": "55,36,40,35"
   },
   {
     "City": "West Grey",
@@ -2389,7 +2389,7 @@
     "CityID": 183,
     "lat": 44.1553792,
     "lng": -80.883577,
-    "NearbyActive": "54,42,21,37"
+    "NearbyActive": "42,21,37,39"
   },
   {
     "City": "Windsor",
@@ -2402,7 +2402,7 @@
     "CityID": 184,
     "lat": 42.3167397,
     "lng": -83.0373389,
-    "NearbyActive": "54,58,39,23"
+    "NearbyActive": "39,23,31,33"
   },
   {
     "City": "Woodstock",
@@ -2415,7 +2415,7 @@
     "CityID": 185,
     "lat": 43.1301111,
     "lng": -80.7562977,
-    "NearbyActive": "39,58,23,31"
+    "NearbyActive": "39,23,31,33"
   },
   {
     "City": "Alma",
