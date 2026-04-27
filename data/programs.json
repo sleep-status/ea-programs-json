@@ -24,8 +24,8 @@
     "Province": "ON",
     "taxes": 1.14,
     "age": null,
-    "is_full": false,
-    "level": null
+    "is_full": true,
+    "level": "1"
   },
   {
     "Title": "Alliston - LEVEL 2: Experienced Beginners Pickleball League",
@@ -52,8 +52,8 @@
     "Province": "ON",
     "taxes": 1.13,
     "age": null,
-    "is_full": false,
-    "level": null
+    "is_full": true,
+    "level": "2"
   },
   {
     "Title": "Almonte - LEVEL 1: Beginners Pickleball League",
@@ -80,8 +80,8 @@
     "Province": "ON",
     "taxes": 1.05,
     "age": null,
-    "is_full": false,
-    "level": null
+    "is_full": true,
+    "level": "1"
   },
   {
     "Title": "Almonte - LEVEL 2: Experienced Beginners Pickleball League",
@@ -109,7 +109,7 @@
     "taxes": 1,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "2"
   },
   {
     "Title": "Almonte - LEVEL 1: Beginners Pickleball League",
@@ -137,7 +137,7 @@
     "taxes": 1.03,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Aurora - Beginners Pickleball League",
@@ -164,8 +164,8 @@
     "Province": "ON",
     "taxes": 1.15,
     "age": null,
-    "is_full": false,
-    "level": null
+    "is_full": true,
+    "level": "1"
   },
   {
     "Title": "Aurora - Intermediate Pickleball League",
@@ -193,7 +193,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "3"
   },
   {
     "Title": "Aurora - Beginners Pickleball League",
@@ -220,8 +220,8 @@
     "Province": "ON",
     "taxes": null,
     "age": null,
-    "is_full": false,
-    "level": null
+    "is_full": true,
+    "level": "1"
   },
   {
     "Title": "Aurora - Intermediate Pickleball League",
@@ -248,8 +248,8 @@
     "Province": "ON",
     "taxes": null,
     "age": null,
-    "is_full": true,
-    "level": null
+    "is_full": false,
+    "level": "3"
   },
   {
     "Title": "Aurora - Beginners Pickleball League",
@@ -276,8 +276,8 @@
     "Province": "ON",
     "taxes": null,
     "age": null,
-    "is_full": false,
-    "level": null
+    "is_full": true,
+    "level": "1"
   },
   {
     "Title": "Aurora - Intermediate Pickleball League",
@@ -304,8 +304,8 @@
     "Province": "ON",
     "taxes": null,
     "age": null,
-    "is_full": false,
-    "level": null
+    "is_full": true,
+    "level": "3"
   },
   {
     "Title": "Aurora - Advanced Badminton Lessons",
@@ -389,7 +389,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Aurora - LEVEL 2: Experienced Beginners Pickleball League",
@@ -416,8 +416,8 @@
     "Province": "ON",
     "taxes": null,
     "age": null,
-    "is_full": false,
-    "level": null
+    "is_full": true,
+    "level": "2"
   },
   {
     "Title": "Bolton - LEVEL 1: Beginners Pickleball League",
@@ -444,8 +444,8 @@
     "Province": "ON",
     "taxes": null,
     "age": null,
-    "is_full": false,
-    "level": null
+    "is_full": true,
+    "level": "1"
   },
   {
     "Title": "Bolton - LEVEL 2: Experienced Beginners Pickleball League",
@@ -473,7 +473,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "2"
   },
   {
     "Title": "Bolton - LEVEL 2: Experienced Beginners Pickleball League",
@@ -500,8 +500,8 @@
     "Province": "ON",
     "taxes": null,
     "age": null,
-    "is_full": false,
-    "level": null
+    "is_full": true,
+    "level": "2"
   },
   {
     "Title": "Bolton - LEVEL 3: Intermeidate Pickleball League",
@@ -529,7 +529,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "3"
   },
   {
     "Title": "Bowmanville - LEVEL 3: Intermediate Pickleball League",
@@ -557,7 +557,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "3"
   },
   {
     "Title": "Bowmanville - LEVEL 2: Experienced Beginner Pickleball League",
@@ -585,7 +585,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "2"
   },
   {
     "Title": "Bowmanville - LEVEL 2: Experienced Beginner Pickleball League",
@@ -613,7 +613,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "2"
   },
   {
     "Title": "Bowmanville - Learn to Play + Beginner League",
@@ -640,8 +640,8 @@
     "Province": "ON",
     "taxes": null,
     "age": null,
-    "is_full": false,
-    "level": null
+    "is_full": true,
+    "level": "0"
   },
   {
     "Title": "Bradford - Learn to Play Pickleball (Adult)",
@@ -668,8 +668,8 @@
     "Province": "ON",
     "taxes": null,
     "age": null,
-    "is_full": false,
-    "level": null
+    "is_full": true,
+    "level": "0"
   },
   {
     "Title": "Bradford - Learn to Play Pickleball (Youth)",
@@ -696,8 +696,8 @@
     "Province": "ON",
     "taxes": null,
     "age": null,
-    "is_full": false,
-    "level": null
+    "is_full": true,
+    "level": "0"
   },
   {
     "Title": "Bradford - Pickleball League",
@@ -725,7 +725,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Brampton - LEVEL 2: Experienced Beginners Pickleball League",
@@ -752,8 +752,8 @@
     "Province": "ON",
     "taxes": null,
     "age": null,
-    "is_full": false,
-    "level": null
+    "is_full": true,
+    "level": "2"
   },
   {
     "Title": "Brampton - LEVEL 2: Experienced Beginners Pickleball League",
@@ -780,8 +780,8 @@
     "Province": "ON",
     "taxes": null,
     "age": null,
-    "is_full": false,
-    "level": null
+    "is_full": true,
+    "level": "2"
   },
   {
     "Title": "Caledon - LEVEL 2: Experienced Beginners Pickleball League",
@@ -808,8 +808,8 @@
     "Province": "ON",
     "taxes": null,
     "age": null,
-    "is_full": false,
-    "level": null
+    "is_full": true,
+    "level": "2"
   },
   {
     "Title": "Caledon - LEVEL 3: Intermediate Pickleball League",
@@ -837,7 +837,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "3"
   },
   {
     "Title": "Caledon - Learn to Play PIckleball (Adult)",
@@ -864,8 +864,8 @@
     "Province": "ON",
     "taxes": null,
     "age": null,
-    "is_full": false,
-    "level": null
+    "is_full": true,
+    "level": "0"
   },
   {
     "Title": "Victoria - LEVEL 1: Beginners Pickleball League",
@@ -893,7 +893,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Victoria - LEVEL 1: Beginners Pickleball League",
@@ -921,7 +921,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Victoria - LEVEL 3: Intermediate League",
@@ -949,7 +949,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "3"
   },
   {
     "Title": "Victoria - LEVEL 1: Beginners Pickleball League",
@@ -977,7 +977,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Cambridge - LEVEL 1: Beginners Pickleball League",
@@ -997,7 +997,7 @@
     "pageIdentifyer": "cambridgepickleball",
     "Category": "TS",
     "sport": "pb",
-    "fee_url": null,
+    "fee_url": "https://anc.ca.apm.activecommunities.com/cambridgeont/activity/search/detail/60078?onlineSiteId=0&from_original_cui=true",
     "updated_price": null,
     "fee_index": null,
     "City": "Cambridge",
@@ -1025,7 +1025,7 @@
     "pageIdentifyer": "cambridgepickleball",
     "Category": "TS",
     "sport": "pb",
-    "fee_url": null,
+    "fee_url": "https://anc.ca.apm.activecommunities.com/cambridgeont/activity/search/detail/60079?onlineSiteId=0&from_original_cui=true",
     "updated_price": null,
     "fee_index": null,
     "City": "Cambridge",
@@ -1060,7 +1060,7 @@
     "Province": "ON",
     "taxes": null,
     "age": null,
-    "is_full": false,
+    "is_full": true,
     "level": "1"
   },
   {
@@ -1088,7 +1088,7 @@
     "Province": "ON",
     "taxes": null,
     "age": null,
-    "is_full": false,
+    "is_full": true,
     "level": "2"
   },
   {
@@ -1117,7 +1117,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "0"
   },
   {
     "Title": "Chilliwack - LEVEL 1: Beginners Pickleball League",
@@ -1145,7 +1145,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Coquitlam - LEVEL 1: Beginners Pickleball League",
@@ -1173,7 +1173,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Coquitlam - LEVEL 1: Beginners Pickleball League",
@@ -1201,7 +1201,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Coquitlam - LEVEL 2: Experienced Beginners Pickleball League",
@@ -1229,7 +1229,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "2"
   },
   {
     "Title": "Coquitlam - LEVEL 3: Intermediate Pickleball League",
@@ -1257,7 +1257,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "3"
   },
   {
     "Title": "Coquitlam - LEVEL 2: Experienced Beginners Pickleball League",
@@ -1284,8 +1284,8 @@
     "Province": "BC",
     "taxes": null,
     "age": null,
-    "is_full": false,
-    "level": null
+    "is_full": true,
+    "level": "2"
   },
   {
     "Title": "Coquitlam - LEVEL 1: Beginners Pickleball League",
@@ -1312,8 +1312,8 @@
     "Province": "BC",
     "taxes": null,
     "age": null,
-    "is_full": false,
-    "level": null
+    "is_full": true,
+    "level": "1"
   },
   {
     "Title": "Courtice - LEVEL 1: Beginners Pickleball League",
@@ -1341,7 +1341,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Severn - Learn to Play Pickleball",
@@ -1369,7 +1369,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "0"
   },
   {
     "Title": "Severn - Learn to Play Pickleball",
@@ -1397,7 +1397,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "0"
   },
   {
     "Title": "Cumberland Beach - LEVEL 1: Beginners Pickleball League",
@@ -1425,7 +1425,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Cumberland Beach - LEVEL 3: Intermediate Pickleball League",
@@ -1453,7 +1453,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "3"
   },
   {
     "Title": "East Gwillimbury - LEVEL 2: Experienced Beginners Pickleball League",
@@ -1481,7 +1481,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "2"
   },
   {
     "Title": "East Gwillimbury - Beginners Pickleball League",
@@ -1509,7 +1509,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "East Gwillimbury - Beginners Pickleball League",
@@ -1537,7 +1537,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "East Gwillimbury - Intermediate Pickleball League",
@@ -1565,63 +1565,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
-  },
-  {
-    "Title": "East Gwillimbury - LTP Pickleball (Adult)",
-    "TotalPrice": 105,
-    "Prorate": false,
-    "StaticPriceText": "105",
-    "Day": "Saturdays",
-    "Time": "10:00 - 11:00 AM",
-    "Start Date": "2026-04-11",
-    "End Date": "2026-06-20",
-    "Exceptions": "5/16/2026",
-    "SessionDates": "2026-04-11,2026-04-18,2026-04-25,2026-05-02,2026-05-09,2026-05-23,2026-05-30,2026-06-06,2026-06-13,2026-06-20",
-    "LocationName": "HHAC",
-    "LocationLink": "https://maps.app.goo.gl/YCRGEXRpv8LbNbB46",
-    "RegisterLink": "https://anc.ca.apm.activecommunities.com/eastgwillimbury/activity/search/detail/5810?onlineSiteId=0&from_original_cui=true",
-    "URL": "https://eapickleball.com/east-gwillimbury-ea-pickleball",
-    "pageIdentifyer": "east-gwillimbury-ea-pickleball",
-    "Category": "TS",
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "East Gwillimbury",
-    "Province": "ON",
-    "taxes": null,
-    "age": null,
-    "is_full": false,
-    "level": null
-  },
-  {
-    "Title": "East Gwillimbury - LTP Pickleball (Adult)",
-    "TotalPrice": 105,
-    "Prorate": false,
-    "StaticPriceText": "105",
-    "Day": "Saturdays",
-    "Time": "9:00 - 10:00 AM",
-    "Start Date": "2026-04-11",
-    "End Date": "2026-06-20",
-    "Exceptions": "5/16/2026",
-    "SessionDates": "2026-04-11,2026-04-18,2026-04-25,2026-05-02,2026-05-09,2026-05-23,2026-05-30,2026-06-06,2026-06-13,2026-06-20",
-    "LocationName": "HHAC",
-    "LocationLink": "https://maps.app.goo.gl/YCRGEXRpv8LbNbB46",
-    "RegisterLink": "https://anc.ca.apm.activecommunities.com/eastgwillimbury/activity/search/detail/5809?onlineSiteId=0&from_original_cui=true",
-    "URL": "https://eapickleball.com/east-gwillimbury-ea-pickleball",
-    "pageIdentifyer": "east-gwillimbury-ea-pickleball",
-    "Category": "TS",
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "East Gwillimbury",
-    "Province": "ON",
-    "taxes": null,
-    "age": null,
-    "is_full": false,
-    "level": null
+    "level": "3"
   },
   {
     "Title": "Tiny - Rep Development (U11/U14)",
@@ -1957,7 +1901,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Guelph - LEVEL 1: Beginners Pickleball League",
@@ -1984,8 +1928,8 @@
     "Province": "ON",
     "taxes": null,
     "age": null,
-    "is_full": false,
-    "level": null
+    "is_full": true,
+    "level": "1"
   },
   {
     "Title": "Innisfil - Rep Development (U11/U14)",
@@ -2181,7 +2125,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Kamloops - LEVEL 1: Beginners Pickleball League",
@@ -2209,7 +2153,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Kamloops - LEVEL 1: Beginners Pickleball League",
@@ -2237,7 +2181,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Keswick - LEVEL 1: Beginners Pickleball League",
@@ -2265,7 +2209,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Keswick - LEVEL 1: Beginners Pickleball League",
@@ -2292,8 +2236,8 @@
     "Province": "ON",
     "taxes": null,
     "age": null,
-    "is_full": false,
-    "level": null
+    "is_full": true,
+    "level": "1"
   },
   {
     "Title": "Keswick - LEVEL 1: Beginners Pickleball League",
@@ -2321,7 +2265,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Keswick - LEVEL 2: Experienced Beginners Pickleball League",
@@ -2349,7 +2293,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "2"
   },
   {
     "Title": "Keswick - LEVEL 3: Intermediate Pickleball League",
@@ -2377,7 +2321,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "3"
   },
   {
     "Title": "King City - Learn to Play Pickleball (18+ yrs)",
@@ -2404,64 +2348,8 @@
     "Province": "ON",
     "taxes": null,
     "age": null,
-    "is_full": false,
-    "level": null
-  },
-  {
-    "Title": "King City - Learn to Play Pickleball (18+ yrs)",
-    "TotalPrice": 140.4,
-    "Prorate": false,
-    "StaticPriceText": "140.40",
-    "Day": "Tuesdays",
-    "Time": "7:00 - 8:00 PM",
-    "Start Date": "2026-04-13",
-    "End Date": "2026-06-08",
-    "Exceptions": "N/A",
-    "SessionDates": "2026-04-13,2026-04-20,2026-04-27,2026-05-04,2026-05-11,2026-05-18,2026-05-25,2026-06-01,2026-06-08",
-    "LocationName": "King City PS",
-    "LocationLink": "https://maps.app.goo.gl/Eai36pSDnurRyeXTA",
-    "RegisterLink": "https://townshipofking.perfectmind.com/23793/Clients/BookMe4LandingPages/CoursesLandingPage?widgetId=15f6af07-39c5-473e-b053-96653f77a406&redirectedFromEmbededMode=False&courseId=9363da3a-9d63-4a9d-ac38-ba19e97e0b4c",
-    "URL": "https://eapickleball.com/king-city-pickleball/",
-    "pageIdentifyer": "king-city-pickleball",
-    "Category": "TS",
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "King City",
-    "Province": "ON",
-    "taxes": null,
-    "age": null,
-    "is_full": false,
-    "level": null
-  },
-  {
-    "Title": "King City - Learn to Play Pickleball (18+ yrs)",
-    "TotalPrice": 140.4,
-    "Prorate": false,
-    "StaticPriceText": "140.40",
-    "Day": "Tuesdays",
-    "Time": "6:00 - 7:00 PM",
-    "Start Date": "2026-04-13",
-    "End Date": "2026-06-08",
-    "Exceptions": "N/A",
-    "SessionDates": "2026-04-13,2026-04-20,2026-04-27,2026-05-04,2026-05-11,2026-05-18,2026-05-25,2026-06-01,2026-06-08",
-    "LocationName": "King City PS",
-    "LocationLink": "https://maps.app.goo.gl/Eai36pSDnurRyeXTA",
-    "RegisterLink": "https://townshipofking.perfectmind.com/23793/Clients/BookMe4LandingPages/CoursesLandingPage?widgetId=15f6af07-39c5-473e-b053-96653f77a406&redirectedFromEmbededMode=False&courseId=223c3d1d-c499-41ce-ae8e-68980a22c335",
-    "URL": "https://eapickleball.com/king-city-pickleball/",
-    "pageIdentifyer": "king-city-pickleball",
-    "Category": "TS",
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "King City",
-    "Province": "ON",
-    "taxes": null,
-    "age": null,
-    "is_full": false,
-    "level": null
+    "is_full": true,
+    "level": "0"
   },
   {
     "Title": "King City - Beginners Pickleball League (18+ yrs)",
@@ -2489,35 +2377,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
-  },
-  {
-    "Title": "King City - Beginners Pickleball League (18+ yrs)",
-    "TotalPrice": 140.4,
-    "Prorate": false,
-    "StaticPriceText": "140.40",
-    "Day": "Tuesdays",
-    "Time": "8:00 - 10:00 PM",
-    "Start Date": "2026-04-14",
-    "End Date": "2026-06-09",
-    "Exceptions": "N/A",
-    "SessionDates": "2026-04-14,2026-04-21,2026-04-28,2026-05-05,2026-05-12,2026-05-19,2026-05-26,2026-06-02,2026-06-09",
-    "LocationName": "King City PS",
-    "LocationLink": "https://maps.app.goo.gl/Eai36pSDnurRyeXTA",
-    "RegisterLink": "https://townshipofking.perfectmind.com/23793/Clients/BookMe4LandingPages/CoursesLandingPage?widgetId=15f6af07-39c5-473e-b053-96653f77a406&redirectedFromEmbededMode=False&courseId=26601a97-c6bd-4eea-a16c-0048be826bd5",
-    "URL": "https://eapickleball.com/king-city-pickleball/",
-    "pageIdentifyer": "king-city-pickleball",
-    "Category": "TS",
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "King City",
-    "Province": "ON",
-    "taxes": null,
-    "age": null,
-    "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "King City - Beginners Pickleball League (18+ yrs)",
@@ -2544,8 +2404,8 @@
     "Province": "ON",
     "taxes": null,
     "age": null,
-    "is_full": false,
-    "level": null
+    "is_full": true,
+    "level": "1"
   },
   {
     "Title": "Kitchener - LEVEL 2: Experienced Beginners Pickleball League",
@@ -2573,7 +2433,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "2"
   },
   {
     "Title": "Lakefield - LEVEL 3: Intermediate Pickleball League",
@@ -2601,7 +2461,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "3"
   },
   {
     "Title": "Lakefield - LEVEL 3: Intermediate Pickleball League",
@@ -2629,7 +2489,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "3"
   },
   {
     "Title": "Nanaimo - LEVEL 3: Intermediate Pickleball League",
@@ -2657,7 +2517,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "3"
   },
   {
     "Title": "Nanaimo - LEVEL 1: Beginners Pickleball League",
@@ -2685,7 +2545,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Newcastle - LEVEL 1: Beginners Pickleball League",
@@ -2713,7 +2573,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Newmarket - Advanced Badminton League",
@@ -2797,7 +2657,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "0"
   },
   {
     "Title": "Newmarket - Learn to Play Pickleball (16+ yrs)",
@@ -2825,10 +2685,10 @@
     "taxes": null,
     "age": null,
     "is_full": true,
-    "level": null
+    "level": "0"
   },
   {
-    "Title": "Newmarket - Learnt to Play Pickleball (Youth)",
+    "Title": "Newmarket - Learn to Play Pickleball (Youth)",
     "TotalPrice": 71.12,
     "Prorate": false,
     "StaticPriceText": "71.12",
@@ -2853,7 +2713,7 @@
     "taxes": null,
     "age": null,
     "is_full": true,
-    "level": null
+    "level": "0"
   },
   {
     "Title": "Newmarket - Learn to Play Pickleball (16+ yrs)",
@@ -2881,7 +2741,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "0"
   },
   {
     "Title": "Newmarket - Learn to Play Pickleball (16+ yrs)",
@@ -2909,7 +2769,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "0"
   },
   {
     "Title": "Newmarket - Learnt to Play Pickleball (Youth)",
@@ -2937,7 +2797,7 @@
     "taxes": null,
     "age": null,
     "is_full": true,
-    "level": null
+    "level": "0"
   },
   {
     "Title": "Newmarket - Beginners Pickleball League (16+ yrs)",
@@ -2965,7 +2825,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Newmarket - Intermediate Pickleball League (16+ yrs)",
@@ -2993,7 +2853,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "3"
   },
   {
     "Title": "Newmarket - Beginners Pickleball League (16+ yrs)",
@@ -3021,7 +2881,7 @@
     "taxes": null,
     "age": null,
     "is_full": true,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Newmarket - Experienced Beginners Pickleball League (16+ yrs)",
@@ -3049,7 +2909,7 @@
     "taxes": null,
     "age": null,
     "is_full": true,
-    "level": null
+    "level": "2"
   },
   {
     "Title": "Newmarket - LEVEL 2: Experienced Beginners Pickleball League",
@@ -3077,7 +2937,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "2"
   },
   {
     "Title": "Newmarket - LEVEL 2: Experienced Beginners Pickleball League",
@@ -3104,8 +2964,8 @@
     "Province": "ON",
     "taxes": null,
     "age": null,
-    "is_full": false,
-    "level": null
+    "is_full": true,
+    "level": "2"
   },
   {
     "Title": "Newmarket - LEVEL 2: Experienced Beginners Pickleball League",
@@ -3133,7 +2993,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "2"
   },
   {
     "Title": "Newmarket - LEVEL 3: Intermediate Pickleball League",
@@ -3160,8 +3020,8 @@
     "Province": "ON",
     "taxes": null,
     "age": null,
-    "is_full": false,
-    "level": null
+    "is_full": true,
+    "level": "3"
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball (GR 3 - 4)",
@@ -3889,7 +3749,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "3"
   },
   {
     "Title": "North Vancouver - LEVEL 2: Experienced Beginners League",
@@ -3917,7 +3777,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "2"
   },
   {
     "Title": "North Vancouver - LEVEL 1: Beginners Pickleball League",
@@ -3944,8 +3804,8 @@
     "Province": "BC",
     "taxes": null,
     "age": null,
-    "is_full": false,
-    "level": null
+    "is_full": true,
+    "level": "1"
   },
   {
     "Title": "North Vancouver - LEVEL 2: Experienced Beginners League",
@@ -3972,8 +3832,8 @@
     "Province": "BC",
     "taxes": null,
     "age": null,
-    "is_full": false,
-    "level": null
+    "is_full": true,
+    "level": "2"
   },
   {
     "Title": "North Vancouver - LEVEL 2: Experienced Beginners League",
@@ -4000,8 +3860,8 @@
     "Province": "BC",
     "taxes": null,
     "age": null,
-    "is_full": false,
-    "level": null
+    "is_full": true,
+    "level": "2"
   },
   {
     "Title": "North York - Learn to Play Pickleball",
@@ -4028,8 +3888,8 @@
     "Province": "ON",
     "taxes": null,
     "age": null,
-    "is_full": false,
-    "level": null
+    "is_full": true,
+    "level": "0"
   },
   {
     "Title": "North York - LEVEL 2: Experienced Beginners Pickleball League",
@@ -4057,7 +3917,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "2"
   },
   {
     "Title": "North York - LEVEL 1: Beginners Pickleball League",
@@ -4085,7 +3945,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Oshawa - Learn to Play Pickleball (15+)",
@@ -4113,7 +3973,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "0"
   },
   {
     "Title": "Oshawa - Learn to Play Pickleball (6 - 10 yrs)",
@@ -4140,8 +4000,8 @@
     "Province": "ON",
     "taxes": null,
     "age": null,
-    "is_full": false,
-    "level": null
+    "is_full": true,
+    "level": "0"
   },
   {
     "Title": "Oshawa - Learn to Play Pickleball (11 - 14 yrs)",
@@ -4169,7 +4029,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "0"
   },
   {
     "Title": "Oshawa - Learn to Play Pickleball (15+)",
@@ -4197,7 +4057,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "0"
   },
   {
     "Title": "Oshawa - Learn to Play Pickleball (15+)",
@@ -4225,7 +4085,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "0"
   },
   {
     "Title": "Orleans - LEVEL 1: Social Play",
@@ -4253,7 +4113,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Orleans - LEVEL 1: Social Play",
@@ -4281,7 +4141,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Orleans - LEVEL 1: Beginners Pickleball League",
@@ -4309,7 +4169,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Orleans - LEVEL 1: Beginners Pickleball League",
@@ -4337,7 +4197,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Oro-Medonte - Beginners Pickleball League",
@@ -4365,7 +4225,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Oro-Medonte - Beginners Pickleball Lessons",
@@ -4393,7 +4253,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Oro-Medonte - Beginners Pickleball Lessons",
@@ -4421,7 +4281,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Oro-Medonte - Beginners Pickleball Lessons",
@@ -4449,7 +4309,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Oro-Medonte - Beginners Pickleball Lessons",
@@ -4477,7 +4337,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Oro-Medonte - Intermediate Pickleball League",
@@ -4505,7 +4365,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "3"
   },
   {
     "Title": "Oro-Medonte - Beginners Pickleball Lessons",
@@ -4533,7 +4393,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Oro-Medonte - Jr Basketball (11 - 13)",
@@ -4644,8 +4504,8 @@
     "Province": "ON",
     "taxes": null,
     "age": null,
-    "is_full": false,
-    "level": null
+    "is_full": true,
+    "level": "1"
   },
   {
     "Title": "Perth - LEVEL 1 + 2: Beginners + Experienced Beginners Pickleball League",
@@ -4673,7 +4533,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "2"
   },
   {
     "Title": "Peterborough - LEVEL 1: Beginners Pickleball League",
@@ -4701,7 +4561,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Port Colborne - LEVEL 2: Experienced Beginners Pickleball League",
@@ -4729,7 +4589,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "2"
   },
   {
     "Title": "Port Hope - LEVEL 1: Beginners Pickleball League",
@@ -4756,8 +4616,8 @@
     "Province": "ON",
     "taxes": null,
     "age": null,
-    "is_full": false,
-    "level": null
+    "is_full": true,
+    "level": "1"
   },
   {
     "Title": "Port Perry - LEVEL 3: Intermediate Pickleball (Round Robin Format)",
@@ -4785,7 +4645,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "3"
   },
   {
     "Title": "Prince George - LEVEL 2: Experienced Beginners Pickleball League",
@@ -4840,7 +4700,7 @@
     "Province": "BC",
     "taxes": null,
     "age": null,
-    "is_full": false,
+    "is_full": true,
     "level": "1"
   },
   {
@@ -5484,8 +5344,8 @@
     "Province": "ON",
     "taxes": null,
     "age": null,
-    "is_full": false,
-    "level": null
+    "is_full": true,
+    "level": "2"
   },
   {
     "Title": "Squamish - LEVEL 1:  Beginners Pickleball League",
@@ -5513,7 +5373,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Squamish - LEVEL 1: Beginners Pickleball League",
@@ -5541,7 +5401,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Stayner - LEVEL 2: Advanced Beginners Pickleball League",
@@ -5569,7 +5429,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "2"
   },
   {
     "Title": "Stouffville - LEVEL 2: Experienced Beginners Pickleball League",
@@ -5596,8 +5456,8 @@
     "Province": "ON",
     "taxes": null,
     "age": null,
-    "is_full": false,
-    "level": null
+    "is_full": true,
+    "level": "2"
   },
   {
     "Title": "Sooke - LEVEL 1: Beginners Pickleball League",
@@ -5625,7 +5485,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Surrey - LEVEL 2 - 3: Advanced Beginner and Intermediate League",
@@ -5653,7 +5513,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "3"
   },
   {
     "Title": "Surrey - LEVEL 1: Beginners Pickleball League",
@@ -5681,7 +5541,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Sutton - LEVEL 2 + 3: Exp. Beginner/Intermediate League",
@@ -5709,7 +5569,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "3"
   },
   {
     "Title": "Sutton - LEVEL 4: Intermediate + Advanced Pickleball League",
@@ -5737,7 +5597,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "4"
   },
   {
     "Title": "Sutton - LEVEL 2: Experienced Beginners Pickleball League",
@@ -5765,7 +5625,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "2"
   },
   {
     "Title": "Richmond - LEVEL 1: Beginners Pickleball League",
@@ -5793,7 +5653,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Terrace - LEVEL 1: Beginners Pickleball League",
@@ -5821,7 +5681,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Terrace - LEVEL 1: Beginners Pickleball League",
@@ -5849,7 +5709,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Terrace - LEVEL 1: Beginners Pickleball League",
@@ -5877,7 +5737,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Terrace - LEVEL 1: Beginners Pickleball League",
@@ -5905,7 +5765,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Uxbridge - LEVEL 3: Intermediate Pickleball (Round Robin Format)",
@@ -5932,8 +5792,8 @@
     "Province": "ON",
     "taxes": null,
     "age": null,
-    "is_full": false,
-    "level": null
+    "is_full": true,
+    "level": "3"
   },
   {
     "Title": "Uxbridge - LEVEL 2 + 3: Exp Beginner + Intermediate",
@@ -5960,8 +5820,8 @@
     "Province": "ON",
     "taxes": null,
     "age": null,
-    "is_full": false,
-    "level": null
+    "is_full": true,
+    "level": "3"
   },
   {
     "Title": "Sandford - LTP + LEVEL 1: Beginners League",
@@ -5989,7 +5849,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Maple Ridge - LEVEL 1: Beginners Pickleball League",
@@ -6017,7 +5877,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Maple Ridge - LEVEL 1: Beginners Pickleball League",
@@ -6045,7 +5905,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Vernon - LEVEL 2: Experienced Beginners Pickleball League",
@@ -6073,7 +5933,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "2"
   },
   {
     "Title": "Vernon - LEVEL 1: Beginners Pickleball League",
@@ -6101,7 +5961,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Vernon - LEVEL 1: Beginners Pickleball League",
@@ -6129,7 +5989,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Vernon - LEVEL 2: Experienced Beginners League",
@@ -6156,8 +6016,8 @@
     "Province": "BC",
     "taxes": null,
     "age": null,
-    "is_full": false,
-    "level": null
+    "is_full": true,
+    "level": "2"
   },
   {
     "Title": "Victoria - LEVEL 1: Beginners Pickleball League",
@@ -6185,7 +6045,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Victoria - LEVEL 1: Beginners Pickleball League",
@@ -6213,7 +6073,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Victoria - LEVEL 1: Beginners Pickleball League",
@@ -6240,8 +6100,8 @@
     "Province": "BC",
     "taxes": null,
     "age": null,
-    "is_full": false,
-    "level": null
+    "is_full": true,
+    "level": "1"
   },
   {
     "Title": "Vaughan - Learn to Play Pickleball: Beginner",
@@ -6968,7 +6828,7 @@
     "Province": "ON",
     "taxes": null,
     "age": null,
-    "is_full": false,
+    "is_full": true,
     "level": null
   },
   {
@@ -7013,34 +6873,6 @@
     "LocationName": "Al Palladini CC",
     "LocationLink": "https://maps.app.goo.gl/hyhfBWfDcKmRtu4k6",
     "RegisterLink": "https://vaughan.perfectmind.com/25076/Clients/BookMe4LandingPages/CoursesLandingPage?widgetId=15f6af07-39c5-473e-b053-96653f77a406&redirectedFromEmbededMode=False&courseId=1c09f701-a5fc-437c-aca5-160fc86a3a7f",
-    "URL": "https://eapickleball.com/vaughan/",
-    "pageIdentifyer": "vaughan",
-    "Category": "TS",
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Vaughan",
-    "Province": "ON",
-    "taxes": null,
-    "age": null,
-    "is_full": false,
-    "level": null
-  },
-  {
-    "Title": "Vaughan - Learn to Play Pickleball: Advanced",
-    "TotalPrice": 161,
-    "Prorate": false,
-    "StaticPriceText": "161",
-    "Day": "Thursdays",
-    "Time": "7:30 - 8:30 PM",
-    "Start Date": "2026-05-07",
-    "End Date": "2026-06-18",
-    "Exceptions": "N/A",
-    "SessionDates": "2026-05-07,2026-05-14,2026-05-21,2026-05-28,2026-06-04,2026-06-11,2026-06-18",
-    "LocationName": "Al Palladini CC",
-    "LocationLink": "https://maps.app.goo.gl/hyhfBWfDcKmRtu4k6",
-    "RegisterLink": "https://vaughan.perfectmind.com/25076/Clients/BookMe4LandingPages/CoursesLandingPage?widgetId=15f6af07-39c5-473e-b053-96653f77a406&redirectedFromEmbededMode=False&courseId=fe0fdd31-7d84-4eaf-9cdf-ae82d18551a8",
     "URL": "https://eapickleball.com/vaughan/",
     "pageIdentifyer": "vaughan",
     "Category": "TS",
@@ -7192,7 +7024,7 @@
     "Province": "ON",
     "taxes": null,
     "age": null,
-    "is_full": false,
+    "is_full": true,
     "level": null
   },
   {
@@ -7836,8 +7668,8 @@
     "Province": "ON",
     "taxes": null,
     "age": null,
-    "is_full": false,
-    "level": null
+    "is_full": true,
+    "level": "1"
   },
   {
     "Title": "Wasaga Beach - LEVEL 1: Beginners Pickleball League",
@@ -7865,7 +7697,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Wasaga Beach - LEVEL 2: Experienced Beginners Pickleball League",
@@ -7893,7 +7725,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "2"
   },
   {
     "Title": "Richmond Hill Curling Club - Learn to Play Pickleball",
@@ -8649,7 +8481,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "Bridgewater - LEVEL 2: Experienced Beginners Pickleball League",
@@ -8677,7 +8509,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "2"
   },
   {
     "Title": "Truro - LEVEL 2: Experienced Beginner Pickleball League",
@@ -8705,7 +8537,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "2"
   },
   {
     "Title": "Truro - LEVEL 1: Beginners Pickleball League",
@@ -8733,7 +8565,7 @@
     "taxes": null,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": "1"
   },
   {
     "Title": "EA Uxbridge Multi-Sport Camp (6 - 12yrs)",
