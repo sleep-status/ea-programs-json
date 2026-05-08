@@ -13,19 +13,6 @@
     "NearbyActive": "228,41,7,20"
   },
   {
-    "City": "Richmond Hill Curling Club",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/richmond-hill-curling-club",
-    "Active": 20,
-    "newsletter_shortcode": "27861",
-    "facebook_link": "https://www.facebook.com/groups/317253352671233",
-    "GPN": "N/A",
-    "CityID": 228,
-    "lat": 43.88,
-    "lng": -79.44,
-    "NearbyActive": "41,7,65,2"
-  },
-  {
     "City": "Newmarket",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/newmarket-ea-pickleball/",
@@ -244,7 +231,7 @@
     "CityID": 7,
     "lat": 43.929489,
     "lng": -79.5252267,
-    "NearbyActive": "228,41,2,1"
+    "NearbyActive": "41,2,1,65"
   },
   {
     "City": "Caledon",
@@ -608,7 +595,7 @@
     "CityID": 41,
     "lat": 43.8801166,
     "lng": -79.4392925,
-    "NearbyActive": "228,7,65,2"
+    "NearbyActive": "7,65,2,1"
   },
   {
     "City": "Stayner",
@@ -712,7 +699,7 @@
     "CityID": 30,
     "lat": 43.7543217,
     "lng": -79.4491057,
-    "NearbyActive": "65,228,41,7"
+    "NearbyActive": "65,41,7,22"
   },
   {
     "City": "Windsor, NS",
@@ -738,7 +725,7 @@
     "CityID": 57,
     "lat": 43.9717581,
     "lng": -79.2454446,
-    "NearbyActive": "2,15,41,228"
+    "NearbyActive": "2,15,41,1"
   },
   {
     "City": "Stoney Creek",
@@ -1453,7 +1440,7 @@
     "CityID": 52,
     "lat": 46.2483846,
     "lng": -60.0873491,
-    "NearbyActive": "38,46,119"
+    "NearbyActive": "38,119"
   },
   {
     "City": "New Glasgow",
@@ -1466,7 +1453,7 @@
     "CityID": 62,
     "lat": 45.5869474,
     "lng": -62.6483547,
-    "NearbyActive": "38,46,119"
+    "NearbyActive": "38,119"
   },
   {
     "City": "Chester",
@@ -1479,7 +1466,7 @@
     "CityID": 67,
     "lat": 44.5413322,
     "lng": -64.2411853,
-    "NearbyActive": "119,46,38"
+    "NearbyActive": "119,38"
   },
   {
     "City": "Bedford",
@@ -1492,7 +1479,7 @@
     "CityID": 118,
     "lat": 44.7303901,
     "lng": -63.6582365,
-    "NearbyActive": "46,38,119"
+    "NearbyActive": "38,119"
   },
   {
     "City": "Brookside",
@@ -1505,7 +1492,7 @@
     "CityID": 120,
     "lat": 44.5427543,
     "lng": -63.7187498,
-    "NearbyActive": "46,119,38"
+    "NearbyActive": "119,38"
   },
   {
     "City": "Cole Harbour",
@@ -1518,7 +1505,7 @@
     "CityID": 121,
     "lat": 44.6736008,
     "lng": -63.4877299,
-    "NearbyActive": "46,38,119"
+    "NearbyActive": "38,119"
   },
   {
     "City": "Dartmouth",
@@ -1531,7 +1518,7 @@
     "CityID": 122,
     "lat": 44.6799707,
     "lng": -63.5720232,
-    "NearbyActive": "46,38,119"
+    "NearbyActive": "38,119"
   },
   {
     "City": "Halifax",
@@ -1544,7 +1531,7 @@
     "CityID": 123,
     "lat": 44.648618,
     "lng": -63.5859487,
-    "NearbyActive": "46,119,38"
+    "NearbyActive": "119,38"
   },
   {
     "City": "Kentville",
@@ -1557,7 +1544,7 @@
     "CityID": 124,
     "lat": 45.0784875,
     "lng": -64.495212,
-    "NearbyActive": "46,119,38"
+    "NearbyActive": "119,38"
   },
   {
     "City": "Lawrencetown",
@@ -1570,7 +1557,7 @@
     "CityID": 125,
     "lat": 44.6516314,
     "lng": -63.3606144,
-    "NearbyActive": "46,38,119"
+    "NearbyActive": "38,119"
   },
   {
     "City": "Sackville",
@@ -1583,7 +1570,7 @@
     "CityID": 126,
     "lat": 44.8014509,
     "lng": -63.7296755,
-    "NearbyActive": "46,38,119"
+    "NearbyActive": "38,119"
   },
   {
     "City": "Spryfield",
@@ -1596,7 +1583,7 @@
     "CityID": 127,
     "lat": 44.6059393,
     "lng": -63.6128592,
-    "NearbyActive": "46,119,38"
+    "NearbyActive": "119,38"
   },
   {
     "City": "West Northfield",
@@ -1609,7 +1596,7 @@
     "CityID": 128,
     "lat": 44.4538791,
     "lng": -64.5939447,
-    "NearbyActive": "119,46,38"
+    "NearbyActive": "119,38"
   },
   {
     "City": "Wolfville",
@@ -1622,7 +1609,7 @@
     "CityID": 129,
     "lat": 45.0914073,
     "lng": -64.3645102,
-    "NearbyActive": "46,119,38"
+    "NearbyActive": "119,38"
   },
   {
     "City": "Trenton, NS",
@@ -1635,7 +1622,7 @@
     "CityID": 227,
     "lat": null,
     "lng": null,
-    "NearbyActive": "38,119,46"
+    "NearbyActive": "38,119"
   },
   {
     "City": "Hanover",
@@ -1765,7 +1752,7 @@
     "CityID": 135,
     "lat": 43.3248924,
     "lng": -79.7966835,
-    "NearbyActive": "22,23,31,30"
+    "NearbyActive": "22,23,31,65"
   },
   {
     "City": "Campbellville",
@@ -1882,7 +1869,7 @@
     "CityID": 144,
     "lat": 43.0307817,
     "lng": -79.2859628,
-    "NearbyActive": "47,30,22,65"
+    "NearbyActive": "47,22,65,23"
   },
   {
     "City": "Gravenhurst",
@@ -1908,7 +1895,7 @@
     "CityID": 146,
     "lat": 43.1931661,
     "lng": -79.560677,
-    "NearbyActive": "47,22,30,23"
+    "NearbyActive": "47,22,23,65"
   },
   {
     "City": "Hamilton",
@@ -2025,7 +2012,7 @@
     "CityID": 155,
     "lat": 43.6440753,
     "lng": -79.4086982,
-    "NearbyActive": "30,65,228,41"
+    "NearbyActive": "65,41,22,7"
   },
   {
     "City": "North Bay",
@@ -2077,7 +2064,7 @@
     "CityID": 159,
     "lat": 43.447436,
     "lng": -79.666672,
-    "NearbyActive": "22,30,65,6"
+    "NearbyActive": "22,65,6,31"
   },
   {
     "City": "Orangeville",
@@ -2142,7 +2129,7 @@
     "CityID": 164,
     "lat": 43.835765,
     "lng": -79.090576,
-    "NearbyActive": "59,5,57,17"
+    "NearbyActive": "59,5,17,41"
   },
   {
     "City": "Picton",
@@ -2220,7 +2207,7 @@
     "CityID": 170,
     "lat": 42.8820503,
     "lng": -79.0490304,
-    "NearbyActive": "47,30,22,65"
+    "NearbyActive": "47,22,65,59"
   },
   {
     "City": "Smiths Falls",
@@ -2272,7 +2259,7 @@
     "CityID": 174,
     "lat": 43.1579812,
     "lng": -79.2441003,
-    "NearbyActive": "47,30,22,65"
+    "NearbyActive": "47,22,65,41"
   },
   {
     "City": "St Thomas",
@@ -2324,7 +2311,7 @@
     "CityID": 179,
     "lat": 43.8161477,
     "lng": -79.4245925,
-    "NearbyActive": "30,228,41,65"
+    "NearbyActive": "41,65,7,2"
   },
   {
     "City": "Tillsonburg",
