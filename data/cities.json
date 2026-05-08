@@ -10,7 +10,20 @@
     "CityID": 65,
     "lat": 43.7941544,
     "lng": -79.5268023,
-    "NearbyActive": "228,41,7,20"
+    "NearbyActive": "41,7,20,22"
+  },
+  {
+    "City": "Richmond Hill Curling Club",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/richmond-hill-curling-club",
+    "Active": 20,
+    "newsletter_shortcode": "27861",
+    "facebook_link": "https://www.facebook.com/groups/317253352671233",
+    "GPN": "N/A",
+    "CityID": 228,
+    "lat": 43.88,
+    "lng": -79.44,
+    "NearbyActive": "41,7,65,2"
   },
   {
     "City": "Newmarket",
