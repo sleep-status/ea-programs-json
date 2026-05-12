@@ -3,14 +3,14 @@
     "City": "Vaughan",
     "Province": "ON",
     "PageURL": "http://eapickleball.com/vaughan/",
-    "Active": 47,
+    "Active": 46,
     "newsletter_shortcode": "28903",
     "facebook_link": "https://www.facebook.com/groups/120051924337462/?ref=share&mibextid=NSMWBT",
     "GPN": "N/A",
     "CityID": 65,
     "lat": 43.7941544,
     "lng": -79.5268023,
-    "NearbyActive": "41,7,20,22"
+    "NearbyActive": "228,41,7,20"
   },
   {
     "City": "Richmond Hill Curling Club",
@@ -65,19 +65,6 @@
     "NearbyActive": "28,32,10,21"
   },
   {
-    "City": "Coquitlam",
-    "Province": "BC",
-    "PageURL": "https://bc.eapickleball.com/coquitlam/",
-    "Active": 5,
-    "newsletter_shortcode": "26293",
-    "facebook_link": "https://www.facebook.com/groups/1417514099256100/?ref=share&mibextid=NSMWBT",
-    "GPN": "N/A",
-    "CityID": 9,
-    "lat": 49.2842958,
-    "lng": -122.793281,
-    "NearbyActive": "26,48,43,29"
-  },
-  {
     "City": "Keswick",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/keswick-pickleball/",
@@ -91,17 +78,17 @@
     "NearbyActive": "32,64,3,1"
   },
   {
-    "City": "North Vancouver",
+    "City": "Coquitlam",
     "Province": "BC",
-    "PageURL": "https://bc.eapickleball.com/north-vancouver/",
-    "Active": 5,
-    "newsletter_shortcode": "26617",
-    "facebook_link": "https://www.facebook.com/groups/2410835639307941/?rdid=oDtGo3Csdp9eYH4a&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2Fv3xXUfvd1pu94oN3%2F",
+    "PageURL": "https://bc.eapickleball.com/coquitlam/",
+    "Active": 4,
+    "newsletter_shortcode": "26293",
+    "facebook_link": "https://www.facebook.com/groups/1417514099256100/?ref=share&mibextid=NSMWBT",
     "GPN": "N/A",
-    "CityID": 29,
-    "lat": 49.3206294,
-    "lng": -123.0737925,
-    "NearbyActive": "48,49,9,26"
+    "CityID": 9,
+    "lat": 49.2842958,
+    "lng": -122.793281,
+    "NearbyActive": "26,48,43,29"
   },
   {
     "City": "Oshawa",
@@ -127,7 +114,7 @@
     "CityID": 19,
     "lat": 53.9128645,
     "lng": -122.7453699,
-    "NearbyActive": "12,14,27,11"
+    "NearbyActive": "14,27,11,29"
   },
   {
     "City": "Bowmanville",
@@ -169,17 +156,17 @@
     "NearbyActive": "4,21,32,10"
   },
   {
-    "City": "Maple Ridge",
+    "City": "North Vancouver",
     "Province": "BC",
-    "PageURL": "https://bc.eapickleball.com/maple-ridge/",
-    "Active": 4,
-    "newsletter_shortcode": 26608,
-    "facebook_link": "https://www.facebook.com/groups/864303695076671/",
+    "PageURL": "https://bc.eapickleball.com/north-vancouver/",
+    "Active": 3,
+    "newsletter_shortcode": "26617",
+    "facebook_link": "https://www.facebook.com/groups/2410835639307941/?rdid=oDtGo3Csdp9eYH4a&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2Fv3xXUfvd1pu94oN3%2F",
     "GPN": "N/A",
-    "CityID": 43,
-    "lat": 49.2197345,
-    "lng": -122.599707,
-    "NearbyActive": "9,26,48,29"
+    "CityID": 29,
+    "lat": 49.3206294,
+    "lng": -123.0737925,
+    "NearbyActive": "48,49,9,26"
   },
   {
     "City": "Victoria",
@@ -221,19 +208,6 @@
     "NearbyActive": "14,44,43,9"
   },
   {
-    "City": "Lanark County",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/lanark-county/",
-    "Active": 3,
-    "newsletter_shortcode": "N/A",
-    "facebook_link": "N/A",
-    "GPN": "N/A",
-    "CityID": 8,
-    "lat": 45,
-    "lng": -76.36,
-    "NearbyActive": "45,16,18,40"
-  },
-  {
     "City": "King City",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/king-city-pickleball/",
@@ -244,7 +218,7 @@
     "CityID": 7,
     "lat": 43.929489,
     "lng": -79.5252267,
-    "NearbyActive": "41,2,1,65"
+    "NearbyActive": "228,41,2,1"
   },
   {
     "City": "Caledon",
@@ -312,17 +286,30 @@
     "NearbyActive": "3,1,2,10"
   },
   {
-    "City": "Ottawa",
+    "City": "Lanark County",
     "Province": "ON",
-    "PageURL": "https://eapickleball.com/ottawa-pickleball/",
+    "PageURL": "https://eapickleball.com/lanark-county/",
+    "Active": 3,
+    "newsletter_shortcode": "N/A",
+    "facebook_link": "N/A",
+    "GPN": "N/A",
+    "CityID": 8,
+    "lat": 45,
+    "lng": -76.36,
+    "NearbyActive": "45,16,18,40"
+  },
+  {
+    "City": "Maple Ridge",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/maple-ridge/",
     "Active": 2,
-    "newsletter_shortcode": "29289",
-    "facebook_link": "https://www.facebook.com/groups/1617925192025202/permalink/1766751293809257/?mibextid=W9rl1R",
-    "GPN": "https://www.globalpickleball.network/network/register/5071-elevation-athletics-gta",
-    "CityID": 18,
-    "lat": 45.4208777,
-    "lng": -75.6901106,
-    "NearbyActive": "16,8,45,40"
+    "newsletter_shortcode": 26608,
+    "facebook_link": "https://www.facebook.com/groups/864303695076671/",
+    "GPN": "N/A",
+    "CityID": 43,
+    "lat": 49.2197345,
+    "lng": -122.599707,
+    "NearbyActive": "9,26,48,29"
   },
   {
     "City": "Bolton",
@@ -349,19 +336,6 @@
     "lat": 44.310301,
     "lng": -79.365311,
     "NearbyActive": "10,3,64,1"
-  },
-  {
-    "City": "Terrace",
-    "Province": "BC",
-    "PageURL": "https://bc.eapickleball.com/terrace/",
-    "Active": 2,
-    "newsletter_shortcode": "26633",
-    "facebook_link": "https://www.facebook.com/groups/1568496540765325/?rdid=bESghhy5W0sboYFz&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FYMeChMvnWvB39KG1%2F#",
-    "GPN": "N/A",
-    "CityID": 12,
-    "lat": 54.5172715,
-    "lng": -128.599548,
-    "NearbyActive": "19,27,25,29"
   },
   {
     "City": "Wasaga Beach",
@@ -481,10 +455,23 @@
     "NearbyActive": "36,55,35,34"
   },
   {
+    "City": "Ottawa",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/ottawa-pickleball/",
+    "Active": 1,
+    "newsletter_shortcode": "29289",
+    "facebook_link": "https://www.facebook.com/groups/1617925192025202/permalink/1766751293809257/?mibextid=W9rl1R",
+    "GPN": "https://www.globalpickleball.network/network/register/5071-elevation-athletics-gta",
+    "CityID": 18,
+    "lat": 45.4208777,
+    "lng": -75.6901106,
+    "NearbyActive": "16,8,45,40"
+  },
+  {
     "City": "Burnaby",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/burnaby",
-    "Active": 2,
+    "Active": 1,
     "newsletter_shortcode": 29161,
     "facebook_link": "https://www.facebook.com/groups/759192023712740/",
     "GPN": "N/A",
@@ -608,7 +595,7 @@
     "CityID": 41,
     "lat": 43.8801166,
     "lng": -79.4392925,
-    "NearbyActive": "7,65,2,1"
+    "NearbyActive": "228,7,65,2"
   },
   {
     "City": "Stayner",
@@ -702,6 +689,19 @@
     "NearbyActive": null
   },
   {
+    "City": "Terrace",
+    "Province": "BC",
+    "PageURL": "https://bc.eapickleball.com/terrace/",
+    "Active": 0,
+    "newsletter_shortcode": "26633",
+    "facebook_link": "https://www.facebook.com/groups/1568496540765325/?rdid=bESghhy5W0sboYFz&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FYMeChMvnWvB39KG1%2F#",
+    "GPN": "N/A",
+    "CityID": 12,
+    "lat": 54.5172715,
+    "lng": -128.599548,
+    "NearbyActive": "19,27,25,29"
+  },
+  {
     "City": "North York",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/north-york-pickleball/",
@@ -712,7 +712,7 @@
     "CityID": 30,
     "lat": 43.7543217,
     "lng": -79.4491057,
-    "NearbyActive": "65,41,7,22"
+    "NearbyActive": "65,228,41,7"
   },
   {
     "City": "Windsor, NS",
@@ -738,7 +738,7 @@
     "CityID": 57,
     "lat": 43.9717581,
     "lng": -79.2454446,
-    "NearbyActive": "2,15,41,1"
+    "NearbyActive": "2,15,41,228"
   },
   {
     "City": "Stoney Creek",
@@ -2025,7 +2025,7 @@
     "CityID": 155,
     "lat": 43.6440753,
     "lng": -79.4086982,
-    "NearbyActive": "65,41,22,7"
+    "NearbyActive": "65,228,41,22"
   },
   {
     "City": "North Bay",
@@ -2272,7 +2272,7 @@
     "CityID": 174,
     "lat": 43.1579812,
     "lng": -79.2441003,
-    "NearbyActive": "47,22,65,41"
+    "NearbyActive": "47,22,65,228"
   },
   {
     "City": "St Thomas",
@@ -2324,7 +2324,7 @@
     "CityID": 179,
     "lat": 43.8161477,
     "lng": -79.4245925,
-    "NearbyActive": "41,65,7,2"
+    "NearbyActive": "228,41,65,7"
   },
   {
     "City": "Tillsonburg",
