@@ -296,7 +296,7 @@
     "CityID": 8,
     "lat": 45,
     "lng": -76.36,
-    "NearbyActive": "45,16,18,40"
+    "NearbyActive": "45,16,40,36"
   },
   {
     "City": "Maple Ridge",
@@ -679,7 +679,7 @@
     "City": "Edmonton",
     "Province": "AB",
     "PageURL": "https://eapickleball.com/ab-edmonton/",
-    "Active": 1,
+    "Active": 0,
     "newsletter_shortcode": "32064",
     "facebook_link": "https://www.facebook.com/groups/1747290709493078/",
     "GPN": "N/A",
@@ -803,7 +803,7 @@
     "CityID": 69,
     "lat": 51.28597,
     "lng": -114.01062,
-    "NearbyActive": 73
+    "NearbyActive": null
   },
   {
     "City": "Calgary",
@@ -816,7 +816,7 @@
     "CityID": 70,
     "lat": 51.0456064,
     "lng": -114.057541,
-    "NearbyActive": 73
+    "NearbyActive": null
   },
   {
     "City": "Chestermere",
@@ -829,7 +829,7 @@
     "CityID": 71,
     "lat": 51.0527345,
     "lng": -113.8252507,
-    "NearbyActive": 73
+    "NearbyActive": null
   },
   {
     "City": "Cochrane",
@@ -842,7 +842,7 @@
     "CityID": 72,
     "lat": 51.1874627,
     "lng": -114.4710708,
-    "NearbyActive": 73
+    "NearbyActive": null
   },
   {
     "City": "Grande Prairie",
@@ -855,7 +855,7 @@
     "CityID": 74,
     "lat": 55.17108,
     "lng": -118.7949873,
-    "NearbyActive": 73
+    "NearbyActive": null
   },
   {
     "City": "Leduc",
@@ -868,7 +868,7 @@
     "CityID": 75,
     "lat": 53.2607825,
     "lng": -113.5511681,
-    "NearbyActive": 73
+    "NearbyActive": null
   },
   {
     "City": "Lethbridge",
@@ -881,7 +881,7 @@
     "CityID": 76,
     "lat": 49.6945782,
     "lng": -112.8331033,
-    "NearbyActive": 73
+    "NearbyActive": null
   },
   {
     "City": "Medicine Hat",
@@ -894,7 +894,7 @@
     "CityID": 77,
     "lat": 50.04303,
     "lng": -110.679016,
-    "NearbyActive": 73
+    "NearbyActive": null
   },
   {
     "City": "Okotoks",
@@ -907,7 +907,7 @@
     "CityID": 78,
     "lat": 50.7253685,
     "lng": -113.975082,
-    "NearbyActive": 73
+    "NearbyActive": null
   },
   {
     "City": "Red Deer",
@@ -920,7 +920,7 @@
     "CityID": 79,
     "lat": 52.2690628,
     "lng": -113.8141464,
-    "NearbyActive": 73
+    "NearbyActive": null
   },
   {
     "City": "Spruce Grove",
@@ -933,7 +933,7 @@
     "CityID": 80,
     "lat": 53.545204,
     "lng": -113.903503,
-    "NearbyActive": 73
+    "NearbyActive": null
   },
   {
     "City": "St. Albert",
@@ -946,7 +946,7 @@
     "CityID": 81,
     "lat": 53.633239,
     "lng": -113.628845,
-    "NearbyActive": 73
+    "NearbyActive": null
   },
   {
     "City": "Strathcona County",
@@ -959,7 +959,7 @@
     "CityID": 82,
     "lat": 53.52,
     "lng": -113.29,
-    "NearbyActive": 73
+    "NearbyActive": null
   },
   {
     "City": "Wood Buffalo",
@@ -972,7 +972,7 @@
     "CityID": 83,
     "lat": 57.6,
     "lng": -112,
-    "NearbyActive": 73
+    "NearbyActive": null
   },
   {
     "City": "Kelowna",
