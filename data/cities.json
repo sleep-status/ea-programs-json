@@ -296,7 +296,7 @@
     "CityID": 8,
     "lat": 45,
     "lng": -76.36,
-    "NearbyActive": "45,16,40,36"
+    "NearbyActive": "45,16,18,40"
   },
   {
     "City": "Maple Ridge",
@@ -692,7 +692,7 @@
     "City": "Terrace",
     "Province": "BC",
     "PageURL": "https://bc.eapickleball.com/terrace/",
-    "Active": 0,
+    "Active": 1,
     "newsletter_shortcode": "26633",
     "facebook_link": "https://www.facebook.com/groups/1568496540765325/?rdid=bESghhy5W0sboYFz&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FYMeChMvnWvB39KG1%2F#",
     "GPN": "N/A",
