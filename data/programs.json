@@ -3613,9 +3613,9 @@
   },
   {
     "Title": "Terrace - LEVEL 1: Beginners Pickleball League",
-    "TotalPrice": 62.5,
-    "Prorate": false,
-    "StaticPriceText": "$83.35 $62.50",
+    "TotalPrice": 83.35,
+    "Prorate": true,
+    "StaticPriceText": null,
     "Day": "Tuesdays",
     "Time": "6:00 - 8:00 PM",
     "Start Date": "2026-05-16",
