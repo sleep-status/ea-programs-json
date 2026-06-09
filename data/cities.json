@@ -182,6 +182,19 @@
     "NearbyActive": "9,48,26,43"
   },
   {
+    "City": "Victoria",
+    "Province": "BC",
+    "PageURL": "https://eapickleball.com/victoria/",
+    "Active": 2,
+    "newsletter_shortcode": 45225,
+    "facebook_link": "https://www.facebook.com/groups/2406625442881549/?ref=share&mibextid=NSMWBT",
+    "GPN": "N/A",
+    "CityID": 13,
+    "lat": 48.4283182,
+    "lng": -123.364953,
+    "NearbyActive": "50,25,26,48"
+  },
+  {
     "City": "Oro-Medonte",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/oro-pickleball/",
@@ -193,19 +206,6 @@
     "lat": 44.5445701,
     "lng": -79.5489109,
     "NearbyActive": "28,32,3,15"
-  },
-  {
-    "City": "Victoria",
-    "Province": "BC",
-    "PageURL": "https://eapickleball.com/victoria/",
-    "Active": 1,
-    "newsletter_shortcode": 45225,
-    "facebook_link": "https://www.facebook.com/groups/2406625442881549/?ref=share&mibextid=NSMWBT",
-    "GPN": "N/A",
-    "CityID": 13,
-    "lat": 48.4283182,
-    "lng": -123.364953,
-    "NearbyActive": "50,25,26,48"
   },
   {
     "City": "Uxbridge",
