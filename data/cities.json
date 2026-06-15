@@ -3,53 +3,40 @@
     "City": "Vaughan",
     "Province": "ON",
     "PageURL": "http://eapickleball.com/vaughan/",
-    "Active": 30,
+    "Active": 24,
     "newsletter_shortcode": "28903",
     "facebook_link": "https://www.facebook.com/groups/120051924337462/?ref=share&mibextid=NSMWBT",
     "GPN": "N/A",
     "CityID": 65,
     "lat": 43.7941544,
     "lng": -79.5268023,
-    "NearbyActive": "228,7,2,3"
+    "NearbyActive": "228,2,3,23"
   },
   {
     "City": "Richmond Hill Curling Club",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/richmond-hill-curling-club",
-    "Active": 11,
+    "Active": 10,
     "newsletter_shortcode": "27861",
     "facebook_link": "https://www.facebook.com/groups/317253352671233",
     "GPN": "N/A",
     "CityID": 228,
     "lat": 43.88,
     "lng": -79.44,
-    "NearbyActive": "7,65,2,3"
+    "NearbyActive": "65,2,3,23"
   },
   {
     "City": "Aurora",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/aurora/",
-    "Active": 6,
+    "Active": 4,
     "newsletter_shortcode": "32811",
     "facebook_link": "https://www.facebook.com/groups/3971699213072295/",
     "GPN": "N/A",
     "CityID": 2,
     "lat": 43.99973,
     "lng": -79.467545,
-    "NearbyActive": "7,3,228,65"
-  },
-  {
-    "City": "Oshawa",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/oshawa-pickleball/",
-    "Active": 3,
-    "newsletter_shortcode": "29186",
-    "facebook_link": "https://www.facebook.com/groups/1865183903999282/?ref=share&mibextid=K35XfP&rdid=TPV7MigOn3PQ4lRx&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2Fspu9Vp21iTD1ig7C%2F%3Fmibextid%3DK35XfP",
-    "GPN": "N/A",
-    "CityID": 5,
-    "lat": 43.8975558,
-    "lng": -78.8635324,
-    "NearbyActive": "228,2,65,3"
+    "NearbyActive": "3,228,65,23"
   },
   {
     "City": "Squamish",
@@ -91,19 +78,6 @@
     "NearbyActive": "9,27,13,19"
   },
   {
-    "City": "Prince George",
-    "Province": "BC",
-    "PageURL": "https://eapickleball.com/prince-george/",
-    "Active": 2,
-    "newsletter_shortcode": 45225,
-    "facebook_link": "https://www.facebook.com/groups/8168389329914586/?rdid=5voQcMLGEdYRqRVS&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2Fxtw2VqMYKmW8yBAD%2F#",
-    "GPN": "N/A",
-    "CityID": 19,
-    "lat": 53.9128645,
-    "lng": -122.7453699,
-    "NearbyActive": "12,27,9,26"
-  },
-  {
     "City": "East Gwillimbury",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/east-gwillimbury-ea-pickleball",
@@ -114,7 +88,7 @@
     "CityID": 3,
     "lat": 44.0957511,
     "lng": -79.4897803,
-    "NearbyActive": "2,228,65,4"
+    "NearbyActive": "2,228,65,28"
   },
   {
     "City": "Severn/Cumberland Beach",
@@ -127,7 +101,20 @@
     "CityID": 28,
     "lat": 44.75,
     "lng": -79.52,
-    "NearbyActive": "4,3,2,228"
+    "NearbyActive": "3,2,228,65"
+  },
+  {
+    "City": "Prince George",
+    "Province": "BC",
+    "PageURL": "https://eapickleball.com/prince-george/",
+    "Active": 1,
+    "newsletter_shortcode": 45225,
+    "facebook_link": "https://www.facebook.com/groups/8168389329914586/?rdid=5voQcMLGEdYRqRVS&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2Fxtw2VqMYKmW8yBAD%2F#",
+    "GPN": "N/A",
+    "CityID": 19,
+    "lat": 53.9128645,
+    "lng": -122.7453699,
+    "NearbyActive": "12,27,9,26"
   },
   {
     "City": "Coquitlam",
@@ -156,19 +143,6 @@
     "NearbyActive": "26,9,27,19"
   },
   {
-    "City": "Oro-Medonte",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/oro-pickleball/",
-    "Active": 1,
-    "newsletter_shortcode": "29277",
-    "facebook_link": "https://www.facebook.com/groups/640399501577372/?ref=share&mibextid=wwXIfr&rdid=jiVoiO13glz1BCUE&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F1AHXtjcrj6%2F%3Fmibextid%3DwwXIfr",
-    "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region",
-    "CityID": 4,
-    "lat": 44.5445701,
-    "lng": -79.5489109,
-    "NearbyActive": "28,3,2,228"
-  },
-  {
     "City": "Terrace",
     "Province": "BC",
     "PageURL": "https://eapickleball.com/terrace/",
@@ -193,6 +167,32 @@
     "lat": 50.7253685,
     "lng": -113.975082,
     "NearbyActive": null
+  },
+  {
+    "City": "Oshawa",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/oshawa-pickleball/",
+    "Active": 0,
+    "newsletter_shortcode": "29186",
+    "facebook_link": "https://www.facebook.com/groups/1865183903999282/?ref=share&mibextid=K35XfP&rdid=TPV7MigOn3PQ4lRx&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2Fspu9Vp21iTD1ig7C%2F%3Fmibextid%3DK35XfP",
+    "GPN": "N/A",
+    "CityID": 5,
+    "lat": 43.8975558,
+    "lng": -78.8635324,
+    "NearbyActive": "228,2,65,3"
+  },
+  {
+    "City": "Oro-Medonte",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/oro-pickleball/",
+    "Active": 0,
+    "newsletter_shortcode": "29277",
+    "facebook_link": "https://www.facebook.com/groups/640399501577372/?ref=share&mibextid=wwXIfr&rdid=jiVoiO13glz1BCUE&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F1AHXtjcrj6%2F%3Fmibextid%3DwwXIfr",
+    "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region",
+    "CityID": 4,
+    "lat": 44.5445701,
+    "lng": -79.5489109,
+    "NearbyActive": "28,3,2,228"
   },
   {
     "City": "Bowmanville",
@@ -985,7 +985,7 @@
     "CityID": 63,
     "lat": 49.8879177,
     "lng": -119.495902,
-    "NearbyActive": "11,43,9,26"
+    "NearbyActive": "9,26,27,13"
   },
   {
     "City": "Abbotsford",
@@ -998,7 +998,7 @@
     "CityID": 84,
     "lat": 49.0521162,
     "lng": -122.329479,
-    "NearbyActive": "43,26,9,48"
+    "NearbyActive": "26,9,27,13"
   },
   {
     "City": "Brandon",
@@ -1648,7 +1648,7 @@
     "CityID": 53,
     "lat": 44.1520712,
     "lng": -81.0279572,
-    "NearbyActive": "39,31,23,7"
+    "NearbyActive": "23,3,2,4"
   },
   {
     "City": "Cobourg",
@@ -1661,7 +1661,7 @@
     "CityID": 60,
     "lat": 43.9595998,
     "lng": -78.1677784,
-    "NearbyActive": "24,17,5,15"
+    "NearbyActive": "5,228,2,3"
   },
   {
     "City": "Bracebridge",
@@ -1674,7 +1674,7 @@
     "CityID": 61,
     "lat": 45.041508,
     "lng": -79.310989,
-    "NearbyActive": "28,4,32,15"
+    "NearbyActive": "28,4,3,2"
   },
   {
     "City": "Emsdale",
@@ -1687,7 +1687,7 @@
     "CityID": 68,
     "lat": 45.5290187,
     "lng": -79.3166899,
-    "NearbyActive": "28,4,32,15"
+    "NearbyActive": "28,4,3,2"
   },
   {
     "City": "Ancaster",
@@ -1700,7 +1700,7 @@
     "CityID": 130,
     "lat": 43.225693,
     "lng": -79.976692,
-    "NearbyActive": "23,31,39,65"
+    "NearbyActive": "23,65,228,2"
   },
   {
     "City": "Arnprior",
@@ -1713,7 +1713,7 @@
     "CityID": 131,
     "lat": 45.433515,
     "lng": -76.3543692,
-    "NearbyActive": "24,17,28,5"
+    "NearbyActive": "28,5,4,3"
   },
   {
     "City": "Barrie",
@@ -1726,7 +1726,7 @@
     "CityID": 132,
     "lat": 44.3893208,
     "lng": -79.6901302,
-    "NearbyActive": "4,32,3,28"
+    "NearbyActive": "4,3,28,2"
   },
   {
     "City": "Beckwith",
@@ -1739,7 +1739,7 @@
     "CityID": 133,
     "lat": 45.08748,
     "lng": -76.0824303,
-    "NearbyActive": "24,17,5,15"
+    "NearbyActive": "5,28,4,3"
   },
   {
     "City": "Belleville",
@@ -1752,7 +1752,7 @@
     "CityID": 134,
     "lat": 44.1633264,
     "lng": -77.3852556,
-    "NearbyActive": "24,17,5,15"
+    "NearbyActive": "5,228,2,3"
   },
   {
     "City": "Burlington",
@@ -1765,7 +1765,7 @@
     "CityID": 135,
     "lat": 43.3248924,
     "lng": -79.7966835,
-    "NearbyActive": "23,31,65,39"
+    "NearbyActive": "23,65,228,2"
   },
   {
     "City": "Campbellville",
@@ -1778,7 +1778,7 @@
     "CityID": 136,
     "lat": 43.4871704,
     "lng": -79.9821917,
-    "NearbyActive": "31,23,39,65"
+    "NearbyActive": "23,65,228,2"
   },
   {
     "City": "Cannington",
@@ -1791,7 +1791,7 @@
     "CityID": 137,
     "lat": 44.3502068,
     "lng": -79.038628,
-    "NearbyActive": "32,15,3,4"
+    "NearbyActive": "3,4,2,5"
   },
   {
     "City": "Carleton Place",
@@ -1804,7 +1804,7 @@
     "CityID": 138,
     "lat": 45.1403366,
     "lng": -76.1465672,
-    "NearbyActive": "24,17,5,15"
+    "NearbyActive": "5,28,4,3"
   },
   {
     "City": "Clarington",
@@ -1817,7 +1817,7 @@
     "CityID": 139,
     "lat": 43.9686695,
     "lng": -78.6513545,
-    "NearbyActive": "24,17,5,15"
+    "NearbyActive": "5,228,2,3"
   },
   {
     "City": "Clinton",
@@ -1830,7 +1830,7 @@
     "CityID": 140,
     "lat": 43.6171831,
     "lng": -81.5397155,
-    "NearbyActive": "39,23,31,65"
+    "NearbyActive": "23,65,228,2"
   },
   {
     "City": "Cornwall",
@@ -1843,7 +1843,7 @@
     "CityID": 141,
     "lat": 45.0184417,
     "lng": -74.728703,
-    "NearbyActive": "24,17,5,15"
+    "NearbyActive": "5,28,4,3"
   },
   {
     "City": "Dundas",
@@ -1856,7 +1856,7 @@
     "CityID": 142,
     "lat": 43.2661904,
     "lng": -79.9546341,
-    "NearbyActive": "23,31,39,65"
+    "NearbyActive": "23,65,228,2"
   },
   {
     "City": "Durham",
@@ -1869,7 +1869,7 @@
     "CityID": 143,
     "lat": 44.1762639,
     "lng": -80.8182299,
-    "NearbyActive": "31,39,23,3"
+    "NearbyActive": "23,3,4,2"
   },
   {
     "City": "Fonthill",
@@ -1882,7 +1882,7 @@
     "CityID": 144,
     "lat": 43.0307817,
     "lng": -79.2859628,
-    "NearbyActive": "65,23,228,31"
+    "NearbyActive": "65,23,228,5"
   },
   {
     "City": "Gravenhurst",
@@ -1895,7 +1895,7 @@
     "CityID": 145,
     "lat": 44.91741,
     "lng": -79.373131,
-    "NearbyActive": "28,4,32,3"
+    "NearbyActive": "28,4,3,2"
   },
   {
     "City": "Grimsby",
@@ -1908,7 +1908,7 @@
     "CityID": 146,
     "lat": 43.1931661,
     "lng": -79.560677,
-    "NearbyActive": "23,65,31,228"
+    "NearbyActive": "23,65,228,2"
   },
   {
     "City": "Hamilton",
@@ -1921,7 +1921,7 @@
     "CityID": 147,
     "lat": 43.2560802,
     "lng": -79.8728583,
-    "NearbyActive": "23,31,39,65"
+    "NearbyActive": "23,65,228,2"
   },
   {
     "City": "Innisfil",
@@ -1934,7 +1934,7 @@
     "CityID": 148,
     "lat": 44.3150892,
     "lng": -79.5461073,
-    "NearbyActive": "32,3,4,2"
+    "NearbyActive": "3,4,2,28"
   },
   {
     "City": "Lanark",
@@ -1947,7 +1947,7 @@
     "CityID": 149,
     "lat": 45.0181434,
     "lng": -76.3649869,
-    "NearbyActive": "24,17,5,15"
+    "NearbyActive": "5,28,4,3"
   },
   {
     "City": "Lindsay",
@@ -1960,7 +1960,7 @@
     "CityID": 150,
     "lat": 44.3551266,
     "lng": -78.7369939,
-    "NearbyActive": "15,24,17,32"
+    "NearbyActive": "5,3,4,2"
   },
   {
     "City": "London",
@@ -1973,7 +1973,7 @@
     "CityID": 151,
     "lat": 42.9836747,
     "lng": -81.2496068,
-    "NearbyActive": "39,23,31,65"
+    "NearbyActive": "23,65,228,2"
   },
   {
     "City": "Markdale",
@@ -1986,7 +1986,7 @@
     "CityID": 152,
     "lat": 44.31869,
     "lng": -80.648575,
-    "NearbyActive": "4,31,3,39"
+    "NearbyActive": "4,3,2,28"
   },
   {
     "City": "Midland",
@@ -1999,7 +1999,7 @@
     "CityID": 153,
     "lat": 44.750147,
     "lng": -79.885712,
-    "NearbyActive": "28,4,32,3"
+    "NearbyActive": "28,4,3,2"
   },
   {
     "City": "Milton",
@@ -2012,7 +2012,7 @@
     "CityID": 154,
     "lat": 43.513671,
     "lng": -79.882817,
-    "NearbyActive": "31,23,65,39"
+    "NearbyActive": "23,65,228,2"
   },
   {
     "City": "Niagara",
@@ -2025,7 +2025,7 @@
     "CityID": 155,
     "lat": 43.6440753,
     "lng": -79.4086982,
-    "NearbyActive": "65,228,7,2"
+    "NearbyActive": "65,228,2,3"
   },
   {
     "City": "North Bay",
@@ -2038,7 +2038,7 @@
     "CityID": 156,
     "lat": 46.3092115,
     "lng": -79.4607617,
-    "NearbyActive": "28,4,32,15"
+    "NearbyActive": "28,4,3,2"
   },
   {
     "City": "North Perth",
@@ -2051,7 +2051,7 @@
     "CityID": 157,
     "lat": 43.6912279,
     "lng": -80.9835643,
-    "NearbyActive": "39,31,23,65"
+    "NearbyActive": "23,65,228,2"
   },
   {
     "City": "Norwood",
@@ -2064,7 +2064,7 @@
     "CityID": 158,
     "lat": 44.3818091,
     "lng": -77.9798045,
-    "NearbyActive": "24,17,5,15"
+    "NearbyActive": "5,3,2,4"
   },
   {
     "City": "Oakville",
@@ -2077,7 +2077,7 @@
     "CityID": 159,
     "lat": 43.447436,
     "lng": -79.666672,
-    "NearbyActive": "65,31,228,23"
+    "NearbyActive": "65,228,23,2"
   },
   {
     "City": "Orangeville",
@@ -2090,7 +2090,7 @@
     "CityID": 160,
     "lat": 43.9193171,
     "lng": -80.0973754,
-    "NearbyActive": "31,7,65,2"
+    "NearbyActive": "65,2,3,228"
   },
   {
     "City": "Owen Sound",
@@ -2103,7 +2103,7 @@
     "CityID": 161,
     "lat": 44.5678105,
     "lng": -80.9430094,
-    "NearbyActive": "4,28,31,3"
+    "NearbyActive": "4,28,3,2"
   },
   {
     "City": "Pakenham",
@@ -2116,7 +2116,7 @@
     "CityID": 162,
     "lat": 45.3330674,
     "lng": -76.2903013,
-    "NearbyActive": "24,17,5,15"
+    "NearbyActive": "5,28,4,3"
   },
   {
     "City": "Parry Sound",
@@ -2129,7 +2129,7 @@
     "CityID": 163,
     "lat": 45.3436067,
     "lng": -80.0337392,
-    "NearbyActive": "28,4,32,3"
+    "NearbyActive": "28,4,3,2"
   },
   {
     "City": "Pickering",
@@ -2142,7 +2142,7 @@
     "CityID": 164,
     "lat": 43.835765,
     "lng": -79.090576,
-    "NearbyActive": "5,17,228,15"
+    "NearbyActive": "5,228,65,2"
   },
   {
     "City": "Picton",
@@ -2155,7 +2155,7 @@
     "CityID": 165,
     "lat": 44.0077067,
     "lng": -77.1411741,
-    "NearbyActive": "24,17,5,15"
+    "NearbyActive": "5,228,2,3"
   },
   {
     "City": "Port Dover",
@@ -2168,7 +2168,7 @@
     "CityID": 166,
     "lat": 42.7845713,
     "lng": -80.2005169,
-    "NearbyActive": "23,39,31,65"
+    "NearbyActive": "23,65,228,2"
   },
   {
     "City": "Port Elgin",
@@ -2181,7 +2181,7 @@
     "CityID": 167,
     "lat": 44.4358826,
     "lng": -81.3889458,
-    "NearbyActive": "39,31,4,23"
+    "NearbyActive": "4,23,28,3"
   },
   {
     "City": "Powassan",
@@ -2194,7 +2194,7 @@
     "CityID": 168,
     "lat": 46.0814468,
     "lng": -79.3611147,
-    "NearbyActive": "28,4,32,15"
+    "NearbyActive": "28,4,3,2"
   },
   {
     "City": "Renfrew",
@@ -2207,7 +2207,7 @@
     "CityID": 169,
     "lat": 45.4720417,
     "lng": -76.6838617,
-    "NearbyActive": "24,28,17,15"
+    "NearbyActive": "28,5,4,3"
   },
   {
     "City": "Ridgeway",
@@ -2233,7 +2233,7 @@
     "CityID": 171,
     "lat": 44.9013316,
     "lng": -76.0212062,
-    "NearbyActive": "24,17,5,15"
+    "NearbyActive": "5,28,4,3"
   },
   {
     "City": "South River",
@@ -2246,7 +2246,7 @@
     "CityID": 172,
     "lat": 45.841238,
     "lng": -79.380341,
-    "NearbyActive": "28,4,32,15"
+    "NearbyActive": "28,4,3,2"
   },
   {
     "City": "Springwater/Minesing",
@@ -2259,7 +2259,7 @@
     "CityID": 173,
     "lat": 44.44,
     "lng": -79.73,
-    "NearbyActive": "4,32,28,3"
+    "NearbyActive": "4,28,3,2"
   },
   {
     "City": "St Catharines",
@@ -2272,7 +2272,7 @@
     "CityID": 174,
     "lat": 43.1579812,
     "lng": -79.2441003,
-    "NearbyActive": "65,228,5,7"
+    "NearbyActive": "65,228,5,23"
   },
   {
     "City": "St Thomas",
@@ -2285,7 +2285,7 @@
     "CityID": 175,
     "lat": 42.779022,
     "lng": -81.1929882,
-    "NearbyActive": "39,23,31,65"
+    "NearbyActive": "23,65,228,2"
   },
   {
     "City": "Stratford",
@@ -2298,7 +2298,7 @@
     "CityID": 176,
     "lat": 43.3700899,
     "lng": -80.9818016,
-    "NearbyActive": "39,23,31,65"
+    "NearbyActive": "23,65,228,2"
   },
   {
     "City": "Sudbury",
@@ -2311,7 +2311,7 @@
     "CityID": 177,
     "lat": 46.49272,
     "lng": -80.991211,
-    "NearbyActive": "28,4,32,3"
+    "NearbyActive": "28,4,3,2"
   },
   {
     "City": "Thornhill",
@@ -2324,7 +2324,7 @@
     "CityID": 179,
     "lat": 43.8161477,
     "lng": -79.4245925,
-    "NearbyActive": "228,65,7,2"
+    "NearbyActive": "228,65,2,3"
   },
   {
     "City": "Tillsonburg",
@@ -2337,7 +2337,7 @@
     "CityID": 180,
     "lat": 42.859494,
     "lng": -80.7265015,
-    "NearbyActive": "23,39,31,65"
+    "NearbyActive": "23,65,228,2"
   },
   {
     "City": "Tottenham",
@@ -2350,7 +2350,7 @@
     "CityID": 181,
     "lat": 44.0225014,
     "lng": -79.8056098,
-    "NearbyActive": "7,3,2,228"
+    "NearbyActive": "3,2,228,65"
   },
   {
     "City": "Trenton",
@@ -2363,7 +2363,7 @@
     "CityID": 182,
     "lat": 44.1019126,
     "lng": -77.57539,
-    "NearbyActive": "24,17,5,15"
+    "NearbyActive": "5,228,2,3"
   },
   {
     "City": "West Grey",
@@ -2376,7 +2376,7 @@
     "CityID": 183,
     "lat": 44.1553792,
     "lng": -80.883577,
-    "NearbyActive": "39,31,23,7"
+    "NearbyActive": "23,3,2,4"
   },
   {
     "City": "Windsor",
@@ -2389,7 +2389,7 @@
     "CityID": 184,
     "lat": 42.3167397,
     "lng": -83.0373389,
-    "NearbyActive": "39,23,31,65"
+    "NearbyActive": "23,65,228,2"
   },
   {
     "City": "Woodstock",
@@ -2402,7 +2402,7 @@
     "CityID": 185,
     "lat": 43.1301111,
     "lng": -80.7562977,
-    "NearbyActive": "39,23,31,65"
+    "NearbyActive": "23,65,228,2"
   },
   {
     "City": "Alma",
