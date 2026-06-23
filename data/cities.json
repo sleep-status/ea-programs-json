@@ -3,14 +3,14 @@
     "City": "Vaughan",
     "Province": "ON",
     "PageURL": "http://eapickleball.com/vaughan/",
-    "Active": 24,
+    "Active": 18,
     "newsletter_shortcode": "28903",
     "facebook_link": "https://www.facebook.com/groups/120051924337462/?ref=share&mibextid=NSMWBT",
     "GPN": "N/A",
     "CityID": 65,
     "lat": 43.7941544,
     "lng": -79.5268023,
-    "NearbyActive": "228,2,3,23"
+    "NearbyActive": "228,23,4"
   },
   {
     "City": "Richmond Hill Curling Club",
@@ -26,95 +26,56 @@
     "NearbyActive": "65,2,3,23"
   },
   {
-    "City": "Aurora",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/aurora/",
-    "Active": 4,
-    "newsletter_shortcode": "32811",
-    "facebook_link": "https://www.facebook.com/groups/3971699213072295/",
-    "GPN": "N/A",
-    "CityID": 2,
-    "lat": 43.99973,
-    "lng": -79.467545,
-    "NearbyActive": "3,228,65,28"
-  },
-  {
-    "City": "Squamish",
-    "Province": "BC",
-    "PageURL": "https://eapickleball.com/squamish/",
-    "Active": 3,
-    "newsletter_shortcode": 45225,
-    "facebook_link": "https://www.facebook.com/groups/1007891270659527/?rdid=xoJYHuKYfkUIfyke&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FW4QFDtq3pog4wd4z%2F#",
-    "GPN": "N/A",
-    "CityID": 27,
-    "lat": 49.7588883,
-    "lng": -123.1342796,
-    "NearbyActive": "9,26,13,19"
-  },
-  {
-    "City": "Surrey",
-    "Province": "BC",
-    "PageURL": "https://eapickleball.com/surrey/",
-    "Active": 2,
-    "newsletter_shortcode": 45225,
-    "facebook_link": "https://www.facebook.com/profile.php?id=61563238815205&mibextid=qi2Omg&rdid=Z6UE124lon6d3Adt&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2FiavcBgWvWm7sQTpL%2F%3Fmibextid%3Dqi2Omg#",
-    "GPN": "N/A",
-    "CityID": 26,
-    "lat": 49.1913033,
-    "lng": -122.849143,
-    "NearbyActive": "9,27,13,19"
-  },
-  {
     "City": "Cambridge",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/cambridgepickleball/",
-    "Active": 2,
+    "Active": 4,
     "newsletter_shortcode": "29005",
     "facebook_link": "https://www.facebook.com/groups/1512570509232160/?ref=share&mibextid=K35XfP&rdid=5WXISxMm9OSTvQLu&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2FaEMXyxfXsnLDy72j%2F%3Fmibextid%3DK35XfP",
     "GPN": "https://www.globalpickleball.network/network/register/5072-elevation-athletics-huron-region",
     "CityID": 23,
     "lat": 43.3600536,
     "lng": -80.3123023,
-    "NearbyActive": "65,228,2,3"
+    "NearbyActive": "65,228,4"
   },
   {
-    "City": "Severn/Cumberland Beach",
+    "City": "Oro-Medonte",
     "Province": "ON",
-    "PageURL": "https://eapickleball.com/severn-pickleball/",
+    "PageURL": "https://eapickleball.com/oro-pickleball/",
     "Active": 2,
-    "newsletter_shortcode": "29372",
-    "facebook_link": "https://www.facebook.com/groups/334765084602586/?ref=share&mibextid=K35XfP&rdid=tLYBhWCupgVH9edR&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F6NvDaZmxKhNF7vUK%2F%3Fmibextid%3DK35XfP#",
+    "newsletter_shortcode": "29277",
+    "facebook_link": "https://www.facebook.com/groups/640399501577372/?ref=share&mibextid=wwXIfr&rdid=jiVoiO13glz1BCUE&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F1AHXtjcrj6%2F%3Fmibextid%3DwwXIfr",
     "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region",
-    "CityID": 28,
-    "lat": 44.75,
-    "lng": -79.52,
-    "NearbyActive": "3,2,228,65"
+    "CityID": 4,
+    "lat": 44.5445701,
+    "lng": -79.5489109,
+    "NearbyActive": "228,65,23"
   },
   {
-    "City": "East Gwillimbury",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/east-gwillimbury-ea-pickleball",
-    "Active": 2,
-    "newsletter_shortcode": "29015",
-    "facebook_link": "https://www.facebook.com/groups/714569745927330/?ref=share",
-    "GPN": "https://www.globalpickleball.network/network/register/5041-elevation-athletics-york-region",
-    "CityID": 3,
-    "lat": 44.0957511,
-    "lng": -79.4897803,
-    "NearbyActive": "2,228,65,28"
-  },
-  {
-    "City": "Victoria",
+    "City": "Squamish",
     "Province": "BC",
-    "PageURL": "https://eapickleball.com/victoria/",
+    "PageURL": "https://eapickleball.com/squamish/",
     "Active": 1,
     "newsletter_shortcode": 45225,
-    "facebook_link": "https://www.facebook.com/groups/2406625442881549/?ref=share&mibextid=NSMWBT",
+    "facebook_link": "https://www.facebook.com/groups/1007891270659527/?rdid=xoJYHuKYfkUIfyke&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FW4QFDtq3pog4wd4z%2F#",
     "GPN": "N/A",
-    "CityID": 13,
-    "lat": 48.4283182,
-    "lng": -123.364953,
-    "NearbyActive": "26,9,27,19"
+    "CityID": 27,
+    "lat": 49.7588883,
+    "lng": -123.1342796,
+    "NearbyActive": "9,26,19,12"
+  },
+  {
+    "City": "Surrey",
+    "Province": "BC",
+    "PageURL": "https://eapickleball.com/surrey/",
+    "Active": 1,
+    "newsletter_shortcode": 45225,
+    "facebook_link": "https://www.facebook.com/profile.php?id=61563238815205&mibextid=qi2Omg&rdid=Z6UE124lon6d3Adt&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2FiavcBgWvWm7sQTpL%2F%3Fmibextid%3Dqi2Omg#",
+    "GPN": "N/A",
+    "CityID": 26,
+    "lat": 49.1913033,
+    "lng": -122.849143,
+    "NearbyActive": "9,27,19,12"
   },
   {
     "City": "Coquitlam",
@@ -127,7 +88,7 @@
     "CityID": 9,
     "lat": 49.2842958,
     "lng": -122.793281,
-    "NearbyActive": "26,27,13,19"
+    "NearbyActive": "26,27,19,12"
   },
   {
     "City": "Terrace",
@@ -182,6 +143,58 @@
     "NearbyActive": 73
   },
   {
+    "City": "Aurora",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/aurora/",
+    "Active": 0,
+    "newsletter_shortcode": "32811",
+    "facebook_link": "https://www.facebook.com/groups/3971699213072295/",
+    "GPN": "N/A",
+    "CityID": 2,
+    "lat": 43.99973,
+    "lng": -79.467545,
+    "NearbyActive": "228,65,4,23"
+  },
+  {
+    "City": "Severn/Cumberland Beach",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/severn-pickleball/",
+    "Active": 0,
+    "newsletter_shortcode": "29372",
+    "facebook_link": "https://www.facebook.com/groups/334765084602586/?ref=share&mibextid=K35XfP&rdid=tLYBhWCupgVH9edR&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F6NvDaZmxKhNF7vUK%2F%3Fmibextid%3DK35XfP#",
+    "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region",
+    "CityID": 28,
+    "lat": 44.75,
+    "lng": -79.52,
+    "NearbyActive": "4,228,65,23"
+  },
+  {
+    "City": "East Gwillimbury",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/east-gwillimbury-ea-pickleball",
+    "Active": 0,
+    "newsletter_shortcode": "29015",
+    "facebook_link": "https://www.facebook.com/groups/714569745927330/?ref=share",
+    "GPN": "https://www.globalpickleball.network/network/register/5041-elevation-athletics-york-region",
+    "CityID": 3,
+    "lat": 44.0957511,
+    "lng": -79.4897803,
+    "NearbyActive": "228,65,4,23"
+  },
+  {
+    "City": "Victoria",
+    "Province": "BC",
+    "PageURL": "https://eapickleball.com/victoria/",
+    "Active": 0,
+    "newsletter_shortcode": 45225,
+    "facebook_link": "https://www.facebook.com/groups/2406625442881549/?ref=share&mibextid=NSMWBT",
+    "GPN": "N/A",
+    "CityID": 13,
+    "lat": 48.4283182,
+    "lng": -123.364953,
+    "NearbyActive": "26,9,27,19"
+  },
+  {
     "City": "Vernon",
     "Province": "BC",
     "PageURL": "https://eapickleball.com/vernon/",
@@ -192,7 +205,7 @@
     "CityID": 11,
     "lat": 50.2668671,
     "lng": -119.2718157,
-    "NearbyActive": "9,27,26,13"
+    "NearbyActive": "9,27,26,19"
   },
   {
     "City": "Maple Ridge",
@@ -205,7 +218,7 @@
     "CityID": 43,
     "lat": 49.2197345,
     "lng": -122.599707,
-    "NearbyActive": "9,26,27,13"
+    "NearbyActive": "9,26,27,19"
   },
   {
     "City": "North Vancouver",
@@ -218,7 +231,7 @@
     "CityID": 29,
     "lat": 49.3206294,
     "lng": -123.0737925,
-    "NearbyActive": "9,26,27,13"
+    "NearbyActive": "9,26,27,19"
   },
   {
     "City": "Chilliwack",
@@ -231,7 +244,7 @@
     "CityID": 44,
     "lat": 49.1709788,
     "lng": -121.95255,
-    "NearbyActive": "9,26,27,13"
+    "NearbyActive": "9,26,27,19"
   },
   {
     "City": "Kelowna",
@@ -244,7 +257,7 @@
     "CityID": 63,
     "lat": 49.8879177,
     "lng": -119.495902,
-    "NearbyActive": "9,26,27,13"
+    "NearbyActive": "9,26,27,19"
   },
   {
     "City": "Fonthill",
@@ -257,7 +270,7 @@
     "CityID": 144,
     "lat": 43.0307817,
     "lng": -79.2859628,
-    "NearbyActive": "65,23,228,2"
+    "NearbyActive": "65,23,228,4"
   },
   {
     "City": "Oakville",
@@ -270,7 +283,7 @@
     "CityID": 159,
     "lat": 43.447436,
     "lng": -79.666672,
-    "NearbyActive": "65,228,23,2"
+    "NearbyActive": "65,228,23,4"
   },
   {
     "City": "Ridgeway",
@@ -283,7 +296,7 @@
     "CityID": 170,
     "lat": 42.8820503,
     "lng": -79.0490304,
-    "NearbyActive": "65,228,23,2"
+    "NearbyActive": "65,228,23,4"
   },
   {
     "City": "St Catharines",
@@ -296,7 +309,7 @@
     "CityID": 174,
     "lat": 43.1579812,
     "lng": -79.2441003,
-    "NearbyActive": "65,228,23,2"
+    "NearbyActive": "65,228,23,4"
   },
   {
     "City": "Brampton",
@@ -309,7 +322,7 @@
     "CityID": 22,
     "lat": 43.685832,
     "lng": -79.7599366,
-    "NearbyActive": "65,228,2,3"
+    "NearbyActive": "65,228,23,4"
   },
   {
     "City": "Caledon",
@@ -322,7 +335,7 @@
     "CityID": 6,
     "lat": 43.8320699,
     "lng": -79.9066871,
-    "NearbyActive": "65,228,2,3"
+    "NearbyActive": "65,228,23,4"
   },
   {
     "City": "Bolton",
@@ -335,7 +348,7 @@
     "CityID": 20,
     "lat": 43.879548,
     "lng": -79.73826,
-    "NearbyActive": "65,228,2,3"
+    "NearbyActive": "65,228,23,4"
   },
   {
     "City": "North York",
@@ -348,7 +361,7 @@
     "CityID": 30,
     "lat": 43.7543217,
     "lng": -79.4491057,
-    "NearbyActive": "65,228,2,3"
+    "NearbyActive": "65,228,23,4"
   },
   {
     "City": "Niagara",
@@ -361,7 +374,7 @@
     "CityID": 155,
     "lat": 43.6440753,
     "lng": -79.4086982,
-    "NearbyActive": "65,228,2,3"
+    "NearbyActive": "65,228,23,4"
   },
   {
     "City": "Orangeville",
@@ -374,7 +387,7 @@
     "CityID": 160,
     "lat": 43.9193171,
     "lng": -80.0973754,
-    "NearbyActive": "65,2,3,228"
+    "NearbyActive": "65,228,23,4"
   },
   {
     "City": "Lakefield",
@@ -387,7 +400,7 @@
     "CityID": 40,
     "lat": 44.4233365,
     "lng": -78.2721953,
-    "NearbyActive": "3,28,2,228"
+    "NearbyActive": "4,228,65,23"
   },
   {
     "City": "Barrie",
@@ -400,7 +413,7 @@
     "CityID": 132,
     "lat": 44.3893208,
     "lng": -79.6901302,
-    "NearbyActive": "3,28,2,228"
+    "NearbyActive": "4,228,65,23"
   },
   {
     "City": "Markdale",
@@ -413,7 +426,7 @@
     "CityID": 152,
     "lat": 44.31869,
     "lng": -80.648575,
-    "NearbyActive": "3,2,28,65"
+    "NearbyActive": "4,65,228,23"
   },
   {
     "City": "Cannington",
@@ -426,7 +439,7 @@
     "CityID": 137,
     "lat": 44.3502068,
     "lng": -79.038628,
-    "NearbyActive": "3,2,28,228"
+    "NearbyActive": "4,228,65,23"
   },
   {
     "City": "Innisfil",
@@ -439,7 +452,7 @@
     "CityID": 148,
     "lat": 44.3150892,
     "lng": -79.5461073,
-    "NearbyActive": "3,2,28,228"
+    "NearbyActive": "4,228,65,23"
   },
   {
     "City": "Lindsay",
@@ -452,7 +465,7 @@
     "CityID": 150,
     "lat": 44.3551266,
     "lng": -78.7369939,
-    "NearbyActive": "3,2,28,228"
+    "NearbyActive": "4,228,65,23"
   },
   {
     "City": "Uxbridge",
@@ -465,7 +478,7 @@
     "CityID": 15,
     "lat": 44.1088502,
     "lng": -79.1226768,
-    "NearbyActive": "3,2,228,65"
+    "NearbyActive": "228,65,4,23"
   },
   {
     "City": "Bradford",
@@ -478,7 +491,7 @@
     "CityID": 64,
     "lat": 44.1143279,
     "lng": -79.5647069,
-    "NearbyActive": "3,2,228,65"
+    "NearbyActive": "228,65,4,23"
   },
   {
     "City": "Keswick",
@@ -491,7 +504,7 @@
     "CityID": 10,
     "lat": 44.2396166,
     "lng": -79.4686558,
-    "NearbyActive": "3,2,228,65"
+    "NearbyActive": "4,228,65,23"
   },
   {
     "City": "Alliston",
@@ -504,7 +517,7 @@
     "CityID": 37,
     "lat": 44.1539369,
     "lng": -79.8692321,
-    "NearbyActive": "3,2,228,65"
+    "NearbyActive": "228,65,4,23"
   },
   {
     "City": "Newmarket",
@@ -517,7 +530,7 @@
     "CityID": 1,
     "lat": 44.056258,
     "lng": -79.461708,
-    "NearbyActive": "3,2,228,65"
+    "NearbyActive": "228,65,4,23"
   },
   {
     "City": "Tottenham",
@@ -530,7 +543,7 @@
     "CityID": 181,
     "lat": 44.0225014,
     "lng": -79.8056098,
-    "NearbyActive": "3,2,228,65"
+    "NearbyActive": "228,65,4,23"
   },
   {
     "City": "Sutton",
@@ -543,7 +556,7 @@
     "CityID": 32,
     "lat": 44.310301,
     "lng": -79.365311,
-    "NearbyActive": "3,2,228,28"
+    "NearbyActive": "4,228,65,23"
   },
   {
     "City": "Peterborough",
@@ -556,7 +569,7 @@
     "CityID": 36,
     "lat": 44.3048009,
     "lng": -78.3199496,
-    "NearbyActive": "3,2,228,28"
+    "NearbyActive": "228,4,65,23"
   },
   {
     "City": "Stirling",
@@ -569,7 +582,7 @@
     "CityID": 56,
     "lat": 44.2962217,
     "lng": -77.5473774,
-    "NearbyActive": "3,2,228,28"
+    "NearbyActive": "228,4,65,23"
   },
   {
     "City": "Norwood",
@@ -582,7 +595,7 @@
     "CityID": 158,
     "lat": 44.3818091,
     "lng": -77.9798045,
-    "NearbyActive": "3,2,228,28"
+    "NearbyActive": "4,228,65,23"
   },
   {
     "City": "Owen Sound",
@@ -595,20 +608,7 @@
     "CityID": 161,
     "lat": 44.5678105,
     "lng": -80.9430094,
-    "NearbyActive": "28,3,2,65"
-  },
-  {
-    "City": "Oro-Medonte",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/oro-pickleball/",
-    "Active": 0,
-    "newsletter_shortcode": "29277",
-    "facebook_link": "https://www.facebook.com/groups/640399501577372/?ref=share&mibextid=wwXIfr&rdid=jiVoiO13glz1BCUE&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F1AHXtjcrj6%2F%3Fmibextid%3DwwXIfr",
-    "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region",
-    "CityID": 4,
-    "lat": 44.5445701,
-    "lng": -79.5489109,
-    "NearbyActive": "28,3,2,228"
+    "NearbyActive": "4,65,228,23"
   },
   {
     "City": "Lanark County",
