@@ -25,7 +25,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": "2"
+    "level": "2",
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Vaughan - Learn to Play Pickleball: Beginner",
@@ -53,7 +55,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": "1"
+    "level": "1",
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Cambridge - LEVEL 1: Beginners Pickleball League",
@@ -81,7 +85,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": "1"
+    "level": "1",
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Cambridge - LEVEL 2: Experienced Beginners Pickleball League",
@@ -109,7 +115,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": "2"
+    "level": "2",
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Kamloops - LEVEL 1: Beginners Pickleball League (Outdoor)",
@@ -130,14 +138,16 @@
     "Category": "EA",
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/67711/6",
-    "updated_price": "135.98",
+    "updated_price": "116.55",
     "fee_index": 0,
     "City": "Kamloops",
     "Province": "BC",
     "is_cancelled": false,
     "age": null,
-    "is_full": false,
-    "level": "1"
+    "is_full": true,
+    "level": "1",
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Kamloops - LEVEL 2: Experienced Begineers Pickleball League",
@@ -165,7 +175,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": "2"
+    "level": "2",
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Georgina - Jr Basketball (5 - 7 yrs)",
@@ -193,7 +205,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Georgina - Jr Basketball (8 - 11 yrs)",
@@ -221,7 +235,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Georgina - Jr Badminton (9 - 17 yrs)",
@@ -249,7 +265,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": true,
-    "level": null
+    "level": null,
+    "MinAge": "9",
+    "MaxAge": "17"
   },
   {
     "Title": "Georgina - Jr Badminton (5 - 8 yrs)",
@@ -277,13 +295,15 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": "5",
+    "MaxAge": "8"
   },
   {
     "Title": "Barrie - Jr. Basketball Training (12-14 yrs)",
     "TotalPrice": 160,
-    "Prorate": false,
-    "StaticPriceText": "160",
+    "Prorate": true,
+    "StaticPriceText": null,
     "Day": "Wednesdays",
     "Time": "8:00 - 9:00 PM",
     "Start Date": "2026-07-08",
@@ -305,13 +325,15 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Barrie - Jr. Basketball Training (8-11 yrs)",
     "TotalPrice": 160,
-    "Prorate": false,
-    "StaticPriceText": "160",
+    "Prorate": true,
+    "StaticPriceText": null,
     "Day": "Wednesdays",
     "Time": "7:00 - 8:00 PM",
     "Start Date": "2026-07-08",
@@ -333,13 +355,15 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Barrie - Jr. Basketball Training (5-7 yrs)",
     "TotalPrice": 160,
-    "Prorate": false,
-    "StaticPriceText": "160",
+    "Prorate": true,
+    "StaticPriceText": null,
     "Day": "Wednesdays",
     "Time": "6:00 - 7:00 PM",
     "Start Date": "2026-07-08",
@@ -361,7 +385,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball Training Monday (GR 3 - 4)",
@@ -382,14 +408,16 @@
     "Category": "EA",
     "sport": "bask",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/66566/6",
-    "updated_price": "96.00",
+    "updated_price": "72.00",
     "fee_index": 1,
     "City": "Newmarket/Aurora",
     "Province": "ON",
     "is_cancelled": false,
     "age": 1,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball Training Wednesday (GR 3 - 4)",
@@ -417,7 +445,9 @@
     "is_cancelled": false,
     "age": 1,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball Training Thursday (GR 3 - 4)",
@@ -445,7 +475,9 @@
     "is_cancelled": false,
     "age": 1,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball Training Friday (GR 3 - 4)",
@@ -466,14 +498,16 @@
     "Category": "EA",
     "sport": "bask",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/66566/6",
-    "updated_price": "144.00",
+    "updated_price": "120.00",
     "fee_index": 0,
     "City": "Newmarket/Aurora",
     "Province": "ON",
     "is_cancelled": false,
     "age": 1,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball Training Saturday (GR 3 - 4)",
@@ -494,14 +528,16 @@
     "Category": "EA",
     "sport": "bask",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/66566/6",
-    "updated_price": "144.00",
+    "updated_price": "120.00",
     "fee_index": 2,
     "City": "Newmarket/Aurora",
     "Province": "ON",
     "is_cancelled": false,
     "age": 1,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball Training Monday (GR 5 - 6)",
@@ -522,14 +558,16 @@
     "Category": "EA",
     "sport": "bask",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/66568/6",
-    "updated_price": "96.00",
+    "updated_price": "72.00",
     "fee_index": 1,
     "City": "Newmarket/Aurora",
     "Province": "ON",
     "is_cancelled": false,
     "age": 2,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball Training Wednesday (GR 5 - 6)",
@@ -557,7 +595,9 @@
     "is_cancelled": false,
     "age": 2,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball Training Thursday (GR 5 - 6)",
@@ -585,7 +625,9 @@
     "is_cancelled": false,
     "age": 2,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball Training Friday (GR 5 - 6)",
@@ -606,14 +648,16 @@
     "Category": "EA",
     "sport": "bask",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/66568/6",
-    "updated_price": "144.00",
+    "updated_price": "120.00",
     "fee_index": 0,
     "City": "Newmarket/Aurora",
     "Province": "ON",
     "is_cancelled": false,
     "age": 2,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball Training Saturday (GR 5 - 6)",
@@ -634,14 +678,16 @@
     "Category": "EA",
     "sport": "bask",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/66568/6",
-    "updated_price": "144.00",
+    "updated_price": "120.00",
     "fee_index": 2,
     "City": "Newmarket/Aurora",
     "Province": "ON",
     "is_cancelled": false,
     "age": 2,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball Training Monday (GR 7 - 9/REP)",
@@ -662,14 +708,16 @@
     "Category": "EA",
     "sport": "bask",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/66573/6",
-    "updated_price": "96.00",
+    "updated_price": "72.00",
     "fee_index": 0,
     "City": "Newmarket/Aurora",
     "Province": "ON",
     "is_cancelled": false,
     "age": 3,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball Training Wednesday (GR 7 - 9/REP)",
@@ -697,7 +745,9 @@
     "is_cancelled": false,
     "age": 3,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball Training Thursday (GR 7 - 9/REP)",
@@ -725,7 +775,9 @@
     "is_cancelled": false,
     "age": 3,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball Training Saturday (GR 7 - 9/REP)",
@@ -746,14 +798,16 @@
     "Category": "EA",
     "sport": "bask",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/66573/6",
-    "updated_price": "144.00",
+    "updated_price": "120.00",
     "fee_index": 1,
     "City": "Newmarket/Aurora",
     "Province": "ON",
     "is_cancelled": false,
     "age": 3,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball Training Monday (SK - GR 2)",
@@ -774,14 +828,16 @@
     "Category": "EA",
     "sport": "bask",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/66574/6",
-    "updated_price": "96.00",
+    "updated_price": "72.00",
     "fee_index": 1,
     "City": "Newmarket/Aurora",
     "Province": "ON",
     "is_cancelled": false,
     "age": 0,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball Training Thursday (SK - GR 2)",
@@ -809,7 +865,9 @@
     "is_cancelled": false,
     "age": 0,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball Training Friday (SK - GR 2)",
@@ -830,14 +888,16 @@
     "Category": "EA",
     "sport": "bask",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/66574/6",
-    "updated_price": "144.00",
+    "updated_price": "120.00",
     "fee_index": 0,
     "City": "Newmarket/Aurora",
     "Province": "ON",
     "is_cancelled": false,
     "age": 0,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball Training Saturday (SK - GR 2)",
@@ -858,14 +918,16 @@
     "Category": "EA",
     "sport": "bask",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/66574/6",
-    "updated_price": "144.00",
+    "updated_price": "120.00",
     "fee_index": 2,
     "City": "Newmarket/Aurora",
     "Province": "ON",
     "is_cancelled": false,
     "age": 0,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Newmarket/Aurora Unlimited Training - Jr Basketball (GR 3 - 4)",
@@ -893,7 +955,9 @@
     "is_cancelled": false,
     "age": 1,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Newmarket/Aurora Unlimited Training - Jr Basketball (GR 3 - 4)",
@@ -921,7 +985,9 @@
     "is_cancelled": false,
     "age": 1,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Newmarket/Aurora Unlimited Training - Jr Basketball (GR 3 - 4)",
@@ -949,7 +1015,9 @@
     "is_cancelled": false,
     "age": 1,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Newmarket/Aurora Unlimited Training - Jr Basketball (GR 3 - 4)",
@@ -977,7 +1045,9 @@
     "is_cancelled": false,
     "age": 1,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Newmarket/Aurora Unlimited Training - Jr Basketball (GR 3 - 4)",
@@ -1005,7 +1075,9 @@
     "is_cancelled": false,
     "age": 1,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Newmarket/Aurora Unlimited Training - Jr Basketball (GR 5 - 6)",
@@ -1033,7 +1105,9 @@
     "is_cancelled": false,
     "age": 2,
     "is_full": true,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Newmarket/Aurora Unlimited Training - Jr Basketball (GR 5 - 6)",
@@ -1061,7 +1135,9 @@
     "is_cancelled": false,
     "age": 2,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Newmarket/Aurora Unlimited Training - Jr Basketball (GR 5 - 6)",
@@ -1089,7 +1165,9 @@
     "is_cancelled": false,
     "age": 2,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Newmarket/Aurora Unlimited Training - Jr Basketball (GR 5 - 6)",
@@ -1117,7 +1195,9 @@
     "is_cancelled": false,
     "age": 2,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Newmarket/Aurora Unlimited Training - Jr Basketball (GR 5 - 6)",
@@ -1145,7 +1225,9 @@
     "is_cancelled": false,
     "age": 2,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Newmarket/Aurora Unlimited Training - Jr Basketball (GR 7 - 9)",
@@ -1173,7 +1255,9 @@
     "is_cancelled": false,
     "age": 3,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Newmarket/Aurora Unlimited Training - Jr Basketball (GR 7 - 9)",
@@ -1201,7 +1285,9 @@
     "is_cancelled": false,
     "age": 3,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Newmarket/Aurora Unlimited Training - Jr Basketball (GR 7 - 9)",
@@ -1229,7 +1315,9 @@
     "is_cancelled": false,
     "age": 3,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Newmarket/Aurora Unlimited Training - Jr Basketball (GR 7 - 9)",
@@ -1257,7 +1345,9 @@
     "is_cancelled": false,
     "age": 3,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Newmarket/Aurora Unlimited Training - Jr Basketball (SK - GR 2)",
@@ -1285,7 +1375,9 @@
     "is_cancelled": false,
     "age": 0,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball Training Thursday (SK - GR 2)",
@@ -1313,7 +1405,9 @@
     "is_cancelled": false,
     "age": 0,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Newmarket/Aurora Unlimited Training - Jr Basketball (SK - GR 2)",
@@ -1341,7 +1435,9 @@
     "is_cancelled": false,
     "age": 0,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Newmarket/Aurora Unlimited Training - Jr Basketball (SK - GR 2)",
@@ -1369,7 +1465,9 @@
     "is_cancelled": false,
     "age": 0,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Richmond Hill - Jr Badminton (8 - 10)",
@@ -1397,7 +1495,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": "8",
+    "MaxAge": "11"
   },
   {
     "Title": "Richmond Hill - Jr Badminton (11 - 13)",
@@ -1425,7 +1525,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": "11",
+    "MaxAge": "13"
   },
   {
     "Title": "Richmond Hill - Jr Badminton (14 - 16)",
@@ -1453,7 +1555,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": "14",
+    "MaxAge": "16"
   },
   {
     "Title": "Richmond Hill - Jr Basketball (5 - 7)",
@@ -1481,7 +1585,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (GIRLS)",
@@ -1509,7 +1615,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (5 - 7)",
@@ -1537,7 +1645,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (8 - 10)",
@@ -1565,7 +1675,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (11 - 13)",
@@ -1593,7 +1705,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (5 - 7)",
@@ -1621,7 +1735,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (8 - 10)",
@@ -1649,7 +1765,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (11 - 13)",
@@ -1677,7 +1795,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (11 - 13)",
@@ -1705,7 +1825,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (5 - 7)",
@@ -1733,7 +1855,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (8 - 10)",
@@ -1761,7 +1885,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (5 - 7)",
@@ -1789,7 +1915,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (8 - 10)",
@@ -1817,7 +1945,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (5 - 7)",
@@ -1845,7 +1975,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (5 - 7)",
@@ -1873,7 +2005,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (8 - 10)",
@@ -1901,7 +2035,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Oro Medonte - Jr Basketball (5-8)",
@@ -1929,7 +2065,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Oro Medonte - Jr Basketball (8-11)",
@@ -1957,7 +2095,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Oro Medonte - Jr Basketball (11-14)",
@@ -1985,7 +2125,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Oro Medonte - LEVEL 1: Beginners League",
@@ -2013,7 +2155,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": "1"
+    "level": "1",
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Oro Medonte - LEVEL 2 + 3: Intermediate League",
@@ -2041,7 +2185,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": "3"
+    "level": "3",
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Okotoks - LEVEL 1: Beginners Pickleball League (Outdoor)",
@@ -2062,14 +2208,16 @@
     "Category": "EA",
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/65612/6",
-    "updated_price": "116.55",
+    "updated_price": "97.13",
     "fee_index": 0,
     "City": "Okotoks",
     "Province": "AB",
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": "1"
+    "level": "1",
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Surrey - LEVEL 1: Beginners Pickleball League (Outdoor)",
@@ -2097,7 +2245,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": "1"
+    "level": "1",
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Surrey - LEVEL 2: Experienced Beginners League",
@@ -2125,7 +2275,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": "2"
+    "level": "2",
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Vaughan - Learn to Play Pickleball: Beginner",
@@ -2153,7 +2305,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": "1"
+    "level": "1",
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Vaughan - Learn to Play Pickleball: Beginner",
@@ -2181,7 +2335,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": "1"
+    "level": "1",
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Vaughan - Learn to Play Pickleball: Intermediate",
@@ -2209,7 +2365,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": "2"
+    "level": "2",
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Vaughan - Learn to Play Pickleball: Beginner",
@@ -2237,7 +2395,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": "1"
+    "level": "1",
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Vaughan - Learn to Play Pickleball: Intermediate",
@@ -2265,7 +2425,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": true,
-    "level": "2"
+    "level": "2",
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Vaughan - Learn to Play Pickleball: Intermediate",
@@ -2293,7 +2455,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": "2"
+    "level": "2",
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Vaughan - Learn to Play Pickleball: Intermediate",
@@ -2321,7 +2485,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": "2"
+    "level": "2",
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Vaughan - Learn to Play Pickleball: Beginner",
@@ -2349,7 +2515,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": "1"
+    "level": "1",
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Vaughan - Learn to Play Pickleball: Intermediate",
@@ -2377,7 +2545,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": "2"
+    "level": "2",
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Vaughan - Learn to Play Pickleball: Advanced",
@@ -2405,7 +2575,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": "3"
+    "level": "3",
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "EA Uxbridge Multi-Sport Camp (6 - 12yrs)",
@@ -2433,7 +2605,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "EA Badminton Camp (10+ yrs)",
@@ -2461,7 +2635,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": "10",
+    "MaxAge": "17"
   },
   {
     "Title": "EA Basketball Camp (7 - 12 yrs)",
@@ -2489,7 +2665,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "EA REP Basketball Camp (10 - 14 yrs)",
@@ -2517,7 +2695,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Innisfil - Multi-Sports Camp",
@@ -2545,63 +2725,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
-  },
-  {
-    "Title": "Essa - Sports Camp Jr (6 - 8yrs)",
-    "TotalPrice": 195,
-    "Prorate": false,
-    "StaticPriceText": "195",
-    "Day": "Mon - Fri",
-    "Time": "9:00 - 4:00 PM",
-    "Start Date": "2026-07-06",
-    "End Date": "2026-07-10",
-    "Exceptions": "N/A",
-    "SessionDates": "2026-07-06",
-    "LocationName": "Angus Rec Centre",
-    "LocationLink": "https://maps.app.goo.gl/935Kb6kmT28Xqjni9",
-    "RegisterLink": "https://townshipofessa.perfectmind.com/25387/Clients/BookMe4LandingPages/CoursesLandingPage?widgetId=38d0547c-dcab-4165-815b-704a1080725c&redirectedFromEmbededMode=False&courseId=f22e91e4-a487-4589-8403-25e514d0644b",
-    "URL": "https://elevationathletics.ca/camps/",
-    "pageIdentifyer": "camps",
-    "Category": "TS",
-    "sport": "s_camp",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Essa",
-    "Province": "ON",
-    "is_cancelled": false,
-    "age": null,
-    "is_full": false,
-    "level": null
-  },
-  {
-    "Title": "Essa Sports Camp Sr (9 - 12yrs)",
-    "TotalPrice": 195,
-    "Prorate": false,
-    "StaticPriceText": "195",
-    "Day": "Mon - Fri",
-    "Time": "9:00 - 4:00 PM",
-    "Start Date": "2026-07-06",
-    "End Date": "2026-07-10",
-    "Exceptions": "N/A",
-    "SessionDates": "2026-07-06",
-    "LocationName": "Angus Rec Centre",
-    "LocationLink": "https://maps.app.goo.gl/935Kb6kmT28Xqjni9",
-    "RegisterLink": "https://townshipofessa.perfectmind.com/25387/Clients/BookMe4LandingPages/CoursesLandingPage?widgetId=38d0547c-dcab-4165-815b-704a1080725c&redirectedFromEmbededMode=False&courseId=19346893-2bd9-4b11-ab47-86144aaee05b",
-    "URL": "https://elevationathletics.ca/camps/",
-    "pageIdentifyer": "camps",
-    "Category": "TS",
-    "sport": "s_camp",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Essa",
-    "Province": "ON",
-    "is_cancelled": false,
-    "age": null,
-    "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Essa - Sports Camp Jr (6 - 8yrs)",
@@ -2629,7 +2755,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Essa Sports Camp Sr (9 - 12yrs)",
@@ -2657,7 +2785,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Essa - Sports Camp Jr (6 - 8yrs)",
@@ -2685,7 +2815,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Essa Sports Camp Sr (9 - 12yrs)",
@@ -2713,7 +2845,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Essa - Sports Camp Jr (6 - 8yrs)",
@@ -2741,7 +2875,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Essa Sports Camp Sr (9 - 12yrs)",
@@ -2769,7 +2905,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Essa - Sports Camp Jr (6 - 8yrs)",
@@ -2797,7 +2935,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": true,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Essa Sports Camp Sr (9 - 12yrs)",
@@ -2825,7 +2965,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": null,
+    "MaxAge": null
   },
   {
     "Title": "Newmarket Racquet Sports Summer Camp (7 - 11 yrs)",
@@ -2853,7 +2995,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": "7",
+    "MaxAge": "11"
   },
   {
     "Title": "Newmarket Racquet Sports Summer Camp (7 - 11 yrs)",
@@ -2881,35 +3025,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
-  },
-  {
-    "Title": "Aurora - Racquet Sports Summer Camp (7 - 11 yrs)",
-    "TotalPrice": "375",
-    "Prorate": false,
-    "StaticPriceText": "375",
-    "Day": "Mon - Fri",
-    "Time": "9:00 - 4:00 PM",
-    "Start Date": "2026-07-06",
-    "End Date": "2026-07-10",
-    "Exceptions": "N/A",
-    "SessionDates": "2026-07-06",
-    "LocationName": "Aurora Family Leisure Centre",
-    "LocationLink": "https://maps.app.goo.gl/snvh2ukKNfuLyZzq8",
-    "RegisterLink": "https://anc.ca.apm.activecommunities.com/auroraontario/activity/search/detail/30745?onlineSiteId=0&from_original_cui=true",
-    "URL": "https://eabadminton.com/signup/",
-    "pageIdentifyer": "signup",
-    "Category": "TS",
-    "sport": "bad",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Aurora",
-    "Province": "ON",
-    "is_cancelled": false,
-    "age": null,
-    "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": "7",
+    "MaxAge": "11"
   },
   {
     "Title": "Aurora - Racquet Sports Summer Camp (7 - 11 yrs)",
@@ -2937,7 +3055,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": "7",
+    "MaxAge": "11"
   },
   {
     "Title": "Aurora - Racquet Sports Summer Camp (7 - 11 yrs)",
@@ -2965,7 +3085,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": "7",
+    "MaxAge": "11"
   },
   {
     "Title": "Aurora - Racquet Sports Summer Camp (7 - 11 yrs)",
@@ -2993,7 +3115,9 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": "7",
+    "MaxAge": "11"
   },
   {
     "Title": "Aurora - Racquet Sports Summer Camp (7 - 11 yrs)",
@@ -3021,6 +3145,8 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null
+    "level": null,
+    "MinAge": "7",
+    "MaxAge": "11"
   }
 ]
