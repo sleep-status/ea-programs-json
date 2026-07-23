@@ -27,7 +27,8 @@
     "is_full": false,
     "level": "2",
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Vaughan - Learn to Play Pickleball: Beginner",
@@ -57,7 +58,8 @@
     "is_full": false,
     "level": "1",
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Cambridge - LEVEL 1: Beginners Pickleball League",
@@ -87,7 +89,8 @@
     "is_full": false,
     "level": "1",
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Cambridge - LEVEL 2: Experienced Beginners Pickleball League",
@@ -117,7 +120,8 @@
     "is_full": false,
     "level": "2",
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Kamloops - LEVEL 1: Beginners Pickleball League (Outdoor)",
@@ -138,7 +142,7 @@
     "Category": "EA",
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/67711/6",
-    "updated_price": "116.55",
+    "updated_price": "97.13",
     "fee_index": 0,
     "City": "Kamloops",
     "Province": "BC",
@@ -147,7 +151,8 @@
     "is_full": true,
     "level": "1",
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Kamloops - LEVEL 2: Experienced Begineers Pickleball League",
@@ -177,7 +182,8 @@
     "is_full": false,
     "level": "2",
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Georgina - Jr Basketball (5 - 7 yrs)",
@@ -207,7 +213,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Georgina - Jr Basketball (8 - 11 yrs)",
@@ -237,7 +244,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Georgina - Jr Badminton (9 - 17 yrs)",
@@ -267,7 +275,8 @@
     "is_full": true,
     "level": "1",
     "MinAge": "9",
-    "MaxAge": "17"
+    "MaxAge": "17",
+    "ProgramID": null
   },
   {
     "Title": "Georgina - Jr Badminton (5 - 8 yrs)",
@@ -297,7 +306,8 @@
     "is_full": false,
     "level": "1",
     "MinAge": "5",
-    "MaxAge": "8"
+    "MaxAge": "8",
+    "ProgramID": null
   },
   {
     "Title": "Barrie - Jr. Basketball Training (12-14 yrs)",
@@ -318,7 +328,7 @@
     "Category": "EA",
     "sport": "bask",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/65999/6",
-    "updated_price": "120.00",
+    "updated_price": "100.00",
     "fee_index": 0,
     "City": "Barrie",
     "Province": "ON",
@@ -327,7 +337,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Barrie - Jr. Basketball Training (8-11 yrs)",
@@ -348,7 +359,7 @@
     "Category": "EA",
     "sport": "bask",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/65996/6",
-    "updated_price": "120.00",
+    "updated_price": "100.00",
     "fee_index": 0,
     "City": "Barrie",
     "Province": "ON",
@@ -357,7 +368,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Barrie - Jr. Basketball Training (5-7 yrs)",
@@ -378,7 +390,7 @@
     "Category": "EA",
     "sport": "bask",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/65998/6",
-    "updated_price": "120.00",
+    "updated_price": "100.00",
     "fee_index": 0,
     "City": "Barrie",
     "Province": "ON",
@@ -387,7 +399,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball Training Monday (GR 3 - 4)",
@@ -408,7 +421,7 @@
     "Category": "EA",
     "sport": "bask",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/66566/6",
-    "updated_price": "72.00",
+    "updated_price": "48.00",
     "fee_index": 1,
     "City": "Newmarket/Aurora",
     "Province": "ON",
@@ -417,7 +430,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball Training Wednesday (GR 3 - 4)",
@@ -438,7 +452,7 @@
     "Category": "EA",
     "sport": "bask",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/66566/6",
-    "updated_price": "96.00",
+    "updated_price": "72.00",
     "fee_index": 4,
     "City": "Newmarket/Aurora",
     "Province": "ON",
@@ -447,7 +461,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball Training Thursday (GR 3 - 4)",
@@ -477,7 +492,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball Training Friday (GR 3 - 4)",
@@ -507,7 +523,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball Training Saturday (GR 3 - 4)",
@@ -537,7 +554,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball Training Monday (GR 5 - 6)",
@@ -558,7 +576,7 @@
     "Category": "EA",
     "sport": "bask",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/66568/6",
-    "updated_price": "72.00",
+    "updated_price": "48.00",
     "fee_index": 1,
     "City": "Newmarket/Aurora",
     "Province": "ON",
@@ -567,7 +585,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball Training Wednesday (GR 5 - 6)",
@@ -588,7 +607,7 @@
     "Category": "EA",
     "sport": "bask",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/66568/6",
-    "updated_price": "96.00",
+    "updated_price": "72.00",
     "fee_index": 4,
     "City": "Newmarket/Aurora",
     "Province": "ON",
@@ -597,7 +616,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball Training Thursday (GR 5 - 6)",
@@ -627,7 +647,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball Training Friday (GR 5 - 6)",
@@ -657,7 +678,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball Training Saturday (GR 5 - 6)",
@@ -687,7 +709,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball Training Monday (GR 7 - 9/REP)",
@@ -708,7 +731,7 @@
     "Category": "EA",
     "sport": "bask",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/66573/6",
-    "updated_price": "72.00",
+    "updated_price": "48.00",
     "fee_index": 0,
     "City": "Newmarket/Aurora",
     "Province": "ON",
@@ -717,7 +740,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball Training Wednesday (GR 7 - 9/REP)",
@@ -738,7 +762,7 @@
     "Category": "EA",
     "sport": "bask",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/66573/6",
-    "updated_price": "96.00",
+    "updated_price": "72.00",
     "fee_index": 2,
     "City": "Newmarket/Aurora",
     "Province": "ON",
@@ -747,7 +771,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball Training Thursday (GR 7 - 9/REP)",
@@ -777,7 +802,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball Training Saturday (GR 7 - 9/REP)",
@@ -807,7 +833,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball Training Saturday (GR 7 - 9/REP)",
@@ -837,7 +864,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball Training Monday (SK - GR 2)",
@@ -858,7 +886,7 @@
     "Category": "EA",
     "sport": "bask",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/66574/6",
-    "updated_price": "72.00",
+    "updated_price": "48.00",
     "fee_index": 1,
     "City": "Newmarket/Aurora",
     "Province": "ON",
@@ -867,7 +895,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball Training Thursday (SK - GR 2)",
@@ -897,7 +926,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball Training Friday (SK - GR 2)",
@@ -927,7 +957,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball Training Saturday (SK - GR 2)",
@@ -957,7 +988,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Newmarket/Aurora Unlimited Training - Jr Basketball (GR 3 - 4)",
@@ -987,7 +1019,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Newmarket/Aurora Unlimited Training - Jr Basketball (GR 3 - 4)",
@@ -1017,7 +1050,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Newmarket/Aurora Unlimited Training - Jr Basketball (GR 3 - 4)",
@@ -1047,7 +1081,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Newmarket/Aurora Unlimited Training - Jr Basketball (GR 3 - 4)",
@@ -1077,7 +1112,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Newmarket/Aurora Unlimited Training - Jr Basketball (GR 3 - 4)",
@@ -1107,7 +1143,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Newmarket/Aurora Unlimited Training - Jr Basketball (GR 5 - 6)",
@@ -1137,7 +1174,8 @@
     "is_full": true,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Newmarket/Aurora Unlimited Training - Jr Basketball (GR 5 - 6)",
@@ -1167,7 +1205,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Newmarket/Aurora Unlimited Training - Jr Basketball (GR 5 - 6)",
@@ -1197,7 +1236,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Newmarket/Aurora Unlimited Training - Jr Basketball (GR 5 - 6)",
@@ -1227,7 +1267,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Newmarket/Aurora Unlimited Training - Jr Basketball (GR 5 - 6)",
@@ -1257,7 +1298,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Newmarket/Aurora Unlimited Training - Jr Basketball (GR 7 - 9)",
@@ -1287,7 +1329,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Newmarket/Aurora Unlimited Training - Jr Basketball (GR 7 - 9)",
@@ -1317,7 +1360,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Newmarket/Aurora Unlimited Training - Jr Basketball (GR 7 - 9)",
@@ -1347,7 +1391,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Newmarket/Aurora Unlimited Training - Jr Basketball (GR 7 - 9)",
@@ -1377,7 +1422,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Newmarket/Aurora Unlimited Training - Jr Basketball (SK - GR 2)",
@@ -1407,7 +1453,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Newmarket/Aurora - Jr Basketball Training Thursday (SK - GR 2)",
@@ -1437,7 +1484,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Newmarket/Aurora Unlimited Training - Jr Basketball (SK - GR 2)",
@@ -1467,7 +1515,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Newmarket/Aurora Unlimited Training - Jr Basketball (SK - GR 2)",
@@ -1497,7 +1546,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Richmond Hill - Jr Badminton (8 - 10)",
@@ -1527,7 +1577,8 @@
     "is_full": false,
     "level": "1",
     "MinAge": "8",
-    "MaxAge": "11"
+    "MaxAge": "11",
+    "ProgramID": null
   },
   {
     "Title": "Richmond Hill - Jr Badminton (11 - 13)",
@@ -1557,7 +1608,8 @@
     "is_full": false,
     "level": "1",
     "MinAge": "11",
-    "MaxAge": "13"
+    "MaxAge": "13",
+    "ProgramID": null
   },
   {
     "Title": "Richmond Hill - Jr Badminton (14 - 16)",
@@ -1587,7 +1639,8 @@
     "is_full": false,
     "level": "1",
     "MinAge": "14",
-    "MaxAge": "16"
+    "MaxAge": "16",
+    "ProgramID": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (5 - 7)",
@@ -1617,7 +1670,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (GIRLS)",
@@ -1647,7 +1701,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (5 - 7)",
@@ -1677,7 +1732,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (8 - 10)",
@@ -1707,7 +1763,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (11 - 13)",
@@ -1737,7 +1794,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (5 - 7)",
@@ -1767,7 +1825,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (8 - 10)",
@@ -1797,7 +1856,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (11 - 13)",
@@ -1827,7 +1887,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (11 - 13)",
@@ -1857,7 +1918,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (5 - 7)",
@@ -1887,7 +1949,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (8 - 10)",
@@ -1917,7 +1980,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (5 - 7)",
@@ -1947,7 +2011,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (8 - 10)",
@@ -1977,7 +2042,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (5 - 7)",
@@ -2007,7 +2073,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (5 - 7)",
@@ -2037,7 +2104,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Richmond Hill - Jr Basketball (8 - 10)",
@@ -2067,7 +2135,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Oro Medonte - Jr Basketball (5-8)",
@@ -2097,7 +2166,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Oro Medonte - Jr Basketball (8-11)",
@@ -2127,7 +2197,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Oro Medonte - Jr Basketball (11-14)",
@@ -2157,7 +2228,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Oro Medonte - LEVEL 1: Beginners League",
@@ -2187,37 +2259,8 @@
     "is_full": false,
     "level": "1",
     "MinAge": null,
-    "MaxAge": null
-  },
-  {
-    "Title": "Oro Medonte - LEVEL 2 + 3: Intermediate League",
-    "TotalPrice": 136,
-    "Prorate": false,
-    "StaticPriceText": "136",
-    "Day": "Thursdays",
-    "Time": "6:00 - 7:45 PM",
-    "Start Date": "2026-07-09",
-    "End Date": "2026-08-27",
-    "Exceptions": "N/A",
-    "SessionDates": "2026-07-09,2026-07-16,2026-07-23,2026-07-30,2026-08-06,2026-08-13,2026-08-20,2026-08-27",
-    "LocationName": "Simcoe Woods CC",
-    "LocationLink": "https://maps.app.goo.gl/4QcRLzHNdvmVJMzY6",
-    "RegisterLink": "https://oro-medonte.perfectmind.com/25288/OtherApps/BookMe4LandingPages/CoursesLandingPage?widgetId=fd24f184-566a-4c7d-9853-8c946c06ffe6&redirectedFromEmbededMode=False&courseId=60a79198-92ab-484b-9562-88dcb6c39faf",
-    "URL": "https://eapickleball.com/oro-pickleball/",
-    "pageIdentifyer": "oro-pickleball",
-    "Category": "TS",
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Oro-Medonte",
-    "Province": "ON",
-    "is_cancelled": false,
-    "age": null,
-    "is_full": false,
-    "level": "3",
-    "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Okotoks - LEVEL 1: Beginners Pickleball League (Outdoor)",
@@ -2238,7 +2281,7 @@
     "Category": "EA",
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/65612/6",
-    "updated_price": "97.13",
+    "updated_price": "77.70",
     "fee_index": 0,
     "City": "Okotoks",
     "Province": "AB",
@@ -2247,7 +2290,8 @@
     "is_full": false,
     "level": "1",
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Surrey - LEVEL 1: Beginners Pickleball League (Outdoor)",
@@ -2268,7 +2312,7 @@
     "Category": "EA",
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/67680/6",
-    "updated_price": "116.55",
+    "updated_price": "97.13",
     "fee_index": 0,
     "City": "Surrey",
     "Province": "BC",
@@ -2277,7 +2321,8 @@
     "is_full": false,
     "level": "1",
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Surrey - LEVEL 2: Experienced Beginners League",
@@ -2307,7 +2352,8 @@
     "is_full": false,
     "level": "2",
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Vaughan - Learn to Play Pickleball: Beginner",
@@ -2337,7 +2383,8 @@
     "is_full": false,
     "level": "1",
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Vaughan - Learn to Play Pickleball: Beginner",
@@ -2367,7 +2414,8 @@
     "is_full": false,
     "level": "1",
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Vaughan - Learn to Play Pickleball: Intermediate",
@@ -2397,7 +2445,8 @@
     "is_full": false,
     "level": "2",
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Vaughan - Learn to Play Pickleball: Beginner",
@@ -2427,7 +2476,8 @@
     "is_full": false,
     "level": "1",
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Vaughan - Learn to Play Pickleball: Intermediate",
@@ -2457,7 +2507,8 @@
     "is_full": true,
     "level": "2",
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Vaughan - Learn to Play Pickleball: Intermediate",
@@ -2487,7 +2538,8 @@
     "is_full": false,
     "level": "2",
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Vaughan - Learn to Play Pickleball: Intermediate",
@@ -2517,7 +2569,8 @@
     "is_full": false,
     "level": "2",
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Vaughan - Learn to Play Pickleball: Beginner",
@@ -2547,7 +2600,8 @@
     "is_full": false,
     "level": "1",
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Vaughan - Learn to Play Pickleball: Intermediate",
@@ -2577,7 +2631,8 @@
     "is_full": false,
     "level": "2",
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Vaughan - Learn to Play Pickleball: Advanced",
@@ -2607,7 +2662,8 @@
     "is_full": false,
     "level": "3",
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "EA Uxbridge Multi-Sport Camp (6 - 12yrs)",
@@ -2637,7 +2693,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "EA Basketball Camp (7 - 12 yrs)",
@@ -2667,7 +2724,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "EA REP Basketball Camp (10 - 14 yrs)",
@@ -2697,7 +2755,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Innisfil - Multi-Sports Camp",
@@ -2727,7 +2786,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Essa - Sports Camp Jr (6 - 8yrs)",
@@ -2757,7 +2817,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Essa Sports Camp Sr (9 - 12yrs)",
@@ -2787,7 +2848,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Essa - Sports Camp Jr (6 - 8yrs)",
@@ -2817,7 +2879,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Essa Sports Camp Sr (9 - 12yrs)",
@@ -2847,7 +2910,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Essa - Sports Camp Jr (6 - 8yrs)",
@@ -2877,7 +2941,8 @@
     "is_full": true,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "Essa Sports Camp Sr (9 - 12yrs)",
@@ -2907,7 +2972,8 @@
     "is_full": false,
     "level": null,
     "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": null
   },
   {
     "Title": "EA Badminton Camp (10 - 17 yrs)",
@@ -2937,7 +3003,8 @@
     "is_full": false,
     "level": "1",
     "MinAge": "10",
-    "MaxAge": "17"
+    "MaxAge": "17",
+    "ProgramID": null
   },
   {
     "Title": "EA Badminton Camp (10 - 17 yrs)",
@@ -2967,7 +3034,8 @@
     "is_full": false,
     "level": "1",
     "MinAge": "10",
-    "MaxAge": "17"
+    "MaxAge": "17",
+    "ProgramID": null
   },
   {
     "Title": "EA Badminton Camp (10 - 17 yrs)",
@@ -2997,7 +3065,8 @@
     "is_full": false,
     "level": "1",
     "MinAge": "10",
-    "MaxAge": "17"
+    "MaxAge": "17",
+    "ProgramID": null
   },
   {
     "Title": "EA Badminton Camp (10 - 17 yrs)",
@@ -3027,7 +3096,8 @@
     "is_full": false,
     "level": "1",
     "MinAge": "10",
-    "MaxAge": "17"
+    "MaxAge": "17",
+    "ProgramID": null
   },
   {
     "Title": "EA Badminton Camp - Drop-in Session (10 - 17 yrs)",
@@ -3057,7 +3127,8 @@
     "is_full": false,
     "level": "1",
     "MinAge": "10",
-    "MaxAge": "17"
+    "MaxAge": "17",
+    "ProgramID": null
   },
   {
     "Title": "Newmarket Racquet Sports Summer Camp (7 - 11 yrs)",
@@ -3087,7 +3158,8 @@
     "is_full": false,
     "level": "1",
     "MinAge": "7",
-    "MaxAge": "11"
+    "MaxAge": "11",
+    "ProgramID": null
   },
   {
     "Title": "Aurora - Racquet Sports Summer Camp (7 - 11 yrs)",
@@ -3117,7 +3189,8 @@
     "is_full": false,
     "level": "1",
     "MinAge": "7",
-    "MaxAge": "11"
+    "MaxAge": "11",
+    "ProgramID": null
   },
   {
     "Title": "Aurora - Racquet Sports Summer Camp (7 - 11 yrs)",
@@ -3147,7 +3220,8 @@
     "is_full": false,
     "level": "1",
     "MinAge": "7",
-    "MaxAge": "11"
+    "MaxAge": "11",
+    "ProgramID": null
   },
   {
     "Title": "Aurora - Racquet Sports Summer Camp (7 - 11 yrs)",
@@ -3177,1056 +3251,38 @@
     "is_full": false,
     "level": "1",
     "MinAge": "7",
-    "MaxAge": "11"
+    "MaxAge": "11",
+    "ProgramID": null
   },
   {
-    "Title": "Intermediate Pickleball League",
-    "TotalPrice": null,
-    "Prorate": null,
+    "Title": "Bowmanville - LEVEL 3: Intermediate Pickleball League",
+    "TotalPrice": "$117.52",
+    "Prorate": true,
     "StaticPriceText": null,
-    "Day": null,
-    "Time": null,
-    "Start Date": null,
-    "End Date": null,
-    "Exceptions": null,
-    "SessionDates": null,
-    "LocationName": null,
-    "LocationLink": null,
-    "RegisterLink": null,
-    "URL": null,
-    "pageIdentifyer": null,
+    "Day": "Wednesdays",
+    "Time": "8:15 - 10:00 PM",
+    "Start Date": "2026-09-23",
+    "End Date": "2026-11-11",
+    "Exceptions": "N/A",
+    "SessionDates": "2026-09-23,2026-09-30,2026-10-07,2026-10-14,2026-10-21,2026-10-28,2026-11-04,2026-11-11",
+    "LocationName": "Holy Family Elementary School",
+    "LocationLink": "https://maps.app.goo.gl/jX7gLVfJdbaYrxHT7",
+    "RegisterLink": "https://elevationathletics.ca/register-adult/?program=EA-PROGRAM-276",
+    "URL": "https://eapickleball.com/bowmanville-pickleball/",
+    "pageIdentifyer": "bowmanville-pickleball",
     "Category": "EA",
     "sport": "pb",
     "fee_url": null,
     "updated_price": null,
     "fee_index": null,
     "City": "Bowmanville",
-    "Province": null,
+    "Province": "ON",
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": null,
+    "level": "3",
     "MinAge": null,
-    "MaxAge": null
-  },
-  {
-    "Title": "Experienced Beginner Pickleball League",
-    "TotalPrice": null,
-    "Prorate": null,
-    "StaticPriceText": null,
-    "Day": null,
-    "Time": null,
-    "Start Date": null,
-    "End Date": null,
-    "Exceptions": null,
-    "SessionDates": null,
-    "LocationName": null,
-    "LocationLink": null,
-    "RegisterLink": null,
-    "URL": null,
-    "pageIdentifyer": null,
-    "Category": "EA",
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Bowmanville",
-    "Province": null,
-    "is_cancelled": false,
-    "age": null,
-    "is_full": false,
-    "level": null,
-    "MinAge": null,
-    "MaxAge": null
-  },
-  {
-    "Title": "Beginner Pickleball League",
-    "TotalPrice": null,
-    "Prorate": null,
-    "StaticPriceText": null,
-    "Day": null,
-    "Time": null,
-    "Start Date": null,
-    "End Date": null,
-    "Exceptions": null,
-    "SessionDates": null,
-    "LocationName": null,
-    "LocationLink": null,
-    "RegisterLink": null,
-    "URL": null,
-    "pageIdentifyer": null,
-    "Category": "EA",
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Bracebridge",
-    "Province": null,
-    "is_cancelled": false,
-    "age": null,
-    "is_full": false,
-    "level": null,
-    "MinAge": null,
-    "MaxAge": null
-  },
-  {
-    "Title": "Experienced Beginner Pickleball League",
-    "TotalPrice": null,
-    "Prorate": null,
-    "StaticPriceText": null,
-    "Day": null,
-    "Time": null,
-    "Start Date": null,
-    "End Date": null,
-    "Exceptions": null,
-    "SessionDates": null,
-    "LocationName": null,
-    "LocationLink": null,
-    "RegisterLink": null,
-    "URL": null,
-    "pageIdentifyer": null,
-    "Category": "EA",
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Bracebridge",
-    "Province": null,
-    "is_cancelled": false,
-    "age": null,
-    "is_full": false,
-    "level": null,
-    "MinAge": null,
-    "MaxAge": null
-  },
-  {
-    "Title": "Experienced Beginner Pickleball League",
-    "TotalPrice": null,
-    "Prorate": null,
-    "StaticPriceText": null,
-    "Day": null,
-    "Time": null,
-    "Start Date": null,
-    "End Date": null,
-    "Exceptions": null,
-    "SessionDates": null,
-    "LocationName": null,
-    "LocationLink": null,
-    "RegisterLink": null,
-    "URL": null,
-    "pageIdentifyer": null,
-    "Category": "EA",
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Bracebridge",
-    "Province": null,
-    "is_cancelled": false,
-    "age": null,
-    "is_full": false,
-    "level": null,
-    "MinAge": null,
-    "MaxAge": null
-  },
-  {
-    "Title": "Beginner Pickleball League",
-    "TotalPrice": null,
-    "Prorate": null,
-    "StaticPriceText": null,
-    "Day": null,
-    "Time": null,
-    "Start Date": null,
-    "End Date": null,
-    "Exceptions": null,
-    "SessionDates": null,
-    "LocationName": null,
-    "LocationLink": null,
-    "RegisterLink": null,
-    "URL": null,
-    "pageIdentifyer": null,
-    "Category": "EA",
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Bracebridge",
-    "Province": null,
-    "is_cancelled": false,
-    "age": null,
-    "is_full": false,
-    "level": null,
-    "MinAge": null,
-    "MaxAge": null
-  },
-  {
-    "Title": "Learn to Play Pickleball",
-    "TotalPrice": null,
-    "Prorate": null,
-    "StaticPriceText": null,
-    "Day": null,
-    "Time": null,
-    "Start Date": null,
-    "End Date": null,
-    "Exceptions": null,
-    "SessionDates": null,
-    "LocationName": null,
-    "LocationLink": null,
-    "RegisterLink": null,
-    "URL": null,
-    "pageIdentifyer": null,
-    "Category": "EA",
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Courtice",
-    "Province": null,
-    "is_cancelled": false,
-    "age": null,
-    "is_full": false,
-    "level": null,
-    "MinAge": null,
-    "MaxAge": null
-  },
-  {
-    "Title": "Learn to Play Pickleball",
-    "TotalPrice": null,
-    "Prorate": null,
-    "StaticPriceText": null,
-    "Day": null,
-    "Time": null,
-    "Start Date": null,
-    "End Date": null,
-    "Exceptions": null,
-    "SessionDates": null,
-    "LocationName": null,
-    "LocationLink": null,
-    "RegisterLink": null,
-    "URL": null,
-    "pageIdentifyer": null,
-    "Category": "EA",
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Courtice",
-    "Province": null,
-    "is_cancelled": false,
-    "age": null,
-    "is_full": false,
-    "level": null,
-    "MinAge": null,
-    "MaxAge": null
-  },
-  {
-    "Title": "Beginner Pickleball League",
-    "TotalPrice": null,
-    "Prorate": null,
-    "StaticPriceText": null,
-    "Day": null,
-    "Time": null,
-    "Start Date": null,
-    "End Date": null,
-    "Exceptions": null,
-    "SessionDates": null,
-    "LocationName": null,
-    "LocationLink": null,
-    "RegisterLink": null,
-    "URL": null,
-    "pageIdentifyer": null,
-    "Category": "EA",
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Cumberland",
-    "Province": null,
-    "is_cancelled": false,
-    "age": null,
-    "is_full": false,
-    "level": null,
-    "MinAge": null,
-    "MaxAge": null
-  },
-  {
-    "Title": "Beginner Pickleball League",
-    "TotalPrice": null,
-    "Prorate": null,
-    "StaticPriceText": null,
-    "Day": null,
-    "Time": null,
-    "Start Date": null,
-    "End Date": null,
-    "Exceptions": null,
-    "SessionDates": null,
-    "LocationName": null,
-    "LocationLink": null,
-    "RegisterLink": null,
-    "URL": null,
-    "pageIdentifyer": null,
-    "Category": "EA",
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Fonthill",
-    "Province": null,
-    "is_cancelled": false,
-    "age": null,
-    "is_full": false,
-    "level": null,
-    "MinAge": null,
-    "MaxAge": null
-  },
-  {
-    "Title": "Experienced Beginner Pickleball League",
-    "TotalPrice": null,
-    "Prorate": null,
-    "StaticPriceText": null,
-    "Day": null,
-    "Time": null,
-    "Start Date": null,
-    "End Date": null,
-    "Exceptions": null,
-    "SessionDates": null,
-    "LocationName": null,
-    "LocationLink": null,
-    "RegisterLink": null,
-    "URL": null,
-    "pageIdentifyer": null,
-    "Category": null,
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Fonthill",
-    "Province": null,
-    "is_cancelled": false,
-    "age": null,
-    "is_full": false,
-    "level": null,
-    "MinAge": null,
-    "MaxAge": null
-  },
-  {
-    "Title": "Beginner Pickleball League",
-    "TotalPrice": null,
-    "Prorate": null,
-    "StaticPriceText": null,
-    "Day": null,
-    "Time": null,
-    "Start Date": null,
-    "End Date": null,
-    "Exceptions": null,
-    "SessionDates": null,
-    "LocationName": null,
-    "LocationLink": null,
-    "RegisterLink": null,
-    "URL": null,
-    "pageIdentifyer": null,
-    "Category": null,
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Gravenhurst",
-    "Province": null,
-    "is_cancelled": false,
-    "age": null,
-    "is_full": false,
-    "level": null,
-    "MinAge": null,
-    "MaxAge": null
-  },
-  {
-    "Title": "Experienced Beginner Pickleball League",
-    "TotalPrice": null,
-    "Prorate": null,
-    "StaticPriceText": null,
-    "Day": null,
-    "Time": null,
-    "Start Date": null,
-    "End Date": null,
-    "Exceptions": null,
-    "SessionDates": null,
-    "LocationName": null,
-    "LocationLink": null,
-    "RegisterLink": null,
-    "URL": null,
-    "pageIdentifyer": null,
-    "Category": null,
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Gravenhurst",
-    "Province": null,
-    "is_cancelled": false,
-    "age": null,
-    "is_full": false,
-    "level": null,
-    "MinAge": null,
-    "MaxAge": null
-  },
-  {
-    "Title": "Experienced Beginner Pickleball League",
-    "TotalPrice": null,
-    "Prorate": null,
-    "StaticPriceText": null,
-    "Day": null,
-    "Time": null,
-    "Start Date": null,
-    "End Date": null,
-    "Exceptions": null,
-    "SessionDates": null,
-    "LocationName": null,
-    "LocationLink": null,
-    "RegisterLink": null,
-    "URL": null,
-    "pageIdentifyer": null,
-    "Category": null,
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Grimsby",
-    "Province": null,
-    "is_cancelled": false,
-    "age": null,
-    "is_full": false,
-    "level": null,
-    "MinAge": null,
-    "MaxAge": null
-  },
-  {
-    "Title": "Beginner Pickleball League",
-    "TotalPrice": null,
-    "Prorate": null,
-    "StaticPriceText": null,
-    "Day": null,
-    "Time": null,
-    "Start Date": null,
-    "End Date": null,
-    "Exceptions": null,
-    "SessionDates": null,
-    "LocationName": null,
-    "LocationLink": null,
-    "RegisterLink": null,
-    "URL": null,
-    "pageIdentifyer": null,
-    "Category": null,
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Grimsby",
-    "Province": null,
-    "is_cancelled": false,
-    "age": null,
-    "is_full": false,
-    "level": null,
-    "MinAge": null,
-    "MaxAge": null
-  },
-  {
-    "Title": "Experienced Beginner Pickleball League",
-    "TotalPrice": null,
-    "Prorate": null,
-    "StaticPriceText": null,
-    "Day": null,
-    "Time": null,
-    "Start Date": null,
-    "End Date": null,
-    "Exceptions": null,
-    "SessionDates": null,
-    "LocationName": null,
-    "LocationLink": null,
-    "RegisterLink": null,
-    "URL": null,
-    "pageIdentifyer": null,
-    "Category": null,
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Grimsby",
-    "Province": null,
-    "is_cancelled": false,
-    "age": null,
-    "is_full": false,
-    "level": null,
-    "MinAge": null,
-    "MaxAge": null
-  },
-  {
-    "Title": "Beginner Pickleball League",
-    "TotalPrice": null,
-    "Prorate": null,
-    "StaticPriceText": null,
-    "Day": null,
-    "Time": null,
-    "Start Date": null,
-    "End Date": null,
-    "Exceptions": null,
-    "SessionDates": null,
-    "LocationName": null,
-    "LocationLink": null,
-    "RegisterLink": null,
-    "URL": null,
-    "pageIdentifyer": null,
-    "Category": null,
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Haliburton",
-    "Province": null,
-    "is_cancelled": false,
-    "age": null,
-    "is_full": false,
-    "level": null,
-    "MinAge": null,
-    "MaxAge": null
-  },
-  {
-    "Title": "Experienced Beginner Pickleball League",
-    "TotalPrice": null,
-    "Prorate": null,
-    "StaticPriceText": null,
-    "Day": null,
-    "Time": null,
-    "Start Date": null,
-    "End Date": null,
-    "Exceptions": null,
-    "SessionDates": null,
-    "LocationName": null,
-    "LocationLink": null,
-    "RegisterLink": null,
-    "URL": null,
-    "pageIdentifyer": null,
-    "Category": null,
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Keswick",
-    "Province": null,
-    "is_cancelled": false,
-    "age": null,
-    "is_full": false,
-    "level": null,
-    "MinAge": null,
-    "MaxAge": null
-  },
-  {
-    "Title": "Beginner Pickleball League",
-    "TotalPrice": null,
-    "Prorate": null,
-    "StaticPriceText": null,
-    "Day": null,
-    "Time": null,
-    "Start Date": null,
-    "End Date": null,
-    "Exceptions": null,
-    "SessionDates": null,
-    "LocationName": null,
-    "LocationLink": null,
-    "RegisterLink": null,
-    "URL": null,
-    "pageIdentifyer": null,
-    "Category": null,
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Lindsay",
-    "Province": null,
-    "is_cancelled": false,
-    "age": null,
-    "is_full": false,
-    "level": null,
-    "MinAge": null,
-    "MaxAge": null
-  },
-  {
-    "Title": "Experienced Beginner Pickleball League",
-    "TotalPrice": null,
-    "Prorate": null,
-    "StaticPriceText": null,
-    "Day": null,
-    "Time": null,
-    "Start Date": null,
-    "End Date": null,
-    "Exceptions": null,
-    "SessionDates": null,
-    "LocationName": null,
-    "LocationLink": null,
-    "RegisterLink": null,
-    "URL": null,
-    "pageIdentifyer": null,
-    "Category": null,
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Lindsay",
-    "Province": null,
-    "is_cancelled": false,
-    "age": null,
-    "is_full": false,
-    "level": null,
-    "MinAge": null,
-    "MaxAge": null
-  },
-  {
-    "Title": "Beginner Pickleball League",
-    "TotalPrice": null,
-    "Prorate": null,
-    "StaticPriceText": null,
-    "Day": null,
-    "Time": null,
-    "Start Date": null,
-    "End Date": null,
-    "Exceptions": null,
-    "SessionDates": null,
-    "LocationName": null,
-    "LocationLink": null,
-    "RegisterLink": null,
-    "URL": null,
-    "pageIdentifyer": null,
-    "Category": null,
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Lindsay",
-    "Province": null,
-    "is_cancelled": false,
-    "age": null,
-    "is_full": false,
-    "level": null,
-    "MinAge": null,
-    "MaxAge": null
-  },
-  {
-    "Title": "Experienced Beginner Pickleball League",
-    "TotalPrice": null,
-    "Prorate": null,
-    "StaticPriceText": null,
-    "Day": null,
-    "Time": null,
-    "Start Date": null,
-    "End Date": null,
-    "Exceptions": null,
-    "SessionDates": null,
-    "LocationName": null,
-    "LocationLink": null,
-    "RegisterLink": null,
-    "URL": null,
-    "pageIdentifyer": null,
-    "Category": null,
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Newmarket",
-    "Province": null,
-    "is_cancelled": false,
-    "age": null,
-    "is_full": false,
-    "level": null,
-    "MinAge": null,
-    "MaxAge": null
-  },
-  {
-    "Title": "Beginner Pickleball League",
-    "TotalPrice": null,
-    "Prorate": null,
-    "StaticPriceText": null,
-    "Day": null,
-    "Time": null,
-    "Start Date": null,
-    "End Date": null,
-    "Exceptions": null,
-    "SessionDates": null,
-    "LocationName": null,
-    "LocationLink": null,
-    "RegisterLink": null,
-    "URL": null,
-    "pageIdentifyer": null,
-    "Category": null,
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Niagara Falls",
-    "Province": null,
-    "is_cancelled": false,
-    "age": null,
-    "is_full": false,
-    "level": null,
-    "MinAge": null,
-    "MaxAge": null
-  },
-  {
-    "Title": "Experienced Beginner Pickleball League",
-    "TotalPrice": null,
-    "Prorate": null,
-    "StaticPriceText": null,
-    "Day": null,
-    "Time": null,
-    "Start Date": null,
-    "End Date": null,
-    "Exceptions": null,
-    "SessionDates": null,
-    "LocationName": null,
-    "LocationLink": null,
-    "RegisterLink": null,
-    "URL": null,
-    "pageIdentifyer": null,
-    "Category": null,
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Niagara Falls",
-    "Province": null,
-    "is_cancelled": false,
-    "age": null,
-    "is_full": false,
-    "level": null,
-    "MinAge": null,
-    "MaxAge": null
-  },
-  {
-    "Title": "Experienced Beginner Pickleball League",
-    "TotalPrice": null,
-    "Prorate": null,
-    "StaticPriceText": null,
-    "Day": null,
-    "Time": null,
-    "Start Date": null,
-    "End Date": null,
-    "Exceptions": null,
-    "SessionDates": null,
-    "LocationName": null,
-    "LocationLink": null,
-    "RegisterLink": null,
-    "URL": null,
-    "pageIdentifyer": null,
-    "Category": null,
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Ottawa",
-    "Province": null,
-    "is_cancelled": false,
-    "age": null,
-    "is_full": false,
-    "level": null,
-    "MinAge": null,
-    "MaxAge": null
-  },
-  {
-    "Title": "Beginner Pickleball League",
-    "TotalPrice": null,
-    "Prorate": null,
-    "StaticPriceText": null,
-    "Day": null,
-    "Time": null,
-    "Start Date": null,
-    "End Date": null,
-    "Exceptions": null,
-    "SessionDates": null,
-    "LocationName": null,
-    "LocationLink": null,
-    "RegisterLink": null,
-    "URL": null,
-    "pageIdentifyer": null,
-    "Category": null,
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Ottawa",
-    "Province": null,
-    "is_cancelled": false,
-    "age": null,
-    "is_full": false,
-    "level": null,
-    "MinAge": null,
-    "MaxAge": null
-  },
-  {
-    "Title": "Experienced Beginner Pickleball League",
-    "TotalPrice": null,
-    "Prorate": null,
-    "StaticPriceText": null,
-    "Day": null,
-    "Time": null,
-    "Start Date": null,
-    "End Date": null,
-    "Exceptions": null,
-    "SessionDates": null,
-    "LocationName": null,
-    "LocationLink": null,
-    "RegisterLink": null,
-    "URL": null,
-    "pageIdentifyer": null,
-    "Category": null,
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Peterborough",
-    "Province": null,
-    "is_cancelled": false,
-    "age": null,
-    "is_full": false,
-    "level": null,
-    "MinAge": null,
-    "MaxAge": null
-  },
-  {
-    "Title": "Beginner Pickleball League",
-    "TotalPrice": null,
-    "Prorate": null,
-    "StaticPriceText": null,
-    "Day": null,
-    "Time": null,
-    "Start Date": null,
-    "End Date": null,
-    "Exceptions": null,
-    "SessionDates": null,
-    "LocationName": null,
-    "LocationLink": null,
-    "RegisterLink": null,
-    "URL": null,
-    "pageIdentifyer": null,
-    "Category": null,
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Peterborough",
-    "Province": null,
-    "is_cancelled": false,
-    "age": null,
-    "is_full": false,
-    "level": null,
-    "MinAge": null,
-    "MaxAge": null
-  },
-  {
-    "Title": "Beginner Pickleball League",
-    "TotalPrice": null,
-    "Prorate": null,
-    "StaticPriceText": null,
-    "Day": null,
-    "Time": null,
-    "Start Date": null,
-    "End Date": null,
-    "Exceptions": null,
-    "SessionDates": null,
-    "LocationName": null,
-    "LocationLink": null,
-    "RegisterLink": null,
-    "URL": null,
-    "pageIdentifyer": null,
-    "Category": null,
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Ridgeway",
-    "Province": null,
-    "is_cancelled": false,
-    "age": null,
-    "is_full": false,
-    "level": null,
-    "MinAge": null,
-    "MaxAge": null
-  },
-  {
-    "Title": "Experienced Beginner Pickleball League",
-    "TotalPrice": null,
-    "Prorate": null,
-    "StaticPriceText": null,
-    "Day": null,
-    "Time": null,
-    "Start Date": null,
-    "End Date": null,
-    "Exceptions": null,
-    "SessionDates": null,
-    "LocationName": null,
-    "LocationLink": null,
-    "RegisterLink": null,
-    "URL": null,
-    "pageIdentifyer": null,
-    "Category": null,
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Ridgeway",
-    "Province": null,
-    "is_cancelled": false,
-    "age": null,
-    "is_full": false,
-    "level": null,
-    "MinAge": null,
-    "MaxAge": null
-  },
-  {
-    "Title": "Experienced Beginner Pickleball League",
-    "TotalPrice": null,
-    "Prorate": null,
-    "StaticPriceText": null,
-    "Day": null,
-    "Time": null,
-    "Start Date": null,
-    "End Date": null,
-    "Exceptions": null,
-    "SessionDates": null,
-    "LocationName": null,
-    "LocationLink": null,
-    "RegisterLink": null,
-    "URL": null,
-    "pageIdentifyer": null,
-    "Category": null,
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "St. Catharines",
-    "Province": null,
-    "is_cancelled": false,
-    "age": null,
-    "is_full": false,
-    "level": null,
-    "MinAge": null,
-    "MaxAge": null
-  },
-  {
-    "Title": "Beginner Pickleball League",
-    "TotalPrice": null,
-    "Prorate": null,
-    "StaticPriceText": null,
-    "Day": null,
-    "Time": null,
-    "Start Date": null,
-    "End Date": null,
-    "Exceptions": null,
-    "SessionDates": null,
-    "LocationName": null,
-    "LocationLink": null,
-    "RegisterLink": null,
-    "URL": null,
-    "pageIdentifyer": null,
-    "Category": null,
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "St. Catharines",
-    "Province": null,
-    "is_cancelled": false,
-    "age": null,
-    "is_full": false,
-    "level": null,
-    "MinAge": null,
-    "MaxAge": null
-  },
-  {
-    "Title": "Experienced Beginner Pickleball League",
-    "TotalPrice": null,
-    "Prorate": null,
-    "StaticPriceText": null,
-    "Day": null,
-    "Time": null,
-    "Start Date": null,
-    "End Date": null,
-    "Exceptions": null,
-    "SessionDates": null,
-    "LocationName": null,
-    "LocationLink": null,
-    "RegisterLink": null,
-    "URL": null,
-    "pageIdentifyer": null,
-    "Category": null,
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "St. Catharines",
-    "Province": null,
-    "is_cancelled": false,
-    "age": null,
-    "is_full": false,
-    "level": null,
-    "MinAge": null,
-    "MaxAge": null
-  },
-  {
-    "Title": "Beginner Pickleball League",
-    "TotalPrice": null,
-    "Prorate": null,
-    "StaticPriceText": null,
-    "Day": null,
-    "Time": null,
-    "Start Date": null,
-    "End Date": null,
-    "Exceptions": null,
-    "SessionDates": null,
-    "LocationName": null,
-    "LocationLink": null,
-    "RegisterLink": null,
-    "URL": null,
-    "pageIdentifyer": null,
-    "Category": null,
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "St. Catharines",
-    "Province": null,
-    "is_cancelled": false,
-    "age": null,
-    "is_full": false,
-    "level": null,
-    "MinAge": null,
-    "MaxAge": null
-  },
-  {
-    "Title": "PICKLEBALL LTP INTERMEDIATE",
-    "TotalPrice": null,
-    "Prorate": null,
-    "StaticPriceText": null,
-    "Day": null,
-    "Time": null,
-    "Start Date": null,
-    "End Date": null,
-    "Exceptions": null,
-    "SessionDates": null,
-    "LocationName": null,
-    "LocationLink": null,
-    "RegisterLink": null,
-    "URL": null,
-    "pageIdentifyer": null,
-    "Category": null,
-    "sport": "pb",
-    "fee_url": null,
-    "updated_price": null,
-    "fee_index": null,
-    "City": "Woodbridge",
-    "Province": null,
-    "is_cancelled": false,
-    "age": null,
-    "is_full": true,
-    "level": null,
-    "MinAge": null,
-    "MaxAge": null
+    "MaxAge": null,
+    "ProgramID": "EA-PROGRAM-276"
   }
 ]
