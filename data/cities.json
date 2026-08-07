@@ -101,7 +101,7 @@
     "CityID": 24,
     "lat": 43.9122995,
     "lng": -78.6891675,
-    "NearbyActive": "150,36,41,1"
+    "NearbyActive": "34,15,150,41"
   },
   {
     "City": "Surrey",
@@ -127,7 +127,7 @@
     "CityID": 17,
     "lat": 43.9117719,
     "lng": -78.7780464,
-    "NearbyActive": "24,150,41,36"
+    "NearbyActive": "24,34,15,150"
   },
   {
     "City": "Vernon",
@@ -1401,7 +1401,7 @@
     "CityID": 40,
     "lat": 44.4233365,
     "lng": -78.2721953,
-    "NearbyActive": "36,150,24,10"
+    "NearbyActive": "150,34,24,15"
   },
   {
     "City": "Barrie",
@@ -1440,7 +1440,7 @@
     "CityID": 137,
     "lat": 44.3502068,
     "lng": -79.038628,
-    "NearbyActive": "150,10,3,4"
+    "NearbyActive": "150,15,34,10"
   },
   {
     "City": "Innisfil",
@@ -1466,7 +1466,7 @@
     "CityID": 150,
     "lat": 44.3551266,
     "lng": -78.7369939,
-    "NearbyActive": "36,24,10,3"
+    "NearbyActive": "34,15,24,10"
   },
   {
     "City": "Uxbridge",
@@ -1479,7 +1479,7 @@
     "CityID": 15,
     "lat": 44.1088502,
     "lng": -79.1226768,
-    "NearbyActive": "1,3,10,64"
+    "NearbyActive": "34,1,3,10"
   },
   {
     "City": "Keswick",
@@ -1492,7 +1492,7 @@
     "CityID": 10,
     "lat": 44.2396166,
     "lng": -79.4686558,
-    "NearbyActive": "64,3,1,4"
+    "NearbyActive": "64,3,1,15"
   },
   {
     "City": "Alliston",
@@ -1537,14 +1537,14 @@
     "City": "Peterborough",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/peterborough-pickleball/",
-    "Active": 2,
+    "Active": 0,
     "newsletter_shortcode": "29294",
     "facebook_link": "https://www.facebook.com/groups/564816432370631",
     "GPN": "https://www.globalpickleball.network/network/register/5073-elevation-athletics-kawartha-region",
     "CityID": 36,
     "lat": 44.3048009,
     "lng": -78.3199496,
-    "NearbyActive": "150,24,10,1"
+    "NearbyActive": "150,24,34,15"
   },
   {
     "City": "Stirling",
@@ -1557,7 +1557,7 @@
     "CityID": 56,
     "lat": 44.2962217,
     "lng": -77.5473774,
-    "NearbyActive": "36,150,24,10"
+    "NearbyActive": "150,24,34,15"
   },
   {
     "City": "Norwood",
@@ -1570,7 +1570,7 @@
     "CityID": 158,
     "lat": 44.3818091,
     "lng": -77.9798045,
-    "NearbyActive": "36,150,24,10"
+    "NearbyActive": "150,24,34,15"
   },
   {
     "City": "Owen Sound",
@@ -1596,7 +1596,7 @@
     "CityID": 8,
     "lat": 45,
     "lng": -76.36,
-    "NearbyActive": "18,141,36,150"
+    "NearbyActive": "18,141,150,24"
   },
   {
     "City": "Almonte",
@@ -1609,7 +1609,7 @@
     "CityID": 16,
     "lat": 45.226049,
     "lng": -76.1945277,
-    "NearbyActive": "18,141,36,150"
+    "NearbyActive": "18,141,150,24"
   },
   {
     "City": "Ottawa",
@@ -1622,7 +1622,7 @@
     "CityID": 18,
     "lat": 45.4208777,
     "lng": -75.6901106,
-    "NearbyActive": "141,36,150,61"
+    "NearbyActive": "141,150,61,24"
   },
   {
     "City": "Perth",
@@ -1635,7 +1635,7 @@
     "CityID": 45,
     "lat": 44.8992423,
     "lng": -76.2487294,
-    "NearbyActive": "18,141,36,150"
+    "NearbyActive": "18,141,150,24"
   },
   {
     "City": "Wasaga Beach",
@@ -1687,7 +1687,7 @@
     "CityID": 131,
     "lat": 45.433515,
     "lng": -76.3543692,
-    "NearbyActive": "18,141,36,150"
+    "NearbyActive": "18,141,150,61"
   },
   {
     "City": "Beckwith",
@@ -1700,7 +1700,7 @@
     "CityID": 133,
     "lat": 45.08748,
     "lng": -76.0824303,
-    "NearbyActive": "18,141,36,150"
+    "NearbyActive": "18,141,150,24"
   },
   {
     "City": "Carleton Place",
@@ -1713,7 +1713,7 @@
     "CityID": 138,
     "lat": 45.1403366,
     "lng": -76.1465672,
-    "NearbyActive": "18,141,36,150"
+    "NearbyActive": "18,141,150,24"
   },
   {
     "City": "Cornwall",
@@ -1726,7 +1726,7 @@
     "CityID": 141,
     "lat": 45.0184417,
     "lng": -74.728703,
-    "NearbyActive": "18,36,150,24"
+    "NearbyActive": "18,150,24,34"
   },
   {
     "City": "Lanark",
@@ -1739,7 +1739,7 @@
     "CityID": 149,
     "lat": 45.0181434,
     "lng": -76.3649869,
-    "NearbyActive": "18,141,36,150"
+    "NearbyActive": "18,141,150,24"
   },
   {
     "City": "Midland",
@@ -1778,7 +1778,7 @@
     "CityID": 162,
     "lat": 45.3330674,
     "lng": -76.2903013,
-    "NearbyActive": "18,141,36,150"
+    "NearbyActive": "18,141,150,61"
   },
   {
     "City": "Parry Sound",
@@ -1817,7 +1817,7 @@
     "CityID": 169,
     "lat": 45.4720417,
     "lng": -76.6838617,
-    "NearbyActive": "18,141,36,150"
+    "NearbyActive": "18,141,150,61"
   },
   {
     "City": "Smiths Falls",
@@ -1830,7 +1830,7 @@
     "CityID": 171,
     "lat": 44.9013316,
     "lng": -76.0212062,
-    "NearbyActive": "18,141,36,150"
+    "NearbyActive": "18,141,150,24"
   },
   {
     "City": "South River",
@@ -2233,7 +2233,7 @@
     "CityID": 164,
     "lat": 43.835765,
     "lng": -79.090576,
-    "NearbyActive": "41,24,65,1"
+    "NearbyActive": "41,15,34,24"
   },
   {
     "City": "Thornhill",
@@ -2259,7 +2259,7 @@
     "CityID": 5,
     "lat": 43.8975558,
     "lng": -78.8635324,
-    "NearbyActive": "24,41,1,150"
+    "NearbyActive": "24,34,15,41"
   },
   {
     "City": "King City",
@@ -2285,7 +2285,7 @@
     "CityID": 59,
     "lat": 43.87982,
     "lng": -78.9421751,
-    "NearbyActive": "24,41,1,65"
+    "NearbyActive": "24,34,15,41"
   },
   {
     "City": "Newcastle",
@@ -2298,7 +2298,7 @@
     "CityID": 35,
     "lat": 43.9174838,
     "lng": -78.5888307,
-    "NearbyActive": "24,36,150,41"
+    "NearbyActive": "24,34,15,150"
   },
   {
     "City": "Port Hope",
@@ -2311,7 +2311,7 @@
     "CityID": 55,
     "lat": 43.9515755,
     "lng": -78.2939704,
-    "NearbyActive": "24,36,150,41"
+    "NearbyActive": "24,34,150,15"
   },
   {
     "City": "Cobourg",
@@ -2324,7 +2324,7 @@
     "CityID": 60,
     "lat": 43.9595998,
     "lng": -78.1677784,
-    "NearbyActive": "36,24,150,41"
+    "NearbyActive": "24,150,34,15"
   },
   {
     "City": "Belleville",
@@ -2337,7 +2337,7 @@
     "CityID": 134,
     "lat": 44.1633264,
     "lng": -77.3852556,
-    "NearbyActive": "36,24,150,1"
+    "NearbyActive": "24,150,34,15"
   },
   {
     "City": "Clarington",
@@ -2350,7 +2350,7 @@
     "CityID": 139,
     "lat": 43.9686695,
     "lng": -78.6513545,
-    "NearbyActive": "24,150,36,41"
+    "NearbyActive": "24,34,15,150"
   },
   {
     "City": "Picton",
@@ -2363,7 +2363,7 @@
     "CityID": 165,
     "lat": 44.0077067,
     "lng": -77.1411741,
-    "NearbyActive": "36,24,150,41"
+    "NearbyActive": "24,150,34,15"
   },
   {
     "City": "Trenton",
@@ -2376,7 +2376,7 @@
     "CityID": 182,
     "lat": 44.1019126,
     "lng": -77.57539,
-    "NearbyActive": "36,24,150,1"
+    "NearbyActive": "24,150,34,15"
   },
   {
     "City": "Port Perry",
@@ -2389,7 +2389,7 @@
     "CityID": 34,
     "lat": 44.1054151,
     "lng": -78.9425076,
-    "NearbyActive": "24,150,1,3"
+    "NearbyActive": "15,24,150,1"
   },
   {
     "City": "Stouffville",
@@ -2402,7 +2402,7 @@
     "CityID": 57,
     "lat": 43.9717581,
     "lng": -79.2454446,
-    "NearbyActive": "41,1,3,65"
+    "NearbyActive": "15,41,1,3"
   },
   {
     "City": "Alma",
