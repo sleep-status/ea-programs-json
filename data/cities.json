@@ -101,7 +101,7 @@
     "CityID": 24,
     "lat": 43.9122995,
     "lng": -78.6891675,
-    "NearbyActive": "5,150,36,41"
+    "NearbyActive": "150,36,41,1"
   },
   {
     "City": "Surrey",
@@ -127,7 +127,7 @@
     "CityID": 17,
     "lat": 43.9117719,
     "lng": -78.7780464,
-    "NearbyActive": "5,24,150,41"
+    "NearbyActive": "24,150,41,36"
   },
   {
     "City": "Vernon",
@@ -1297,7 +1297,7 @@
     "CityID": 170,
     "lat": 42.8820503,
     "lng": -79.0490304,
-    "NearbyActive": "144,146,65,5"
+    "NearbyActive": "144,146,65,41"
   },
   {
     "City": "St Catharines",
@@ -1401,7 +1401,7 @@
     "CityID": 40,
     "lat": 44.4233365,
     "lng": -78.2721953,
-    "NearbyActive": "36,150,24,5"
+    "NearbyActive": "36,150,24,10"
   },
   {
     "City": "Barrie",
@@ -1466,7 +1466,7 @@
     "CityID": 150,
     "lat": 44.3551266,
     "lng": -78.7369939,
-    "NearbyActive": "36,24,5,10"
+    "NearbyActive": "36,24,10,3"
   },
   {
     "City": "Uxbridge",
@@ -1479,7 +1479,7 @@
     "CityID": 15,
     "lat": 44.1088502,
     "lng": -79.1226768,
-    "NearbyActive": "1,3,10,5"
+    "NearbyActive": "1,3,10,64"
   },
   {
     "City": "Keswick",
@@ -1544,7 +1544,7 @@
     "CityID": 36,
     "lat": 44.3048009,
     "lng": -78.3199496,
-    "NearbyActive": "150,24,5,10"
+    "NearbyActive": "150,24,10,1"
   },
   {
     "City": "Stirling",
@@ -1557,7 +1557,7 @@
     "CityID": 56,
     "lat": 44.2962217,
     "lng": -77.5473774,
-    "NearbyActive": "36,150,24,5"
+    "NearbyActive": "36,150,24,10"
   },
   {
     "City": "Norwood",
@@ -1570,7 +1570,7 @@
     "CityID": 158,
     "lat": 44.3818091,
     "lng": -77.9798045,
-    "NearbyActive": "36,150,24,5"
+    "NearbyActive": "36,150,24,10"
   },
   {
     "City": "Owen Sound",
@@ -2233,7 +2233,7 @@
     "CityID": 164,
     "lat": 43.835765,
     "lng": -79.090576,
-    "NearbyActive": "5,41,24,65"
+    "NearbyActive": "41,24,65,1"
   },
   {
     "City": "Thornhill",
@@ -2252,7 +2252,7 @@
     "City": "Oshawa",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/oshawa-pickleball/",
-    "Active": 1,
+    "Active": 0,
     "newsletter_shortcode": "29186",
     "facebook_link": "https://www.facebook.com/groups/1865183903999282/?ref=share&mibextid=K35XfP&rdid=TPV7MigOn3PQ4lRx&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2Fspu9Vp21iTD1ig7C%2F%3Fmibextid%3DK35XfP",
     "GPN": "N/A",
@@ -2285,7 +2285,7 @@
     "CityID": 59,
     "lat": 43.87982,
     "lng": -78.9421751,
-    "NearbyActive": "5,24,41,1"
+    "NearbyActive": "24,41,1,65"
   },
   {
     "City": "Newcastle",
@@ -2298,7 +2298,7 @@
     "CityID": 35,
     "lat": 43.9174838,
     "lng": -78.5888307,
-    "NearbyActive": "24,5,36,150"
+    "NearbyActive": "24,36,150,41"
   },
   {
     "City": "Port Hope",
@@ -2311,7 +2311,7 @@
     "CityID": 55,
     "lat": 43.9515755,
     "lng": -78.2939704,
-    "NearbyActive": "24,36,5,150"
+    "NearbyActive": "24,36,150,41"
   },
   {
     "City": "Cobourg",
@@ -2324,7 +2324,7 @@
     "CityID": 60,
     "lat": 43.9595998,
     "lng": -78.1677784,
-    "NearbyActive": "36,24,5,150"
+    "NearbyActive": "36,24,150,41"
   },
   {
     "City": "Belleville",
@@ -2337,7 +2337,7 @@
     "CityID": 134,
     "lat": 44.1633264,
     "lng": -77.3852556,
-    "NearbyActive": "36,24,150,5"
+    "NearbyActive": "36,24,150,1"
   },
   {
     "City": "Clarington",
@@ -2350,7 +2350,7 @@
     "CityID": 139,
     "lat": 43.9686695,
     "lng": -78.6513545,
-    "NearbyActive": "24,5,150,36"
+    "NearbyActive": "24,150,36,41"
   },
   {
     "City": "Picton",
@@ -2363,7 +2363,7 @@
     "CityID": 165,
     "lat": 44.0077067,
     "lng": -77.1411741,
-    "NearbyActive": "36,24,150,5"
+    "NearbyActive": "36,24,150,41"
   },
   {
     "City": "Trenton",
@@ -2376,7 +2376,7 @@
     "CityID": 182,
     "lat": 44.1019126,
     "lng": -77.57539,
-    "NearbyActive": "36,24,150,5"
+    "NearbyActive": "36,24,150,1"
   },
   {
     "City": "Port Perry",
@@ -2389,7 +2389,7 @@
     "CityID": 34,
     "lat": 44.1054151,
     "lng": -78.9425076,
-    "NearbyActive": "5,24,150,1"
+    "NearbyActive": "24,150,1,3"
   },
   {
     "City": "Stouffville",
