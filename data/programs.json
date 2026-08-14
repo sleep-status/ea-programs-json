@@ -160,12 +160,12 @@
     "ProgramID": "EA-PROGRAM-407"
   },
   {
-    "Title": "Aurora - LEVEL 1: Beginners Pickleball League",
+    "Title": "Aurora - LEVEL 3: Intermediate Pickleball League",
     "TotalPrice": 175.15,
     "Prorate": false,
     "StaticPriceText": null,
     "Day": "Fridays",
-    "Time": "1:30 - 3:30 PM",
+    "Time": "11:30 - 1:30 PM",
     "Start Date": "2026-09-18",
     "End Date": "2026-11-20",
     "Exceptions": "N/A",
@@ -224,7 +224,7 @@
     "ProgramID": null
   },
   {
-    "Title": "Aurora - LEVEL 2: Experienced Beginners Pickleball League",
+    "Title": "Aurora - LEVEL 1: Beginners Pickleball League",
     "TotalPrice": 163.85,
     "Prorate": false,
     "StaticPriceText": null,
@@ -256,7 +256,7 @@
     "ProgramID": null
   },
   {
-    "Title": "Aurora - LEVEL 3: Intermediate Pickleball League",
+    "Title": "Aurora - LEVEL 2: Experienced Beginners Pickleball League",
     "TotalPrice": 175.15,
     "Prorate": false,
     "StaticPriceText": null,
@@ -288,12 +288,12 @@
     "ProgramID": null
   },
   {
-    "Title": "Aurora - LEVEL 3: Intermediate Pickleball League",
+    "Title": "Aurora - LEVEL 1: Beginners Pickleball League",
     "TotalPrice": 163.85,
     "Prorate": false,
     "StaticPriceText": null,
     "Day": "Fridays",
-    "Time": "11:30 - 1:30 PM",
+    "Time": "1:30 - 3:30 PM",
     "Start Date": "2026-09-18",
     "End Date": "2026-11-20",
     "Exceptions": "N/A",
