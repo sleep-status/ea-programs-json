@@ -13,19 +13,6 @@
     "NearbyActive": "3,64,7,41"
   },
   {
-    "City": "Vaughan",
-    "Province": "ON",
-    "PageURL": "http://eapickleball.com/vaughan/",
-    "Active": 10,
-    "newsletter_shortcode": "28903",
-    "facebook_link": "https://www.facebook.com/groups/120051924337462/?ref=share&mibextid=NSMWBT",
-    "GPN": "N/A",
-    "CityID": 65,
-    "lat": 43.7941544,
-    "lng": -79.5268023,
-    "NearbyActive": "41,7,20,22"
-  },
-  {
     "City": "Caledon",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/caledon/",
@@ -50,6 +37,19 @@
     "lat": 43.8975558,
     "lng": -78.8635324,
     "NearbyActive": "59,17,24,164"
+  },
+  {
+    "City": "Vaughan",
+    "Province": "ON",
+    "PageURL": "http://eapickleball.com/vaughan/",
+    "Active": 8,
+    "newsletter_shortcode": "28903",
+    "facebook_link": "https://www.facebook.com/groups/120051924337462/?ref=share&mibextid=NSMWBT",
+    "GPN": "N/A",
+    "CityID": 65,
+    "lat": 43.7941544,
+    "lng": -79.5268023,
+    "NearbyActive": "41,7,20,22"
   },
   {
     "City": "Cambridge",
@@ -166,7 +166,7 @@
     "CityID": 10,
     "lat": 44.2396166,
     "lng": -79.4686558,
-    "NearbyActive": "64,3,1,230"
+    "NearbyActive": "64,3,1,4"
   },
   {
     "City": "Surrey",
@@ -231,7 +231,7 @@
     "CityID": 150,
     "lat": 44.3551266,
     "lng": -78.7369939,
-    "NearbyActive": "137,34,40,15"
+    "NearbyActive": "137,40,24,17"
   },
   {
     "City": "Ottawa",
@@ -296,7 +296,7 @@
     "CityID": 24,
     "lat": 43.9122995,
     "lng": -78.6891675,
-    "NearbyActive": "17,5,59,34"
+    "NearbyActive": "17,5,59,164"
   },
   {
     "City": "Lakefield",
@@ -309,7 +309,7 @@
     "CityID": 40,
     "lat": 44.4229397,
     "lng": -78.2723457,
-    "NearbyActive": "150,137,34,24"
+    "NearbyActive": "150,137,24,17"
   },
   {
     "City": "Grimsby",
@@ -323,19 +323,6 @@
     "lat": 43.1931661,
     "lng": -79.560677,
     "NearbyActive": "144,170,22,23"
-  },
-  {
-    "City": "Courtice",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/courtice/",
-    "Active": 3,
-    "newsletter_shortcode": "29176",
-    "facebook_link": "https://www.facebook.com/groups/1150648605625416",
-    "GPN": "N/A",
-    "CityID": 17,
-    "lat": 43.9117719,
-    "lng": -78.7780464,
-    "NearbyActive": "5,24,59,34"
   },
   {
     "City": "Vernon",
@@ -388,19 +375,6 @@
     "lat": 53.2607825,
     "lng": -113.5511681,
     "NearbyActive": "70,78"
-  },
-  {
-    "City": "Okotoks",
-    "Province": "AB",
-    "PageURL": "https://eapickleball.com/okotoks/",
-    "Active": 2,
-    "newsletter_shortcode": "32110",
-    "facebook_link": "https://www.facebook.com/groups/1235260824803374",
-    "GPN": "N/A",
-    "CityID": 78,
-    "lat": 50.7253685,
-    "lng": -113.975082,
-    "NearbyActive": "70,75"
   },
   {
     "City": "Cornwall",
@@ -468,19 +442,6 @@
     "NearbyActive": "231,40,334,333"
   },
   {
-    "City": "Sandford",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/sandford/",
-    "Active": 0,
-    "newsletter_shortcode": "N/A",
-    "facebook_link": "N/A",
-    "GPN": "N/A",
-    "CityID": 230,
-    "lat": 44.13483,
-    "lng": -79.20954,
-    "NearbyActive": "15,34,1,3"
-  },
-  {
     "City": "Kitchener",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/kitchener/",
@@ -504,7 +465,7 @@
     "CityID": 137,
     "lat": 44.3502068,
     "lng": -79.038628,
-    "NearbyActive": "150,230,15,34"
+    "NearbyActive": "150,10,3,4"
   },
   {
     "City": "Truro",
@@ -518,6 +479,32 @@
     "lat": 45.3656974,
     "lng": -63.2864971,
     "NearbyActive": null
+  },
+  {
+    "City": "Courtice",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/courtice/",
+    "Active": 1,
+    "newsletter_shortcode": "29176",
+    "facebook_link": "https://www.facebook.com/groups/1150648605625416",
+    "GPN": "N/A",
+    "CityID": 17,
+    "lat": 43.9117719,
+    "lng": -78.7780464,
+    "NearbyActive": "5,24,59,164"
+  },
+  {
+    "City": "Okotoks",
+    "Province": "AB",
+    "PageURL": "https://eapickleball.com/okotoks/",
+    "Active": 1,
+    "newsletter_shortcode": "32110",
+    "facebook_link": "https://www.facebook.com/groups/1235260824803374",
+    "GPN": "N/A",
+    "CityID": 78,
+    "lat": 50.7253685,
+    "lng": -113.975082,
+    "NearbyActive": "70,75"
   },
   {
     "City": "Haliburton",
@@ -585,6 +572,19 @@
     "NearbyActive": "59,5,17,41"
   },
   {
+    "City": "Sandford",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/sandford/",
+    "Active": 0,
+    "newsletter_shortcode": "N/A",
+    "facebook_link": "N/A",
+    "GPN": "N/A",
+    "CityID": 230,
+    "lat": 44.13483,
+    "lng": -79.20954,
+    "NearbyActive": "1,3,10,137"
+  },
+  {
     "City": "Port Perry",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/port-perry/",
@@ -595,7 +595,7 @@
     "CityID": 34,
     "lat": 44.1054151,
     "lng": -78.9425076,
-    "NearbyActive": "15,230,5,59"
+    "NearbyActive": "5,59,17,137"
   },
   {
     "City": "Uxbridge",
@@ -608,7 +608,7 @@
     "CityID": 15,
     "lat": 44.1088502,
     "lng": -79.1226768,
-    "NearbyActive": "230,34,137,1"
+    "NearbyActive": "137,1,59,3"
   },
   {
     "City": "Aurora",
@@ -751,7 +751,7 @@
     "CityID": 32,
     "lat": 44.310301,
     "lng": -79.365311,
-    "NearbyActive": "10,230,3,137"
+    "NearbyActive": "10,3,137,64"
   },
   {
     "City": "Stoney Creek",
@@ -790,7 +790,7 @@
     "CityID": 36,
     "lat": 44.3048009,
     "lng": -78.3199496,
-    "NearbyActive": "40,150,24,34"
+    "NearbyActive": "40,150,24,17"
   },
   {
     "City": "Alliston",
@@ -998,7 +998,7 @@
     "CityID": 57,
     "lat": 43.9717581,
     "lng": -79.2454446,
-    "NearbyActive": "15,230,41,164"
+    "NearbyActive": "41,164,1,7"
   },
   {
     "City": "Waterloo",
