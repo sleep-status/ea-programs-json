@@ -188,7 +188,7 @@
     "level": "3",
     "MinAge": "8",
     "MaxAge": "17",
-    "Trial": null,
+    "Trial": "y",
     "ProgramID": "EA-PROGRAM-539"
   },
   {
@@ -220,7 +220,7 @@
     "level": "3",
     "MinAge": "8",
     "MaxAge": "17",
-    "Trial": null,
+    "Trial": "y",
     "ProgramID": "EA-PROGRAM-538"
   },
   {
@@ -252,7 +252,7 @@
     "level": "3",
     "MinAge": "8",
     "MaxAge": "17",
-    "Trial": null,
+    "Trial": "y",
     "ProgramID": "EA-PROGRAM-537"
   },
   {
@@ -4210,7 +4210,7 @@
     "Category": "EA",
     "sport": "pb",
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/73505/6",
-    "updated_price": "213.68",
+    "updated_price": "194.25",
     "fee_index": 0,
     "City": "Leduc",
     "Province": "AB",
