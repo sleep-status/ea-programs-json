@@ -520,6 +520,19 @@
     "NearbyActive": "9,26,29,13"
   },
   {
+    "City": "Carleton Place",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/lanark-county/",
+    "Active": 2,
+    "newsletter_shortcode": "N/A",
+    "facebook_link": "https://www.facebook.com/share/g/14NPBdTfayu/",
+    "GPN": "N/A",
+    "CityID": 138,
+    "lat": 45.1403366,
+    "lng": -76.1465672,
+    "NearbyActive": "131,18,333,141"
+  },
+  {
     "City": "Kitchener",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/kitchener/",
@@ -663,6 +676,19 @@
     "NearbyActive": null
   },
   {
+    "City": "Almonte",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/lanark-county/",
+    "Active": 1,
+    "newsletter_shortcode": "N/A",
+    "facebook_link": "N/A",
+    "GPN": "N/A",
+    "CityID": 16,
+    "lat": 45.226049,
+    "lng": -76.1945277,
+    "NearbyActive": "131,18,333,334"
+  },
+  {
     "City": "Vaughan",
     "Province": "ON",
     "PageURL": "http://eapickleball.com/vaughan/",
@@ -778,19 +804,6 @@
     "lat": 54.5172715,
     "lng": -128.599548,
     "NearbyActive": "19,29,14,9"
-  },
-  {
-    "City": "Almonte",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/lanark-county/",
-    "Active": 0,
-    "newsletter_shortcode": "N/A",
-    "facebook_link": "N/A",
-    "GPN": "N/A",
-    "CityID": 16,
-    "lat": 45.226049,
-    "lng": -76.1945277,
-    "NearbyActive": "131,18,333,334"
   },
   {
     "City": "Wasaga Beach",
@@ -1961,19 +1974,6 @@
     "lat": 43.4871704,
     "lng": -79.9821917,
     "NearbyActive": "31,350,22,23"
-  },
-  {
-    "City": "Carleton Place",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/lanark-county/",
-    "Active": 0,
-    "newsletter_shortcode": "N/A",
-    "facebook_link": "https://www.facebook.com/share/g/14NPBdTfayu/",
-    "GPN": "N/A",
-    "CityID": 138,
-    "lat": 45.1403366,
-    "lng": -76.1465672,
-    "NearbyActive": "131,18,333,141"
   },
   {
     "City": "Clarington",
