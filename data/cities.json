@@ -533,6 +533,19 @@
     "NearbyActive": "131,18,333,141"
   },
   {
+    "City": "North York",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/north-york/",
+    "Active": 2,
+    "newsletter_shortcode": "29267",
+    "facebook_link": "https://www.facebook.com/groups/1009320611202813/?ref=share&mibextid=K35XfP&rdid=W90Olvvw7Z3MJanC&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FYAk1vVeqo3Sa4Pk8%2F%3Fmibextid%3DK35XfP#",
+    "GPN": "https://www.globalpickleball.network/network/register/5071-elevation-athletics-gta",
+    "CityID": 30,
+    "lat": 43.7543217,
+    "lng": -79.4491057,
+    "NearbyActive": "65,41,7,350"
+  },
+  {
     "City": "Kitchener",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/kitchener/",
@@ -843,19 +856,6 @@
     "lat": 44.8001,
     "lng": -79.3333,
     "NearbyActive": "145,61,4,137"
-  },
-  {
-    "City": "North York",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/north-york/",
-    "Active": 0,
-    "newsletter_shortcode": "29267",
-    "facebook_link": "https://www.facebook.com/groups/1009320611202813/?ref=share&mibextid=K35XfP&rdid=W90Olvvw7Z3MJanC&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FYAk1vVeqo3Sa4Pk8%2F%3Fmibextid%3DK35XfP#",
-    "GPN": "https://www.globalpickleball.network/network/register/5071-elevation-athletics-gta",
-    "CityID": 30,
-    "lat": 43.7543217,
-    "lng": -79.4491057,
-    "NearbyActive": "65,41,7,350"
   },
   {
     "City": "Sutton",
