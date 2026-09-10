@@ -64,7 +64,7 @@
     "ProgramID": "EA-PROGRAM-544"
   },
   {
-    "Title": "Carleton Place - LEVEL 1: Beginner Pickleball League",
+    "Title": "Carleton Place - LEVEL 1/2: Beginner and Experienced Beginner Pickleball League",
     "TotalPrice": 104,
     "Prorate": true,
     "StaticPriceText": null,
@@ -96,7 +96,7 @@
     "ProgramID": "EA-PROGRAM-545"
   },
   {
-    "Title": "Carleton Place - LEVEL 1: Beginner Pickleball League",
+    "Title": "Carleton Place - LEVEL 3: Intermediate Pickleball League",
     "TotalPrice": 91,
     "Prorate": true,
     "StaticPriceText": null,
@@ -121,7 +121,7 @@
     "is_cancelled": false,
     "age": null,
     "is_full": false,
-    "level": "1",
+    "level": "3",
     "MinAge": "16",
     "MaxAge": "99",
     "Trial": null,
