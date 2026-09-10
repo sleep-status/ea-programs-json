@@ -36,7 +36,7 @@
     "CityID": 6,
     "lat": 43.8320698,
     "lng": -79.9066871,
-    "NearbyActive": "20,22,65,7"
+    "NearbyActive": "20,22,7,30"
   },
   {
     "City": "Cambridge",
@@ -49,7 +49,7 @@
     "CityID": 23,
     "lat": 43.3600536,
     "lng": -80.3123023,
-    "NearbyActive": "39,31,22,350"
+    "NearbyActive": "39,31,22,6"
   },
   {
     "City": "Brampton",
@@ -62,7 +62,7 @@
     "CityID": 22,
     "lat": 43.685832,
     "lng": -79.7599366,
-    "NearbyActive": "350,6,20,65"
+    "NearbyActive": "6,20,30,7"
   },
   {
     "City": "King City",
@@ -75,7 +75,7 @@
     "CityID": 7,
     "lat": 43.929489,
     "lng": -79.5252267,
-    "NearbyActive": "41,1,65,20"
+    "NearbyActive": "41,1,20,3"
   },
   {
     "City": "Oro-Medonte",
@@ -114,7 +114,7 @@
     "CityID": 20,
     "lat": 43.879548,
     "lng": -79.73826,
-    "NearbyActive": "6,7,65,22"
+    "NearbyActive": "6,7,22,41"
   },
   {
     "City": "Oshawa",
@@ -179,7 +179,7 @@
     "CityID": 41,
     "lat": 43.8801166,
     "lng": -79.4392925,
-    "NearbyActive": "7,65,57,1"
+    "NearbyActive": "7,30,57,1"
   },
   {
     "City": "Arnprior",
@@ -192,7 +192,7 @@
     "CityID": 131,
     "lat": 45.433515,
     "lng": -76.3543692,
-    "NearbyActive": 18333334229
+    "NearbyActive": "16,138,18,229"
   },
   {
     "City": "Lindsay",
@@ -218,7 +218,7 @@
     "CityID": 29,
     "lat": 49.3206294,
     "lng": -123.0737925,
-    "NearbyActive": "9,26,13,14"
+    "NearbyActive": "9,26,25,44"
   },
   {
     "City": "Port Perry",
@@ -244,7 +244,7 @@
     "CityID": 18,
     "lat": 45.4208777,
     "lng": -75.6901106,
-    "NearbyActive": 131141333334
+    "NearbyActive": 16138131141
   },
   {
     "City": "Coquitlam",
@@ -257,7 +257,7 @@
     "CityID": 9,
     "lat": 49.2842958,
     "lng": -122.793281,
-    "NearbyActive": "26,29,13,14"
+    "NearbyActive": "26,29,44,25"
   },
   {
     "City": "Prince George",
@@ -270,7 +270,7 @@
     "CityID": 19,
     "lat": 53.9128645,
     "lng": -122.7453699,
-    "NearbyActive": "14,11,29,9"
+    "NearbyActive": "29,9,26,44"
   },
   {
     "City": "Lakefield",
@@ -296,7 +296,7 @@
     "CityID": 13,
     "lat": 48.4283182,
     "lng": -123.364953,
-    "NearbyActive": "26,29,9,14"
+    "NearbyActive": "25,26,29,9"
   },
   {
     "City": "Guelph",
@@ -348,7 +348,7 @@
     "CityID": 146,
     "lat": 43.1931661,
     "lng": -79.560677,
-    "NearbyActive": "144,350,170,22"
+    "NearbyActive": "144,47,170,22"
   },
   {
     "City": "Surrey",
@@ -361,7 +361,7 @@
     "CityID": 26,
     "lat": 49.1913033,
     "lng": -122.849143,
-    "NearbyActive": "9,29,13,14"
+    "NearbyActive": "9,29,44,25"
   },
   {
     "City": "Calgary",
@@ -400,7 +400,7 @@
     "CityID": 141,
     "lat": 45.0184417,
     "lng": -74.728703,
-    "NearbyActive": 18131333334
+    "NearbyActive": "18,138,16,131"
   },
   {
     "City": "Fonthill",
@@ -413,7 +413,7 @@
     "CityID": 144,
     "lat": 43.0307817,
     "lng": -79.2859628,
-    "NearbyActive": "170,146,350,22"
+    "NearbyActive": "47,170,146,30"
   },
   {
     "City": "Gravenhurst",
@@ -439,7 +439,7 @@
     "CityID": 229,
     "lat": 45.0575,
     "lng": -77.857,
-    "NearbyActive": "231,40,334,333"
+    "NearbyActive": "231,40,150,61"
   },
   {
     "City": "Cannington",
@@ -530,7 +530,7 @@
     "CityID": 138,
     "lat": 45.1403366,
     "lng": -76.1465672,
-    "NearbyActive": "131,18,333,141"
+    "NearbyActive": "16,131,18,141"
   },
   {
     "City": "North York",
@@ -543,7 +543,20 @@
     "CityID": 30,
     "lat": 43.7543217,
     "lng": -79.4491057,
-    "NearbyActive": "65,41,7,350"
+    "NearbyActive": "41,7,22,20"
+  },
+  {
+    "City": "Niagara",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/niagara/",
+    "Active": 2,
+    "newsletter_shortcode": "29771",
+    "facebook_link": "https://www.facebook.com/groups/439719328870765/?paipv=0&eav=AfY9UxF_9srE4SUwJ8striu13tMiNQ08EPCv8kI8GfU6jdRTfH2SUPhkyf80E0hVr8I&_rdr",
+    "GPN": "https://www.globalpickleball.network/network/register/5074-elevation-athletics-niagara-region",
+    "CityID": 155,
+    "lat": 43.6440753,
+    "lng": -79.4086982,
+    "NearbyActive": "30,41,22,7"
   },
   {
     "City": "Ridgeway",
@@ -556,7 +569,7 @@
     "CityID": 170,
     "lat": 42.8820503,
     "lng": -79.0490304,
-    "NearbyActive": 144146350164
+    "NearbyActive": "47,144,146,30"
   },
   {
     "City": "Kitchener",
@@ -647,7 +660,7 @@
     "CityID": 47,
     "lat": 42.8862392,
     "lng": -79.2513905,
-    "NearbyActive": 144170146350
+    "NearbyActive": "144,170,146,30"
   },
   {
     "City": "Winnipeg",
@@ -712,7 +725,7 @@
     "CityID": 16,
     "lat": 45.226049,
     "lng": -76.1945277,
-    "NearbyActive": "131,18,333,334"
+    "NearbyActive": "138,131,18,141"
   },
   {
     "City": "Vaughan",
@@ -725,7 +738,7 @@
     "CityID": 65,
     "lat": 43.7941544,
     "lng": -79.5268023,
-    "NearbyActive": "41,7,20,22"
+    "NearbyActive": "30,41,7,20"
   },
   {
     "City": "Mississauga",
@@ -738,7 +751,7 @@
     "CityID": 350,
     "lat": 43.5789,
     "lng": -79.6583,
-    "NearbyActive": "22,65,20,6"
+    "NearbyActive": "22,30,20,6"
   },
   {
     "City": "Pembroke",
@@ -751,7 +764,7 @@
     "CityID": 333,
     "lat": 45.8267,
     "lng": -77.1109,
-    "NearbyActive": "334,131,229,18"
+    "NearbyActive": "131,16,229,138"
   },
   {
     "City": "Petawawa",
@@ -764,7 +777,7 @@
     "CityID": 334,
     "lat": 45.8945,
     "lng": -77.2801,
-    "NearbyActive": "333,131,229,18"
+    "NearbyActive": "131,229,16,138"
   },
   {
     "City": "Vernon",
@@ -777,7 +790,7 @@
     "CityID": 11,
     "lat": 50.2668671,
     "lng": -119.2718157,
-    "NearbyActive": "14,9,26,29"
+    "NearbyActive": "44,9,26,29"
   },
   {
     "City": "Kamloops",
@@ -790,7 +803,7 @@
     "CityID": 14,
     "lat": 50.6758269,
     "lng": -120.339415,
-    "NearbyActive": "11,9,26,29"
+    "NearbyActive": "44,9,26,29"
   },
   {
     "City": "Lanark County",
@@ -803,7 +816,7 @@
     "CityID": 8,
     "lat": 45,
     "lng": -76.25,
-    "NearbyActive": "131,18,333,141"
+    "NearbyActive": "138,16,131,18"
   },
   {
     "City": "Terrace",
@@ -816,7 +829,7 @@
     "CityID": 12,
     "lat": 54.5172715,
     "lng": -128.599548,
-    "NearbyActive": "19,29,14,9"
+    "NearbyActive": "19,25,29,9"
   },
   {
     "City": "Wasaga Beach",
@@ -842,7 +855,7 @@
     "CityID": 27,
     "lat": 49.6980743,
     "lng": -123.155861,
-    "NearbyActive": "29,9,26,13"
+    "NearbyActive": "29,9,26,25"
   },
   {
     "City": "Severn",
@@ -881,7 +894,7 @@
     "CityID": 33,
     "lat": 43.2167526,
     "lng": -79.7567616,
-    "NearbyActive": "146,350,144,23"
+    "NearbyActive": "146,144,23,22"
   },
   {
     "City": "Newcastle",
@@ -946,7 +959,7 @@
     "CityID": 45,
     "lat": 44.8992423,
     "lng": -76.2487294,
-    "NearbyActive": "131,18,141,333"
+    "NearbyActive": "138,16,131,18"
   },
   {
     "City": "Windsor, NS",
@@ -972,7 +985,7 @@
     "CityID": 48,
     "lat": 49.2433804,
     "lng": -122.972545,
-    "NearbyActive": "26,29,9,13"
+    "NearbyActive": "26,29,9,25"
   },
   {
     "City": "Richmond",
@@ -985,7 +998,7 @@
     "CityID": 49,
     "lat": 49.163168,
     "lng": -123.137414,
-    "NearbyActive": "29,26,9,13"
+    "NearbyActive": "29,26,9,25"
   },
   {
     "City": "Sooke",
@@ -998,7 +1011,7 @@
     "CityID": 50,
     "lat": 48.3825724,
     "lng": -123.731517,
-    "NearbyActive": "13,26,29,9"
+    "NearbyActive": "13,25,26,29"
   },
   {
     "City": "Saint John",
@@ -1128,7 +1141,7 @@
     "CityID": 63,
     "lat": 49.8879177,
     "lng": -119.495902,
-    "NearbyActive": "11,14,9,26"
+    "NearbyActive": "44,9,26,29"
   },
   {
     "City": "Chester",
@@ -1323,7 +1336,7 @@
     "CityID": 84,
     "lat": 49.0521162,
     "lng": -122.329479,
-    "NearbyActive": "26,9,29,13"
+    "NearbyActive": "44,26,9,29"
   },
   {
     "City": "Brandon",
@@ -1908,7 +1921,7 @@
     "CityID": 130,
     "lat": 43.225693,
     "lng": -79.976692,
-    "NearbyActive": "23,146,31,350"
+    "NearbyActive": "23,146,31,39"
   },
   {
     "City": "Barrie",
@@ -1934,7 +1947,7 @@
     "CityID": 133,
     "lat": 45.08748,
     "lng": -76.0824303,
-    "NearbyActive": "131,18,141,333"
+    "NearbyActive": "138,16,131,18"
   },
   {
     "City": "Belleville",
@@ -1960,7 +1973,7 @@
     "CityID": 135,
     "lat": 43.3248924,
     "lng": -79.7966835,
-    "NearbyActive": "146,350,22,23"
+    "NearbyActive": "146,22,23,31"
   },
   {
     "City": "Campbellville",
@@ -1973,7 +1986,7 @@
     "CityID": 136,
     "lat": 43.4871704,
     "lng": -79.9821917,
-    "NearbyActive": "31,350,22,23"
+    "NearbyActive": "31,22,23,6"
   },
   {
     "City": "Clarington",
@@ -2012,7 +2025,7 @@
     "CityID": 142,
     "lat": 43.2661904,
     "lng": -79.9546341,
-    "NearbyActive": "23,146,31,350"
+    "NearbyActive": "23,146,31,39"
   },
   {
     "City": "Durham",
@@ -2038,7 +2051,7 @@
     "CityID": 147,
     "lat": 43.2560802,
     "lng": -79.8728583,
-    "NearbyActive": "146,23,350,31"
+    "NearbyActive": "146,23,31,22"
   },
   {
     "City": "Innisfil",
@@ -2064,7 +2077,7 @@
     "CityID": 149,
     "lat": 45.0181434,
     "lng": -76.3649869,
-    "NearbyActive": "131,18,333,229"
+    "NearbyActive": "138,16,131,18"
   },
   {
     "City": "London",
@@ -2116,20 +2129,7 @@
     "CityID": 154,
     "lat": 43.513671,
     "lng": -79.882817,
-    "NearbyActive": "350,22,31,6"
-  },
-  {
-    "City": "Niagara",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/niagara/",
-    "Active": 0,
-    "newsletter_shortcode": "29771",
-    "facebook_link": "https://www.facebook.com/groups/439719328870765/?paipv=0&eav=AfY9UxF_9srE4SUwJ8striu13tMiNQ08EPCv8kI8GfU6jdRTfH2SUPhkyf80E0hVr8I&_rdr",
-    "GPN": "https://www.globalpickleball.network/network/register/5074-elevation-athletics-niagara-region",
-    "CityID": 155,
-    "lat": 43.6440753,
-    "lng": -79.4086982,
-    "NearbyActive": "65,350,41,22"
+    "NearbyActive": "22,31,6,23"
   },
   {
     "City": "North Bay",
@@ -2142,7 +2142,7 @@
     "CityID": 156,
     "lat": 46.3092115,
     "lng": -79.4607617,
-    "NearbyActive": 61145231334
+    "NearbyActive": 61145231229
   },
   {
     "City": "North Perth",
@@ -2181,7 +2181,7 @@
     "CityID": 159,
     "lat": 43.447436,
     "lng": -79.666672,
-    "NearbyActive": "350,22,146,65"
+    "NearbyActive": "22,146,30,6"
   },
   {
     "City": "Orangeville",
@@ -2220,7 +2220,7 @@
     "CityID": 162,
     "lat": 45.3330674,
     "lng": -76.2903013,
-    "NearbyActive": "131,18,333,334"
+    "NearbyActive": "131,16,138,18"
   },
   {
     "City": "Parry Sound",
@@ -2259,7 +2259,7 @@
     "CityID": 166,
     "lat": 42.7845713,
     "lng": -80.2005169,
-    "NearbyActive": "23,146,39,144"
+    "NearbyActive": "23,146,39,47"
   },
   {
     "City": "Port Elgin",
@@ -2285,7 +2285,7 @@
     "CityID": 168,
     "lat": 46.0814468,
     "lng": -79.3611147,
-    "NearbyActive": 61145231334
+    "NearbyActive": 61145231229
   },
   {
     "City": "Renfrew",
@@ -2298,7 +2298,7 @@
     "CityID": 169,
     "lat": 45.4720417,
     "lng": -76.6838617,
-    "NearbyActive": "131,333,334,18"
+    "NearbyActive": "131,16,138,18"
   },
   {
     "City": "Smiths Falls",
@@ -2311,7 +2311,7 @@
     "CityID": 171,
     "lat": 44.9013316,
     "lng": -76.0212062,
-    "NearbyActive": 18131141333
+    "NearbyActive": "138,16,18,131"
   },
   {
     "City": "South River",
@@ -2327,7 +2327,7 @@
     "NearbyActive": "61,145,231,4"
   },
   {
-    "City": "Springwater/Minesing",
+    "City": "Springwater",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/springwater/",
     "Active": 0,
@@ -2350,7 +2350,7 @@
     "CityID": 174,
     "lat": 43.1579812,
     "lng": -79.2441003,
-    "NearbyActive": 144146170350
+    "NearbyActive": "144,146,47,170"
   },
   {
     "City": "St Thomas",
@@ -2402,7 +2402,7 @@
     "CityID": 179,
     "lat": 43.8161477,
     "lng": -79.4245925,
-    "NearbyActive": "41,65,7,57"
+    "NearbyActive": "30,41,7,57"
   },
   {
     "City": "Tillsonburg",
@@ -3000,7 +3000,7 @@
     "CityID": 228,
     "lat": 43.88,
     "lng": -79.44,
-    "NearbyActive": "41,7,65,57"
+    "NearbyActive": "41,7,30,57"
   },
   {
     "City": "Maple Ridge",
@@ -3013,6 +3013,6 @@
     "CityID": "N/A",
     "lat": 49.2197345,
     "lng": -122.599707,
-    "NearbyActive": "9,26,29,13"
+    "NearbyActive": "9,26,29,44"
   }
 ]
