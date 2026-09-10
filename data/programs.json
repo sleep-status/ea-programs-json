@@ -504,7 +504,7 @@
     "Province": "ON",
     "is_cancelled": false,
     "age": null,
-    "is_full": true,
+    "is_full": false,
     "level": "1",
     "MinAge": "16",
     "MaxAge": "99",
