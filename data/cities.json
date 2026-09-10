@@ -1,5 +1,18 @@
 [
   {
+    "City": "Aurora",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/aurora/",
+    "Active": 12,
+    "newsletter_shortcode": "32811",
+    "facebook_link": "https://www.facebook.com/groups/3971699213072295/",
+    "GPN": "N/A",
+    "CityID": 2,
+    "lat": 43.99973,
+    "lng": -79.467545,
+    "NearbyActive": "1,7,3,41"
+  },
+  {
     "City": "Newmarket",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/newmarket/",
@@ -778,19 +791,6 @@
     "lat": 50.6758269,
     "lng": -120.339415,
     "NearbyActive": "11,9,26,29"
-  },
-  {
-    "City": "Aurora",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/aurora/",
-    "Active": 0,
-    "newsletter_shortcode": "32811",
-    "facebook_link": "https://www.facebook.com/groups/3971699213072295/",
-    "GPN": "N/A",
-    "CityID": 2,
-    "lat": 43.99973,
-    "lng": -79.467545,
-    "NearbyActive": "1,7,3,41"
   },
   {
     "City": "Lanark County",
