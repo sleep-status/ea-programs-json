@@ -68,7 +68,7 @@
     "City": "King City",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/king-city/",
-    "Active": 7,
+    "Active": 6,
     "newsletter_shortcode": "N/A",
     "facebook_link": "https://www.facebook.com/groups/1682873145441067",
     "GPN": "N/A",
@@ -182,32 +182,6 @@
     "NearbyActive": "7,30,57,1"
   },
   {
-    "City": "Arnprior",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/arnprior/",
-    "Active": 4,
-    "newsletter_shortcode": "28965",
-    "facebook_link": "https://www.facebook.com/groups/1189266695781523/",
-    "GPN": "https://www.globalpickleball.network/network/register/5068-elevation-athletics-haliburton-highlands",
-    "CityID": 131,
-    "lat": 45.433515,
-    "lng": -76.3543692,
-    "NearbyActive": "16,138,18,229"
-  },
-  {
-    "City": "Lindsay",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/lindsay/",
-    "Active": 4,
-    "newsletter_shortcode": "29764",
-    "facebook_link": "https://www.facebook.com/groups/1202763951166310/?ref=share&mibextid=wwXIfr&rdid=lffBIzf7UdE36PEV&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F18ZiZe7e88%2F%3Fmibextid%3DwwXIfr#",
-    "GPN": "https://www.globalpickleball.network/network/register/5073-elevation-athletics-kawartha-region",
-    "CityID": 150,
-    "lat": 44.3551266,
-    "lng": -78.7369939,
-    "NearbyActive": "137,34,40,15"
-  },
-  {
     "City": "North Vancouver",
     "Province": "BC",
     "PageURL": "https://eapickleball.com/north-vancouver/",
@@ -219,6 +193,19 @@
     "lat": 49.3206294,
     "lng": -123.0737925,
     "NearbyActive": "9,26,25,44"
+  },
+  {
+    "City": "Lindsay",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/lindsay/",
+    "Active": 3,
+    "newsletter_shortcode": "29764",
+    "facebook_link": "https://www.facebook.com/groups/1202763951166310/?ref=share&mibextid=wwXIfr&rdid=lffBIzf7UdE36PEV&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F18ZiZe7e88%2F%3Fmibextid%3DwwXIfr#",
+    "GPN": "https://www.globalpickleball.network/network/register/5073-elevation-athletics-kawartha-region",
+    "CityID": 150,
+    "lat": 44.3551266,
+    "lng": -78.7369939,
+    "NearbyActive": "137,34,40,15"
   },
   {
     "City": "Port Perry",
@@ -299,10 +286,23 @@
     "NearbyActive": "25,26,29,9"
   },
   {
+    "City": "Arnprior",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/arnprior/",
+    "Active": 2,
+    "newsletter_shortcode": "28965",
+    "facebook_link": "https://www.facebook.com/groups/1189266695781523/",
+    "GPN": "https://www.globalpickleball.network/network/register/5068-elevation-athletics-haliburton-highlands",
+    "CityID": 131,
+    "lat": 45.433515,
+    "lng": -76.3543692,
+    "NearbyActive": "16,138,18,229"
+  },
+  {
     "City": "Guelph",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/guelph/",
-    "Active": 3,
+    "Active": 2,
     "newsletter_shortcode": "29020",
     "facebook_link": "https://www.facebook.com/groups/999621204906672/",
     "GPN": "https://www.globalpickleball.network/network/register/5072-elevation-athletics-huron-region",
@@ -401,19 +401,6 @@
     "lat": 45.0184417,
     "lng": -74.728703,
     "NearbyActive": "18,138,16,131"
-  },
-  {
-    "City": "Fonthill",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/fonthill/",
-    "Active": 2,
-    "newsletter_shortcode": "33642",
-    "facebook_link": "https://www.facebook.com/groups/439719328870765/?paipv=0&eav=AfY9UxF_9srE4SUwJ8striu13tMiNQ08EPCv8kI8GfU6jdRTfH2SUPhkyf80E0hVr8I&_rdr",
-    "GPN": "N/A",
-    "CityID": 144,
-    "lat": 43.0307817,
-    "lng": -79.2859628,
-    "NearbyActive": "47,170,146,30"
   },
   {
     "City": "Gravenhurst",
@@ -559,17 +546,17 @@
     "NearbyActive": "30,41,22,7"
   },
   {
-    "City": "Ridgeway",
+    "City": "Fonthill",
     "Province": "ON",
-    "PageURL": "https://eapickleball.com/ridgeway",
+    "PageURL": "https://eapickleball.com/fonthill/",
     "Active": 1,
-    "newsletter_shortcode": "33635",
-    "facebook_link": "N/A",
+    "newsletter_shortcode": "33642",
+    "facebook_link": "https://www.facebook.com/groups/439719328870765/?paipv=0&eav=AfY9UxF_9srE4SUwJ8striu13tMiNQ08EPCv8kI8GfU6jdRTfH2SUPhkyf80E0hVr8I&_rdr",
     "GPN": "N/A",
-    "CityID": 170,
-    "lat": 42.8820503,
-    "lng": -79.0490304,
-    "NearbyActive": "47,144,146,30"
+    "CityID": 144,
+    "lat": 43.0307817,
+    "lng": -79.2859628,
+    "NearbyActive": "47,170,146,30"
   },
   {
     "City": "Kitchener",
@@ -726,6 +713,19 @@
     "lat": 45.226049,
     "lng": -76.1945277,
     "NearbyActive": "138,131,18,141"
+  },
+  {
+    "City": "Ridgeway",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/ridgeway",
+    "Active": 0,
+    "newsletter_shortcode": "33635",
+    "facebook_link": "N/A",
+    "GPN": "N/A",
+    "CityID": 170,
+    "lat": 42.8820503,
+    "lng": -79.0490304,
+    "NearbyActive": "47,144,146,30"
   },
   {
     "City": "Vaughan",
