@@ -117,19 +117,6 @@
     "NearbyActive": "6,7,22,41"
   },
   {
-    "City": "Oshawa",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/oshawa/",
-    "Active": 5,
-    "newsletter_shortcode": "29186",
-    "facebook_link": "https://www.facebook.com/groups/1865183903999282/?ref=share&mibextid=K35XfP&rdid=TPV7MigOn3PQ4lRx&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2Fspu9Vp21iTD1ig7C%2F%3Fmibextid%3DK35XfP",
-    "GPN": "N/A",
-    "CityID": 5,
-    "lat": 43.8975558,
-    "lng": -78.8635324,
-    "NearbyActive": "59,17,24,164"
-  },
-  {
     "City": "East Gwillimbury",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/east-gwillimbury/",
@@ -154,6 +141,19 @@
     "lat": 43.87982,
     "lng": -78.9421751,
     "NearbyActive": "5,164,17,24"
+  },
+  {
+    "City": "Oshawa",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/oshawa/",
+    "Active": 4,
+    "newsletter_shortcode": "29186",
+    "facebook_link": "https://www.facebook.com/groups/1865183903999282/?ref=share&mibextid=K35XfP&rdid=TPV7MigOn3PQ4lRx&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2Fspu9Vp21iTD1ig7C%2F%3Fmibextid%3DK35XfP",
+    "GPN": "N/A",
+    "CityID": 5,
+    "lat": 43.8975558,
+    "lng": -78.8635324,
+    "NearbyActive": "59,17,24,164"
   },
   {
     "City": "Keswick",
@@ -193,19 +193,6 @@
     "lat": 49.3206294,
     "lng": -123.0737925,
     "NearbyActive": "9,26,25,44"
-  },
-  {
-    "City": "Lindsay",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/lindsay/",
-    "Active": 3,
-    "newsletter_shortcode": "29764",
-    "facebook_link": "https://www.facebook.com/groups/1202763951166310/?ref=share&mibextid=wwXIfr&rdid=lffBIzf7UdE36PEV&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F18ZiZe7e88%2F%3Fmibextid%3DwwXIfr#",
-    "GPN": "https://www.globalpickleball.network/network/register/5073-elevation-athletics-kawartha-region",
-    "CityID": 150,
-    "lat": 44.3551266,
-    "lng": -78.7369939,
-    "NearbyActive": "137,34,40,15"
   },
   {
     "City": "Port Perry",
@@ -257,7 +244,7 @@
     "CityID": 19,
     "lat": 53.9128645,
     "lng": -122.7453699,
-    "NearbyActive": "29,9,26,44"
+    "NearbyActive": "14,29,9,26"
   },
   {
     "City": "Lakefield",
@@ -284,6 +271,19 @@
     "lat": 48.4283182,
     "lng": -123.364953,
     "NearbyActive": "25,26,29,9"
+  },
+  {
+    "City": "Kamloops",
+    "Province": "BC",
+    "PageURL": "https://eapickleball.com/kamloops/",
+    "Active": 3,
+    "newsletter_shortcode": 45225,
+    "facebook_link": "https://www.facebook.com/groups/1820325298455996/?rdid=lBgosXX768WHiCsL&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2Fgtyxa57TdbLx49hJ%2F#",
+    "GPN": "N/A",
+    "CityID": 14,
+    "lat": 50.6758269,
+    "lng": -120.339415,
+    "NearbyActive": "44,9,26,29"
   },
   {
     "City": "Arnprior",
@@ -348,7 +348,7 @@
     "CityID": 146,
     "lat": 43.1931661,
     "lng": -79.560677,
-    "NearbyActive": "144,47,170,22"
+    "NearbyActive": "144,47,22,30"
   },
   {
     "City": "Surrey",
@@ -414,19 +414,6 @@
     "lat": 44.91741,
     "lng": -79.373131,
     "NearbyActive": "61,4,137,231"
-  },
-  {
-    "City": "Bancroft",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/bancroft/",
-    "Active": 2,
-    "newsletter_shortcode": "N/A",
-    "facebook_link": "N/A",
-    "GPN": "N/A",
-    "CityID": 229,
-    "lat": 45.0575,
-    "lng": -77.857,
-    "NearbyActive": "231,40,150,61"
   },
   {
     "City": "Cannington",
@@ -546,6 +533,32 @@
     "NearbyActive": "30,41,22,7"
   },
   {
+    "City": "Lindsay",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/lindsay/",
+    "Active": 1,
+    "newsletter_shortcode": "29764",
+    "facebook_link": "https://www.facebook.com/groups/1202763951166310/?ref=share&mibextid=wwXIfr&rdid=lffBIzf7UdE36PEV&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F18ZiZe7e88%2F%3Fmibextid%3DwwXIfr#",
+    "GPN": "https://www.globalpickleball.network/network/register/5073-elevation-athletics-kawartha-region",
+    "CityID": 150,
+    "lat": 44.3551266,
+    "lng": -78.7369939,
+    "NearbyActive": "137,34,40,15"
+  },
+  {
+    "City": "Bancroft",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/bancroft/",
+    "Active": 1,
+    "newsletter_shortcode": "N/A",
+    "facebook_link": "N/A",
+    "GPN": "N/A",
+    "CityID": 229,
+    "lat": 45.0575,
+    "lng": -77.857,
+    "NearbyActive": "231,40,150,61"
+  },
+  {
     "City": "Fonthill",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/fonthill/",
@@ -556,7 +569,7 @@
     "CityID": 144,
     "lat": 43.0307817,
     "lng": -79.2859628,
-    "NearbyActive": "47,170,146,30"
+    "NearbyActive": "47,146,30,22"
   },
   {
     "City": "Kitchener",
@@ -647,7 +660,7 @@
     "CityID": 47,
     "lat": 42.8862392,
     "lng": -79.2513905,
-    "NearbyActive": "144,170,146,30"
+    "NearbyActive": "144,146,30,22"
   },
   {
     "City": "Winnipeg",
@@ -713,6 +726,19 @@
     "lat": 45.226049,
     "lng": -76.1945277,
     "NearbyActive": "138,131,18,141"
+  },
+  {
+    "City": "Erin",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/erin/",
+    "Active": 1,
+    "newsletter_shortcode": "N/A",
+    "facebook_link": "N/A",
+    "GPN": "N/A",
+    "CityID": 499,
+    "lat": null,
+    "lng": null,
+    "NearbyActive": "141,18,138,16"
   },
   {
     "City": "Ridgeway",
@@ -790,20 +816,7 @@
     "CityID": 11,
     "lat": 50.2668671,
     "lng": -119.2718157,
-    "NearbyActive": "44,9,26,29"
-  },
-  {
-    "City": "Kamloops",
-    "Province": "BC",
-    "PageURL": "https://eapickleball.com/kamloops/",
-    "Active": 0,
-    "newsletter_shortcode": 45225,
-    "facebook_link": "https://www.facebook.com/groups/1820325298455996/?rdid=lBgosXX768WHiCsL&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2Fgtyxa57TdbLx49hJ%2F#",
-    "GPN": "N/A",
-    "CityID": 14,
-    "lat": 50.6758269,
-    "lng": -120.339415,
-    "NearbyActive": "44,9,26,29"
+    "NearbyActive": "14,44,9,26"
   },
   {
     "City": "Lanark County",
@@ -829,7 +842,7 @@
     "CityID": 12,
     "lat": 54.5172715,
     "lng": -128.599548,
-    "NearbyActive": "19,25,29,9"
+    "NearbyActive": "19,25,29,14"
   },
   {
     "City": "Wasaga Beach",
@@ -1141,7 +1154,7 @@
     "CityID": 63,
     "lat": 49.8879177,
     "lng": -119.495902,
-    "NearbyActive": "44,9,26,29"
+    "NearbyActive": "14,44,9,26"
   },
   {
     "City": "Chester",
@@ -2350,7 +2363,7 @@
     "CityID": 174,
     "lat": 43.1579812,
     "lng": -79.2441003,
-    "NearbyActive": "144,146,47,170"
+    "NearbyActive": "144,146,47,30"
   },
   {
     "City": "St Thomas",
