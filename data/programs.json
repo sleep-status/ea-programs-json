@@ -5656,7 +5656,7 @@
     "Province": "ON",
     "is_cancelled": false,
     "age": null,
-    "is_full": false,
+    "is_full": true,
     "level": "0",
     "MinAge": "18",
     "MaxAge": 99,
