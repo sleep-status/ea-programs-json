@@ -520,19 +520,6 @@
     "NearbyActive": "41,7,22,20"
   },
   {
-    "City": "Niagara",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/niagara/",
-    "Active": 2,
-    "newsletter_shortcode": "29771",
-    "facebook_link": "https://www.facebook.com/groups/439719328870765/?paipv=0&eav=AfY9UxF_9srE4SUwJ8striu13tMiNQ08EPCv8kI8GfU6jdRTfH2SUPhkyf80E0hVr8I&_rdr",
-    "GPN": "https://www.globalpickleball.network/network/register/5074-elevation-athletics-niagara-region",
-    "CityID": 155,
-    "lat": 43.6440753,
-    "lng": -79.4086982,
-    "NearbyActive": "30,41,22,7"
-  },
-  {
     "City": "Lindsay",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/lindsay/",
@@ -726,6 +713,19 @@
     "lat": 43.7729,
     "lng": -80.0644,
     "NearbyActive": "6,22,31,20"
+  },
+  {
+    "City": "Niagara",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/niagara/",
+    "Active": 0,
+    "newsletter_shortcode": "29771",
+    "facebook_link": "https://www.facebook.com/groups/439719328870765/?paipv=0&eav=AfY9UxF_9srE4SUwJ8striu13tMiNQ08EPCv8kI8GfU6jdRTfH2SUPhkyf80E0hVr8I&_rdr",
+    "GPN": "https://www.globalpickleball.network/network/register/5074-elevation-athletics-niagara-region",
+    "CityID": 155,
+    "lat": 43.6440753,
+    "lng": -79.4086982,
+    "NearbyActive": "30,41,22,7"
   },
   {
     "City": "Lloydminster",
