@@ -286,6 +286,19 @@
     "NearbyActive": "44,9,26,29"
   },
   {
+    "City": "Brock",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/brock/",
+    "Active": 2,
+    "newsletter_shortcode": "N/A",
+    "facebook_link": "N/A",
+    "GPN": "N/A",
+    "CityID": 555,
+    "lat": 44.3502068,
+    "lng": -79.038628,
+    "NearbyActive": "137,15,10,150"
+  },
+  {
     "City": "Arnprior",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/arnprior/",
@@ -426,7 +439,7 @@
     "CityID": 137,
     "lat": 44.3502068,
     "lng": -79.038628,
-    "NearbyActive": "150,230,15,34"
+    "NearbyActive": "150,555,15,34"
   },
   {
     "City": "Truro",
