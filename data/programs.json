@@ -1920,7 +1920,7 @@
     "ProgramID": "EA-PROGRAM-472"
   },
   {
-    "Title": "Carleton Place - LEVEL 1: Beginner Pickleball League",
+    "Title": "Carleton Place - LEVEL 3: Intermediate Pickleball League",
     "TotalPrice": 91,
     "Prorate": true,
     "StaticPriceText": null,
@@ -1944,8 +1944,8 @@
     "Province": "ON",
     "is_cancelled": false,
     "age": null,
-    "is_full": false,
-    "level": "1",
+    "is_full": true,
+    "level": "3",
     "MinAge": "16",
     "MaxAge": "99",
     "Trial": null,
