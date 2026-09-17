@@ -520,6 +520,19 @@
     "NearbyActive": "41,7,22,20"
   },
   {
+    "City": "Alliston",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/alliston/",
+    "Active": 2,
+    "newsletter_shortcode": "32083",
+    "facebook_link": "https://www.facebook.com/groups/215077781695667/?ref=share",
+    "GPN": "N/A",
+    "CityID": 37,
+    "lat": 44.1539369,
+    "lng": -79.8692321,
+    "NearbyActive": "64,3,20,10"
+  },
+  {
     "City": "Lindsay",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/lindsay/",
@@ -715,6 +728,19 @@
     "NearbyActive": "6,22,31,20"
   },
   {
+    "City": "Wasaga Beach",
+    "Province": "ON",
+    "PageURL": "https://eapickleball.com/wasaga-beach/",
+    "Active": 1,
+    "newsletter_shortcode": "29402",
+    "facebook_link": "https://www.facebook.com/groups/1991301251271076/?ref=share&mibextid=NSMWBT",
+    "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region",
+    "CityID": 21,
+    "lat": 44.5224813,
+    "lng": -80.0203156,
+    "NearbyActive": "4,10,64,3"
+  },
+  {
     "City": "Niagara",
     "Province": "ON",
     "PageURL": "https://eapickleball.com/niagara/",
@@ -845,19 +871,6 @@
     "NearbyActive": "19,25,29,14"
   },
   {
-    "City": "Wasaga Beach",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/wasaga-beach/",
-    "Active": 0,
-    "newsletter_shortcode": "29402",
-    "facebook_link": "https://www.facebook.com/groups/1991301251271076/?ref=share&mibextid=NSMWBT",
-    "GPN": "https://www.globalpickleball.network/network/register/5054-elevation-athletics-simcoe-region",
-    "CityID": 21,
-    "lat": 44.5224813,
-    "lng": -80.0203156,
-    "NearbyActive": "4,10,64,3"
-  },
-  {
     "City": "Squamish",
     "Province": "BC",
     "PageURL": "https://eapickleball.com/squamish/",
@@ -934,19 +947,6 @@
     "lat": 44.3048009,
     "lng": -78.3199496,
     "NearbyActive": "40,150,24,34"
-  },
-  {
-    "City": "Alliston",
-    "Province": "ON",
-    "PageURL": "https://eapickleball.com/alliston/",
-    "Active": 0,
-    "newsletter_shortcode": "32083",
-    "facebook_link": "https://www.facebook.com/groups/215077781695667/?ref=share",
-    "GPN": "N/A",
-    "CityID": 37,
-    "lat": 44.1539369,
-    "lng": -79.8692321,
-    "NearbyActive": "64,3,20,10"
   },
   {
     "City": "Stayner",
