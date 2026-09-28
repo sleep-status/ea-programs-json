@@ -2176,7 +2176,7 @@
     "ProgramID": null
   },
   {
-    "Title": "Cornwall - LEVEL 1: Pickleball League Beginner",
+    "Title": "Cornwall - LEVEL 1/2: Beginner/Experienced Beginner Pickleball League",
     "TotalPrice": 120,
     "Prorate": true,
     "StaticPriceText": null,
@@ -2201,7 +2201,7 @@
     "is_cancelled": false,
     "age": null,
     "is_full": true,
-    "level": "1",
+    "level": "2",
     "MinAge": "16",
     "MaxAge": "99",
     "Trial": null,
